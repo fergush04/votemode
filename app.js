@@ -804,19 +804,19 @@ function renderUnitPanel(unit, stateData) {
     </div>
 
     <div class="download-row">
-      <button class="dl-btn" id="dlCsvBtn">
+      <button class="dl-btn" id="dlBtn">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-        Download ${stateData.state_abbr} data (CSV)
+        Download ${stateData.state_abbr} data (CSV / JSON)
       </button>
-      <button class="dl-btn" id="dlJsonBtn">JSON</button>
     </div>
   `;
 
   const ab = stateData.state_abbr.toLowerCase();
-  document.getElementById('dlCsvBtn').addEventListener('click', () =>
-    downloadFile(`votemode_${ab}_2024.csv`, stateCSV(stateData), 'text/csv'));
-  document.getElementById('dlJsonBtn').addEventListener('click', () =>
-    downloadFile(`votemode_${ab}_2024.json`, JSON.stringify(stateData, null, 1), 'application/json'));
+  document.getElementById('dlBtn').addEventListener('click', () => {
+    downloadFile(`votemode_${ab}_2024.csv`, stateCSV(stateData), 'text/csv');
+    // Slight stagger so the browser treats both saves as one user action.
+    setTimeout(() => downloadFile(`votemode_${ab}_2024.json`, JSON.stringify(stateData, null, 1), 'application/json'), 350);
+  });
 
   setupNumberToggle();
 }
