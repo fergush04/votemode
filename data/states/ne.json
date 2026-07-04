@@ -1,0 +1,2717 @@
+{
+ "state": "Nebraska",
+ "state_abbr": "NE",
+ "unit_type": "county",
+ "avg_completeness": "U",
+ "completeness_breakdown": {
+  "C3": 35,
+  "C2": 20,
+  "U": 38
+ },
+ "votes_D": 369802,
+ "votes_R": 564256,
+ "votes_other": 14933,
+ "total_votes": 948991,
+ "pct_D": 39.0,
+ "pct_R": 59.5,
+ "unit_count": 93,
+ "state_profile": {
+  "voting_summary": "Nebraska splits between election day voting, no-excuse early/mail voting, and all-mail rural counties; about half of published results carry a method breakdown. Polls close at 9 p.m. Eastern (10 p.m. in the Panhandle); early and mail ballots are released first, then election day precincts report overnight, with the Omaha-based 2nd district's electoral vote the perennial focus. Early voting ran R+3 against R+39 on election day, so Nebraska's first numbers read much bluer than its finish.",
+  "reporting_notes": "",
+  "tags": [
+   "Early/mail voting",
+   "Blue mirage",
+   "Split electoral votes"
+  ],
+  "mode_split": {
+   "total": 45.1,
+   "election_day": 35.7,
+   "pre_election_day": 18.6,
+   "provisional": 0.5
+  }
+ },
+ "units": {
+  "31001": {
+   "name": "Adams",
+   "raw_name": "ADAMS",
+   "fips": "31001",
+   "is_mappable": true,
+   "votes_D": 4100,
+   "votes_R": 10077,
+   "votes_other": 235,
+   "total_votes": 14412,
+   "pct_D": 28.4,
+   "pct_R": 69.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 2129,
+     "votes_R": 7196,
+     "votes_other": 159
+    },
+    "pre_election_day": {
+     "votes_D": 1941,
+     "votes_R": 2786,
+     "votes_other": 76
+    },
+    "provisional": {
+     "votes_D": 30,
+     "votes_R": 95,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0033,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31003": {
+   "name": "Antelope",
+   "raw_name": "ANTELOPE",
+   "fips": "31003",
+   "is_mappable": true,
+   "votes_D": 396,
+   "votes_R": 3017,
+   "votes_other": 30,
+   "total_votes": 3443,
+   "pct_D": 11.5,
+   "pct_R": 87.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 277,
+     "votes_R": 2455,
+     "votes_other": 25
+    },
+    "pre_election_day": {
+     "votes_D": 119,
+     "votes_R": 562,
+     "votes_other": 5
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0012,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31005": {
+   "name": "Arthur",
+   "raw_name": "ARTHUR",
+   "fips": "31005",
+   "is_mappable": true,
+   "votes_D": 17,
+   "votes_R": 264,
+   "votes_other": 1,
+   "total_votes": 282,
+   "pct_D": 6.0,
+   "pct_R": 93.6,
+   "modes": {
+    "total": {
+     "votes_D": 17,
+     "votes_R": 264,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31007": {
+   "name": "Banner",
+   "raw_name": "BANNER",
+   "fips": "31007",
+   "is_mappable": true,
+   "votes_D": 34,
+   "votes_R": 348,
+   "votes_other": 4,
+   "total_votes": 386,
+   "pct_D": 8.8,
+   "pct_R": 90.2,
+   "modes": {
+    "total": {
+     "votes_D": 34,
+     "votes_R": 348,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31009": {
+   "name": "Blaine",
+   "raw_name": "BLAINE",
+   "fips": "31009",
+   "is_mappable": true,
+   "votes_D": 37,
+   "votes_R": 250,
+   "votes_other": 4,
+   "total_votes": 291,
+   "pct_D": 12.7,
+   "pct_R": 85.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 18,
+     "votes_R": 164,
+     "votes_other": 3
+    },
+    "pre_election_day": {
+     "votes_D": 19,
+     "votes_R": 86,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31011": {
+   "name": "Boone",
+   "raw_name": "BOONE",
+   "fips": "31011",
+   "is_mappable": true,
+   "votes_D": 496,
+   "votes_R": 2499,
+   "votes_other": 36,
+   "total_votes": 3031,
+   "pct_D": 16.4,
+   "pct_R": 82.4,
+   "modes": {
+    "total": {
+     "votes_D": 496,
+     "votes_R": 2499,
+     "votes_other": 36
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31013": {
+   "name": "Box Butte",
+   "raw_name": "BOX BUTTE",
+   "fips": "31013",
+   "is_mappable": true,
+   "votes_D": 1043,
+   "votes_R": 3827,
+   "votes_other": 61,
+   "total_votes": 4931,
+   "pct_D": 21.2,
+   "pct_R": 77.6,
+   "modes": {
+    "total": {
+     "votes_D": 1043,
+     "votes_R": 3827,
+     "votes_other": 61
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31015": {
+   "name": "Boyd",
+   "raw_name": "BOYD",
+   "fips": "31015",
+   "is_mappable": true,
+   "votes_D": 132,
+   "votes_R": 938,
+   "votes_other": 6,
+   "total_votes": 1076,
+   "pct_D": 12.3,
+   "pct_R": 87.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 85,
+     "votes_R": 784,
+     "votes_other": 6
+    },
+    "pre_election_day": {
+     "votes_D": 47,
+     "votes_R": 154,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0009,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31017": {
+   "name": "Brown",
+   "raw_name": "BROWN",
+   "fips": "31017",
+   "is_mappable": true,
+   "votes_D": 201,
+   "votes_R": 1428,
+   "votes_other": 13,
+   "total_votes": 1642,
+   "pct_D": 12.2,
+   "pct_R": 87.0,
+   "modes": {
+    "total": {
+     "votes_D": 201,
+     "votes_R": 1428,
+     "votes_other": 13
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31019": {
+   "name": "Buffalo",
+   "raw_name": "BUFFALO",
+   "fips": "31019",
+   "is_mappable": true,
+   "votes_D": 6386,
+   "votes_R": 17064,
+   "votes_other": 427,
+   "total_votes": 23877,
+   "pct_D": 26.7,
+   "pct_R": 71.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 3907,
+     "votes_R": 12417,
+     "votes_other": 321
+    },
+    "pre_election_day": {
+     "votes_D": 2424,
+     "votes_R": 4469,
+     "votes_other": 101
+    },
+    "provisional": {
+     "votes_D": 55,
+     "votes_R": 178,
+     "votes_other": 5
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.005,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31021": {
+   "name": "Burt",
+   "raw_name": "BURT",
+   "fips": "31021",
+   "is_mappable": true,
+   "votes_D": 983,
+   "votes_R": 2632,
+   "votes_other": 50,
+   "total_votes": 3665,
+   "pct_D": 26.8,
+   "pct_R": 71.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 705,
+     "votes_R": 2175,
+     "votes_other": 39
+    },
+    "pre_election_day": {
+     "votes_D": 277,
+     "votes_R": 443,
+     "votes_other": 11
+    },
+    "provisional": {
+     "votes_D": 1,
+     "votes_R": 14,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0025,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31023": {
+   "name": "Butler",
+   "raw_name": "BUTLER",
+   "fips": "31023",
+   "is_mappable": true,
+   "votes_D": 904,
+   "votes_R": 3623,
+   "votes_other": 59,
+   "total_votes": 4586,
+   "pct_D": 19.7,
+   "pct_R": 79.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 634,
+     "votes_R": 3049,
+     "votes_other": 46
+    },
+    "pre_election_day": {
+     "votes_D": 270,
+     "votes_R": 574,
+     "votes_other": 13
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0002,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31025": {
+   "name": "Cass",
+   "raw_name": "CASS",
+   "fips": "31025",
+   "is_mappable": true,
+   "votes_D": 4824,
+   "votes_R": 10685,
+   "votes_other": 321,
+   "total_votes": 15830,
+   "pct_D": 30.5,
+   "pct_R": 67.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 2821,
+     "votes_R": 7937,
+     "votes_other": 230
+    },
+    "pre_election_day": {
+     "votes_D": 1985,
+     "votes_R": 2684,
+     "votes_other": 91
+    },
+    "provisional": {
+     "votes_D": 18,
+     "votes_R": 64,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0048,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31027": {
+   "name": "Cedar",
+   "raw_name": "CEDAR",
+   "fips": "31027",
+   "is_mappable": true,
+   "votes_D": 702,
+   "votes_R": 4141,
+   "votes_other": 69,
+   "total_votes": 4912,
+   "pct_D": 14.3,
+   "pct_R": 84.3,
+   "modes": {
+    "total": {
+     "votes_D": 702,
+     "votes_R": 4141,
+     "votes_other": 69
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31029": {
+   "name": "Chase",
+   "raw_name": "CHASE",
+   "fips": "31029",
+   "is_mappable": true,
+   "votes_D": 204,
+   "votes_R": 1648,
+   "votes_other": 14,
+   "total_votes": 1866,
+   "pct_D": 10.9,
+   "pct_R": 88.3,
+   "modes": {
+    "total": {
+     "votes_D": 204,
+     "votes_R": 1648,
+     "votes_other": 14
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31031": {
+   "name": "Cherry",
+   "raw_name": "CHERRY",
+   "fips": "31031",
+   "is_mappable": true,
+   "votes_D": 349,
+   "votes_R": 2687,
+   "votes_other": 33,
+   "total_votes": 3069,
+   "pct_D": 11.4,
+   "pct_R": 87.6,
+   "modes": {
+    "total": {
+     "votes_D": 349,
+     "votes_R": 2687,
+     "votes_other": 33
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31033": {
+   "name": "Cheyenne",
+   "raw_name": "CHEYENNE",
+   "fips": "31033",
+   "is_mappable": true,
+   "votes_D": 787,
+   "votes_R": 3692,
+   "votes_other": 51,
+   "total_votes": 4530,
+   "pct_D": 17.4,
+   "pct_R": 81.5,
+   "modes": {
+    "total": {
+     "votes_D": 787,
+     "votes_R": 3692,
+     "votes_other": 51
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31035": {
+   "name": "Clay",
+   "raw_name": "CLAY",
+   "fips": "31035",
+   "is_mappable": true,
+   "votes_D": 577,
+   "votes_R": 2677,
+   "votes_other": 56,
+   "total_votes": 3310,
+   "pct_D": 17.4,
+   "pct_R": 80.9,
+   "modes": {
+    "total": {
+     "votes_D": 577,
+     "votes_R": 2677,
+     "votes_other": 56
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31037": {
+   "name": "Colfax",
+   "raw_name": "COLFAX",
+   "fips": "31037",
+   "is_mappable": true,
+   "votes_D": 842,
+   "votes_R": 2634,
+   "votes_other": 38,
+   "total_votes": 3514,
+   "pct_D": 24.0,
+   "pct_R": 75.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 604,
+     "votes_R": 2140,
+     "votes_other": 31
+    },
+    "pre_election_day": {
+     "votes_D": 238,
+     "votes_R": 494,
+     "votes_other": 7
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0006,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31039": {
+   "name": "Cuming",
+   "raw_name": "CUMING",
+   "fips": "31039",
+   "is_mappable": true,
+   "votes_D": 867,
+   "votes_R": 3536,
+   "votes_other": 42,
+   "total_votes": 4445,
+   "pct_D": 19.5,
+   "pct_R": 79.6,
+   "modes": {
+    "total": {
+     "votes_D": 867,
+     "votes_R": 3536,
+     "votes_other": 42
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31041": {
+   "name": "Custer",
+   "raw_name": "CUSTER",
+   "fips": "31041",
+   "is_mappable": true,
+   "votes_D": 783,
+   "votes_R": 4996,
+   "votes_other": 81,
+   "total_votes": 5860,
+   "pct_D": 13.4,
+   "pct_R": 85.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 491,
+     "votes_R": 4062,
+     "votes_other": 59
+    },
+    "pre_election_day": {
+     "votes_D": 292,
+     "votes_R": 934,
+     "votes_other": 22
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0044,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31043": {
+   "name": "Dakota",
+   "raw_name": "DAKOTA",
+   "fips": "31043",
+   "is_mappable": true,
+   "votes_D": 2105,
+   "votes_R": 3931,
+   "votes_other": 95,
+   "total_votes": 6131,
+   "pct_D": 34.3,
+   "pct_R": 64.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 1428,
+     "votes_R": 3014,
+     "votes_other": 75
+    },
+    "pre_election_day": {
+     "votes_D": 646,
+     "votes_R": 877,
+     "votes_other": 19
+    },
+    "provisional": {
+     "votes_D": 31,
+     "votes_R": 40,
+     "votes_other": 1
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0018,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31045": {
+   "name": "Dawes",
+   "raw_name": "DAWES",
+   "fips": "31045",
+   "is_mappable": true,
+   "votes_D": 992,
+   "votes_R": 2812,
+   "votes_other": 64,
+   "total_votes": 3868,
+   "pct_D": 25.6,
+   "pct_R": 72.7,
+   "modes": {
+    "total": {
+     "votes_D": 992,
+     "votes_R": 2812,
+     "votes_other": 64
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31047": {
+   "name": "Dawson",
+   "raw_name": "DAWSON",
+   "fips": "31047",
+   "is_mappable": true,
+   "votes_D": 2090,
+   "votes_R": 6258,
+   "votes_other": 109,
+   "total_votes": 8457,
+   "pct_D": 24.7,
+   "pct_R": 74.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 1461,
+     "votes_R": 5163,
+     "votes_other": 88
+    },
+    "pre_election_day": {
+     "votes_D": 629,
+     "votes_R": 1095,
+     "votes_other": 21
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.004,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31049": {
+   "name": "Deuel",
+   "raw_name": "DEUEL",
+   "fips": "31049",
+   "is_mappable": true,
+   "votes_D": 151,
+   "votes_R": 843,
+   "votes_other": 18,
+   "total_votes": 1012,
+   "pct_D": 14.9,
+   "pct_R": 83.3,
+   "modes": {
+    "total": {
+     "votes_D": 151,
+     "votes_R": 843,
+     "votes_other": 18
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31051": {
+   "name": "Dixon",
+   "raw_name": "DIXON",
+   "fips": "31051",
+   "is_mappable": true,
+   "votes_D": 573,
+   "votes_R": 2271,
+   "votes_other": 51,
+   "total_votes": 2895,
+   "pct_D": 19.8,
+   "pct_R": 78.4,
+   "modes": {
+    "total": {
+     "votes_D": 573,
+     "votes_R": 2271,
+     "votes_other": 51
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31053": {
+   "name": "Dodge",
+   "raw_name": "DODGE",
+   "fips": "31053",
+   "is_mappable": true,
+   "votes_D": 5434,
+   "votes_R": 10795,
+   "votes_other": 214,
+   "total_votes": 16443,
+   "pct_D": 33.0,
+   "pct_R": 65.7,
+   "modes": {
+    "total": {
+     "votes_D": 5434,
+     "votes_R": 10795,
+     "votes_other": 214
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31055": {
+   "name": "Douglas",
+   "raw_name": "DOUGLAS",
+   "fips": "31055",
+   "is_mappable": true,
+   "votes_D": 148733,
+   "votes_R": 120919,
+   "votes_other": 3751,
+   "total_votes": 273403,
+   "pct_D": 54.4,
+   "pct_R": 44.2,
+   "modes": {
+    "total": {
+     "votes_D": 148733,
+     "votes_R": 120919,
+     "votes_other": 3751
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31057": {
+   "name": "Dundy",
+   "raw_name": "DUNDY",
+   "fips": "31057",
+   "is_mappable": true,
+   "votes_D": 96,
+   "votes_R": 828,
+   "votes_other": 6,
+   "total_votes": 930,
+   "pct_D": 10.3,
+   "pct_R": 89.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 66,
+     "votes_R": 650,
+     "votes_other": 3
+    },
+    "pre_election_day": {
+     "votes_D": 30,
+     "votes_R": 178,
+     "votes_other": 3
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0011,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31059": {
+   "name": "Fillmore",
+   "raw_name": "FILLMORE",
+   "fips": "31059",
+   "is_mappable": true,
+   "votes_D": 658,
+   "votes_R": 2292,
+   "votes_other": 47,
+   "total_votes": 2997,
+   "pct_D": 22.0,
+   "pct_R": 76.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 403,
+     "votes_R": 1826,
+     "votes_other": 30
+    },
+    "pre_election_day": {
+     "votes_D": 255,
+     "votes_R": 466,
+     "votes_other": 17
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0053,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31061": {
+   "name": "Franklin",
+   "raw_name": "FRANKLIN",
+   "fips": "31061",
+   "is_mappable": true,
+   "votes_D": 236,
+   "votes_R": 1351,
+   "votes_other": 13,
+   "total_votes": 1600,
+   "pct_D": 14.8,
+   "pct_R": 84.4,
+   "modes": {
+    "total": {
+     "votes_D": 236,
+     "votes_R": 1351,
+     "votes_other": 13
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31063": {
+   "name": "Frontier",
+   "raw_name": "FRONTIER",
+   "fips": "31063",
+   "is_mappable": true,
+   "votes_D": 185,
+   "votes_R": 1213,
+   "votes_other": 12,
+   "total_votes": 1410,
+   "pct_D": 13.1,
+   "pct_R": 86.0,
+   "modes": {
+    "total": {
+     "votes_D": 185,
+     "votes_R": 1213,
+     "votes_other": 12
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31065": {
+   "name": "Furnas",
+   "raw_name": "FURNAS",
+   "fips": "31065",
+   "is_mappable": true,
+   "votes_D": 358,
+   "votes_R": 2043,
+   "votes_other": 12,
+   "total_votes": 2413,
+   "pct_D": 14.8,
+   "pct_R": 84.7,
+   "modes": {
+    "total": {
+     "votes_D": 358,
+     "votes_R": 2043,
+     "votes_other": 12
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31067": {
+   "name": "Gage",
+   "raw_name": "GAGE",
+   "fips": "31067",
+   "is_mappable": true,
+   "votes_D": 3232,
+   "votes_R": 7488,
+   "votes_other": 198,
+   "total_votes": 10918,
+   "pct_D": 29.6,
+   "pct_R": 68.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 1170,
+     "votes_R": 4536,
+     "votes_other": 84
+    },
+    "pre_election_day": {
+     "votes_D": 2062,
+     "votes_R": 2952,
+     "votes_other": 114
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0002,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31069": {
+   "name": "Garden",
+   "raw_name": "GARDEN",
+   "fips": "31069",
+   "is_mappable": true,
+   "votes_D": 162,
+   "votes_R": 949,
+   "votes_other": 6,
+   "total_votes": 1117,
+   "pct_D": 14.5,
+   "pct_R": 85.0,
+   "modes": {
+    "total": {
+     "votes_D": 162,
+     "votes_R": 949,
+     "votes_other": 6
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31071": {
+   "name": "Garfield",
+   "raw_name": "GARFIELD",
+   "fips": "31071",
+   "is_mappable": true,
+   "votes_D": 115,
+   "votes_R": 891,
+   "votes_other": 8,
+   "total_votes": 1014,
+   "pct_D": 11.3,
+   "pct_R": 87.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 78,
+     "votes_R": 699,
+     "votes_other": 7
+    },
+    "pre_election_day": {
+     "votes_D": 37,
+     "votes_R": 192,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.001,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31073": {
+   "name": "Gosper",
+   "raw_name": "GOSPER",
+   "fips": "31073",
+   "is_mappable": true,
+   "votes_D": 203,
+   "votes_R": 904,
+   "votes_other": 13,
+   "total_votes": 1120,
+   "pct_D": 18.1,
+   "pct_R": 80.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 92,
+     "votes_R": 643,
+     "votes_other": 7
+    },
+    "pre_election_day": {
+     "votes_D": 111,
+     "votes_R": 261,
+     "votes_other": 6
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0018,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31075": {
+   "name": "Grant",
+   "raw_name": "GRANT",
+   "fips": "31075",
+   "is_mappable": true,
+   "votes_D": 15,
+   "votes_R": 351,
+   "votes_other": 0,
+   "total_votes": 366,
+   "pct_D": 4.1,
+   "pct_R": 95.9,
+   "modes": {
+    "total": {
+     "votes_D": 15,
+     "votes_R": 351,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31077": {
+   "name": "Greeley",
+   "raw_name": "GREELEY",
+   "fips": "31077",
+   "is_mappable": true,
+   "votes_D": 192,
+   "votes_R": 1030,
+   "votes_other": 13,
+   "total_votes": 1235,
+   "pct_D": 15.5,
+   "pct_R": 83.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 154,
+     "votes_R": 876,
+     "votes_other": 11
+    },
+    "pre_election_day": {
+     "votes_D": 38,
+     "votes_R": 154,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31079": {
+   "name": "Hall",
+   "raw_name": "HALL",
+   "fips": "31079",
+   "is_mappable": true,
+   "votes_D": 6956,
+   "votes_R": 15566,
+   "votes_other": 282,
+   "total_votes": 22804,
+   "pct_D": 30.5,
+   "pct_R": 68.3,
+   "modes": {
+    "total": {
+     "votes_D": 6956,
+     "votes_R": 15566,
+     "votes_other": 282
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31081": {
+   "name": "Hamilton",
+   "raw_name": "HAMILTON",
+   "fips": "31081",
+   "is_mappable": true,
+   "votes_D": 1065,
+   "votes_R": 4391,
+   "votes_other": 39,
+   "total_votes": 5495,
+   "pct_D": 19.4,
+   "pct_R": 79.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 396,
+     "votes_R": 1755,
+     "votes_other": 35
+    },
+    "pre_election_day": {
+     "votes_D": 669,
+     "votes_R": 2636,
+     "votes_other": 4
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0094,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31083": {
+   "name": "Harlan",
+   "raw_name": "HARLAN",
+   "fips": "31083",
+   "is_mappable": true,
+   "votes_D": 280,
+   "votes_R": 1506,
+   "votes_other": 16,
+   "total_votes": 1802,
+   "pct_D": 15.5,
+   "pct_R": 83.6,
+   "modes": {
+    "total": {
+     "votes_D": 280,
+     "votes_R": 1506,
+     "votes_other": 16
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31085": {
+   "name": "Hayes",
+   "raw_name": "HAYES",
+   "fips": "31085",
+   "is_mappable": true,
+   "votes_D": 19,
+   "votes_R": 471,
+   "votes_other": 3,
+   "total_votes": 493,
+   "pct_D": 3.9,
+   "pct_R": 95.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 9,
+     "votes_R": 324,
+     "votes_other": 3
+    },
+    "pre_election_day": {
+     "votes_D": 10,
+     "votes_R": 147,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.002,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31087": {
+   "name": "Hitchcock",
+   "raw_name": "HITCHCOCK",
+   "fips": "31087",
+   "is_mappable": true,
+   "votes_D": 152,
+   "votes_R": 1264,
+   "votes_other": 18,
+   "total_votes": 1434,
+   "pct_D": 10.6,
+   "pct_R": 88.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 97,
+     "votes_R": 965,
+     "votes_other": 14
+    },
+    "pre_election_day": {
+     "votes_D": 55,
+     "votes_R": 299,
+     "votes_other": 4
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0007,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31089": {
+   "name": "Holt",
+   "raw_name": "HOLT",
+   "fips": "31089",
+   "is_mappable": true,
+   "votes_D": 676,
+   "votes_R": 4670,
+   "votes_other": 69,
+   "total_votes": 5415,
+   "pct_D": 12.5,
+   "pct_R": 86.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 405,
+     "votes_R": 3576,
+     "votes_other": 51
+    },
+    "pre_election_day": {
+     "votes_D": 271,
+     "votes_R": 1094,
+     "votes_other": 18
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.005,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31091": {
+   "name": "Hooker",
+   "raw_name": "HOOKER",
+   "fips": "31091",
+   "is_mappable": true,
+   "votes_D": 55,
+   "votes_R": 369,
+   "votes_other": 3,
+   "total_votes": 427,
+   "pct_D": 12.9,
+   "pct_R": 86.4,
+   "modes": {
+    "total": {
+     "votes_D": 55,
+     "votes_R": 369,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31093": {
+   "name": "Howard",
+   "raw_name": "HOWARD",
+   "fips": "31093",
+   "is_mappable": true,
+   "votes_D": 642,
+   "votes_R": 2868,
+   "votes_other": 56,
+   "total_votes": 3566,
+   "pct_D": 18.0,
+   "pct_R": 80.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 392,
+     "votes_R": 2170,
+     "votes_other": 44
+    },
+    "pre_election_day": {
+     "votes_D": 250,
+     "votes_R": 698,
+     "votes_other": 12
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0045,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31095": {
+   "name": "Jefferson",
+   "raw_name": "JEFFERSON",
+   "fips": "31095",
+   "is_mappable": true,
+   "votes_D": 965,
+   "votes_R": 2594,
+   "votes_other": 57,
+   "total_votes": 3616,
+   "pct_D": 26.7,
+   "pct_R": 71.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 708,
+     "votes_R": 2129,
+     "votes_other": 47
+    },
+    "pre_election_day": {
+     "votes_D": 257,
+     "votes_R": 465,
+     "votes_other": 10
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0041,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31097": {
+   "name": "Johnson",
+   "raw_name": "JOHNSON",
+   "fips": "31097",
+   "is_mappable": true,
+   "votes_D": 625,
+   "votes_R": 1494,
+   "votes_other": 42,
+   "total_votes": 2161,
+   "pct_D": 28.9,
+   "pct_R": 69.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 450,
+     "votes_R": 1271,
+     "votes_other": 32
+    },
+    "pre_election_day": {
+     "votes_D": 175,
+     "votes_R": 223,
+     "votes_other": 10
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0042,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31099": {
+   "name": "Kearney",
+   "raw_name": "KEARNEY",
+   "fips": "31099",
+   "is_mappable": true,
+   "votes_D": 734,
+   "votes_R": 2820,
+   "votes_other": 51,
+   "total_votes": 3605,
+   "pct_D": 20.4,
+   "pct_R": 78.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 474,
+     "votes_R": 2339,
+     "votes_other": 42
+    },
+    "pre_election_day": {
+     "votes_D": 260,
+     "votes_R": 481,
+     "votes_other": 9
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0003,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31101": {
+   "name": "Keith",
+   "raw_name": "KEITH",
+   "fips": "31101",
+   "is_mappable": true,
+   "votes_D": 731,
+   "votes_R": 3416,
+   "votes_other": 62,
+   "total_votes": 4209,
+   "pct_D": 17.4,
+   "pct_R": 81.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 439,
+     "votes_R": 2509,
+     "votes_other": 40
+    },
+    "pre_election_day": {
+     "votes_D": 283,
+     "votes_R": 879,
+     "votes_other": 22
+    },
+    "provisional": {
+     "votes_D": 9,
+     "votes_R": 28,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0024,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31103": {
+   "name": "Keya Paha",
+   "raw_name": "KEYA PAHA",
+   "fips": "31103",
+   "is_mappable": true,
+   "votes_D": 44,
+   "votes_R": 500,
+   "votes_other": 0,
+   "total_votes": 544,
+   "pct_D": 8.1,
+   "pct_R": 91.9,
+   "modes": {
+    "total": {
+     "votes_D": 44,
+     "votes_R": 500,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31105": {
+   "name": "Kimball",
+   "raw_name": "KIMBALL",
+   "fips": "31105",
+   "is_mappable": true,
+   "votes_D": 271,
+   "votes_R": 1410,
+   "votes_other": 26,
+   "total_votes": 1707,
+   "pct_D": 15.9,
+   "pct_R": 82.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 167,
+     "votes_R": 986,
+     "votes_other": 18
+    },
+    "pre_election_day": {
+     "votes_D": 104,
+     "votes_R": 424,
+     "votes_other": 8
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0076,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31107": {
+   "name": "Knox",
+   "raw_name": "KNOX",
+   "fips": "31107",
+   "is_mappable": true,
+   "votes_D": 786,
+   "votes_R": 3593,
+   "votes_other": 57,
+   "total_votes": 4436,
+   "pct_D": 17.7,
+   "pct_R": 81.0,
+   "modes": {
+    "total": {
+     "votes_D": 786,
+     "votes_R": 3593,
+     "votes_other": 57
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31109": {
+   "name": "Lancaster",
+   "raw_name": "LANCASTER",
+   "fips": "31109",
+   "is_mappable": true,
+   "votes_D": 81012,
+   "votes_R": 74215,
+   "votes_other": 3507,
+   "total_votes": 158734,
+   "pct_D": 51.0,
+   "pct_R": 46.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 40724,
+     "votes_R": 51059,
+     "votes_other": 2262
+    },
+    "pre_election_day": {
+     "votes_D": 38762,
+     "votes_R": 21754,
+     "votes_other": 1162
+    },
+    "provisional": {
+     "votes_D": 1526,
+     "votes_R": 1402,
+     "votes_other": 83
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.007,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31111": {
+   "name": "Lincoln",
+   "raw_name": "LINCOLN",
+   "fips": "31111",
+   "is_mappable": true,
+   "votes_D": 3586,
+   "votes_R": 12674,
+   "votes_other": 270,
+   "total_votes": 16530,
+   "pct_D": 21.7,
+   "pct_R": 76.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1695,
+     "votes_R": 8462,
+     "votes_other": 174
+    },
+    "pre_election_day": {
+     "votes_D": 1854,
+     "votes_R": 4056,
+     "votes_other": 91
+    },
+    "provisional": {
+     "votes_D": 37,
+     "votes_R": 156,
+     "votes_other": 5
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.004,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31113": {
+   "name": "Logan",
+   "raw_name": "LOGAN",
+   "fips": "31113",
+   "is_mappable": true,
+   "votes_D": 25,
+   "votes_R": 408,
+   "votes_other": 8,
+   "total_votes": 441,
+   "pct_D": 5.7,
+   "pct_R": 92.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 16,
+     "votes_R": 332,
+     "votes_other": 6
+    },
+    "pre_election_day": {
+     "votes_D": 9,
+     "votes_R": 76,
+     "votes_other": 2
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0023,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31115": {
+   "name": "Loup",
+   "raw_name": "LOUP",
+   "fips": "31115",
+   "is_mappable": true,
+   "votes_D": 73,
+   "votes_R": 354,
+   "votes_other": 1,
+   "total_votes": 428,
+   "pct_D": 17.1,
+   "pct_R": 82.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 39,
+     "votes_R": 270,
+     "votes_other": 1
+    },
+    "pre_election_day": {
+     "votes_D": 34,
+     "votes_R": 84,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31119": {
+   "name": "Madison",
+   "raw_name": "MADISON",
+   "fips": "31119",
+   "is_mappable": true,
+   "votes_D": 3301,
+   "votes_R": 11970,
+   "votes_other": 231,
+   "total_votes": 15502,
+   "pct_D": 21.3,
+   "pct_R": 77.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 1974,
+     "votes_R": 9151,
+     "votes_other": 170
+    },
+    "pre_election_day": {
+     "votes_D": 1327,
+     "votes_R": 2819,
+     "votes_other": 61
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.012,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31117": {
+   "name": "McPherson",
+   "raw_name": "MCPHERSON",
+   "fips": "31117",
+   "is_mappable": true,
+   "votes_D": 12,
+   "votes_R": 267,
+   "votes_other": 5,
+   "total_votes": 284,
+   "pct_D": 4.2,
+   "pct_R": 94.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 6,
+     "votes_R": 191,
+     "votes_other": 4
+    },
+    "pre_election_day": {
+     "votes_D": 6,
+     "votes_R": 76,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0035,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31121": {
+   "name": "Merrick",
+   "raw_name": "MERRICK",
+   "fips": "31121",
+   "is_mappable": true,
+   "votes_D": 730,
+   "votes_R": 3551,
+   "votes_other": 61,
+   "total_votes": 4342,
+   "pct_D": 16.8,
+   "pct_R": 81.8,
+   "modes": {
+    "total": {
+     "votes_D": 730,
+     "votes_R": 3551,
+     "votes_other": 61
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31123": {
+   "name": "Morrill",
+   "raw_name": "MORRILL",
+   "fips": "31123",
+   "is_mappable": true,
+   "votes_D": 366,
+   "votes_R": 2026,
+   "votes_other": 34,
+   "total_votes": 2426,
+   "pct_D": 15.1,
+   "pct_R": 83.5,
+   "modes": {
+    "total": {
+     "votes_D": 366,
+     "votes_R": 2026,
+     "votes_other": 34
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31125": {
+   "name": "Nance",
+   "raw_name": "NANCE",
+   "fips": "31125",
+   "is_mappable": true,
+   "votes_D": 352,
+   "votes_R": 1462,
+   "votes_other": 30,
+   "total_votes": 1844,
+   "pct_D": 19.1,
+   "pct_R": 79.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 185,
+     "votes_R": 990,
+     "votes_other": 14
+    },
+    "pre_election_day": {
+     "votes_D": 166,
+     "votes_R": 466,
+     "votes_other": 16
+    },
+    "provisional": {
+     "votes_D": 1,
+     "votes_R": 6,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0038,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31127": {
+   "name": "Nemaha",
+   "raw_name": "NEMAHA",
+   "fips": "31127",
+   "is_mappable": true,
+   "votes_D": 907,
+   "votes_R": 2422,
+   "votes_other": 81,
+   "total_votes": 3410,
+   "pct_D": 26.6,
+   "pct_R": 71.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 538,
+     "votes_R": 1859,
+     "votes_other": 61
+    },
+    "pre_election_day": {
+     "votes_D": 369,
+     "votes_R": 563,
+     "votes_other": 20
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0023,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31129": {
+   "name": "Nuckolls",
+   "raw_name": "NUCKOLLS",
+   "fips": "31129",
+   "is_mappable": true,
+   "votes_D": 399,
+   "votes_R": 1836,
+   "votes_other": 27,
+   "total_votes": 2262,
+   "pct_D": 17.6,
+   "pct_R": 81.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 249,
+     "votes_R": 1555,
+     "votes_other": 22
+    },
+    "pre_election_day": {
+     "votes_D": 150,
+     "votes_R": 277,
+     "votes_other": 5
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 4,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0018,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31131": {
+   "name": "Otoe",
+   "raw_name": "OTOE",
+   "fips": "31131",
+   "is_mappable": true,
+   "votes_D": 2463,
+   "votes_R": 5651,
+   "votes_other": 113,
+   "total_votes": 8227,
+   "pct_D": 29.9,
+   "pct_R": 68.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1573,
+     "votes_R": 4346,
+     "votes_other": 92
+    },
+    "pre_election_day": {
+     "votes_D": 881,
+     "votes_R": 1282,
+     "votes_other": 19
+    },
+    "provisional": {
+     "votes_D": 9,
+     "votes_R": 23,
+     "votes_other": 2
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0035,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31133": {
+   "name": "Pawnee",
+   "raw_name": "PAWNEE",
+   "fips": "31133",
+   "is_mappable": true,
+   "votes_D": 284,
+   "votes_R": 1085,
+   "votes_other": 16,
+   "total_votes": 1385,
+   "pct_D": 20.5,
+   "pct_R": 78.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 189,
+     "votes_R": 896,
+     "votes_other": 13
+    },
+    "pre_election_day": {
+     "votes_D": 95,
+     "votes_R": 189,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0044,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31135": {
+   "name": "Perkins",
+   "raw_name": "PERKINS",
+   "fips": "31135",
+   "is_mappable": true,
+   "votes_D": 187,
+   "votes_R": 1223,
+   "votes_other": 21,
+   "total_votes": 1431,
+   "pct_D": 13.1,
+   "pct_R": 85.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 66,
+     "votes_R": 708,
+     "votes_other": 11
+    },
+    "pre_election_day": {
+     "votes_D": 121,
+     "votes_R": 515,
+     "votes_other": 10
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0035,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31137": {
+   "name": "Phelps",
+   "raw_name": "PHELPS",
+   "fips": "31137",
+   "is_mappable": true,
+   "votes_D": 756,
+   "votes_R": 4144,
+   "votes_other": 70,
+   "total_votes": 4970,
+   "pct_D": 15.2,
+   "pct_R": 83.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 357,
+     "votes_R": 2353,
+     "votes_other": 37
+    },
+    "pre_election_day": {
+     "votes_D": 399,
+     "votes_R": 1791,
+     "votes_other": 33
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.001,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31139": {
+   "name": "Pierce",
+   "raw_name": "PIERCE",
+   "fips": "31139",
+   "is_mappable": true,
+   "votes_D": 446,
+   "votes_R": 3420,
+   "votes_other": 44,
+   "total_votes": 3910,
+   "pct_D": 11.4,
+   "pct_R": 87.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 297,
+     "votes_R": 2783,
+     "votes_other": 30
+    },
+    "pre_election_day": {
+     "votes_D": 149,
+     "votes_R": 634,
+     "votes_other": 14
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0033,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31141": {
+   "name": "Platte",
+   "raw_name": "PLATTE",
+   "fips": "31141",
+   "is_mappable": true,
+   "votes_D": 3191,
+   "votes_R": 12326,
+   "votes_other": 141,
+   "total_votes": 15658,
+   "pct_D": 20.4,
+   "pct_R": 78.7,
+   "modes": {
+    "total": {
+     "votes_D": 3191,
+     "votes_R": 12326,
+     "votes_other": 141
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31143": {
+   "name": "Polk",
+   "raw_name": "POLK",
+   "fips": "31143",
+   "is_mappable": true,
+   "votes_D": 499,
+   "votes_R": 2286,
+   "votes_other": 32,
+   "total_votes": 2817,
+   "pct_D": 17.7,
+   "pct_R": 81.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 304,
+     "votes_R": 1809,
+     "votes_other": 26
+    },
+    "pre_election_day": {
+     "votes_D": 195,
+     "votes_R": 477,
+     "votes_other": 6
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0007,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31145": {
+   "name": "Red Willow",
+   "raw_name": "RED WILLOW",
+   "fips": "31145",
+   "is_mappable": true,
+   "votes_D": 815,
+   "votes_R": 4457,
+   "votes_other": 67,
+   "total_votes": 5339,
+   "pct_D": 15.3,
+   "pct_R": 83.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 446,
+     "votes_R": 3094,
+     "votes_other": 51
+    },
+    "pre_election_day": {
+     "votes_D": 360,
+     "votes_R": 1325,
+     "votes_other": 15
+    },
+    "provisional": {
+     "votes_D": 9,
+     "votes_R": 38,
+     "votes_other": 1
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.003,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31147": {
+   "name": "Richardson",
+   "raw_name": "RICHARDSON",
+   "fips": "31147",
+   "is_mappable": true,
+   "votes_D": 934,
+   "votes_R": 2962,
+   "votes_other": 66,
+   "total_votes": 3962,
+   "pct_D": 23.6,
+   "pct_R": 74.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 626,
+     "votes_R": 2349,
+     "votes_other": 57
+    },
+    "pre_election_day": {
+     "votes_D": 304,
+     "votes_R": 591,
+     "votes_other": 8
+    },
+    "provisional": {
+     "votes_D": 4,
+     "votes_R": 22,
+     "votes_other": 1
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0051,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31149": {
+   "name": "Rock",
+   "raw_name": "ROCK",
+   "fips": "31149",
+   "is_mappable": true,
+   "votes_D": 85,
+   "votes_R": 745,
+   "votes_other": 4,
+   "total_votes": 834,
+   "pct_D": 10.2,
+   "pct_R": 89.3,
+   "modes": {
+    "total": {
+     "votes_D": 85,
+     "votes_R": 745,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31151": {
+   "name": "Saline",
+   "raw_name": "SALINE",
+   "fips": "31151",
+   "is_mappable": true,
+   "votes_D": 1845,
+   "votes_R": 3719,
+   "votes_other": 82,
+   "total_votes": 5646,
+   "pct_D": 32.7,
+   "pct_R": 65.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 1321,
+     "votes_R": 3189,
+     "votes_other": 77
+    },
+    "pre_election_day": {
+     "votes_D": 524,
+     "votes_R": 530,
+     "votes_other": 5
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0016,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31153": {
+   "name": "Sarpy",
+   "raw_name": "SARPY",
+   "fips": "31153",
+   "is_mappable": true,
+   "votes_D": 43825,
+   "votes_R": 55567,
+   "votes_other": 1907,
+   "total_votes": 101299,
+   "pct_D": 43.3,
+   "pct_R": 54.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 22930,
+     "votes_R": 37486,
+     "votes_other": 1332
+    },
+    "pre_election_day": {
+     "votes_D": 20573,
+     "votes_R": 17662,
+     "votes_other": 558
+    },
+    "provisional": {
+     "votes_D": 322,
+     "votes_R": 419,
+     "votes_other": 17
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0056,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31155": {
+   "name": "Saunders",
+   "raw_name": "SAUNDERS",
+   "fips": "31155",
+   "is_mappable": true,
+   "votes_D": 3558,
+   "votes_R": 9854,
+   "votes_other": 210,
+   "total_votes": 13622,
+   "pct_D": 26.1,
+   "pct_R": 72.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 2201,
+     "votes_R": 7760,
+     "votes_other": 159
+    },
+    "pre_election_day": {
+     "votes_D": 1349,
+     "votes_R": 2050,
+     "votes_other": 51
+    },
+    "provisional": {
+     "votes_D": 8,
+     "votes_R": 44,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0042,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31157": {
+   "name": "Scotts Bluff",
+   "raw_name": "SCOTTS BLUFF",
+   "fips": "31157",
+   "is_mappable": true,
+   "votes_D": 3856,
+   "votes_R": 11035,
+   "votes_other": 206,
+   "total_votes": 15097,
+   "pct_D": 25.5,
+   "pct_R": 73.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 2149,
+     "votes_R": 7375,
+     "votes_other": 149
+    },
+    "pre_election_day": {
+     "votes_D": 1666,
+     "votes_R": 3531,
+     "votes_other": 53
+    },
+    "provisional": {
+     "votes_D": 41,
+     "votes_R": 129,
+     "votes_other": 4
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0038,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31159": {
+   "name": "Seward",
+   "raw_name": "SEWARD",
+   "fips": "31159",
+   "is_mappable": true,
+   "votes_D": 2388,
+   "votes_R": 6667,
+   "votes_other": 129,
+   "total_votes": 9184,
+   "pct_D": 26.0,
+   "pct_R": 72.6,
+   "modes": {
+    "total": {
+     "votes_D": 2388,
+     "votes_R": 6667,
+     "votes_other": 129
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31161": {
+   "name": "Sheridan",
+   "raw_name": "SHERIDAN",
+   "fips": "31161",
+   "is_mappable": true,
+   "votes_D": 362,
+   "votes_R": 2102,
+   "votes_other": 20,
+   "total_votes": 2484,
+   "pct_D": 14.6,
+   "pct_R": 84.6,
+   "modes": {
+    "total": {
+     "votes_D": 362,
+     "votes_R": 2102,
+     "votes_other": 20
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31163": {
+   "name": "Sherman",
+   "raw_name": "SHERMAN",
+   "fips": "31163",
+   "is_mappable": true,
+   "votes_D": 328,
+   "votes_R": 1344,
+   "votes_other": 20,
+   "total_votes": 1692,
+   "pct_D": 19.4,
+   "pct_R": 79.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 230,
+     "votes_R": 1077,
+     "votes_other": 16
+    },
+    "pre_election_day": {
+     "votes_D": 98,
+     "votes_R": 260,
+     "votes_other": 4
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 7,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.003,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31165": {
+   "name": "Sioux",
+   "raw_name": "SIOUX",
+   "fips": "31165",
+   "is_mappable": true,
+   "votes_D": 76,
+   "votes_R": 596,
+   "votes_other": 6,
+   "total_votes": 678,
+   "pct_D": 11.2,
+   "pct_R": 87.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 61,
+     "votes_R": 501,
+     "votes_other": 4
+    },
+    "pre_election_day": {
+     "votes_D": 15,
+     "votes_R": 95,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31167": {
+   "name": "Stanton",
+   "raw_name": "STANTON",
+   "fips": "31167",
+   "is_mappable": true,
+   "votes_D": 492,
+   "votes_R": 2536,
+   "votes_other": 36,
+   "total_votes": 3064,
+   "pct_D": 16.1,
+   "pct_R": 82.8,
+   "modes": {
+    "total": {
+     "votes_D": 492,
+     "votes_R": 2536,
+     "votes_other": 36
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31169": {
+   "name": "Thayer",
+   "raw_name": "THAYER",
+   "fips": "31169",
+   "is_mappable": true,
+   "votes_D": 544,
+   "votes_R": 2278,
+   "votes_other": 30,
+   "total_votes": 2852,
+   "pct_D": 19.1,
+   "pct_R": 79.9,
+   "modes": {
+    "total": {
+     "votes_D": 544,
+     "votes_R": 2278,
+     "votes_other": 30
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31171": {
+   "name": "Thomas",
+   "raw_name": "THOMAS",
+   "fips": "31171",
+   "is_mappable": true,
+   "votes_D": 44,
+   "votes_R": 348,
+   "votes_other": 1,
+   "total_votes": 393,
+   "pct_D": 11.2,
+   "pct_R": 88.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 26,
+     "votes_R": 235,
+     "votes_other": 1
+    },
+    "pre_election_day": {
+     "votes_D": 18,
+     "votes_R": 113,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31173": {
+   "name": "Thurston",
+   "raw_name": "THURSTON",
+   "fips": "31173",
+   "is_mappable": true,
+   "votes_D": 919,
+   "votes_R": 1117,
+   "votes_other": 23,
+   "total_votes": 2059,
+   "pct_D": 44.6,
+   "pct_R": 54.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 798,
+     "votes_R": 897,
+     "votes_other": 20
+    },
+    "pre_election_day": {
+     "votes_D": 121,
+     "votes_R": 220,
+     "votes_other": 3
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0301,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "31175": {
+   "name": "Valley",
+   "raw_name": "VALLEY",
+   "fips": "31175",
+   "is_mappable": true,
+   "votes_D": 403,
+   "votes_R": 1872,
+   "votes_other": 24,
+   "total_votes": 2299,
+   "pct_D": 17.5,
+   "pct_R": 81.4,
+   "modes": {
+    "total": {
+     "votes_D": 403,
+     "votes_R": 1872,
+     "votes_other": 24
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31177": {
+   "name": "Washington",
+   "raw_name": "WASHINGTON",
+   "fips": "31177",
+   "is_mappable": true,
+   "votes_D": 3538,
+   "votes_R": 8855,
+   "votes_other": 152,
+   "total_votes": 12545,
+   "pct_D": 28.2,
+   "pct_R": 70.6,
+   "modes": {
+    "total": {
+     "votes_D": 3538,
+     "votes_R": 8855,
+     "votes_other": 152
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31179": {
+   "name": "Wayne",
+   "raw_name": "WAYNE",
+   "fips": "31179",
+   "is_mappable": true,
+   "votes_D": 1006,
+   "votes_R": 3011,
+   "votes_other": 56,
+   "total_votes": 4073,
+   "pct_D": 24.7,
+   "pct_R": 73.9,
+   "modes": {
+    "total": {
+     "votes_D": 1006,
+     "votes_R": 3011,
+     "votes_other": 56
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31181": {
+   "name": "Webster",
+   "raw_name": "WEBSTER",
+   "fips": "31181",
+   "is_mappable": true,
+   "votes_D": 296,
+   "votes_R": 1449,
+   "votes_other": 18,
+   "total_votes": 1763,
+   "pct_D": 16.8,
+   "pct_R": 82.2,
+   "modes": {
+    "total": {
+     "votes_D": 296,
+     "votes_R": 1449,
+     "votes_other": 18
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "31183": {
+   "name": "Wheeler",
+   "raw_name": "WHEELER",
+   "fips": "31183",
+   "is_mappable": true,
+   "votes_D": 57,
+   "votes_R": 424,
+   "votes_other": 4,
+   "total_votes": 485,
+   "pct_D": 11.8,
+   "pct_R": 87.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 29,
+     "votes_R": 314,
+     "votes_other": 2
+    },
+    "pre_election_day": {
+     "votes_D": 28,
+     "votes_R": 110,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0021,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "31185": {
+   "name": "York",
+   "raw_name": "YORK",
+   "fips": "31185",
+   "is_mappable": true,
+   "votes_D": 1647,
+   "votes_R": 5234,
+   "votes_other": 138,
+   "total_votes": 7019,
+   "pct_D": 23.5,
+   "pct_R": 74.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 962,
+     "votes_R": 3621,
+     "votes_other": 98
+    },
+    "pre_election_day": {
+     "votes_D": 675,
+     "votes_R": 1577,
+     "votes_other": 40
+    },
+    "provisional": {
+     "votes_D": 10,
+     "votes_R": 36,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.005,
+   "completeness": "C3",
+   "notes": ""
+  }
+ }
+}

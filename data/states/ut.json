@@ -1,0 +1,726 @@
+{
+ "state": "Utah",
+ "state_abbr": "UT",
+ "unit_type": "county",
+ "avg_completeness": "C1",
+ "completeness_breakdown": {
+  "C1": 29
+ },
+ "votes_D": 562382,
+ "votes_R": 883417,
+ "votes_other": 42505,
+ "total_votes": 1488304,
+ "pct_D": 37.8,
+ "pct_R": 59.4,
+ "unit_count": 29,
+ "state_profile": {
+  "voting_summary": "Utah is an all-mail state: every active voter is mailed a ballot, and effectively the entire vote arrives by mail or drop box, with ballots postmarked the day before election day accepted for up to two weeks. Polls close at 10 p.m. Eastern; a large pre-processed dump lands shortly after closing, followed by county batches over the following two weeks. Late batches have historically leaned slightly Democratic, tightening margins modestly during the canvass.",
+  "reporting_notes": "",
+  "tags": [
+   "All-mail",
+   "Two-week canvass",
+   "Pre-processed"
+  ],
+  "mode_split": {
+   "mail": 100.0
+  }
+ },
+ "units": {
+  "49001": {
+   "name": "Beaver",
+   "raw_name": "BEAVER",
+   "fips": "49001",
+   "is_mappable": true,
+   "votes_D": 394,
+   "votes_R": 2781,
+   "votes_other": 37,
+   "total_votes": 3212,
+   "pct_D": 12.3,
+   "pct_R": 86.6,
+   "modes": {
+    "mail": {
+     "votes_D": 394,
+     "votes_R": 2781,
+     "votes_other": 37
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49003": {
+   "name": "Box Elder",
+   "raw_name": "BOX ELDER",
+   "fips": "49003",
+   "is_mappable": true,
+   "votes_D": 5274,
+   "votes_R": 22853,
+   "votes_other": 1205,
+   "total_votes": 29332,
+   "pct_D": 18.0,
+   "pct_R": 77.9,
+   "modes": {
+    "mail": {
+     "votes_D": 5274,
+     "votes_R": 22853,
+     "votes_other": 1205
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49005": {
+   "name": "Cache",
+   "raw_name": "CACHE",
+   "fips": "49005",
+   "is_mappable": true,
+   "votes_D": 18696,
+   "votes_R": 39412,
+   "votes_other": 2082,
+   "total_votes": 60190,
+   "pct_D": 31.1,
+   "pct_R": 65.5,
+   "modes": {
+    "mail": {
+     "votes_D": 18696,
+     "votes_R": 39412,
+     "votes_other": 2082
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49007": {
+   "name": "Carbon",
+   "raw_name": "CARBON",
+   "fips": "49007",
+   "is_mappable": true,
+   "votes_D": 2522,
+   "votes_R": 6715,
+   "votes_other": 201,
+   "total_votes": 9438,
+   "pct_D": 26.7,
+   "pct_R": 71.1,
+   "modes": {
+    "mail": {
+     "votes_D": 2522,
+     "votes_R": 6715,
+     "votes_other": 201
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49009": {
+   "name": "Daggett",
+   "raw_name": "DAGGETT",
+   "fips": "49009",
+   "is_mappable": true,
+   "votes_D": 100,
+   "votes_R": 440,
+   "votes_other": 6,
+   "total_votes": 546,
+   "pct_D": 18.3,
+   "pct_R": 80.6,
+   "modes": {
+    "mail": {
+     "votes_D": 100,
+     "votes_R": 440,
+     "votes_other": 6
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49011": {
+   "name": "Davis",
+   "raw_name": "DAVIS",
+   "fips": "49011",
+   "is_mappable": true,
+   "votes_D": 59872,
+   "votes_R": 101232,
+   "votes_other": 5381,
+   "total_votes": 166485,
+   "pct_D": 36.0,
+   "pct_R": 60.8,
+   "modes": {
+    "mail": {
+     "votes_D": 59872,
+     "votes_R": 101232,
+     "votes_other": 5381
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49013": {
+   "name": "Duchesne",
+   "raw_name": "DUCHESNE",
+   "fips": "49013",
+   "is_mappable": true,
+   "votes_D": 998,
+   "votes_R": 7756,
+   "votes_other": 144,
+   "total_votes": 8898,
+   "pct_D": 11.2,
+   "pct_R": 87.2,
+   "modes": {
+    "mail": {
+     "votes_D": 998,
+     "votes_R": 7756,
+     "votes_other": 144
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49015": {
+   "name": "Emery",
+   "raw_name": "EMERY",
+   "fips": "49015",
+   "is_mappable": true,
+   "votes_D": 603,
+   "votes_R": 4341,
+   "votes_other": 67,
+   "total_votes": 5011,
+   "pct_D": 12.0,
+   "pct_R": 86.6,
+   "modes": {
+    "mail": {
+     "votes_D": 603,
+     "votes_R": 4341,
+     "votes_other": 67
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49017": {
+   "name": "Garfield",
+   "raw_name": "GARFIELD",
+   "fips": "49017",
+   "is_mappable": true,
+   "votes_D": 541,
+   "votes_R": 2209,
+   "votes_other": 59,
+   "total_votes": 2809,
+   "pct_D": 19.3,
+   "pct_R": 78.6,
+   "modes": {
+    "mail": {
+     "votes_D": 541,
+     "votes_R": 2209,
+     "votes_other": 59
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49019": {
+   "name": "Grand",
+   "raw_name": "GRAND",
+   "fips": "49019",
+   "is_mappable": true,
+   "votes_D": 2828,
+   "votes_R": 2324,
+   "votes_other": 145,
+   "total_votes": 5297,
+   "pct_D": 53.4,
+   "pct_R": 43.9,
+   "modes": {
+    "mail": {
+     "votes_D": 2828,
+     "votes_R": 2324,
+     "votes_other": 145
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49021": {
+   "name": "Iron",
+   "raw_name": "IRON",
+   "fips": "49021",
+   "is_mappable": true,
+   "votes_D": 5683,
+   "votes_R": 21571,
+   "votes_other": 624,
+   "total_votes": 27878,
+   "pct_D": 20.4,
+   "pct_R": 77.4,
+   "modes": {
+    "mail": {
+     "votes_D": 5683,
+     "votes_R": 21571,
+     "votes_other": 624
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49023": {
+   "name": "Juab",
+   "raw_name": "JUAB",
+   "fips": "49023",
+   "is_mappable": true,
+   "votes_D": 733,
+   "votes_R": 5667,
+   "votes_other": 113,
+   "total_votes": 6513,
+   "pct_D": 11.3,
+   "pct_R": 87.0,
+   "modes": {
+    "mail": {
+     "votes_D": 733,
+     "votes_R": 5667,
+     "votes_other": 113
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49025": {
+   "name": "Kane",
+   "raw_name": "KANE",
+   "fips": "49025",
+   "is_mappable": true,
+   "votes_D": 1137,
+   "votes_R": 3277,
+   "votes_other": 74,
+   "total_votes": 4488,
+   "pct_D": 25.3,
+   "pct_R": 73.0,
+   "modes": {
+    "mail": {
+     "votes_D": 1137,
+     "votes_R": 3277,
+     "votes_other": 74
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49027": {
+   "name": "Millard",
+   "raw_name": "MILLARD",
+   "fips": "49027",
+   "is_mappable": true,
+   "votes_D": 713,
+   "votes_R": 5558,
+   "votes_other": 116,
+   "total_votes": 6387,
+   "pct_D": 11.2,
+   "pct_R": 87.0,
+   "modes": {
+    "mail": {
+     "votes_D": 713,
+     "votes_R": 5558,
+     "votes_other": 116
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49029": {
+   "name": "Morgan",
+   "raw_name": "MORGAN",
+   "fips": "49029",
+   "is_mappable": true,
+   "votes_D": 1253,
+   "votes_R": 5300,
+   "votes_other": 204,
+   "total_votes": 6757,
+   "pct_D": 18.5,
+   "pct_R": 78.4,
+   "modes": {
+    "mail": {
+     "votes_D": 1253,
+     "votes_R": 5300,
+     "votes_other": 204
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49031": {
+   "name": "Piute",
+   "raw_name": "PIUTE",
+   "fips": "49031",
+   "is_mappable": true,
+   "votes_D": 94,
+   "votes_R": 854,
+   "votes_other": 15,
+   "total_votes": 963,
+   "pct_D": 9.8,
+   "pct_R": 88.7,
+   "modes": {
+    "mail": {
+     "votes_D": 94,
+     "votes_R": 854,
+     "votes_other": 15
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49033": {
+   "name": "Rich",
+   "raw_name": "RICH",
+   "fips": "49033",
+   "is_mappable": true,
+   "votes_D": 214,
+   "votes_R": 1211,
+   "votes_other": 22,
+   "total_votes": 1447,
+   "pct_D": 14.8,
+   "pct_R": 83.7,
+   "modes": {
+    "mail": {
+     "votes_D": 214,
+     "votes_R": 1211,
+     "votes_other": 22
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49035": {
+   "name": "Salt Lake",
+   "raw_name": "SALT LAKE",
+   "fips": "49035",
+   "is_mappable": true,
+   "votes_D": 273577,
+   "votes_R": 221458,
+   "votes_other": 14421,
+   "total_votes": 509456,
+   "pct_D": 53.7,
+   "pct_R": 43.5,
+   "modes": {
+    "mail": {
+     "votes_D": 273577,
+     "votes_R": 221458,
+     "votes_other": 14421
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49037": {
+   "name": "San Juan",
+   "raw_name": "SAN JUAN",
+   "fips": "49037",
+   "is_mappable": true,
+   "votes_D": 2581,
+   "votes_R": 3613,
+   "votes_other": 135,
+   "total_votes": 6329,
+   "pct_D": 40.8,
+   "pct_R": 57.1,
+   "modes": {
+    "mail": {
+     "votes_D": 2581,
+     "votes_R": 3613,
+     "votes_other": 135
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49039": {
+   "name": "Sanpete",
+   "raw_name": "SANPETE",
+   "fips": "49039",
+   "is_mappable": true,
+   "votes_D": 1906,
+   "votes_R": 10653,
+   "votes_other": 385,
+   "total_votes": 12944,
+   "pct_D": 14.7,
+   "pct_R": 82.3,
+   "modes": {
+    "mail": {
+     "votes_D": 1906,
+     "votes_R": 10653,
+     "votes_other": 385
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49041": {
+   "name": "Sevier",
+   "raw_name": "SEVIER",
+   "fips": "49041",
+   "is_mappable": true,
+   "votes_D": 1236,
+   "votes_R": 9526,
+   "votes_other": 164,
+   "total_votes": 10926,
+   "pct_D": 11.3,
+   "pct_R": 87.2,
+   "modes": {
+    "mail": {
+     "votes_D": 1236,
+     "votes_R": 9526,
+     "votes_other": 164
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49043": {
+   "name": "Summit",
+   "raw_name": "SUMMIT",
+   "fips": "49043",
+   "is_mappable": true,
+   "votes_D": 14604,
+   "votes_R": 10779,
+   "votes_other": 478,
+   "total_votes": 25861,
+   "pct_D": 56.5,
+   "pct_R": 41.7,
+   "modes": {
+    "mail": {
+     "votes_D": 14604,
+     "votes_R": 10779,
+     "votes_other": 478
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49045": {
+   "name": "Tooele",
+   "raw_name": "TOOELE",
+   "fips": "49045",
+   "is_mappable": true,
+   "votes_D": 9557,
+   "votes_R": 23467,
+   "votes_other": 961,
+   "total_votes": 33985,
+   "pct_D": 28.1,
+   "pct_R": 69.1,
+   "modes": {
+    "mail": {
+     "votes_D": 9557,
+     "votes_R": 23467,
+     "votes_other": 961
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49047": {
+   "name": "Uintah",
+   "raw_name": "UINTAH",
+   "fips": "49047",
+   "is_mappable": true,
+   "votes_D": 1947,
+   "votes_R": 13595,
+   "votes_other": 281,
+   "total_votes": 15823,
+   "pct_D": 12.3,
+   "pct_R": 85.9,
+   "modes": {
+    "mail": {
+     "votes_D": 1947,
+     "votes_R": 13595,
+     "votes_other": 281
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49049": {
+   "name": "Utah",
+   "raw_name": "UTAH",
+   "fips": "49049",
+   "is_mappable": true,
+   "votes_D": 84922,
+   "votes_R": 203417,
+   "votes_other": 9725,
+   "total_votes": 298064,
+   "pct_D": 28.5,
+   "pct_R": 68.2,
+   "modes": {
+    "mail": {
+     "votes_D": 84922,
+     "votes_R": 203417,
+     "votes_other": 9725
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49051": {
+   "name": "Wasatch",
+   "raw_name": "WASATCH",
+   "fips": "49051",
+   "is_mappable": true,
+   "votes_D": 6456,
+   "votes_R": 11493,
+   "votes_other": 399,
+   "total_votes": 18348,
+   "pct_D": 35.2,
+   "pct_R": 62.6,
+   "modes": {
+    "mail": {
+     "votes_D": 6456,
+     "votes_R": 11493,
+     "votes_other": 399
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49053": {
+   "name": "Washington",
+   "raw_name": "WASHINGTON",
+   "fips": "49053",
+   "is_mappable": true,
+   "votes_D": 22324,
+   "votes_R": 73160,
+   "votes_other": 1764,
+   "total_votes": 97248,
+   "pct_D": 23.0,
+   "pct_R": 75.2,
+   "modes": {
+    "mail": {
+     "votes_D": 22324,
+     "votes_R": 73160,
+     "votes_other": 1764
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49055": {
+   "name": "Wayne",
+   "raw_name": "WAYNE",
+   "fips": "49055",
+   "is_mappable": true,
+   "votes_D": 381,
+   "votes_R": 1236,
+   "votes_other": 32,
+   "total_votes": 1649,
+   "pct_D": 23.1,
+   "pct_R": 75.0,
+   "modes": {
+    "mail": {
+     "votes_D": 381,
+     "votes_R": 1236,
+     "votes_other": 32
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "49057": {
+   "name": "Weber",
+   "raw_name": "WEBER",
+   "fips": "49057",
+   "is_mappable": true,
+   "votes_D": 41236,
+   "votes_R": 67519,
+   "votes_other": 3265,
+   "total_votes": 112020,
+   "pct_D": 36.8,
+   "pct_R": 60.3,
+   "modes": {
+    "mail": {
+     "votes_D": 41236,
+     "votes_R": 67519,
+     "votes_other": 3265
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  }
+ }
+}

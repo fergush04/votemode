@@ -1,0 +1,819 @@
+{
+ "state": "New Jersey",
+ "state_abbr": "NJ",
+ "unit_type": "county",
+ "avg_completeness": "C4",
+ "completeness_breakdown": {
+  "U": 4,
+  "C4": 11,
+  "C5": 4,
+  "C6": 1,
+  "C3": 1
+ },
+ "votes_D": 2220421,
+ "votes_R": 1966350,
+ "votes_other": 95945,
+ "total_votes": 4282716,
+ "pct_D": 51.8,
+ "pct_R": 45.9,
+ "unit_count": 21,
+ "state_profile": {
+  "voting_summary": "New Jersey offers 9 days of early in-person voting and no-excuse mail voting, with mail postmarked by election day accepted for six days. Polls close at 8 p.m. Eastern; pre-processed mail is released first, early and election day votes report through the night, and late mail plus a large provisional count stretch the canvass past a week. Mail ran D+44 against an even election day vote, so New Jersey reliably drifts bluer after election night.",
+  "reporting_notes": "",
+  "tags": [
+   "No-excuse mail",
+   "Postmark +6 days",
+   "Late blue shift"
+  ],
+  "mode_split": {
+   "election_day": 38.8,
+   "early_in_person": 21.9,
+   "total": 17.3,
+   "mail": 16.6,
+   "provisional": 5.0,
+   "overseas": 0.1,
+   "unallocated": 0.1
+  }
+ },
+ "units": {
+  "34001": {
+   "name": "Atlantic",
+   "raw_name": "ATLANTIC",
+   "fips": "34001",
+   "is_mappable": true,
+   "votes_D": 61879,
+   "votes_R": 65817,
+   "votes_other": 2063,
+   "total_votes": 129759,
+   "pct_D": 47.7,
+   "pct_R": 50.7,
+   "modes": {
+    "total": {
+     "votes_D": 61879,
+     "votes_R": 65817,
+     "votes_other": 2063
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "34003": {
+   "name": "Bergen",
+   "raw_name": "BERGEN",
+   "fips": "34003",
+   "is_mappable": true,
+   "votes_D": 232638,
+   "votes_R": 217084,
+   "votes_other": 9320,
+   "total_votes": 459042,
+   "pct_D": 50.7,
+   "pct_R": 47.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 53812,
+     "votes_R": 56434,
+     "votes_other": 1560
+    },
+    "election_day": {
+     "votes_D": 120701,
+     "votes_R": 133222,
+     "votes_other": 6266
+    },
+    "mail": {
+     "votes_D": 53476,
+     "votes_R": 22915,
+     "votes_other": 1232
+    },
+    "provisional": {
+     "votes_D": 4649,
+     "votes_R": 4513,
+     "votes_other": 262
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34005": {
+   "name": "Burlington",
+   "raw_name": "BURLINGTON",
+   "fips": "34005",
+   "is_mappable": true,
+   "votes_D": 132275,
+   "votes_R": 94116,
+   "votes_other": 3792,
+   "total_votes": 230183,
+   "pct_D": 57.5,
+   "pct_R": 40.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 29856,
+     "votes_R": 24222,
+     "votes_other": 637
+    },
+    "provisional": {
+     "votes_D": 67266,
+     "votes_R": 58419,
+     "votes_other": 2376
+    },
+    "mail": {
+     "votes_D": 35153,
+     "votes_R": 11475,
+     "votes_other": 779
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0031,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34007": {
+   "name": "Camden",
+   "raw_name": "CAMDEN",
+   "fips": "34007",
+   "is_mappable": true,
+   "votes_D": 155522,
+   "votes_R": 87767,
+   "votes_other": 4497,
+   "total_votes": 247786,
+   "pct_D": 62.8,
+   "pct_R": 35.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 18875,
+     "votes_R": 17187,
+     "votes_other": 431
+    },
+    "election_day": {
+     "votes_D": 65170,
+     "votes_R": 48554,
+     "votes_other": 2291
+    },
+    "mail": {
+     "votes_D": 65560,
+     "votes_R": 18478,
+     "votes_other": 1547
+    },
+    "provisional": {
+     "votes_D": 5917,
+     "votes_R": 3548,
+     "votes_other": 228
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0034,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34009": {
+   "name": "Cape May",
+   "raw_name": "CAPE MAY",
+   "fips": "34009",
+   "is_mappable": true,
+   "votes_D": 21555,
+   "votes_R": 32136,
+   "votes_other": 986,
+   "total_votes": 54677,
+   "pct_D": 39.4,
+   "pct_R": 58.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 5592,
+     "votes_R": 9686,
+     "votes_other": 203
+    },
+    "election_day": {
+     "votes_D": 9430,
+     "votes_R": 17956,
+     "votes_other": 586
+    },
+    "mail": {
+     "votes_D": 6269,
+     "votes_R": 4136,
+     "votes_other": 185
+    },
+    "provisional": {
+     "votes_D": 264,
+     "votes_R": 358,
+     "votes_other": 12
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.002,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34011": {
+   "name": "Cumberland",
+   "raw_name": "CUMBERLAND",
+   "fips": "34011",
+   "is_mappable": true,
+   "votes_D": 26577,
+   "votes_R": 28675,
+   "votes_other": 700,
+   "total_votes": 55952,
+   "pct_D": 47.5,
+   "pct_R": 51.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 4969,
+     "votes_R": 7616,
+     "votes_other": 107
+    },
+    "election_day": {
+     "votes_D": 12905,
+     "votes_R": 16330,
+     "votes_other": 419
+    },
+    "provisional": {
+     "votes_D": 729,
+     "votes_R": 622,
+     "votes_other": 11
+    },
+    "mail": {
+     "votes_D": 7974,
+     "votes_R": 4107,
+     "votes_other": 163
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0012,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "34013": {
+   "name": "Essex",
+   "raw_name": "ESSEX",
+   "fips": "34013",
+   "is_mappable": true,
+   "votes_D": 224596,
+   "votes_R": 83908,
+   "votes_other": 4779,
+   "total_votes": 313283,
+   "pct_D": 71.7,
+   "pct_R": 26.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 52864,
+     "votes_R": 22054,
+     "votes_other": 705
+    },
+    "election_day": {
+     "votes_D": 120360,
+     "votes_R": 52468,
+     "votes_other": 3207
+    },
+    "provisional": {
+     "votes_D": 8820,
+     "votes_R": 2464,
+     "votes_other": 174
+    },
+    "overseas": {
+     "votes_D": 1077,
+     "votes_R": 213,
+     "votes_other": 24
+    },
+    "mail": {
+     "votes_D": 41475,
+     "votes_R": 6709,
+     "votes_other": 669
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C6",
+   "notes": ""
+  },
+  "34015": {
+   "name": "Gloucester",
+   "raw_name": "GLOUCESTER",
+   "fips": "34015",
+   "is_mappable": true,
+   "votes_D": 78708,
+   "votes_R": 83326,
+   "votes_other": 2601,
+   "total_votes": 164635,
+   "pct_D": 47.8,
+   "pct_R": 50.6,
+   "modes": {
+    "total": {
+     "votes_D": 78708,
+     "votes_R": 83326,
+     "votes_other": 2601
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "34017": {
+   "name": "Hudson",
+   "raw_name": "HUDSON",
+   "fips": "34017",
+   "is_mappable": true,
+   "votes_D": 144765,
+   "votes_R": 79913,
+   "votes_other": 7554,
+   "total_votes": 232232,
+   "pct_D": 62.3,
+   "pct_R": 34.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 47736,
+     "votes_R": 25109,
+     "votes_other": 1791
+    },
+    "election_day": {
+     "votes_D": 70570,
+     "votes_R": 46767,
+     "votes_other": 4835
+    },
+    "overseas": {
+     "votes_D": 1509,
+     "votes_R": 229,
+     "votes_other": 57
+    },
+    "mail": {
+     "votes_D": 19991,
+     "votes_R": 4782,
+     "votes_other": 599
+    },
+    "provisional": {
+     "votes_D": 4959,
+     "votes_R": 3026,
+     "votes_other": 272
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0045,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "34019": {
+   "name": "Hunterdon",
+   "raw_name": "HUNTERDON",
+   "fips": "34019",
+   "is_mappable": true,
+   "votes_D": 36995,
+   "votes_R": 42391,
+   "votes_other": 1885,
+   "total_votes": 81271,
+   "pct_D": 45.5,
+   "pct_R": 52.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 10914,
+     "votes_R": 15027,
+     "votes_other": 422
+    },
+    "election_day": {
+     "votes_D": 13670,
+     "votes_R": 21509,
+     "votes_other": 1076
+    },
+    "mail": {
+     "votes_D": 12365,
+     "votes_R": 5787,
+     "votes_other": 383
+    },
+    "provisional": {
+     "votes_D": 46,
+     "votes_R": 68,
+     "votes_other": 4
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0043,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34021": {
+   "name": "Mercer",
+   "raw_name": "MERCER",
+   "fips": "34021",
+   "is_mappable": true,
+   "votes_D": 108304,
+   "votes_R": 50827,
+   "votes_other": 4139,
+   "total_votes": 163270,
+   "pct_D": 66.3,
+   "pct_R": 31.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 42982,
+     "votes_R": 27784,
+     "votes_other": 2126
+    },
+    "overseas": {
+     "votes_D": 852,
+     "votes_R": 90,
+     "votes_other": 27
+    },
+    "mail": {
+     "votes_D": 34068,
+     "votes_R": 8174,
+     "votes_other": 974
+    },
+    "provisional": {
+     "votes_D": 3385,
+     "votes_R": 1649,
+     "votes_other": 148
+    },
+    "early_in_person": {
+     "votes_D": 27017,
+     "votes_R": 13130,
+     "votes_other": 864
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34023": {
+   "name": "Middlesex",
+   "raw_name": "MIDDLESEX",
+   "fips": "34023",
+   "is_mappable": true,
+   "votes_D": 191747,
+   "votes_R": 162415,
+   "votes_other": 12377,
+   "total_votes": 366539,
+   "pct_D": 52.3,
+   "pct_R": 44.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 39578,
+     "votes_R": 46051,
+     "votes_other": 1984
+    },
+    "election_day": {
+     "votes_D": 69141,
+     "votes_R": 77719,
+     "votes_other": 6341
+    },
+    "mail": {
+     "votes_D": 73971,
+     "votes_R": 30477,
+     "votes_other": 3213
+    },
+    "provisional": {
+     "votes_D": 9057,
+     "votes_R": 8168,
+     "votes_other": 839
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0037,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34025": {
+   "name": "Monmouth",
+   "raw_name": "MONMOUTH",
+   "fips": "34025",
+   "is_mappable": true,
+   "votes_D": 156382,
+   "votes_R": 197409,
+   "votes_other": 7805,
+   "total_votes": 361596,
+   "pct_D": 43.2,
+   "pct_R": 54.6,
+   "modes": {
+    "total": {
+     "votes_D": 156382,
+     "votes_R": 197409,
+     "votes_other": 7805
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.004,
+   "completeness": "U",
+   "notes": ""
+  },
+  "34027": {
+   "name": "Morris",
+   "raw_name": "MORRIS",
+   "fips": "34027",
+   "is_mappable": true,
+   "votes_D": 135667,
+   "votes_R": 143437,
+   "votes_other": 6954,
+   "total_votes": 286058,
+   "pct_D": 47.4,
+   "pct_R": 50.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 35543,
+     "votes_R": 44599,
+     "votes_other": 1266
+    },
+    "election_day": {
+     "votes_D": 60150,
+     "votes_R": 81237,
+     "votes_other": 4403
+    },
+    "overseas": {
+     "votes_D": 1065,
+     "votes_R": 144,
+     "votes_other": 33
+    },
+    "mail": {
+     "votes_D": 35836,
+     "votes_R": 14895,
+     "votes_other": 1026
+    },
+    "provisional": {
+     "votes_D": 3073,
+     "votes_R": 2562,
+     "votes_other": 226
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0049,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "34029": {
+   "name": "Ocean",
+   "raw_name": "OCEAN",
+   "fips": "34029",
+   "is_mappable": true,
+   "votes_D": 105789,
+   "votes_R": 227232,
+   "votes_other": 5014,
+   "total_votes": 338035,
+   "pct_D": 31.3,
+   "pct_R": 67.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 28207,
+     "votes_R": 79166,
+     "votes_other": 1078
+    },
+    "election_day": {
+     "votes_D": 47366,
+     "votes_R": 116721,
+     "votes_other": 3114
+    },
+    "overseas": {
+     "votes_D": 389,
+     "votes_R": 417,
+     "votes_other": 7
+    },
+    "mail": {
+     "votes_D": 28354,
+     "votes_R": 27386,
+     "votes_other": 736
+    },
+    "provisional": {
+     "votes_D": 1473,
+     "votes_R": 3542,
+     "votes_other": 79
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0027,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "34031": {
+   "name": "Passaic",
+   "raw_name": "PASSAIC",
+   "fips": "34031",
+   "is_mappable": true,
+   "votes_D": 95156,
+   "votes_R": 100954,
+   "votes_other": 7243,
+   "total_votes": 203353,
+   "pct_D": 46.8,
+   "pct_R": 49.6,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 26046,
+     "votes_R": 31330,
+     "votes_other": 1297
+    },
+    "election_day": {
+     "votes_D": 48134,
+     "votes_R": 57475,
+     "votes_other": 4787
+    },
+    "mail": {
+     "votes_D": 17258,
+     "votes_R": 8374,
+     "votes_other": 782
+    },
+    "provisional": {
+     "votes_D": 3718,
+     "votes_R": 3775,
+     "votes_other": 377
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0029,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34033": {
+   "name": "Salem",
+   "raw_name": "SALEM",
+   "fips": "34033",
+   "is_mappable": true,
+   "votes_D": 12275,
+   "votes_R": 18229,
+   "votes_other": 581,
+   "total_votes": 31085,
+   "pct_D": 39.5,
+   "pct_R": 58.6,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2341,
+     "votes_R": 4942,
+     "votes_other": 96
+    },
+    "election_day": {
+     "votes_D": 6607,
+     "votes_R": 11471,
+     "votes_other": 392
+    },
+    "mail": {
+     "votes_D": 3090,
+     "votes_R": 1613,
+     "votes_other": 89
+    },
+    "provisional": {
+     "votes_D": 237,
+     "votes_R": 203,
+     "votes_other": 4
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0027,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34035": {
+   "name": "Somerset",
+   "raw_name": "SOMERSET",
+   "fips": "34035",
+   "is_mappable": true,
+   "votes_D": 98790,
+   "votes_R": 74101,
+   "votes_other": 5452,
+   "total_votes": 178343,
+   "pct_D": 55.4,
+   "pct_R": 41.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 30986,
+     "votes_R": 26362,
+     "votes_other": 1288
+    },
+    "election_day": {
+     "votes_D": 35217,
+     "votes_R": 36229,
+     "votes_other": 2930
+    },
+    "mail": {
+     "votes_D": 30413,
+     "votes_R": 10137,
+     "votes_other": 1073
+    },
+    "provisional": {
+     "votes_D": 2174,
+     "votes_R": 1373,
+     "votes_other": 161
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0052,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34037": {
+   "name": "Sussex",
+   "raw_name": "SUSSEX",
+   "fips": "34037",
+   "is_mappable": true,
+   "votes_D": 31019,
+   "votes_R": 52123,
+   "votes_other": 1487,
+   "total_votes": 84629,
+   "pct_D": 36.7,
+   "pct_R": 61.6,
+   "modes": {
+    "total": {
+     "votes_D": 31019,
+     "votes_R": 52123,
+     "votes_other": 1487
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "34039": {
+   "name": "Union",
+   "raw_name": "UNION",
+   "fips": "34039",
+   "is_mappable": true,
+   "votes_D": 146464,
+   "votes_R": 88718,
+   "votes_other": 5450,
+   "total_votes": 240632,
+   "pct_D": 60.9,
+   "pct_R": 36.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 42214,
+     "votes_R": 26274,
+     "votes_other": 1212
+    },
+    "election_day": {
+     "votes_D": 68833,
+     "votes_R": 51087,
+     "votes_other": 3389
+    },
+    "mail": {
+     "votes_D": 31730,
+     "votes_R": 9128,
+     "votes_other": 743
+    },
+    "unallocated": {
+     "votes_D": 3687,
+     "votes_R": 2229,
+     "votes_other": 106
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "34041": {
+   "name": "Warren",
+   "raw_name": "WARREN",
+   "fips": "34041",
+   "is_mappable": true,
+   "votes_D": 23318,
+   "votes_R": 35772,
+   "votes_other": 1266,
+   "total_votes": 60356,
+   "pct_D": 38.6,
+   "pct_R": 59.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 6597,
+     "votes_R": 12433,
+     "votes_other": 279
+    },
+    "election_day": {
+     "votes_D": 9395,
+     "votes_R": 18730,
+     "votes_other": 726
+    },
+    "mail": {
+     "votes_D": 6864,
+     "votes_R": 4141,
+     "votes_other": 234
+    },
+    "provisional": {
+     "votes_D": 462,
+     "votes_R": 468,
+     "votes_other": 27
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": false,
+   "pct_off_official": 0.0034,
+   "completeness": "C4",
+   "notes": ""
+  }
+ }
+}

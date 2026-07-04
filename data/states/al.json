@@ -1,0 +1,2311 @@
+{
+ "state": "Alabama",
+ "state_abbr": "AL",
+ "unit_type": "county",
+ "avg_completeness": "C3",
+ "completeness_breakdown": {
+  "C3": 67
+ },
+ "votes_D": 772412,
+ "votes_R": 1462616,
+ "votes_other": 30062,
+ "total_votes": 2265090,
+ "pct_D": 34.1,
+ "pct_R": 64.6,
+ "unit_count": 67,
+ "state_profile": {
+  "voting_summary": "Alabama votes almost entirely on election day (94% of the 2024 vote) as it offers no early in-person voting and requires an excuse to vote by mail. Polls close at 8 p.m. Eastern and counting is fast, with near-complete results by late election night. Election day precincts are counted first, then absentee ballots are folded in late in the evening. The small absentee pool is notably less Republican (R+12) than the election day vote (R+32), so late-reporting absentees nudge margins slightly leftward.",
+  "reporting_notes": "",
+  "tags": [
+   "Election day dominant",
+   "No early voting",
+   "Excuse-required absentee",
+   "Fast count"
+  ],
+  "mode_split": {
+   "election_day": 94.1,
+   "mail": 5.6,
+   "provisional": 0.3
+  }
+ },
+ "units": {
+  "01001": {
+   "name": "Autauga",
+   "raw_name": "AUTAUGA",
+   "fips": "01001",
+   "is_mappable": true,
+   "votes_D": 7439,
+   "votes_R": 20484,
+   "votes_other": 358,
+   "total_votes": 28281,
+   "pct_D": 26.3,
+   "pct_R": 72.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 6960,
+     "votes_R": 19239,
+     "votes_other": 335
+    },
+    "mail": {
+     "votes_D": 469,
+     "votes_R": 1208,
+     "votes_other": 19
+    },
+    "provisional": {
+     "votes_D": 10,
+     "votes_R": 37,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01003": {
+   "name": "Baldwin",
+   "raw_name": "BALDWIN",
+   "fips": "01003",
+   "is_mappable": true,
+   "votes_D": 24934,
+   "votes_R": 95798,
+   "votes_other": 1517,
+   "total_votes": 122249,
+   "pct_D": 20.4,
+   "pct_R": 78.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 22667,
+     "votes_R": 89579,
+     "votes_other": 1432
+    },
+    "mail": {
+     "votes_D": 2101,
+     "votes_R": 5612,
+     "votes_other": 74
+    },
+    "provisional": {
+     "votes_D": 166,
+     "votes_R": 607,
+     "votes_other": 11
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01005": {
+   "name": "Barbour",
+   "raw_name": "BARBOUR",
+   "fips": "01005",
+   "is_mappable": true,
+   "votes_D": 4158,
+   "votes_R": 5606,
+   "votes_other": 91,
+   "total_votes": 9855,
+   "pct_D": 42.2,
+   "pct_R": 56.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 3901,
+     "votes_R": 5224,
+     "votes_other": 85
+    },
+    "mail": {
+     "votes_D": 221,
+     "votes_R": 358,
+     "votes_other": 6
+    },
+    "provisional": {
+     "votes_D": 36,
+     "votes_R": 24,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01007": {
+   "name": "Bibb",
+   "raw_name": "BIBB",
+   "fips": "01007",
+   "is_mappable": true,
+   "votes_D": 1619,
+   "votes_R": 7572,
+   "votes_other": 66,
+   "total_votes": 9257,
+   "pct_D": 17.5,
+   "pct_R": 81.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 1549,
+     "votes_R": 7284,
+     "votes_other": 65
+    },
+    "mail": {
+     "votes_D": 68,
+     "votes_R": 279,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 2,
+     "votes_R": 9,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01009": {
+   "name": "Blount",
+   "raw_name": "BLOUNT",
+   "fips": "01009",
+   "is_mappable": true,
+   "votes_D": 2576,
+   "votes_R": 25354,
+   "votes_other": 233,
+   "total_votes": 28163,
+   "pct_D": 9.1,
+   "pct_R": 90.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 2428,
+     "votes_R": 24457,
+     "votes_other": 227
+    },
+    "mail": {
+     "votes_D": 141,
+     "votes_R": 814,
+     "votes_other": 5
+    },
+    "provisional": {
+     "votes_D": 7,
+     "votes_R": 83,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01011": {
+   "name": "Bullock",
+   "raw_name": "BULLOCK",
+   "fips": "01011",
+   "is_mappable": true,
+   "votes_D": 2983,
+   "votes_R": 1101,
+   "votes_other": 27,
+   "total_votes": 4111,
+   "pct_D": 72.6,
+   "pct_R": 26.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 2639,
+     "votes_R": 1043,
+     "votes_other": 25
+    },
+    "mail": {
+     "votes_D": 344,
+     "votes_R": 56,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 2,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01013": {
+   "name": "Butler",
+   "raw_name": "BUTLER",
+   "fips": "01013",
+   "is_mappable": true,
+   "votes_D": 3251,
+   "votes_R": 5172,
+   "votes_other": 57,
+   "total_votes": 8480,
+   "pct_D": 38.3,
+   "pct_R": 61.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 3082,
+     "votes_R": 4873,
+     "votes_other": 54
+    },
+    "mail": {
+     "votes_D": 166,
+     "votes_R": 294,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 3,
+     "votes_R": 5,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01015": {
+   "name": "Calhoun",
+   "raw_name": "CALHOUN",
+   "fips": "01015",
+   "is_mappable": true,
+   "votes_D": 13194,
+   "votes_R": 34912,
+   "votes_other": 547,
+   "total_votes": 48653,
+   "pct_D": 27.1,
+   "pct_R": 71.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 12306,
+     "votes_R": 33332,
+     "votes_other": 528
+    },
+    "mail": {
+     "votes_D": 865,
+     "votes_R": 1510,
+     "votes_other": 19
+    },
+    "provisional": {
+     "votes_D": 23,
+     "votes_R": 70,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01017": {
+   "name": "Chambers",
+   "raw_name": "CHAMBERS",
+   "fips": "01017",
+   "is_mappable": true,
+   "votes_D": 5405,
+   "votes_R": 8711,
+   "votes_other": 129,
+   "total_votes": 14245,
+   "pct_D": 37.9,
+   "pct_R": 61.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 5095,
+     "votes_R": 8252,
+     "votes_other": 121
+    },
+    "mail": {
+     "votes_D": 307,
+     "votes_R": 452,
+     "votes_other": 7
+    },
+    "provisional": {
+     "votes_D": 3,
+     "votes_R": 7,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01019": {
+   "name": "Cherokee",
+   "raw_name": "CHEROKEE",
+   "fips": "01019",
+   "is_mappable": true,
+   "votes_D": 1553,
+   "votes_R": 11358,
+   "votes_other": 95,
+   "total_votes": 13006,
+   "pct_D": 11.9,
+   "pct_R": 87.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 1455,
+     "votes_R": 10920,
+     "votes_other": 90
+    },
+    "mail": {
+     "votes_D": 95,
+     "votes_R": 422,
+     "votes_other": 5
+    },
+    "provisional": {
+     "votes_D": 3,
+     "votes_R": 16,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01021": {
+   "name": "Chilton",
+   "raw_name": "CHILTON",
+   "fips": "01021",
+   "is_mappable": true,
+   "votes_D": 2698,
+   "votes_R": 16920,
+   "votes_other": 145,
+   "total_votes": 19763,
+   "pct_D": 13.7,
+   "pct_R": 85.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 2588,
+     "votes_R": 16333,
+     "votes_other": 143
+    },
+    "mail": {
+     "votes_D": 109,
+     "votes_R": 568,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 1,
+     "votes_R": 19,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01023": {
+   "name": "Choctaw",
+   "raw_name": "CHOCTAW",
+   "fips": "01023",
+   "is_mappable": true,
+   "votes_D": 2515,
+   "votes_R": 4103,
+   "votes_other": 38,
+   "total_votes": 6656,
+   "pct_D": 37.8,
+   "pct_R": 61.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 2357,
+     "votes_R": 3802,
+     "votes_other": 35
+    },
+    "mail": {
+     "votes_D": 154,
+     "votes_R": 294,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 4,
+     "votes_R": 7,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01025": {
+   "name": "Clarke",
+   "raw_name": "CLARKE",
+   "fips": "01025",
+   "is_mappable": true,
+   "votes_D": 4927,
+   "votes_R": 6965,
+   "votes_other": 66,
+   "total_votes": 11958,
+   "pct_D": 41.2,
+   "pct_R": 58.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 4572,
+     "votes_R": 6581,
+     "votes_other": 65
+    },
+    "mail": {
+     "votes_D": 345,
+     "votes_R": 375,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 10,
+     "votes_R": 9,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01027": {
+   "name": "Clay",
+   "raw_name": "CLAY",
+   "fips": "01027",
+   "is_mappable": true,
+   "votes_D": 993,
+   "votes_R": 5734,
+   "votes_other": 40,
+   "total_votes": 6767,
+   "pct_D": 14.7,
+   "pct_R": 84.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 922,
+     "votes_R": 5455,
+     "votes_other": 39
+    },
+    "mail": {
+     "votes_D": 65,
+     "votes_R": 259,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 6,
+     "votes_R": 20,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01029": {
+   "name": "Cleburne",
+   "raw_name": "CLEBURNE",
+   "fips": "01029",
+   "is_mappable": true,
+   "votes_D": 605,
+   "votes_R": 6988,
+   "votes_other": 58,
+   "total_votes": 7651,
+   "pct_D": 7.9,
+   "pct_R": 91.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 559,
+     "votes_R": 6622,
+     "votes_other": 52
+    },
+    "mail": {
+     "votes_D": 46,
+     "votes_R": 362,
+     "votes_other": 6
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 4,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01031": {
+   "name": "Coffee",
+   "raw_name": "COFFEE",
+   "fips": "01031",
+   "is_mappable": true,
+   "votes_D": 4601,
+   "votes_R": 17495,
+   "votes_other": 223,
+   "total_votes": 22319,
+   "pct_D": 20.6,
+   "pct_R": 78.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 4231,
+     "votes_R": 16492,
+     "votes_other": 212
+    },
+    "mail": {
+     "votes_D": 354,
+     "votes_R": 965,
+     "votes_other": 9
+    },
+    "provisional": {
+     "votes_D": 16,
+     "votes_R": 38,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01033": {
+   "name": "Colbert",
+   "raw_name": "COLBERT",
+   "fips": "01033",
+   "is_mappable": true,
+   "votes_D": 7137,
+   "votes_R": 19714,
+   "votes_other": 309,
+   "total_votes": 27160,
+   "pct_D": 26.3,
+   "pct_R": 72.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 6685,
+     "votes_R": 18714,
+     "votes_other": 302
+    },
+    "mail": {
+     "votes_D": 407,
+     "votes_R": 900,
+     "votes_other": 6
+    },
+    "provisional": {
+     "votes_D": 45,
+     "votes_R": 100,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01035": {
+   "name": "Conecuh",
+   "raw_name": "CONECUH",
+   "fips": "01035",
+   "is_mappable": true,
+   "votes_D": 2580,
+   "votes_R": 3423,
+   "votes_other": 48,
+   "total_votes": 6051,
+   "pct_D": 42.6,
+   "pct_R": 56.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 2321,
+     "votes_R": 3206,
+     "votes_other": 46
+    },
+    "mail": {
+     "votes_D": 259,
+     "votes_R": 217,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01037": {
+   "name": "Coosa",
+   "raw_name": "COOSA",
+   "fips": "01037",
+   "is_mappable": true,
+   "votes_D": 1478,
+   "votes_R": 3758,
+   "votes_other": 32,
+   "total_votes": 5268,
+   "pct_D": 28.1,
+   "pct_R": 71.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 1430,
+     "votes_R": 3587,
+     "votes_other": 31
+    },
+    "mail": {
+     "votes_D": 45,
+     "votes_R": 163,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 3,
+     "votes_R": 8,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01039": {
+   "name": "Covington",
+   "raw_name": "COVINGTON",
+   "fips": "01039",
+   "is_mappable": true,
+   "votes_D": 2314,
+   "votes_R": 14677,
+   "votes_other": 104,
+   "total_votes": 17095,
+   "pct_D": 13.5,
+   "pct_R": 85.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 2166,
+     "votes_R": 13791,
+     "votes_other": 98
+    },
+    "mail": {
+     "votes_D": 143,
+     "votes_R": 873,
+     "votes_other": 6
+    },
+    "provisional": {
+     "votes_D": 5,
+     "votes_R": 13,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01041": {
+   "name": "Crenshaw",
+   "raw_name": "CRENSHAW",
+   "fips": "01041",
+   "is_mappable": true,
+   "votes_D": 1457,
+   "votes_R": 5000,
+   "votes_other": 29,
+   "total_votes": 6486,
+   "pct_D": 22.5,
+   "pct_R": 77.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 1388,
+     "votes_R": 4748,
+     "votes_other": 27
+    },
+    "mail": {
+     "votes_D": 65,
+     "votes_R": 245,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 4,
+     "votes_R": 7,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01043": {
+   "name": "Cullman",
+   "raw_name": "CULLMAN",
+   "fips": "01043",
+   "is_mappable": true,
+   "votes_D": 4039,
+   "votes_R": 38704,
+   "votes_other": 403,
+   "total_votes": 43146,
+   "pct_D": 9.4,
+   "pct_R": 89.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 3771,
+     "votes_R": 37094,
+     "votes_other": 390
+    },
+    "mail": {
+     "votes_D": 262,
+     "votes_R": 1575,
+     "votes_other": 12
+    },
+    "provisional": {
+     "votes_D": 6,
+     "votes_R": 35,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01045": {
+   "name": "Dale",
+   "raw_name": "DALE",
+   "fips": "01045",
+   "is_mappable": true,
+   "votes_D": 4484,
+   "votes_R": 14476,
+   "votes_other": 179,
+   "total_votes": 19139,
+   "pct_D": 23.4,
+   "pct_R": 75.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 4123,
+     "votes_R": 13780,
+     "votes_other": 174
+    },
+    "mail": {
+     "votes_D": 355,
+     "votes_R": 693,
+     "votes_other": 5
+    },
+    "provisional": {
+     "votes_D": 6,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01047": {
+   "name": "Dallas",
+   "raw_name": "DALLAS",
+   "fips": "01047",
+   "is_mappable": true,
+   "votes_D": 10236,
+   "votes_R": 5190,
+   "votes_other": 121,
+   "total_votes": 15547,
+   "pct_D": 65.8,
+   "pct_R": 33.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 9409,
+     "votes_R": 4981,
+     "votes_other": 119
+    },
+    "mail": {
+     "votes_D": 824,
+     "votes_R": 207,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 3,
+     "votes_R": 2,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01049": {
+   "name": "DeKalb",
+   "raw_name": "DEKALB",
+   "fips": "01049",
+   "is_mappable": true,
+   "votes_D": 3758,
+   "votes_R": 25633,
+   "votes_other": 269,
+   "total_votes": 29660,
+   "pct_D": 12.7,
+   "pct_R": 86.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 3488,
+     "votes_R": 24640,
+     "votes_other": 264
+    },
+    "mail": {
+     "votes_D": 269,
+     "votes_R": 991,
+     "votes_other": 5
+    },
+    "provisional": {
+     "votes_D": 1,
+     "votes_R": 2,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01051": {
+   "name": "Elmore",
+   "raw_name": "ELMORE",
+   "fips": "01051",
+   "is_mappable": true,
+   "votes_D": 9774,
+   "votes_R": 31374,
+   "votes_other": 476,
+   "total_votes": 41624,
+   "pct_D": 23.5,
+   "pct_R": 75.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 9169,
+     "votes_R": 29974,
+     "votes_other": 461
+    },
+    "mail": {
+     "votes_D": 595,
+     "votes_R": 1362,
+     "votes_other": 15
+    },
+    "provisional": {
+     "votes_D": 10,
+     "votes_R": 38,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01053": {
+   "name": "Escambia",
+   "raw_name": "ESCAMBIA",
+   "fips": "01053",
+   "is_mappable": true,
+   "votes_D": 3964,
+   "votes_R": 10884,
+   "votes_other": 109,
+   "total_votes": 14957,
+   "pct_D": 26.5,
+   "pct_R": 72.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 3775,
+     "votes_R": 10338,
+     "votes_other": 101
+    },
+    "mail": {
+     "votes_D": 181,
+     "votes_R": 528,
+     "votes_other": 6
+    },
+    "provisional": {
+     "votes_D": 8,
+     "votes_R": 18,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01055": {
+   "name": "Etowah",
+   "raw_name": "ETOWAH",
+   "fips": "01055",
+   "is_mappable": true,
+   "votes_D": 10027,
+   "votes_R": 35653,
+   "votes_other": 457,
+   "total_votes": 46137,
+   "pct_D": 21.7,
+   "pct_R": 77.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 8959,
+     "votes_R": 33898,
+     "votes_other": 443
+    },
+    "mail": {
+     "votes_D": 1010,
+     "votes_R": 1572,
+     "votes_other": 12
+    },
+    "provisional": {
+     "votes_D": 58,
+     "votes_R": 183,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01057": {
+   "name": "Fayette",
+   "raw_name": "FAYETTE",
+   "fips": "01057",
+   "is_mappable": true,
+   "votes_D": 1142,
+   "votes_R": 7158,
+   "votes_other": 69,
+   "total_votes": 8369,
+   "pct_D": 13.6,
+   "pct_R": 85.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 1075,
+     "votes_R": 6932,
+     "votes_other": 66
+    },
+    "mail": {
+     "votes_D": 66,
+     "votes_R": 222,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 1,
+     "votes_R": 4,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01059": {
+   "name": "Franklin",
+   "raw_name": "FRANKLIN",
+   "fips": "01059",
+   "is_mappable": true,
+   "votes_D": 1568,
+   "votes_R": 10417,
+   "votes_other": 112,
+   "total_votes": 12097,
+   "pct_D": 13.0,
+   "pct_R": 86.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 1478,
+     "votes_R": 10033,
+     "votes_other": 109
+    },
+    "mail": {
+     "votes_D": 88,
+     "votes_R": 371,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 2,
+     "votes_R": 13,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01061": {
+   "name": "Geneva",
+   "raw_name": "GENEVA",
+   "fips": "01061",
+   "is_mappable": true,
+   "votes_D": 1391,
+   "votes_R": 10929,
+   "votes_other": 81,
+   "total_votes": 12401,
+   "pct_D": 11.2,
+   "pct_R": 88.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 1323,
+     "votes_R": 10561,
+     "votes_other": 79
+    },
+    "mail": {
+     "votes_D": 66,
+     "votes_R": 363,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 2,
+     "votes_R": 5,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01063": {
+   "name": "Greene",
+   "raw_name": "GREENE",
+   "fips": "01063",
+   "is_mappable": true,
+   "votes_D": 3133,
+   "votes_R": 885,
+   "votes_other": 21,
+   "total_votes": 4039,
+   "pct_D": 77.6,
+   "pct_R": 21.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 2816,
+     "votes_R": 829,
+     "votes_other": 20
+    },
+    "mail": {
+     "votes_D": 315,
+     "votes_R": 56,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 2,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01065": {
+   "name": "Hale",
+   "raw_name": "HALE",
+   "fips": "01065",
+   "is_mappable": true,
+   "votes_D": 3868,
+   "votes_R": 3369,
+   "votes_other": 68,
+   "total_votes": 7305,
+   "pct_D": 53.0,
+   "pct_R": 46.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 3547,
+     "votes_R": 3243,
+     "votes_other": 65
+    },
+    "mail": {
+     "votes_D": 314,
+     "votes_R": 120,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 7,
+     "votes_R": 6,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01067": {
+   "name": "Henry",
+   "raw_name": "HENRY",
+   "fips": "01067",
+   "is_mappable": true,
+   "votes_D": 2263,
+   "votes_R": 6989,
+   "votes_other": 68,
+   "total_votes": 9320,
+   "pct_D": 24.3,
+   "pct_R": 75.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 2126,
+     "votes_R": 6622,
+     "votes_other": 67
+    },
+    "mail": {
+     "votes_D": 134,
+     "votes_R": 362,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 3,
+     "votes_R": 5,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01069": {
+   "name": "Houston",
+   "raw_name": "HOUSTON",
+   "fips": "01069",
+   "is_mappable": true,
+   "votes_D": 11352,
+   "votes_R": 32469,
+   "votes_other": 528,
+   "total_votes": 44349,
+   "pct_D": 25.6,
+   "pct_R": 73.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 10652,
+     "votes_R": 30684,
+     "votes_other": 503
+    },
+    "mail": {
+     "votes_D": 630,
+     "votes_R": 1597,
+     "votes_other": 23
+    },
+    "provisional": {
+     "votes_D": 70,
+     "votes_R": 188,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01071": {
+   "name": "Jackson",
+   "raw_name": "JACKSON",
+   "fips": "01071",
+   "is_mappable": true,
+   "votes_D": 3276,
+   "votes_R": 20073,
+   "votes_other": 207,
+   "total_votes": 23556,
+   "pct_D": 13.9,
+   "pct_R": 85.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 3040,
+     "votes_R": 19119,
+     "votes_other": 196
+    },
+    "mail": {
+     "votes_D": 234,
+     "votes_R": 954,
+     "votes_other": 11
+    },
+    "provisional": {
+     "votes_D": 2,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01073": {
+   "name": "Jefferson",
+   "raw_name": "JEFFERSON",
+   "fips": "01073",
+   "is_mappable": true,
+   "votes_D": 162112,
+   "votes_R": 131123,
+   "votes_other": 5469,
+   "total_votes": 298704,
+   "pct_D": 54.3,
+   "pct_R": 43.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 151257,
+     "votes_R": 126003,
+     "votes_other": 5305
+    },
+    "mail": {
+     "votes_D": 10576,
+     "votes_R": 4990,
+     "votes_other": 156
+    },
+    "provisional": {
+     "votes_D": 279,
+     "votes_R": 130,
+     "votes_other": 8
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01075": {
+   "name": "Lamar",
+   "raw_name": "LAMAR",
+   "fips": "01075",
+   "is_mappable": true,
+   "votes_D": 806,
+   "votes_R": 6033,
+   "votes_other": 51,
+   "total_votes": 6890,
+   "pct_D": 11.7,
+   "pct_R": 87.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 743,
+     "votes_R": 5695,
+     "votes_other": 49
+    },
+    "mail": {
+     "votes_D": 62,
+     "votes_R": 333,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 1,
+     "votes_R": 5,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01077": {
+   "name": "Lauderdale",
+   "raw_name": "LAUDERDALE",
+   "fips": "01077",
+   "is_mappable": true,
+   "votes_D": 10326,
+   "votes_R": 32708,
+   "votes_other": 603,
+   "total_votes": 43637,
+   "pct_D": 23.7,
+   "pct_R": 75.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 9601,
+     "votes_R": 31028,
+     "votes_other": 573
+    },
+    "mail": {
+     "votes_D": 698,
+     "votes_R": 1587,
+     "votes_other": 28
+    },
+    "provisional": {
+     "votes_D": 27,
+     "votes_R": 93,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01079": {
+   "name": "Lawrence",
+   "raw_name": "LAWRENCE",
+   "fips": "01079",
+   "is_mappable": true,
+   "votes_D": 2983,
+   "votes_R": 13024,
+   "votes_other": 115,
+   "total_votes": 16122,
+   "pct_D": 18.5,
+   "pct_R": 80.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 2844,
+     "votes_R": 12655,
+     "votes_other": 114
+    },
+    "mail": {
+     "votes_D": 133,
+     "votes_R": 309,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 6,
+     "votes_R": 60,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01081": {
+   "name": "Lee",
+   "raw_name": "LEE",
+   "fips": "01081",
+   "is_mappable": true,
+   "votes_D": 25798,
+   "votes_R": 46020,
+   "votes_other": 1309,
+   "total_votes": 73127,
+   "pct_D": 35.3,
+   "pct_R": 62.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 23857,
+     "votes_R": 43068,
+     "votes_other": 1251
+    },
+    "mail": {
+     "votes_D": 1866,
+     "votes_R": 2841,
+     "votes_other": 58
+    },
+    "provisional": {
+     "votes_D": 75,
+     "votes_R": 111,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01083": {
+   "name": "Limestone",
+   "raw_name": "LIMESTONE",
+   "fips": "01083",
+   "is_mappable": true,
+   "votes_D": 14581,
+   "votes_R": 37887,
+   "votes_other": 864,
+   "total_votes": 53332,
+   "pct_D": 27.3,
+   "pct_R": 71.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 13445,
+     "votes_R": 35481,
+     "votes_other": 826
+    },
+    "mail": {
+     "votes_D": 1044,
+     "votes_R": 2060,
+     "votes_other": 35
+    },
+    "provisional": {
+     "votes_D": 92,
+     "votes_R": 346,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01085": {
+   "name": "Lowndes",
+   "raw_name": "LOWNDES",
+   "fips": "01085",
+   "is_mappable": true,
+   "votes_D": 3867,
+   "votes_R": 1758,
+   "votes_other": 30,
+   "total_votes": 5655,
+   "pct_D": 68.4,
+   "pct_R": 31.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 3427,
+     "votes_R": 1662,
+     "votes_other": 26
+    },
+    "mail": {
+     "votes_D": 438,
+     "votes_R": 93,
+     "votes_other": 4
+    },
+    "provisional": {
+     "votes_D": 2,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01087": {
+   "name": "Macon",
+   "raw_name": "MACON",
+   "fips": "01087",
+   "is_mappable": true,
+   "votes_D": 6084,
+   "votes_R": 1682,
+   "votes_other": 68,
+   "total_votes": 7834,
+   "pct_D": 77.7,
+   "pct_R": 21.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 5615,
+     "votes_R": 1607,
+     "votes_other": 65
+    },
+    "mail": {
+     "votes_D": 454,
+     "votes_R": 74,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 15,
+     "votes_R": 1,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01089": {
+   "name": "Madison",
+   "raw_name": "MADISON",
+   "fips": "01089",
+   "is_mappable": true,
+   "votes_D": 87824,
+   "votes_R": 105430,
+   "votes_other": 4363,
+   "total_votes": 197617,
+   "pct_D": 44.4,
+   "pct_R": 53.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 79643,
+     "votes_R": 97543,
+     "votes_other": 4130
+    },
+    "mail": {
+     "votes_D": 7866,
+     "votes_R": 7606,
+     "votes_other": 219
+    },
+    "provisional": {
+     "votes_D": 315,
+     "votes_R": 281,
+     "votes_other": 14
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01091": {
+   "name": "Marengo",
+   "raw_name": "MARENGO",
+   "fips": "01091",
+   "is_mappable": true,
+   "votes_D": 4631,
+   "votes_R": 4995,
+   "votes_other": 56,
+   "total_votes": 9682,
+   "pct_D": 47.8,
+   "pct_R": 51.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 4286,
+     "votes_R": 4659,
+     "votes_other": 52
+    },
+    "mail": {
+     "votes_D": 335,
+     "votes_R": 331,
+     "votes_other": 4
+    },
+    "provisional": {
+     "votes_D": 10,
+     "votes_R": 5,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01093": {
+   "name": "Marion",
+   "raw_name": "MARION",
+   "fips": "01093",
+   "is_mappable": true,
+   "votes_D": 1197,
+   "votes_R": 12245,
+   "votes_other": 101,
+   "total_votes": 13543,
+   "pct_D": 8.8,
+   "pct_R": 90.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 1141,
+     "votes_R": 11849,
+     "votes_other": 98
+    },
+    "mail": {
+     "votes_D": 55,
+     "votes_R": 389,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 1,
+     "votes_R": 7,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01095": {
+   "name": "Marshall",
+   "raw_name": "MARSHALL",
+   "fips": "01095",
+   "is_mappable": true,
+   "votes_D": 5553,
+   "votes_R": 34434,
+   "votes_other": 401,
+   "total_votes": 40388,
+   "pct_D": 13.7,
+   "pct_R": 85.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 5185,
+     "votes_R": 32995,
+     "votes_other": 383
+    },
+    "mail": {
+     "votes_D": 351,
+     "votes_R": 1356,
+     "votes_other": 17
+    },
+    "provisional": {
+     "votes_D": 17,
+     "votes_R": 83,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01097": {
+   "name": "Mobile",
+   "raw_name": "MOBILE",
+   "fips": "01097",
+   "is_mappable": true,
+   "votes_D": 72055,
+   "votes_R": 100759,
+   "votes_other": 2350,
+   "total_votes": 175164,
+   "pct_D": 41.1,
+   "pct_R": 57.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 66716,
+     "votes_R": 96035,
+     "votes_other": 2245
+    },
+    "mail": {
+     "votes_D": 4563,
+     "votes_R": 3946,
+     "votes_other": 86
+    },
+    "provisional": {
+     "votes_D": 776,
+     "votes_R": 778,
+     "votes_other": 19
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01099": {
+   "name": "Monroe",
+   "raw_name": "MONROE",
+   "fips": "01099",
+   "is_mappable": true,
+   "votes_D": 3740,
+   "votes_R": 6007,
+   "votes_other": 68,
+   "total_votes": 9815,
+   "pct_D": 38.1,
+   "pct_R": 61.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 3250,
+     "votes_R": 5721,
+     "votes_other": 62
+    },
+    "mail": {
+     "votes_D": 486,
+     "votes_R": 276,
+     "votes_other": 6
+    },
+    "provisional": {
+     "votes_D": 4,
+     "votes_R": 10,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01101": {
+   "name": "Montgomery",
+   "raw_name": "MONTGOMERY",
+   "fips": "01101",
+   "is_mappable": true,
+   "votes_D": 57946,
+   "votes_R": 30477,
+   "votes_other": 1375,
+   "total_votes": 89798,
+   "pct_D": 64.5,
+   "pct_R": 33.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 53222,
+     "votes_R": 28207,
+     "votes_other": 1305
+    },
+    "mail": {
+     "votes_D": 4512,
+     "votes_R": 2197,
+     "votes_other": 67
+    },
+    "provisional": {
+     "votes_D": 212,
+     "votes_R": 73,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01103": {
+   "name": "Morgan",
+   "raw_name": "MORGAN",
+   "fips": "01103",
+   "is_mappable": true,
+   "votes_D": 12392,
+   "votes_R": 40449,
+   "votes_other": 702,
+   "total_votes": 53543,
+   "pct_D": 23.1,
+   "pct_R": 75.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 11660,
+     "votes_R": 38693,
+     "votes_other": 672
+    },
+    "mail": {
+     "votes_D": 683,
+     "votes_R": 1617,
+     "votes_other": 30
+    },
+    "provisional": {
+     "votes_D": 49,
+     "votes_R": 139,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01105": {
+   "name": "Perry",
+   "raw_name": "PERRY",
+   "fips": "01105",
+   "is_mappable": true,
+   "votes_D": 3174,
+   "votes_R": 1269,
+   "votes_other": 22,
+   "total_votes": 4465,
+   "pct_D": 71.1,
+   "pct_R": 28.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 2620,
+     "votes_R": 1197,
+     "votes_other": 19
+    },
+    "mail": {
+     "votes_D": 550,
+     "votes_R": 71,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 4,
+     "votes_R": 1,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01107": {
+   "name": "Pickens",
+   "raw_name": "PICKENS",
+   "fips": "01107",
+   "is_mappable": true,
+   "votes_D": 3388,
+   "votes_R": 5465,
+   "votes_other": 59,
+   "total_votes": 8912,
+   "pct_D": 38.0,
+   "pct_R": 61.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 3194,
+     "votes_R": 5196,
+     "votes_other": 57
+    },
+    "mail": {
+     "votes_D": 191,
+     "votes_R": 259,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 3,
+     "votes_R": 10,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01109": {
+   "name": "Pike",
+   "raw_name": "PIKE",
+   "fips": "01109",
+   "is_mappable": true,
+   "votes_D": 4899,
+   "votes_R": 8224,
+   "votes_other": 111,
+   "total_votes": 13234,
+   "pct_D": 37.0,
+   "pct_R": 62.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 4711,
+     "votes_R": 7905,
+     "votes_other": 109
+    },
+    "mail": {
+     "votes_D": 171,
+     "votes_R": 308,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 17,
+     "votes_R": 11,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01111": {
+   "name": "Randolph",
+   "raw_name": "RANDOLPH",
+   "fips": "01111",
+   "is_mappable": true,
+   "votes_D": 1920,
+   "votes_R": 9102,
+   "votes_other": 69,
+   "total_votes": 11091,
+   "pct_D": 17.3,
+   "pct_R": 82.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 1807,
+     "votes_R": 8561,
+     "votes_other": 67
+    },
+    "mail": {
+     "votes_D": 113,
+     "votes_R": 539,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 2,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01113": {
+   "name": "Russell",
+   "raw_name": "RUSSELL",
+   "fips": "01113",
+   "is_mappable": true,
+   "votes_D": 10422,
+   "votes_R": 10078,
+   "votes_other": 218,
+   "total_votes": 20718,
+   "pct_D": 50.3,
+   "pct_R": 48.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 9308,
+     "votes_R": 9449,
+     "votes_other": 203
+    },
+    "mail": {
+     "votes_D": 1097,
+     "votes_R": 608,
+     "votes_other": 13
+    },
+    "provisional": {
+     "votes_D": 17,
+     "votes_R": 21,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01117": {
+   "name": "Shelby",
+   "raw_name": "SHELBY",
+   "fips": "01117",
+   "is_mappable": true,
+   "votes_D": 33087,
+   "votes_R": 79666,
+   "votes_other": 1945,
+   "total_votes": 114698,
+   "pct_D": 28.8,
+   "pct_R": 69.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 31116,
+     "votes_R": 75704,
+     "votes_other": 1857
+    },
+    "mail": {
+     "votes_D": 1918,
+     "votes_R": 3870,
+     "votes_other": 87
+    },
+    "provisional": {
+     "votes_D": 53,
+     "votes_R": 92,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01115": {
+   "name": "St. Clair",
+   "raw_name": "ST. CLAIR",
+   "fips": "01115",
+   "is_mappable": true,
+   "votes_D": 7640,
+   "votes_R": 35501,
+   "votes_other": 385,
+   "total_votes": 43526,
+   "pct_D": 17.6,
+   "pct_R": 81.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 6921,
+     "votes_R": 33149,
+     "votes_other": 356
+    },
+    "mail": {
+     "votes_D": 562,
+     "votes_R": 1724,
+     "votes_other": 14
+    },
+    "provisional": {
+     "votes_D": 157,
+     "votes_R": 628,
+     "votes_other": 15
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01119": {
+   "name": "Sumter",
+   "raw_name": "SUMTER",
+   "fips": "01119",
+   "is_mappable": true,
+   "votes_D": 3725,
+   "votes_R": 1542,
+   "votes_other": 40,
+   "total_votes": 5307,
+   "pct_D": 70.2,
+   "pct_R": 29.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 3298,
+     "votes_R": 1464,
+     "votes_other": 38
+    },
+    "mail": {
+     "votes_D": 424,
+     "votes_R": 78,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 3,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01121": {
+   "name": "Talladega",
+   "raw_name": "TALLADEGA",
+   "fips": "01121",
+   "is_mappable": true,
+   "votes_D": 10898,
+   "votes_R": 22100,
+   "votes_other": 252,
+   "total_votes": 33250,
+   "pct_D": 32.8,
+   "pct_R": 66.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 10345,
+     "votes_R": 21231,
+     "votes_other": 245
+    },
+    "mail": {
+     "votes_D": 533,
+     "votes_R": 839,
+     "votes_other": 7
+    },
+    "provisional": {
+     "votes_D": 20,
+     "votes_R": 30,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01123": {
+   "name": "Tallapoosa",
+   "raw_name": "TALLAPOOSA",
+   "fips": "01123",
+   "is_mappable": true,
+   "votes_D": 4975,
+   "votes_R": 14884,
+   "votes_other": 164,
+   "total_votes": 20023,
+   "pct_D": 24.8,
+   "pct_R": 74.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 4674,
+     "votes_R": 14106,
+     "votes_other": 152
+    },
+    "mail": {
+     "votes_D": 301,
+     "votes_R": 775,
+     "votes_other": 12
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01125": {
+   "name": "Tuscaloosa",
+   "raw_name": "TUSCALOOSA",
+   "fips": "01125",
+   "is_mappable": true,
+   "votes_D": 33399,
+   "votes_R": 50724,
+   "votes_other": 1133,
+   "total_votes": 85256,
+   "pct_D": 39.2,
+   "pct_R": 59.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 31372,
+     "votes_R": 48371,
+     "votes_other": 1092
+    },
+    "mail": {
+     "votes_D": 1950,
+     "votes_R": 2246,
+     "votes_other": 40
+    },
+    "provisional": {
+     "votes_D": 77,
+     "votes_R": 107,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01127": {
+   "name": "Walker",
+   "raw_name": "WALKER",
+   "fips": "01127",
+   "is_mappable": true,
+   "votes_D": 4102,
+   "votes_R": 25464,
+   "votes_other": 220,
+   "total_votes": 29786,
+   "pct_D": 13.8,
+   "pct_R": 85.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 3903,
+     "votes_R": 24731,
+     "votes_other": 216
+    },
+    "mail": {
+     "votes_D": 189,
+     "votes_R": 662,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 10,
+     "votes_R": 71,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01129": {
+   "name": "Washington",
+   "raw_name": "WASHINGTON",
+   "fips": "01129",
+   "is_mappable": true,
+   "votes_D": 1863,
+   "votes_R": 6534,
+   "votes_other": 44,
+   "total_votes": 8441,
+   "pct_D": 22.1,
+   "pct_R": 77.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 1749,
+     "votes_R": 6193,
+     "votes_other": 40
+    },
+    "mail": {
+     "votes_D": 110,
+     "votes_R": 333,
+     "votes_other": 4
+    },
+    "provisional": {
+     "votes_D": 4,
+     "votes_R": 8,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01131": {
+   "name": "Wilcox",
+   "raw_name": "WILCOX",
+   "fips": "01131",
+   "is_mappable": true,
+   "votes_D": 3449,
+   "votes_R": 1793,
+   "votes_other": 21,
+   "total_votes": 5263,
+   "pct_D": 65.5,
+   "pct_R": 34.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 2861,
+     "votes_R": 1693,
+     "votes_other": 18
+    },
+    "mail": {
+     "votes_D": 588,
+     "votes_R": 100,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "01133": {
+   "name": "Winston",
+   "raw_name": "WINSTON",
+   "fips": "01133",
+   "is_mappable": true,
+   "votes_D": 884,
+   "votes_R": 10191,
+   "votes_other": 74,
+   "total_votes": 11149,
+   "pct_D": 7.9,
+   "pct_R": 91.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 833,
+     "votes_R": 9792,
+     "votes_other": 72
+    },
+    "mail": {
+     "votes_D": 50,
+     "votes_R": 398,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 1,
+     "votes_R": 1,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  }
+ }
+}

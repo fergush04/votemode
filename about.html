@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About · VoteMode</title>
+<meta name="description" content="How VoteMode categorizes votes by method, grades reporting quality, and sources 2024 presidential election data.">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@ferghugg">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23FAFAF8'/%3E%3Crect x='5' y='14' width='9' height='13' rx='1.5' fill='%23A83232'/%3E%3Crect x='18' y='5' width='9' height='22' rx='1.5' fill='%231F5C8B'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #FAFAF8; --bg-panel: #FFFFFF; --ink: #1A1A1A; --ink-secondary: #57564E;
+  --ink-tertiary: #8C8B82; --hairline: #E3E1D9; --hairline-strong: #C8C6BC;
+  --red: #A83232; --blue: #1F5C8B; --green: #3B6D11;
+  --font-serif: 'Source Serif 4', serif; --font-sans: 'Inter', sans-serif; --font-mono: 'JetBrains Mono', monospace;
+  --radius-md: 8px;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font-sans); line-height: 1.6; }
+.topbar {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 14px 28px; border-bottom: 1px solid var(--hairline); background: var(--bg-panel);
+  position: sticky; top: 0; z-index: 10;
+}
+.brand { font-family: var(--font-serif); font-size: 21px; font-weight: 700; letter-spacing: -0.3px; }
+.brand .accent { color: var(--red); }
+.back-link {
+  font-size: 13px; font-weight: 600; color: var(--ink-secondary); text-decoration: none;
+  border: 1px solid var(--hairline); border-radius: var(--radius-md); padding: 7px 14px; background: var(--bg-panel);
+}
+.back-link:hover { background: var(--bg); }
+.page { max-width: 760px; margin: 0 auto; padding: 48px 24px 90px; }
+h1 { font-family: var(--font-serif); font-size: 34px; font-weight: 700; letter-spacing: -0.5px; margin-bottom: 10px; }
+.lede { font-size: 16px; color: var(--ink-secondary); margin-bottom: 42px; max-width: 620px; }
+h2 {
+  font-family: var(--font-serif); font-size: 23px; font-weight: 700; margin: 44px 0 6px;
+  padding-top: 26px; border-top: 1px solid var(--hairline);
+}
+h3 { font-size: 14px; font-weight: 700; margin: 22px 0 6px; }
+p { font-size: 14.5px; color: var(--ink-secondary); margin-bottom: 12px; }
+p strong { color: var(--ink); }
+table { width: 100%; border-collapse: collapse; margin: 14px 0 20px; font-size: 13.5px; }
+th { text-align: left; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-tertiary); padding: 6px 10px 6px 0; border-bottom: 1px solid var(--hairline-strong); }
+td { padding: 8px 10px 8px 0; border-bottom: 1px solid var(--hairline); color: var(--ink-secondary); vertical-align: top; }
+td:first-child { white-space: nowrap; font-weight: 600; color: var(--ink); }
+code, .mono { font-family: var(--font-mono); font-size: 12.5px; background: var(--bg); border: 1px solid var(--hairline); border-radius: 4px; padding: 1px 5px; }
+.grade { display: inline-block; font-family: var(--font-mono); font-weight: 600; font-size: 12px; border-radius: 5px; padding: 2px 8px; margin-right: 4px; }
+.g-c6 { background: #2F5C0E22; color: #2F5C0E; } .g-c5 { background: #3B6D1122; color: #3B6D11; }
+.g-c4 { background: #5C8A2A22; color: #5C8A2A; } .g-c3 { background: #7FA84D33; color: #5d7a35; }
+.g-c2 { background: #A8B97B44; color: #6d7a4a; } .g-c1 { background: #C7C8A855; color: #75765c; }
+.g-u  { background: #B8B6AB44; color: #6d6c64; } .g-f  { background: #D9534F22; color: #D9534F; }
+ul.tight { margin: 0 0 14px 20px; }
+ul.tight li { font-size: 14.5px; color: var(--ink-secondary); margin-bottom: 7px; }
+.contact-card {
+  border: 1px solid var(--hairline); border-radius: var(--radius-md); background: var(--bg-panel);
+  padding: 20px 24px; margin-top: 18px;
+}
+.contact-card a { color: var(--blue); font-weight: 600; text-decoration: none; }
+.contact-card a:hover { text-decoration: underline; }
+.footnote { font-size: 12.5px; color: var(--ink-tertiary); margin-top: 34px; padding-top: 16px; border-top: 1px solid var(--hairline); }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="brand"><span class="accent">Vote</span>Mode</div>
+  <a class="back-link" href="index.html">&larr; Back to the map</a>
+</div>
+
+<div class="page">
+  <h1>About VoteMode</h1>
+  <h2>How votes are categorized</h2>
+  <p>
+    Every reporting unit's votes are sorted into the method categories its state or county
+    actually publishes. Categories are never inferred: if a source doesn't separate two
+    methods, they stay merged here.
+  </p>
+  <table>
+    <tr><th>Category</th><th>What it covers</th></tr>
+    <tr><td>Election day</td><td>Ballots cast in person at a polling place or vote center on election day.</td></tr>
+    <tr><td>Early in-person</td><td>Ballots cast in person before election day at early-voting sites or vote centers.</td></tr>
+    <tr><td>In-person</td><td>In-person ballots where the source doesn't distinguish election day from early (e.g., Hawaii's voter service centers).</td></tr>
+    <tr><td>Mail / absentee</td><td>Ballots returned by mail or drop box and received by the state's deadline.</td></tr>
+    <tr><td>Late mail</td><td>Mail arriving after election day under a postmark grace period, where reported separately (e.g., Maryland, Virginia).</td></tr>
+    <tr><td>Pre-election day</td><td>All ballots cast before election day where early in-person and mail can't be separated (e.g., Arizona's "early ballots," Iowa's absentee).</td></tr>
+    <tr><td>Late pre-election day</td><td>Pre-election-day ballots processed after election day: Arizona's "late earlies."</td></tr>
+    <tr><td>Provisional</td><td>Ballots held for eligibility review and counted after verification.</td></tr>
+    <tr><td>Affidavit</td><td>New York's name for provisional ballots.</td></tr>
+    <tr><td>Overseas</td><td>Military and overseas (UOCAVA) ballots reported statewide rather than by locality, shown as a pill at the bottom of the map (Alaska, Maine, Rhode Island).</td></tr>
+    <tr><td>Unallocated</td><td>Votes a source reported without assigning a method. Kept as their own row, never redistributed.</td></tr>
+    <tr><td>Total</td><td>Used when a unit publishes only a combined total, with no method split at all.</td></tr>
+  </table>
+
+  <h2>Reporting quality grades</h2>
+  <p>
+    Every county, town, district, and ward carries a grade describing how rich its published
+    method breakdown is. The grade measures the <strong>source's reporting</strong>, not the
+    accuracy of the votes themselves.
+  </p>
+  <table>
+    <tr><th>Grade</th><th>Meaning</th></tr>
+    <tr><td><span class="grade g-c6">C6</span> – <span class="grade g-c1">C1</span></td>
+        <td>The number of distinct vote methods the source breaks out. A <span class="grade g-c5">C5</span> county reports five separate methods (say, election day, early, mail, late mail, provisional); a <span class="grade g-c1">C1</span> county reports just one.</td></tr>
+    <tr><td><span class="grade g-u">U</span></td><td>Totals only: the unit publishes a single combined number with no method split. Entire states fall here (e.g., Colorado, Wisconsin, Massachusetts) because their official results carry no breakdown.</td></tr>
+    <tr><td><span class="grade g-f">F</span></td><td>Not yet sourced. Reserved for units with no usable data; none currently on the map.</td></tr>
+  </table>
+  <p>
+    A state's headline grade is the most common grade among its units. The coverage strip in
+    each state's sidebar shows the full distribution, and the Coverage map view colors every
+    unit by its grade.
+  </p>
+
+  <h2>Official vs. unofficial results</h2>
+  <p>
+    About 92% of units carry <strong>certified official results</strong>. The rest were
+    captured from county or state reporting pages ahead of certification and are flagged
+    unofficial in each unit's source note. Every unit records its deviation from the certified
+    total where one exists, and a firm rule applies throughout: <strong>numbers are never
+    scaled, corrected, or redistributed</strong> to force agreement with certified totals;
+    deviations are recorded and disclosed instead.
+  </p>
+
+  <h2>Unallocated votes &amp; quality standards</h2>
+  <p>
+    Some counties publish method breakdowns that don't cover every ballot; the remainder is
+    kept as an explicit <strong>unallocated</strong> row (83 units, mostly in New Mexico,
+    Florida, and New York). Sources are held to these standards before a breakdown is used:
+  </p>
+  <ul class="tight">
+    <li>A breakdown must reconcile with the certified county total to within about 1%; larger deviations are recorded in the unit's source note, never corrected.</li>
+    <li>A source under-counting the certified total by more than 5% is rejected and flagged for re-sourcing.</li>
+    <li>A county whose breakdown leaves the majority of votes unallocated is treated as totals-only (<span class="grade g-u">U</span>) rather than presented as a meaningful split.</li>
+    <li>Merged reporting units are shown as their sources report them, e.g., Maine's Albion/Unity Twp, rather than split by estimate.</li>
+  </ul>
+
+  <h2>Sources &amp; credits</h2>
+  <table>
+    <tr><th>Data</th><th>Source</th></tr>
+    <tr><td>Election returns</td><td>MIT Election Data + Science Lab (MEDSL) precinct-level returns; state Secretary of State certified results (web and PDF); county Statements of Vote; OpenElections; Ballotpedia. Each unit's source is named in its panel.</td></tr>
+    <tr><td>Boundaries</td><td>U.S. Census Bureau cartographic boundary files (1:500k, 2023) for counties and New England towns; Maine GeoLibrary (METWP24) for Maine townships; Vermont Center for Geographic Information; Census TIGERweb for New Hampshire's grants and purchases.</td></tr>
+    <tr><td>City labels</td><td>GeoNames gazetteer.</td></tr>
+  </table>
+
+  <h2>Known gaps &amp; quirks</h2>
+  <ul class="tight">
+    <li><strong>Kalawao County, HI</strong> (18 votes) is blank: its result is reported merged into Maui in the source data and no official method split exists.</li>
+    <li><strong>Vermont's unincorporated gores and grants</strong> (Buels Gore, Averill, and seven others) are grey; they have no voters.</li>
+    <li><strong>Statewide ballots</strong> that belong to no geography (Alaska's federal overseas district, Maine's UOCAVA ballots, Rhode Island's federal-only ballots) appear as a clickable pill below the map.</li>
+    <li><strong>California</strong> offers early voting in most counties, but counties report it inside their mail and election day columns, so it can't be separated (see California's state profile).</li>
+    <li><strong>Rhode Island's "limited" ballots</strong> (presidential-only ballots from late registrants) are folded into their municipalities, matching how every other town reports them.</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <div class="contact-card">
+    <p style="margin-bottom:6px;"><strong>Found a bug? Have better data?</strong></p>
+    <p style="margin-bottom:0;">
+      Reach out on X: <a href="https://x.com/ferghugg" target="_blank" rel="noopener">@ferghugg</a>,
+      bug reports, corrections, new or richer sources for any state, and requests for access to
+      the raw and processed data are all welcome. DMs are open.
+    </p>
+  </div>
+
+  <p class="footnote">
+    VoteMode is an independent project. Results are presented as reported by their sources;
+    grades describe reporting richness, not vote accuracy. Last data build: July 2026.
+  </p>
+</div>
+
+</body>
+</html>

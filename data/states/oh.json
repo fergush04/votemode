@@ -1,0 +1,2480 @@
+{
+ "state": "Ohio",
+ "state_abbr": "OH",
+ "unit_type": "county",
+ "avg_completeness": "U",
+ "completeness_breakdown": {
+  "U": 63,
+  "C4": 11,
+  "C3": 10,
+  "C2": 1,
+  "C6": 1,
+  "C5": 2
+ },
+ "votes_D": 2533701,
+ "votes_R": 3180118,
+ "votes_other": 54825,
+ "total_votes": 5768644,
+ "pct_D": 43.9,
+ "pct_R": 55.1,
+ "unit_count": 88,
+ "state_profile": {
+  "voting_summary": "Ohio pairs four weeks of no-excuse early and mail voting with an election day majority; about half of published results carry a method breakdown. Polls close at 7:30 p.m. Eastern; pre-processed early and mail ballots are released almost immediately, a Democratic-leaning first dump (early in-person D+14, mail D+30), before election day precincts (R+4) pull the state back through the night. Mail postmarked the day before election day is accepted for four days, leaving a small late blue tail plus provisionals counted over ten days.",
+  "reporting_notes": "",
+  "tags": [
+   "Pre-processed",
+   "Blue mirage",
+   "No-excuse mail",
+   "Fast count"
+  ],
+  "mode_split": {
+   "total": 53.5,
+   "election_day": 22.0,
+   "early_in_person": 14.2,
+   "mail": 7.7,
+   "pre_election_day": 1.7,
+   "provisional": 0.7,
+   "unallocated": 0.2,
+   "late_mail": 0.0
+  }
+ },
+ "units": {
+  "39001": {
+   "name": "Adams",
+   "raw_name": "ADAMS",
+   "fips": "39001",
+   "is_mappable": true,
+   "votes_D": 2098,
+   "votes_R": 10269,
+   "votes_other": 62,
+   "total_votes": 12429,
+   "pct_D": 16.9,
+   "pct_R": 82.6,
+   "modes": {
+    "total": {
+     "votes_D": 2098,
+     "votes_R": 10269,
+     "votes_other": 62
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39003": {
+   "name": "Allen",
+   "raw_name": "ALLEN",
+   "fips": "39003",
+   "is_mappable": true,
+   "votes_D": 12754,
+   "votes_R": 33201,
+   "votes_other": 406,
+   "total_votes": 46361,
+   "pct_D": 27.5,
+   "pct_R": 71.6,
+   "modes": {
+    "total": {
+     "votes_D": 12754,
+     "votes_R": 33201,
+     "votes_other": 406
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39005": {
+   "name": "Ashland",
+   "raw_name": "ASHLAND",
+   "fips": "39005",
+   "is_mappable": true,
+   "votes_D": 6544,
+   "votes_R": 19863,
+   "votes_other": 255,
+   "total_votes": 26662,
+   "pct_D": 24.5,
+   "pct_R": 74.5,
+   "modes": {
+    "total": {
+     "votes_D": 6544,
+     "votes_R": 19863,
+     "votes_other": 255
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39007": {
+   "name": "Ashtabula",
+   "raw_name": "ASHTABULA",
+   "fips": "39007",
+   "is_mappable": true,
+   "votes_D": 15345,
+   "votes_R": 27656,
+   "votes_other": 367,
+   "total_votes": 43368,
+   "pct_D": 35.4,
+   "pct_R": 63.8,
+   "modes": {
+    "total": {
+     "votes_D": 15345,
+     "votes_R": 27656,
+     "votes_other": 367
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39009": {
+   "name": "Athens",
+   "raw_name": "ATHENS",
+   "fips": "39009",
+   "is_mappable": true,
+   "votes_D": 14134,
+   "votes_R": 11369,
+   "votes_other": 223,
+   "total_votes": 25726,
+   "pct_D": 54.9,
+   "pct_R": 44.2,
+   "modes": {
+    "total": {
+     "votes_D": 14134,
+     "votes_R": 11369,
+     "votes_other": 223
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39011": {
+   "name": "Auglaize",
+   "raw_name": "AUGLAIZE",
+   "fips": "39011",
+   "is_mappable": true,
+   "votes_D": 4442,
+   "votes_R": 20988,
+   "votes_other": 0,
+   "total_votes": 25430,
+   "pct_D": 17.5,
+   "pct_R": 82.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1492,
+     "votes_R": 6494,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 1922,
+     "votes_R": 12167,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 985,
+     "votes_R": 2069,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 43,
+     "votes_R": 258,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39013": {
+   "name": "Belmont",
+   "raw_name": "BELMONT",
+   "fips": "39013",
+   "is_mappable": true,
+   "votes_D": 8080,
+   "votes_R": 22758,
+   "votes_other": 194,
+   "total_votes": 31032,
+   "pct_D": 26.0,
+   "pct_R": 73.3,
+   "modes": {
+    "total": {
+     "votes_D": 8080,
+     "votes_R": 22758,
+     "votes_other": 194
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39015": {
+   "name": "Brown",
+   "raw_name": "BROWN",
+   "fips": "39015",
+   "is_mappable": true,
+   "votes_D": 4069,
+   "votes_R": 17257,
+   "votes_other": 116,
+   "total_votes": 21442,
+   "pct_D": 19.0,
+   "pct_R": 80.5,
+   "modes": {
+    "total": {
+     "votes_D": 4069,
+     "votes_R": 17257,
+     "votes_other": 116
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39017": {
+   "name": "Butler",
+   "raw_name": "BUTLER",
+   "fips": "39017",
+   "is_mappable": true,
+   "votes_D": 66713,
+   "votes_R": 114831,
+   "votes_other": 1598,
+   "total_votes": 183142,
+   "pct_D": 36.4,
+   "pct_R": 62.7,
+   "modes": {
+    "total": {
+     "votes_D": 66713,
+     "votes_R": 114831,
+     "votes_other": 1598
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39019": {
+   "name": "Carroll",
+   "raw_name": "CARROLL",
+   "fips": "39019",
+   "is_mappable": true,
+   "votes_D": 3071,
+   "votes_R": 10634,
+   "votes_other": 113,
+   "total_votes": 13818,
+   "pct_D": 22.2,
+   "pct_R": 77.0,
+   "modes": {
+    "total": {
+     "votes_D": 3071,
+     "votes_R": 10634,
+     "votes_other": 113
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39021": {
+   "name": "Champaign",
+   "raw_name": "CHAMPAIGN",
+   "fips": "39021",
+   "is_mappable": true,
+   "votes_D": 4944,
+   "votes_R": 15334,
+   "votes_other": 190,
+   "total_votes": 20468,
+   "pct_D": 24.2,
+   "pct_R": 74.9,
+   "modes": {
+    "total": {
+     "votes_D": 4944,
+     "votes_R": 15334,
+     "votes_other": 190
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39023": {
+   "name": "Clark",
+   "raw_name": "CLARK",
+   "fips": "39023",
+   "is_mappable": true,
+   "votes_D": 21847,
+   "votes_R": 40403,
+   "votes_other": 0,
+   "total_votes": 62250,
+   "pct_D": 35.1,
+   "pct_R": 64.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 8052,
+     "votes_R": 12613,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 9081,
+     "votes_R": 22775,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 4407,
+     "votes_R": 4327,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 307,
+     "votes_R": 688,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39025": {
+   "name": "Clermont",
+   "raw_name": "CLERMONT",
+   "fips": "39025",
+   "is_mappable": true,
+   "votes_D": 36130,
+   "votes_R": 76964,
+   "votes_other": 1021,
+   "total_votes": 114115,
+   "pct_D": 31.7,
+   "pct_R": 67.4,
+   "modes": {
+    "total": {
+     "votes_D": 36130,
+     "votes_R": 76964,
+     "votes_other": 1021
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39027": {
+   "name": "Clinton",
+   "raw_name": "CLINTON",
+   "fips": "39027",
+   "is_mappable": true,
+   "votes_D": 4633,
+   "votes_R": 15984,
+   "votes_other": 162,
+   "total_votes": 20779,
+   "pct_D": 22.3,
+   "pct_R": 76.9,
+   "modes": {
+    "total": {
+     "votes_D": 4633,
+     "votes_R": 15984,
+     "votes_other": 162
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39029": {
+   "name": "Columbiana",
+   "raw_name": "COLUMBIANA",
+   "fips": "39029",
+   "is_mappable": true,
+   "votes_D": 12064,
+   "votes_R": 35607,
+   "votes_other": 375,
+   "total_votes": 48046,
+   "pct_D": 25.1,
+   "pct_R": 74.1,
+   "modes": {
+    "total": {
+     "votes_D": 12064,
+     "votes_R": 35607,
+     "votes_other": 375
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39031": {
+   "name": "Coshocton",
+   "raw_name": "COSHOCTON",
+   "fips": "39031",
+   "is_mappable": true,
+   "votes_D": 3835,
+   "votes_R": 12362,
+   "votes_other": 136,
+   "total_votes": 16333,
+   "pct_D": 23.5,
+   "pct_R": 75.7,
+   "modes": {
+    "total": {
+     "votes_D": 3835,
+     "votes_R": 12362,
+     "votes_other": 136
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39033": {
+   "name": "Crawford",
+   "raw_name": "CRAWFORD",
+   "fips": "39033",
+   "is_mappable": true,
+   "votes_D": 4683,
+   "votes_R": 15402,
+   "votes_other": 156,
+   "total_votes": 20241,
+   "pct_D": 23.1,
+   "pct_R": 76.1,
+   "modes": {
+    "total": {
+     "votes_D": 4683,
+     "votes_R": 15402,
+     "votes_other": 156
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39035": {
+   "name": "Cuyahoga",
+   "raw_name": "CUYAHOGA",
+   "fips": "39035",
+   "is_mappable": true,
+   "votes_D": 376385,
+   "votes_R": 195165,
+   "votes_other": 4342,
+   "total_votes": 575892,
+   "pct_D": 65.4,
+   "pct_R": 33.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 47314,
+     "votes_R": 14602,
+     "votes_other": 187
+    },
+    "election_day": {
+     "votes_D": 207639,
+     "votes_R": 128725,
+     "votes_other": 2828
+    },
+    "mail": {
+     "votes_D": 114218,
+     "votes_R": 48157,
+     "votes_other": 1224
+    },
+    "provisional": {
+     "votes_D": 7214,
+     "votes_R": 3681,
+     "votes_other": 103
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39037": {
+   "name": "Darke",
+   "raw_name": "DARKE",
+   "fips": "39037",
+   "is_mappable": true,
+   "votes_D": 4583,
+   "votes_R": 22234,
+   "votes_other": 242,
+   "total_votes": 27059,
+   "pct_D": 16.9,
+   "pct_R": 82.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1831,
+     "votes_R": 8089,
+     "votes_other": 40
+    },
+    "election_day": {
+     "votes_D": 1817,
+     "votes_R": 11905,
+     "votes_other": 165
+    },
+    "mail": {
+     "votes_D": 900,
+     "votes_R": 1897,
+     "votes_other": 35
+    },
+    "provisional": {
+     "votes_D": 35,
+     "votes_R": 343,
+     "votes_other": 2
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39039": {
+   "name": "Defiance",
+   "raw_name": "DEFIANCE",
+   "fips": "39039",
+   "is_mappable": true,
+   "votes_D": 5667,
+   "votes_R": 13302,
+   "votes_other": 184,
+   "total_votes": 19153,
+   "pct_D": 29.6,
+   "pct_R": 69.5,
+   "modes": {
+    "total": {
+     "votes_D": 5667,
+     "votes_R": 13302,
+     "votes_other": 184
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39041": {
+   "name": "Delaware",
+   "raw_name": "DELAWARE",
+   "fips": "39041",
+   "is_mappable": true,
+   "votes_D": 61657,
+   "votes_R": 70448,
+   "votes_other": 1252,
+   "total_votes": 133357,
+   "pct_D": 46.2,
+   "pct_R": 52.8,
+   "modes": {
+    "total": {
+     "votes_D": 61657,
+     "votes_R": 70448,
+     "votes_other": 1252
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39043": {
+   "name": "Erie",
+   "raw_name": "ERIE",
+   "fips": "39043",
+   "is_mappable": true,
+   "votes_D": 16871,
+   "votes_R": 22493,
+   "votes_other": 491,
+   "total_votes": 39855,
+   "pct_D": 42.3,
+   "pct_R": 56.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 7303,
+     "votes_R": 12183,
+     "votes_other": 280
+    },
+    "pre_election_day": {
+     "votes_D": 9355,
+     "votes_R": 9967,
+     "votes_other": 204
+    },
+    "provisional": {
+     "votes_D": 213,
+     "votes_R": 343,
+     "votes_other": 7
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39045": {
+   "name": "Fairfield",
+   "raw_name": "FAIRFIELD",
+   "fips": "39045",
+   "is_mappable": true,
+   "votes_D": 31695,
+   "votes_R": 51999,
+   "votes_other": 737,
+   "total_votes": 84431,
+   "pct_D": 37.5,
+   "pct_R": 61.6,
+   "modes": {
+    "total": {
+     "votes_D": 31695,
+     "votes_R": 51999,
+     "votes_other": 737
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39047": {
+   "name": "Fayette",
+   "raw_name": "FAYETTE",
+   "fips": "39047",
+   "is_mappable": true,
+   "votes_D": 2773,
+   "votes_R": 9706,
+   "votes_other": 92,
+   "total_votes": 12571,
+   "pct_D": 22.1,
+   "pct_R": 77.2,
+   "modes": {
+    "total": {
+     "votes_D": 2773,
+     "votes_R": 9706,
+     "votes_other": 92
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39049": {
+   "name": "Franklin",
+   "raw_name": "FRANKLIN",
+   "fips": "39049",
+   "is_mappable": true,
+   "votes_D": 380518,
+   "votes_R": 210830,
+   "votes_other": 8982,
+   "total_votes": 600330,
+   "pct_D": 63.4,
+   "pct_R": 35.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 196550,
+     "votes_R": 131515,
+     "votes_other": 5642
+    },
+    "election_day": {
+     "votes_D": 83054,
+     "votes_R": 40244,
+     "votes_other": 2164
+    },
+    "mail": {
+     "votes_D": 91573,
+     "votes_R": 33667,
+     "votes_other": 915
+    },
+    "provisional": {
+     "votes_D": 9341,
+     "votes_R": 5404,
+     "votes_other": 261
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39051": {
+   "name": "Fulton",
+   "raw_name": "FULTON",
+   "fips": "39051",
+   "is_mappable": true,
+   "votes_D": 6374,
+   "votes_R": 15893,
+   "votes_other": 185,
+   "total_votes": 22452,
+   "pct_D": 28.4,
+   "pct_R": 70.8,
+   "modes": {
+    "total": {
+     "votes_D": 6374,
+     "votes_R": 15893,
+     "votes_other": 185
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39053": {
+   "name": "Gallia",
+   "raw_name": "GALLIA",
+   "fips": "39053",
+   "is_mappable": true,
+   "votes_D": 2592,
+   "votes_R": 10314,
+   "votes_other": 94,
+   "total_votes": 13000,
+   "pct_D": 19.9,
+   "pct_R": 79.3,
+   "modes": {
+    "total": {
+     "votes_D": 2592,
+     "votes_R": 10314,
+     "votes_other": 94
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39055": {
+   "name": "Geauga",
+   "raw_name": "GEAUGA",
+   "fips": "39055",
+   "is_mappable": true,
+   "votes_D": 20604,
+   "votes_R": 33844,
+   "votes_other": 438,
+   "total_votes": 54886,
+   "pct_D": 37.5,
+   "pct_R": 61.7,
+   "modes": {
+    "total": {
+     "votes_D": 20604,
+     "votes_R": 33844,
+     "votes_other": 438
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39057": {
+   "name": "Greene",
+   "raw_name": "GREENE",
+   "fips": "39057",
+   "is_mappable": true,
+   "votes_D": 35575,
+   "votes_R": 53399,
+   "votes_other": 1057,
+   "total_votes": 90031,
+   "pct_D": 39.5,
+   "pct_R": 59.3,
+   "modes": {
+    "total": {
+     "votes_D": 35575,
+     "votes_R": 53399,
+     "votes_other": 1057
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39059": {
+   "name": "Guernsey",
+   "raw_name": "GUERNSEY",
+   "fips": "39059",
+   "is_mappable": true,
+   "votes_D": 4154,
+   "votes_R": 13314,
+   "votes_other": 126,
+   "total_votes": 17594,
+   "pct_D": 23.6,
+   "pct_R": 75.7,
+   "modes": {
+    "total": {
+     "votes_D": 4154,
+     "votes_R": 13314,
+     "votes_other": 126
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39061": {
+   "name": "Hamilton",
+   "raw_name": "HAMILTON",
+   "fips": "39061",
+   "is_mappable": true,
+   "votes_D": 233360,
+   "votes_R": 172365,
+   "votes_other": 4028,
+   "total_votes": 409753,
+   "pct_D": 57.0,
+   "pct_R": 42.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 107213,
+     "votes_R": 58120,
+     "votes_other": 1189
+    },
+    "election_day": {
+     "votes_D": 119550,
+     "votes_R": 110464,
+     "votes_other": 2723
+    },
+    "unallocated": {
+     "votes_D": 6597,
+     "votes_R": 3781,
+     "votes_other": 116
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "39063": {
+   "name": "Hancock",
+   "raw_name": "HANCOCK",
+   "fips": "39063",
+   "is_mappable": true,
+   "votes_D": 11467,
+   "votes_R": 26052,
+   "votes_other": 418,
+   "total_votes": 37937,
+   "pct_D": 30.2,
+   "pct_R": 68.7,
+   "modes": {
+    "total": {
+     "votes_D": 11467,
+     "votes_R": 26052,
+     "votes_other": 418
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39065": {
+   "name": "Hardin",
+   "raw_name": "HARDIN",
+   "fips": "39065",
+   "is_mappable": true,
+   "votes_D": 2863,
+   "votes_R": 9911,
+   "votes_other": 119,
+   "total_votes": 12893,
+   "pct_D": 22.2,
+   "pct_R": 76.9,
+   "modes": {
+    "total": {
+     "votes_D": 2863,
+     "votes_R": 9911,
+     "votes_other": 119
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39067": {
+   "name": "Harrison",
+   "raw_name": "HARRISON",
+   "fips": "39067",
+   "is_mappable": true,
+   "votes_D": 1559,
+   "votes_R": 5484,
+   "votes_other": 38,
+   "total_votes": 7081,
+   "pct_D": 22.0,
+   "pct_R": 77.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 732,
+     "votes_R": 3453,
+     "votes_other": 29
+    },
+    "pre_election_day": {
+     "votes_D": 815,
+     "votes_R": 1937,
+     "votes_other": 9
+    },
+    "provisional": {
+     "votes_D": 12,
+     "votes_R": 94,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39069": {
+   "name": "Henry",
+   "raw_name": "HENRY",
+   "fips": "39069",
+   "is_mappable": true,
+   "votes_D": 3905,
+   "votes_R": 10873,
+   "votes_other": 133,
+   "total_votes": 14911,
+   "pct_D": 26.2,
+   "pct_R": 72.9,
+   "modes": {
+    "total": {
+     "votes_D": 3905,
+     "votes_R": 10873,
+     "votes_other": 133
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39071": {
+   "name": "Highland",
+   "raw_name": "HIGHLAND",
+   "fips": "39071",
+   "is_mappable": true,
+   "votes_D": 3609,
+   "votes_R": 16269,
+   "votes_other": 106,
+   "total_votes": 19984,
+   "pct_D": 18.1,
+   "pct_R": 81.4,
+   "modes": {
+    "total": {
+     "votes_D": 3609,
+     "votes_R": 16269,
+     "votes_other": 106
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39073": {
+   "name": "Hocking",
+   "raw_name": "HOCKING",
+   "fips": "39073",
+   "is_mappable": true,
+   "votes_D": 3704,
+   "votes_R": 9679,
+   "votes_other": 106,
+   "total_votes": 13489,
+   "pct_D": 27.5,
+   "pct_R": 71.8,
+   "modes": {
+    "total": {
+     "votes_D": 3704,
+     "votes_R": 9679,
+     "votes_other": 106
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39075": {
+   "name": "Holmes",
+   "raw_name": "HOLMES",
+   "fips": "39075",
+   "is_mappable": true,
+   "votes_D": 1854,
+   "votes_R": 10384,
+   "votes_other": 97,
+   "total_votes": 12335,
+   "pct_D": 15.0,
+   "pct_R": 84.2,
+   "modes": {
+    "total": {
+     "votes_D": 1854,
+     "votes_R": 10384,
+     "votes_other": 97
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39077": {
+   "name": "Huron",
+   "raw_name": "HURON",
+   "fips": "39077",
+   "is_mappable": true,
+   "votes_D": 7496,
+   "votes_R": 19484,
+   "votes_other": 232,
+   "total_votes": 27212,
+   "pct_D": 27.5,
+   "pct_R": 71.6,
+   "modes": {
+    "total": {
+     "votes_D": 7496,
+     "votes_R": 19484,
+     "votes_other": 232
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39079": {
+   "name": "Jackson",
+   "raw_name": "JACKSON",
+   "fips": "39079",
+   "is_mappable": true,
+   "votes_D": 2953,
+   "votes_R": 11249,
+   "votes_other": 83,
+   "total_votes": 14285,
+   "pct_D": 20.7,
+   "pct_R": 78.7,
+   "modes": {
+    "total": {
+     "votes_D": 2953,
+     "votes_R": 11249,
+     "votes_other": 83
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39081": {
+   "name": "Jefferson",
+   "raw_name": "JEFFERSON",
+   "fips": "39081",
+   "is_mappable": true,
+   "votes_D": 8592,
+   "votes_R": 22317,
+   "votes_other": 348,
+   "total_votes": 31257,
+   "pct_D": 27.5,
+   "pct_R": 71.4,
+   "modes": {
+    "total": {
+     "votes_D": 8592,
+     "votes_R": 22317,
+     "votes_other": 348
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39083": {
+   "name": "Knox",
+   "raw_name": "KNOX",
+   "fips": "39083",
+   "is_mappable": true,
+   "votes_D": 8698,
+   "votes_R": 23112,
+   "votes_other": 280,
+   "total_votes": 32090,
+   "pct_D": 27.1,
+   "pct_R": 72.0,
+   "modes": {
+    "total": {
+     "votes_D": 8698,
+     "votes_R": 23112,
+     "votes_other": 280
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39085": {
+   "name": "Lake",
+   "raw_name": "LAKE",
+   "fips": "39085",
+   "is_mappable": true,
+   "votes_D": 54484,
+   "votes_R": 72924,
+   "votes_other": 1127,
+   "total_votes": 128535,
+   "pct_D": 42.4,
+   "pct_R": 56.7,
+   "modes": {
+    "total": {
+     "votes_D": 54484,
+     "votes_R": 72924,
+     "votes_other": 1127
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39087": {
+   "name": "Lawrence",
+   "raw_name": "LAWRENCE",
+   "fips": "39087",
+   "is_mappable": true,
+   "votes_D": 6514,
+   "votes_R": 20013,
+   "votes_other": 185,
+   "total_votes": 26712,
+   "pct_D": 24.4,
+   "pct_R": 74.9,
+   "modes": {
+    "total": {
+     "votes_D": 6514,
+     "votes_R": 20013,
+     "votes_other": 185
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39089": {
+   "name": "Licking",
+   "raw_name": "LICKING",
+   "fips": "39089",
+   "is_mappable": true,
+   "votes_D": 32832,
+   "votes_R": 61359,
+   "votes_other": 1173,
+   "total_votes": 95364,
+   "pct_D": 34.4,
+   "pct_R": 64.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 10262,
+     "votes_R": 19809,
+     "votes_other": 222
+    },
+    "election_day": {
+     "votes_D": 13402,
+     "votes_R": 31329,
+     "votes_other": 662
+    },
+    "mail": {
+     "votes_D": 8699,
+     "votes_R": 9073,
+     "votes_other": 267
+    },
+    "provisional": {
+     "votes_D": 469,
+     "votes_R": 1148,
+     "votes_other": 22
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39091": {
+   "name": "Logan",
+   "raw_name": "LOGAN",
+   "fips": "39091",
+   "is_mappable": true,
+   "votes_D": 5027,
+   "votes_R": 18182,
+   "votes_other": 303,
+   "total_votes": 23512,
+   "pct_D": 21.4,
+   "pct_R": 77.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2827,
+     "votes_R": 10069,
+     "votes_other": 136
+    },
+    "election_day": {
+     "votes_D": 1115,
+     "votes_R": 5994,
+     "votes_other": 119
+    },
+    "mail": {
+     "votes_D": 1023,
+     "votes_R": 1795,
+     "votes_other": 44
+    },
+    "provisional": {
+     "votes_D": 62,
+     "votes_R": 324,
+     "votes_other": 4
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39093": {
+   "name": "Lorain",
+   "raw_name": "LORAIN",
+   "fips": "39093",
+   "is_mappable": true,
+   "votes_D": 74207,
+   "votes_R": 83297,
+   "votes_other": 1455,
+   "total_votes": 158959,
+   "pct_D": 46.7,
+   "pct_R": 52.4,
+   "modes": {
+    "total": {
+     "votes_D": 74207,
+     "votes_R": 83297,
+     "votes_other": 1455
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39095": {
+   "name": "Lucas",
+   "raw_name": "LUCAS",
+   "fips": "39095",
+   "is_mappable": true,
+   "votes_D": 106320,
+   "votes_R": 82398,
+   "votes_other": 2405,
+   "total_votes": 191123,
+   "pct_D": 55.6,
+   "pct_R": 43.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 30435,
+     "votes_R": 18849,
+     "votes_other": 382
+    },
+    "election_day": {
+     "votes_D": 52747,
+     "votes_R": 51295,
+     "votes_other": 1677
+    },
+    "mail": {
+     "votes_D": 21247,
+     "votes_R": 10980,
+     "votes_other": 295
+    },
+    "provisional": {
+     "votes_D": 1891,
+     "votes_R": 1274,
+     "votes_other": 51
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39097": {
+   "name": "Madison",
+   "raw_name": "MADISON",
+   "fips": "39097",
+   "is_mappable": true,
+   "votes_D": 5713,
+   "votes_R": 14737,
+   "votes_other": 312,
+   "total_votes": 20762,
+   "pct_D": 27.5,
+   "pct_R": 71.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2027,
+     "votes_R": 5150,
+     "votes_other": 71
+    },
+    "election_day": {
+     "votes_D": 2265,
+     "votes_R": 7329,
+     "votes_other": 164
+    },
+    "mail": {
+     "votes_D": 1370,
+     "votes_R": 2010,
+     "votes_other": 69
+    },
+    "provisional": {
+     "votes_D": 51,
+     "votes_R": 248,
+     "votes_other": 8
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39099": {
+   "name": "Mahoning",
+   "raw_name": "MAHONING",
+   "fips": "39099",
+   "is_mappable": true,
+   "votes_D": 50636,
+   "votes_R": 61249,
+   "votes_other": 793,
+   "total_votes": 112678,
+   "pct_D": 44.9,
+   "pct_R": 54.4,
+   "modes": {
+    "total": {
+     "votes_D": 50636,
+     "votes_R": 61249,
+     "votes_other": 793
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39101": {
+   "name": "Marion",
+   "raw_name": "MARION",
+   "fips": "39101",
+   "is_mappable": true,
+   "votes_D": 7902,
+   "votes_R": 19219,
+   "votes_other": 234,
+   "total_votes": 27355,
+   "pct_D": 28.9,
+   "pct_R": 70.3,
+   "modes": {
+    "total": {
+     "votes_D": 7902,
+     "votes_R": 19219,
+     "votes_other": 234
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39103": {
+   "name": "Medina",
+   "raw_name": "MEDINA",
+   "fips": "39103",
+   "is_mappable": true,
+   "votes_D": 39772,
+   "votes_R": 66308,
+   "votes_other": 1220,
+   "total_votes": 107300,
+   "pct_D": 37.1,
+   "pct_R": 61.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 14402,
+     "votes_R": 22397,
+     "votes_other": 252
+    },
+    "election_day": {
+     "votes_D": 15078,
+     "votes_R": 34057,
+     "votes_other": 707
+    },
+    "mail": {
+     "votes_D": 9845,
+     "votes_R": 8906,
+     "votes_other": 244
+    },
+    "provisional": {
+     "votes_D": 447,
+     "votes_R": 948,
+     "votes_other": 17
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39105": {
+   "name": "Meigs",
+   "raw_name": "MEIGS",
+   "fips": "39105",
+   "is_mappable": true,
+   "votes_D": 2202,
+   "votes_R": 8127,
+   "votes_other": 71,
+   "total_votes": 10400,
+   "pct_D": 21.2,
+   "pct_R": 78.1,
+   "modes": {
+    "total": {
+     "votes_D": 2202,
+     "votes_R": 8127,
+     "votes_other": 71
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39107": {
+   "name": "Mercer",
+   "raw_name": "MERCER",
+   "fips": "39107",
+   "is_mappable": true,
+   "votes_D": 3865,
+   "votes_R": 19710,
+   "votes_other": 175,
+   "total_votes": 23750,
+   "pct_D": 16.3,
+   "pct_R": 83.0,
+   "modes": {
+    "total": {
+     "votes_D": 3865,
+     "votes_R": 19710,
+     "votes_other": 175
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39109": {
+   "name": "Miami",
+   "raw_name": "MIAMI",
+   "fips": "39109",
+   "is_mappable": true,
+   "votes_D": 15969,
+   "votes_R": 42678,
+   "votes_other": 0,
+   "total_votes": 58647,
+   "pct_D": 27.2,
+   "pct_R": 72.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 6495,
+     "votes_R": 16388,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 5886,
+     "votes_R": 21110,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 3397,
+     "votes_R": 4516,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 191,
+     "votes_R": 664,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39111": {
+   "name": "Monroe",
+   "raw_name": "MONROE",
+   "fips": "39111",
+   "is_mappable": true,
+   "votes_D": 1336,
+   "votes_R": 5396,
+   "votes_other": 0,
+   "total_votes": 6732,
+   "pct_D": 19.8,
+   "pct_R": 80.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 486,
+     "votes_R": 2968,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 834,
+     "votes_R": 2354,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 16,
+     "votes_R": 74,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39113": {
+   "name": "Montgomery",
+   "raw_name": "MONTGOMERY",
+   "fips": "39113",
+   "is_mappable": true,
+   "votes_D": 126767,
+   "votes_R": 125566,
+   "votes_other": 3207,
+   "total_votes": 255540,
+   "pct_D": 49.6,
+   "pct_R": 49.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 36591,
+     "votes_R": 23151,
+     "votes_other": 470
+    },
+    "election_day": {
+     "votes_D": 61945,
+     "votes_R": 81860,
+     "votes_other": 2071
+    },
+    "mail": {
+     "votes_D": 25852,
+     "votes_R": 18404,
+     "votes_other": 606
+    },
+    "provisional": {
+     "votes_D": 2379,
+     "votes_R": 2151,
+     "votes_other": 60
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C6",
+   "notes": ""
+  },
+  "39115": {
+   "name": "Morgan",
+   "raw_name": "MORGAN",
+   "fips": "39115",
+   "is_mappable": true,
+   "votes_D": 1560,
+   "votes_R": 5168,
+   "votes_other": 54,
+   "total_votes": 6782,
+   "pct_D": 23.0,
+   "pct_R": 76.2,
+   "modes": {
+    "total": {
+     "votes_D": 1560,
+     "votes_R": 5168,
+     "votes_other": 54
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39117": {
+   "name": "Morrow",
+   "raw_name": "MORROW",
+   "fips": "39117",
+   "is_mappable": true,
+   "votes_D": 4100,
+   "votes_R": 14609,
+   "votes_other": 146,
+   "total_votes": 18855,
+   "pct_D": 21.7,
+   "pct_R": 77.5,
+   "modes": {
+    "total": {
+     "votes_D": 4100,
+     "votes_R": 14609,
+     "votes_other": 146
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39119": {
+   "name": "Muskingum",
+   "raw_name": "MUSKINGUM",
+   "fips": "39119",
+   "is_mappable": true,
+   "votes_D": 10874,
+   "votes_R": 28147,
+   "votes_other": 306,
+   "total_votes": 39327,
+   "pct_D": 27.7,
+   "pct_R": 71.6,
+   "modes": {
+    "total": {
+     "votes_D": 10874,
+     "votes_R": 28147,
+     "votes_other": 306
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39121": {
+   "name": "Noble",
+   "raw_name": "NOBLE",
+   "fips": "39121",
+   "is_mappable": true,
+   "votes_D": 1069,
+   "votes_R": 5050,
+   "votes_other": 53,
+   "total_votes": 6172,
+   "pct_D": 17.3,
+   "pct_R": 81.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 397,
+     "votes_R": 2552,
+     "votes_other": 21
+    },
+    "pre_election_day": {
+     "votes_D": 664,
+     "votes_R": 2440,
+     "votes_other": 32
+    },
+    "provisional": {
+     "votes_D": 8,
+     "votes_R": 58,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39123": {
+   "name": "Ottawa",
+   "raw_name": "OTTAWA",
+   "fips": "39123",
+   "is_mappable": true,
+   "votes_D": 8866,
+   "votes_R": 14872,
+   "votes_other": 218,
+   "total_votes": 23956,
+   "pct_D": 37.0,
+   "pct_R": 62.1,
+   "modes": {
+    "total": {
+     "votes_D": 8866,
+     "votes_R": 14872,
+     "votes_other": 218
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39125": {
+   "name": "Paulding",
+   "raw_name": "PAULDING",
+   "fips": "39125",
+   "is_mappable": true,
+   "votes_D": 1987,
+   "votes_R": 7203,
+   "votes_other": 104,
+   "total_votes": 9294,
+   "pct_D": 21.4,
+   "pct_R": 77.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 765,
+     "votes_R": 3629,
+     "votes_other": 61
+    },
+    "pre_election_day": {
+     "votes_D": 1203,
+     "votes_R": 3464,
+     "votes_other": 41
+    },
+    "provisional": {
+     "votes_D": 19,
+     "votes_R": 110,
+     "votes_other": 2
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39127": {
+   "name": "Perry",
+   "raw_name": "PERRY",
+   "fips": "39127",
+   "is_mappable": true,
+   "votes_D": 3800,
+   "votes_R": 13062,
+   "votes_other": 129,
+   "total_votes": 16991,
+   "pct_D": 22.4,
+   "pct_R": 76.9,
+   "modes": {
+    "total": {
+     "votes_D": 3800,
+     "votes_R": 13062,
+     "votes_other": 129
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39129": {
+   "name": "Pickaway",
+   "raw_name": "PICKAWAY",
+   "fips": "39129",
+   "is_mappable": true,
+   "votes_D": 7397,
+   "votes_R": 21607,
+   "votes_other": 271,
+   "total_votes": 29275,
+   "pct_D": 25.3,
+   "pct_R": 73.8,
+   "modes": {
+    "total": {
+     "votes_D": 7397,
+     "votes_R": 21607,
+     "votes_other": 271
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39131": {
+   "name": "Pike",
+   "raw_name": "PIKE",
+   "fips": "39131",
+   "is_mappable": true,
+   "votes_D": 2793,
+   "votes_R": 9352,
+   "votes_other": 73,
+   "total_votes": 12218,
+   "pct_D": 22.9,
+   "pct_R": 76.5,
+   "modes": {
+    "total": {
+     "votes_D": 2793,
+     "votes_R": 9352,
+     "votes_other": 73
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39133": {
+   "name": "Portage",
+   "raw_name": "PORTAGE",
+   "fips": "39133",
+   "is_mappable": true,
+   "votes_D": 34759,
+   "votes_R": 47681,
+   "votes_other": 741,
+   "total_votes": 83181,
+   "pct_D": 41.8,
+   "pct_R": 57.3,
+   "modes": {
+    "total": {
+     "votes_D": 34759,
+     "votes_R": 47681,
+     "votes_other": 741
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39135": {
+   "name": "Preble",
+   "raw_name": "PREBLE",
+   "fips": "39135",
+   "is_mappable": true,
+   "votes_D": 4343,
+   "votes_R": 17146,
+   "votes_other": 224,
+   "total_votes": 21713,
+   "pct_D": 20.0,
+   "pct_R": 79.0,
+   "modes": {
+    "mail": {
+     "votes_D": 2140,
+     "votes_R": 6785,
+     "votes_other": 74
+    },
+    "election_day": {
+     "votes_D": 2155,
+     "votes_R": 10152,
+     "votes_other": 146
+    },
+    "late_mail": {
+     "votes_D": 39,
+     "votes_R": 199,
+     "votes_other": 4
+    },
+    "provisional": {
+     "votes_D": 9,
+     "votes_R": 10,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "39137": {
+   "name": "Putnam",
+   "raw_name": "PUTNAM",
+   "fips": "39137",
+   "is_mappable": true,
+   "votes_D": 2996,
+   "votes_R": 16576,
+   "votes_other": 0,
+   "total_votes": 19572,
+   "pct_D": 15.3,
+   "pct_R": 84.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1321,
+     "votes_R": 8205,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 1647,
+     "votes_R": 8218,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 28,
+     "votes_R": 153,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39139": {
+   "name": "Richland",
+   "raw_name": "RICHLAND",
+   "fips": "39139",
+   "is_mappable": true,
+   "votes_D": 16591,
+   "votes_R": 41298,
+   "votes_other": 469,
+   "total_votes": 58358,
+   "pct_D": 28.4,
+   "pct_R": 70.8,
+   "modes": {
+    "total": {
+     "votes_D": 16591,
+     "votes_R": 41298,
+     "votes_other": 469
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39141": {
+   "name": "Ross",
+   "raw_name": "ROSS",
+   "fips": "39141",
+   "is_mappable": true,
+   "votes_D": 9846,
+   "votes_R": 22801,
+   "votes_other": 0,
+   "total_votes": 32647,
+   "pct_D": 30.2,
+   "pct_R": 69.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 3631,
+     "votes_R": 11610,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 6032,
+     "votes_R": 10673,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 183,
+     "votes_R": 518,
+     "votes_other": 0
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39143": {
+   "name": "Sandusky",
+   "raw_name": "SANDUSKY",
+   "fips": "39143",
+   "is_mappable": true,
+   "votes_D": 10139,
+   "votes_R": 19311,
+   "votes_other": 263,
+   "total_votes": 29713,
+   "pct_D": 34.1,
+   "pct_R": 65.0,
+   "modes": {
+    "total": {
+     "votes_D": 10139,
+     "votes_R": 19311,
+     "votes_other": 263
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39145": {
+   "name": "Scioto",
+   "raw_name": "SCIOTO",
+   "fips": "39145",
+   "is_mappable": true,
+   "votes_D": 8021,
+   "votes_R": 22978,
+   "votes_other": 180,
+   "total_votes": 31179,
+   "pct_D": 25.7,
+   "pct_R": 73.7,
+   "modes": {
+    "total": {
+     "votes_D": 8021,
+     "votes_R": 22978,
+     "votes_other": 180
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39147": {
+   "name": "Seneca",
+   "raw_name": "SENECA",
+   "fips": "39147",
+   "is_mappable": true,
+   "votes_D": 7765,
+   "votes_R": 17241,
+   "votes_other": 327,
+   "total_votes": 25333,
+   "pct_D": 30.7,
+   "pct_R": 68.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 3804,
+     "votes_R": 10833,
+     "votes_other": 213
+    },
+    "pre_election_day": {
+     "votes_D": 3878,
+     "votes_R": 6114,
+     "votes_other": 112
+    },
+    "provisional": {
+     "votes_D": 83,
+     "votes_R": 294,
+     "votes_other": 2
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39149": {
+   "name": "Shelby",
+   "raw_name": "SHELBY",
+   "fips": "39149",
+   "is_mappable": true,
+   "votes_D": 4350,
+   "votes_R": 20740,
+   "votes_other": 198,
+   "total_votes": 25288,
+   "pct_D": 17.2,
+   "pct_R": 82.0,
+   "modes": {
+    "total": {
+     "votes_D": 4350,
+     "votes_R": 20740,
+     "votes_other": 198
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39151": {
+   "name": "Stark",
+   "raw_name": "STARK",
+   "fips": "39151",
+   "is_mappable": true,
+   "votes_D": 71090,
+   "votes_R": 111478,
+   "votes_other": 1590,
+   "total_votes": 184158,
+   "pct_D": 38.6,
+   "pct_R": 60.5,
+   "modes": {
+    "total": {
+     "votes_D": 71090,
+     "votes_R": 111478,
+     "votes_other": 1590
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39153": {
+   "name": "Summit",
+   "raw_name": "SUMMIT",
+   "fips": "39153",
+   "is_mappable": true,
+   "votes_D": 145005,
+   "votes_R": 125910,
+   "votes_other": 2498,
+   "total_votes": 273413,
+   "pct_D": 53.0,
+   "pct_R": 46.1,
+   "modes": {
+    "total": {
+     "votes_D": 145005,
+     "votes_R": 125910,
+     "votes_other": 2498
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39155": {
+   "name": "Trumbull",
+   "raw_name": "TRUMBULL",
+   "fips": "39155",
+   "is_mappable": true,
+   "votes_D": 39758,
+   "votes_R": 55983,
+   "votes_other": 773,
+   "total_votes": 96514,
+   "pct_D": 41.2,
+   "pct_R": 58.0,
+   "modes": {
+    "total": {
+     "votes_D": 39758,
+     "votes_R": 55983,
+     "votes_other": 773
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39157": {
+   "name": "Tuscarawas",
+   "raw_name": "TUSCARAWAS",
+   "fips": "39157",
+   "is_mappable": true,
+   "votes_D": 12032,
+   "votes_R": 30652,
+   "votes_other": 423,
+   "total_votes": 43107,
+   "pct_D": 27.9,
+   "pct_R": 71.1,
+   "modes": {
+    "mail": {
+     "votes_D": 0,
+     "votes_R": 2,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 5683,
+     "votes_R": 19148,
+     "votes_other": 256
+    },
+    "pre_election_day": {
+     "votes_D": 6222,
+     "votes_R": 10945,
+     "votes_other": 161
+    },
+    "late_mail": {
+     "votes_D": 27,
+     "votes_R": 35,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 100,
+     "votes_R": 522,
+     "votes_other": 6
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "39159": {
+   "name": "Union",
+   "raw_name": "UNION",
+   "fips": "39159",
+   "is_mappable": true,
+   "votes_D": 12934,
+   "votes_R": 23982,
+   "votes_other": 372,
+   "total_votes": 37288,
+   "pct_D": 34.7,
+   "pct_R": 64.3,
+   "modes": {
+    "total": {
+     "votes_D": 12934,
+     "votes_R": 23982,
+     "votes_other": 372
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39161": {
+   "name": "Van Wert",
+   "raw_name": "VAN WERT",
+   "fips": "39161",
+   "is_mappable": true,
+   "votes_D": 3000,
+   "votes_R": 11616,
+   "votes_other": 113,
+   "total_votes": 14729,
+   "pct_D": 20.4,
+   "pct_R": 78.9,
+   "modes": {
+    "total": {
+     "votes_D": 3000,
+     "votes_R": 11616,
+     "votes_other": 113
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39163": {
+   "name": "Vinton",
+   "raw_name": "VINTON",
+   "fips": "39163",
+   "is_mappable": true,
+   "votes_D": 1169,
+   "votes_R": 4531,
+   "votes_other": 47,
+   "total_votes": 5747,
+   "pct_D": 20.3,
+   "pct_R": 78.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 446,
+     "votes_R": 2345,
+     "votes_other": 23
+    },
+    "pre_election_day": {
+     "votes_D": 715,
+     "votes_R": 2120,
+     "votes_other": 23
+    },
+    "provisional": {
+     "votes_D": 8,
+     "votes_R": 66,
+     "votes_other": 1
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39165": {
+   "name": "Warren",
+   "raw_name": "WARREN",
+   "fips": "39165",
+   "is_mappable": true,
+   "votes_D": 47128,
+   "votes_R": 91132,
+   "votes_other": 1333,
+   "total_votes": 139593,
+   "pct_D": 33.8,
+   "pct_R": 65.3,
+   "modes": {
+    "total": {
+     "votes_D": 47128,
+     "votes_R": 91132,
+     "votes_other": 1333
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39167": {
+   "name": "Washington",
+   "raw_name": "WASHINGTON",
+   "fips": "39167",
+   "is_mappable": true,
+   "votes_D": 8600,
+   "votes_R": 22161,
+   "votes_other": 239,
+   "total_votes": 31000,
+   "pct_D": 27.7,
+   "pct_R": 71.5,
+   "modes": {
+    "total": {
+     "votes_D": 8600,
+     "votes_R": 22161,
+     "votes_other": 239
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39169": {
+   "name": "Wayne",
+   "raw_name": "WAYNE",
+   "fips": "39169",
+   "is_mappable": true,
+   "votes_D": 15898,
+   "votes_R": 36764,
+   "votes_other": 478,
+   "total_votes": 53140,
+   "pct_D": 29.9,
+   "pct_R": 69.2,
+   "modes": {
+    "total": {
+     "votes_D": 15898,
+     "votes_R": 36764,
+     "votes_other": 478
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39171": {
+   "name": "Williams",
+   "raw_name": "WILLIAMS",
+   "fips": "39171",
+   "is_mappable": true,
+   "votes_D": 4644,
+   "votes_R": 13461,
+   "votes_other": 169,
+   "total_votes": 18274,
+   "pct_D": 25.4,
+   "pct_R": 73.7,
+   "modes": {
+    "total": {
+     "votes_D": 4644,
+     "votes_R": 13461,
+     "votes_other": 169
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39173": {
+   "name": "Wood",
+   "raw_name": "WOOD",
+   "fips": "39173",
+   "is_mappable": true,
+   "votes_D": 30016,
+   "votes_R": 36877,
+   "votes_other": 672,
+   "total_votes": 67565,
+   "pct_D": 44.4,
+   "pct_R": 54.6,
+   "modes": {
+    "total": {
+     "votes_D": 30016,
+     "votes_R": 36877,
+     "votes_other": 672
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39175": {
+   "name": "Wyandot",
+   "raw_name": "WYANDOT",
+   "fips": "39175",
+   "is_mappable": true,
+   "votes_D": 2731,
+   "votes_R": 8564,
+   "votes_other": 118,
+   "total_votes": 11413,
+   "pct_D": 23.9,
+   "pct_R": 75.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 965,
+     "votes_R": 4229,
+     "votes_other": 56
+    },
+    "pre_election_day": {
+     "votes_D": 1731,
+     "votes_R": 4167,
+     "votes_other": 57
+    },
+    "provisional": {
+     "votes_D": 35,
+     "votes_R": 168,
+     "votes_other": 5
+    }
+   },
+   "data_source": "County-PDF",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  }
+ }
+}
