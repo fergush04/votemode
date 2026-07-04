@@ -1,0 +1,9 @@
+# Normalize line endings: store everything as LF in the repo so Windows Git
+# clients (GitHub Desktop) stop showing spurious "modified" files.
+* text=auto eol=lf
+
+# Binary assets Git should never touch.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary
