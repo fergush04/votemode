@@ -53,7 +53,7 @@ const state = {
   view: 'national',       // 'national' | 'state'
   currentStateAbbr: null,
   selectedUnitId: null,
-  colorMode: 'results',    // 'results' | 'coverage'
+  colorMode: 'coverage',   // 'results' | 'coverage' — opens on coverage
   numberMode: 'votes',     // 'votes' | 'percent' — modal breakdown table display
   cityLabels: null,        // data/geo/city_labels.json, loaded once on demand
   national: null,
@@ -240,6 +240,35 @@ function coverageColor(code) {
   return COMPLETENESS_COLOR[code] || COMPLETENESS_COLOR.UNKNOWN;
 }
 
+// National coverage fill for one state. Uses the precomputed `cov` field:
+// { mode:'solid', g:'C5' } for states whose units share one grade, or
+// { mode:'stripe', g:['C3','C2'] } for mixed states — drawn as diagonal
+// two-color stripes of the two most common grades (floating overseas/UOCAVA
+// units are excluded from that calculation upstream).
+function nationalCoverageFill(s) {
+  const cov = s.cov;
+  if (!cov) return coverageColor(s.avg_completeness);
+  if (cov.mode === 'solid') return coverageColor(cov.g);
+  const key = cov.g[0] + '_' + cov.g[1];
+  const pid = 'covstripe-' + key;
+  if (svg.select('#' + pid).empty()) {
+    let defs = svg.select('defs');
+    if (defs.empty()) defs = svg.insert('defs', ':first-child');
+    const p = defs.append('pattern')
+      .attr('id', pid).attr('width', 8).attr('height', 8)
+      .attr('patternUnits', 'userSpaceOnUse').attr('patternTransform', 'rotate(45)');
+    p.append('rect').attr('width', 8).attr('height', 8).attr('fill', coverageColor(cov.g[0]));
+    p.append('rect').attr('width', 4).attr('height', 8).attr('fill', coverageColor(cov.g[1]));
+  }
+  return 'url(#' + pid + ')';
+}
+
+// Fill for a whole state on the national map, honoring the current color mode.
+function nationalFill(s) {
+  if (!s) return '#ddd';
+  return state.colorMode === 'coverage' ? nationalCoverageFill(s) : marginColor(s.pct_D, s.pct_R);
+}
+
 function unitColor(unit, mode) {
   if (mode === 'coverage') {
     return coverageColor(unit.completeness || unit.avg_completeness || 'UNKNOWN');
@@ -278,11 +307,7 @@ function renderNationalView() {
     .join('path')
     .attr('class', 'map-unit')
     .attr('d', path)
-    .attr('fill', d => {
-      const abbr = STATE_NAME_TO_ABBR[d.properties.name];
-      const s = state.national.states[abbr];
-      return s ? unitColor(s, state.colorMode) : '#ddd';
-    })
+    .attr('fill', d => nationalFill(state.national.states[STATE_NAME_TO_ABBR[d.properties.name]]))
     .on('mousemove', (event, d) => showTooltipNational(event, d))
     .on('mouseleave', hideTooltip)
     .on('click', (event, d) => {
@@ -880,7 +905,7 @@ function renderLegend() {
       <div class="legend-row"><span class="legend-swatch" style="background:${coverageColor('C3')}"></span>3 methods reported</div>
       <div class="legend-row"><span class="legend-swatch" style="background:${coverageColor('C1')}"></span>1 method reported</div>
       <div class="legend-row"><span class="legend-swatch" style="background:${coverageColor('U')}"></span>Totals only</div>
-      <div class="legend-row"><span class="legend-swatch" style="background:${coverageColor('F')}"></span>Not yet sourced</div>
+      ${state.view === 'national' ? `<div class="legend-row"><span class="legend-swatch" style="background:repeating-linear-gradient(45deg, ${coverageColor('C3')}, ${coverageColor('C3')} 3px, ${coverageColor('U')} 3px, ${coverageColor('U')} 6px)"></span>Mixed (two most common)</div>` : `<div class="legend-row"><span class="legend-swatch" style="background:${coverageColor('F')}"></span>Not yet sourced</div>`}
     `;
   } else {
     el.innerHTML = `
@@ -902,11 +927,8 @@ function setupViewToggle() {
       state.colorMode = btn.dataset.view;
       renderLegend();
       if (state.view === 'national') {
-        svg.selectAll('.map-unit').attr('fill', d => {
-          const abbr = STATE_NAME_TO_ABBR[d.properties.name];
-          const s = state.national.states[abbr];
-          return s ? unitColor(s, state.colorMode) : '#ddd';
-        });
+        svg.selectAll('.map-unit').attr('fill', d =>
+          nationalFill(state.national.states[STATE_NAME_TO_ABBR[d.properties.name]]));
       } else {
         const data = state.stateDataCache[state.currentStateAbbr];
         if (data) {
