@@ -6,9 +6,9 @@
  "completeness_breakdown": {
   "C2": 26,
   "C1": 4,
-  "C3": 11,
+  "C3": 12,
   "U": 13,
-  "C4": 4
+  "C4": 3
  },
  "votes_D": 9273927,
  "votes_R": 6078780,
@@ -18,7 +18,7 @@
  "pct_R": 38.3,
  "unit_count": 58,
  "state_profile": {
-  "voting_summary": "California mails every registered voter a ballot, and 78% of its 2024 vote came by mail, with ballots postmarked by election day accepted for a week afterward. Early voting is available in most counties, but the share is small and often inseparable between mail and election day reports. Polls close at 11 p.m. Eastern; pre-processed mail is released first, election day precincts follow overnight, and late mail is verified in batches over the following weeks. Mail ran D+27 versus R+3 on election day, so the state drifts steadily bluer through the canvass.",
+  "voting_summary": "California mails every registered voter a ballot, and 78% of its 2024 vote came by mail, with ballots postmarked by election day accepted for a week afterward. Most in-person voting happens at vote centers open up to 11 days, reported as a single in-person total rather than split by day. Polls close at 11 p.m. Eastern; pre-processed mail is released first, in-person ballots follow overnight, and late mail is verified in batches over the following weeks. Mail ran D+27 versus R+5 for in-person, so the state drifts steadily bluer through the canvass.",
   "reporting_notes": "",
   "tags": [
    "Universal mail ballots",
@@ -47,7 +47,7 @@
    "pct_D": 74.6,
    "pct_R": 21.0,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 51975,
      "votes_R": 28814,
      "votes_other": 4437
@@ -100,7 +100,7 @@
    "pct_D": 34.5,
    "pct_R": 62.2,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 1284,
      "votes_R": 4108,
      "votes_other": 234
@@ -211,7 +211,7 @@
    "pct_D": 67.4,
    "pct_R": 29.3,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 35809,
      "votes_R": 31073,
      "votes_other": 2579
@@ -303,7 +303,7 @@
    "pct_D": 46.5,
    "pct_R": 50.9,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 22651,
      "votes_R": 38237,
      "votes_other": 1289
@@ -356,7 +356,7 @@
    "pct_D": 62.0,
    "pct_R": 33.6,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 5874,
      "votes_R": 5337,
      "votes_other": 565
@@ -472,7 +472,7 @@
    "pct_D": 37.4,
    "pct_R": 60.4,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 1993,
      "votes_R": 4616,
      "votes_other": 88
@@ -554,7 +554,7 @@
    "pct_D": 64.8,
    "pct_R": 31.9,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 534530,
      "votes_R": 475739,
      "votes_other": 33757
@@ -583,7 +583,7 @@
    "pct_D": 38.4,
    "pct_R": 59.2,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 2404,
      "votes_R": 5843,
      "votes_other": 170
@@ -612,7 +612,7 @@
    "pct_D": 80.6,
    "pct_R": 16.7,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 11070,
      "votes_R": 4284,
      "votes_other": 577
@@ -883,7 +883,7 @@
    "pct_D": 49.4,
    "pct_R": 46.8,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 108537,
      "votes_R": 202031,
      "votes_other": 10329
@@ -960,7 +960,7 @@
    "pct_D": 48.0,
    "pct_R": 49.3,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 43610,
      "votes_R": 79025,
      "votes_other": 2735
@@ -994,7 +994,7 @@
    "pct_D": 58.1,
    "pct_R": 38.4,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 20921,
      "votes_R": 27319,
      "votes_other": 1682
@@ -1028,7 +1028,7 @@
    "pct_D": 54.9,
    "pct_R": 42.3,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 1552,
      "votes_R": 2246,
      "votes_other": 114
@@ -1076,7 +1076,7 @@
    "data_source": "County-PDF",
    "official_results": true,
    "pct_off_official": 0.0035,
-   "completeness": "C4",
+   "completeness": "C3",
    "notes": ""
   },
   "06073": {
@@ -1091,7 +1091,7 @@
    "pct_D": 56.9,
    "pct_R": 40.1,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 102836,
      "votes_R": 115738,
      "votes_other": 6831
@@ -1212,7 +1212,7 @@
    "pct_D": 73.5,
    "pct_R": 23.2,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 22415,
      "votes_R": 15052,
      "votes_other": 1415
@@ -1270,7 +1270,7 @@
    "pct_D": 68.0,
    "pct_R": 28.1,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 49885,
      "votes_R": 42938,
      "votes_other": 3749
@@ -1299,7 +1299,7 @@
    "pct_D": 74.8,
    "pct_R": 20.7,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 12162,
      "votes_R": 6065,
      "votes_other": 1065
@@ -1439,7 +1439,7 @@
    "pct_D": 71.5,
    "pct_R": 25.2,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 8062,
      "votes_R": 5973,
      "votes_other": 513
@@ -1449,7 +1449,7 @@
      "votes_R": 32226,
      "votes_other": 3367
     },
-    "provisional": {
+    "late_mail": {
      "votes_D": 69206,
      "votes_R": 24871,
      "votes_other": 4485
@@ -1570,7 +1570,7 @@
      "votes_R": 1656,
      "votes_other": 84
     },
-    "provisional": {
+    "late_mail": {
      "votes_D": 870,
      "votes_R": 1103,
      "votes_other": 121
@@ -1642,7 +1642,7 @@
    "pct_D": 56.1,
    "pct_R": 41.0,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 23862,
      "votes_R": 36157,
      "votes_other": 1619
@@ -1671,7 +1671,7 @@
    "pct_D": 66.3,
    "pct_R": 30.1,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 4639,
      "votes_R": 4165,
      "votes_other": 374

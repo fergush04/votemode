@@ -99,9 +99,9 @@
    "completeness_breakdown": {
     "C2": 26,
     "C1": 4,
-    "C3": 11,
+    "C3": 12,
     "U": 13,
-    "C4": 4
+    "C4": 3
    },
    "cov": {
     "mode": "stripe",
