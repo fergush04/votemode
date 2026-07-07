@@ -2,9 +2,9 @@
  "state": "Washington",
  "state_abbr": "WA",
  "unit_type": "county",
- "avg_completeness": "C1",
+ "avg_completeness": "U",
  "completeness_breakdown": {
-  "C1": 39
+  "U": 39
  },
  "votes_D": 2243401,
  "votes_R": 1528208,
@@ -14,7 +14,7 @@
  "pct_R": 39.2,
  "unit_count": 39,
  "state_profile": {
-  "voting_summary": "Washington is an all-mail state: every vote arrives by mail or drop box, and ballots postmarked by election day are accepted until certification, nearly three weeks later. Polls close at 11 p.m. Eastern; counties release a large pre-processed dump shortly after closing, then a batch each afternoon for one to two weeks as late mail verifies. Later batches lean Democratic (election-day-postmarked ballots skew younger and bluer), so close races tighten leftward over the week after election night.",
+  "voting_summary": "Washington is a vote-by-mail state: nearly all ballots arrive by mail or drop box, though in-person voting sites are available, and results publish as combined totals only. Ballots postmarked by election day are accepted until certification, nearly three weeks later. Polls close at 11 p.m. Eastern; counties release a large pre-processed dump shortly after closing, then a batch each afternoon for one to two weeks as late mail verifies. Later batches lean Democratic, so close races tighten leftward over the week after election night.",
   "reporting_notes": "",
   "tags": [
    "All-mail",
@@ -23,7 +23,7 @@
    "Multi-week count"
   ],
   "mode_split": {
-   "mail": 100.0
+   "total": 100.0
   }
  },
  "units": {
@@ -39,7 +39,7 @@
    "pct_D": 27.2,
    "pct_R": 70.5,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 1455,
      "votes_R": 3767,
      "votes_other": 123
@@ -48,7 +48,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53003": {
@@ -63,7 +63,7 @@
    "pct_D": 35.8,
    "pct_R": 61.5,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 4082,
      "votes_R": 7004,
      "votes_other": 310
@@ -72,7 +72,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53005": {
@@ -87,7 +87,7 @@
    "pct_D": 37.7,
    "pct_R": 59.5,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 37651,
      "votes_R": 59435,
      "votes_other": 2728
@@ -96,7 +96,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53007": {
@@ -111,7 +111,7 @@
    "pct_D": 43.9,
    "pct_R": 53.4,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 18393,
      "votes_R": 22339,
      "votes_other": 1133
@@ -120,7 +120,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53009": {
@@ -135,7 +135,7 @@
    "pct_D": 52.6,
    "pct_R": 44.7,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 25440,
      "votes_R": 21632,
      "votes_other": 1318
@@ -144,7 +144,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53011": {
@@ -159,7 +159,7 @@
    "pct_D": 52.1,
    "pct_R": 45.1,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 143201,
      "votes_R": 123995,
      "votes_other": 7590
@@ -168,7 +168,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53013": {
@@ -183,7 +183,7 @@
    "pct_D": 26.7,
    "pct_R": 70.2,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 661,
      "votes_R": 1737,
      "votes_other": 78
@@ -192,7 +192,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53015": {
@@ -207,7 +207,7 @@
    "pct_D": 38.7,
    "pct_R": 58.6,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 22825,
      "votes_R": 34580,
      "votes_other": 1615
@@ -216,7 +216,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53017": {
@@ -231,7 +231,7 @@
    "pct_D": 35.2,
    "pct_R": 62.2,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 7410,
      "votes_R": 13095,
      "votes_other": 564
@@ -240,7 +240,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53019": {
@@ -255,7 +255,7 @@
    "pct_D": 32.1,
    "pct_R": 65.1,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 1315,
      "votes_R": 2667,
      "votes_other": 114
@@ -264,7 +264,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53021": {
@@ -279,7 +279,7 @@
    "pct_D": 37.5,
    "pct_R": 60.1,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 11881,
      "votes_R": 19044,
      "votes_other": 767
@@ -288,7 +288,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53023": {
@@ -303,7 +303,7 @@
    "pct_D": 24.6,
    "pct_R": 72.4,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 330,
      "votes_R": 973,
      "votes_other": 40
@@ -312,7 +312,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53025": {
@@ -327,7 +327,7 @@
    "pct_D": 29.8,
    "pct_R": 67.6,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 10493,
      "votes_R": 23802,
      "votes_other": 928
@@ -336,7 +336,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53027": {
@@ -351,7 +351,7 @@
    "pct_D": 45.6,
    "pct_R": 51.6,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 17159,
      "votes_R": 19425,
      "votes_other": 1045
@@ -360,7 +360,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53029": {
@@ -375,7 +375,7 @@
    "pct_D": 56.8,
    "pct_R": 40.3,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 29595,
      "votes_R": 20967,
      "votes_other": 1513
@@ -384,7 +384,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53031": {
@@ -399,7 +399,7 @@
    "pct_D": 71.1,
    "pct_R": 25.7,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 17459,
      "votes_R": 6324,
      "votes_other": 789
@@ -408,7 +408,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53033": {
@@ -423,7 +423,7 @@
    "pct_D": 74.1,
    "pct_R": 22.5,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 832606,
      "votes_R": 252193,
      "votes_other": 38082
@@ -432,7 +432,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53035": {
@@ -447,7 +447,7 @@
    "pct_D": 58.9,
    "pct_R": 37.9,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 91268,
      "votes_R": 58725,
      "votes_other": 5064
@@ -456,7 +456,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53037": {
@@ -471,7 +471,7 @@
    "pct_D": 41.1,
    "pct_R": 55.7,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 10810,
      "votes_R": 14645,
      "votes_other": 854
@@ -480,7 +480,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53039": {
@@ -495,7 +495,7 @@
    "pct_D": 43.7,
    "pct_R": 53.1,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 5917,
      "votes_R": 7178,
      "votes_other": 432
@@ -504,7 +504,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53041": {
@@ -519,7 +519,7 @@
    "pct_D": 32.0,
    "pct_R": 65.0,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 14431,
      "votes_R": 29308,
      "votes_other": 1357
@@ -528,7 +528,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53043": {
@@ -543,7 +543,7 @@
    "pct_D": 23.8,
    "pct_R": 74.0,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 1676,
      "votes_R": 5210,
      "votes_other": 157
@@ -552,7 +552,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53045": {
@@ -567,7 +567,7 @@
    "pct_D": 47.2,
    "pct_R": 49.6,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 17058,
      "votes_R": 17943,
      "votes_other": 1149
@@ -576,7 +576,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53047": {
@@ -591,7 +591,7 @@
    "pct_D": 41.1,
    "pct_R": 56.0,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 8466,
      "votes_R": 11555,
      "votes_other": 596
@@ -600,7 +600,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53049": {
@@ -615,7 +615,7 @@
    "pct_D": 48.6,
    "pct_R": 49.0,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 6750,
      "votes_R": 6803,
      "votes_other": 337
@@ -624,7 +624,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53051": {
@@ -639,7 +639,7 @@
    "pct_D": 29.0,
    "pct_R": 68.6,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 2461,
      "votes_R": 5826,
      "votes_other": 210
@@ -648,7 +648,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53053": {
@@ -663,7 +663,7 @@
    "pct_D": 53.9,
    "pct_R": 43.1,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 235151,
      "votes_R": 188148,
      "votes_other": 13321
@@ -672,7 +672,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53055": {
@@ -687,7 +687,7 @@
    "pct_D": 73.7,
    "pct_R": 22.3,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 9539,
      "votes_R": 2890,
      "votes_other": 510
@@ -696,7 +696,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53057": {
@@ -711,7 +711,7 @@
    "pct_D": 52.9,
    "pct_R": 44.1,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 36346,
      "votes_R": 30278,
      "votes_other": 2094
@@ -720,7 +720,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53059": {
@@ -735,7 +735,7 @@
    "pct_D": 43.0,
    "pct_R": 54.2,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 3147,
      "votes_R": 3961,
      "votes_other": 206
@@ -744,7 +744,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53061": {
@@ -759,7 +759,7 @@
    "pct_D": 57.8,
    "pct_R": 38.8,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 239843,
      "votes_R": 161142,
      "votes_other": 13835
@@ -768,7 +768,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53063": {
@@ -783,7 +783,7 @@
    "pct_D": 46.0,
    "pct_R": 51.0,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 131163,
      "votes_R": 145338,
      "votes_other": 8457
@@ -792,7 +792,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53065": {
@@ -807,7 +807,7 @@
    "pct_D": 26.7,
    "pct_R": 70.8,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 7492,
      "votes_R": 19895,
      "votes_other": 708
@@ -816,7 +816,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53067": {
@@ -831,7 +831,7 @@
    "pct_D": 58.5,
    "pct_R": 38.1,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 95459,
      "votes_R": 62135,
      "votes_other": 5683
@@ -840,7 +840,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53069": {
@@ -855,7 +855,7 @@
    "pct_D": 39.4,
    "pct_R": 57.5,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 1204,
      "votes_R": 1757,
      "votes_other": 92
@@ -864,7 +864,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53071": {
@@ -879,7 +879,7 @@
    "pct_D": 44.6,
    "pct_R": 52.7,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 13106,
      "votes_R": 15476,
      "votes_other": 791
@@ -888,7 +888,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53073": {
@@ -903,7 +903,7 @@
    "pct_D": 60.8,
    "pct_R": 35.9,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 83295,
      "votes_R": 49213,
      "votes_other": 4498
@@ -912,7 +912,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53075": {
@@ -927,7 +927,7 @@
    "pct_D": 52.8,
    "pct_R": 43.8,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 10480,
      "votes_R": 8699,
      "votes_other": 666
@@ -936,7 +936,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   },
   "53077": {
@@ -951,7 +951,7 @@
    "pct_D": 41.5,
    "pct_R": 56.0,
    "modes": {
-    "mail": {
+    "total": {
      "votes_D": 36383,
      "votes_R": 49104,
      "votes_other": 2188
@@ -960,7 +960,7 @@
    "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C1",
+   "completeness": "U",
    "notes": ""
   }
  }

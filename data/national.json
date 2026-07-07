@@ -146,11 +146,8 @@
     "C3": 1
    },
    "cov": {
-    "mode": "stripe",
-    "g": [
-     "C4",
-     "C3"
-    ]
+    "mode": "solid",
+    "g": "C4"
    }
   },
   "DC": {
@@ -704,11 +701,8 @@
     "C3": 1
    },
    "cov": {
-    "mode": "stripe",
-    "g": [
-     "C4",
-     "C3"
-    ]
+    "mode": "solid",
+    "g": "C4"
    }
   },
   "NV": {
@@ -815,14 +809,14 @@
    "total_votes": 2245051,
    "pct_D": 55.2,
    "pct_R": 41.0,
-   "avg_completeness": "C1",
+   "avg_completeness": "U",
    "unit_count": 36,
    "completeness_breakdown": {
-    "C1": 36
+    "U": 36
    },
    "cov": {
     "mode": "solid",
-    "g": "C1"
+    "g": "U"
    }
   },
   "PA": {
@@ -971,14 +965,14 @@
    "total_votes": 1488304,
    "pct_D": 37.8,
    "pct_R": 59.4,
-   "avg_completeness": "C1",
+   "avg_completeness": "U",
    "unit_count": 29,
    "completeness_breakdown": {
-    "C1": 29
+    "U": 29
    },
    "cov": {
     "mode": "solid",
-    "g": "C1"
+    "g": "U"
    }
   },
   "VA": {
@@ -1028,14 +1022,14 @@
    "total_votes": 3893551,
    "pct_D": 57.6,
    "pct_R": 39.2,
-   "avg_completeness": "C1",
+   "avg_completeness": "U",
    "unit_count": 39,
    "completeness_breakdown": {
-    "C1": 39
+    "U": 39
    },
    "cov": {
     "mode": "solid",
-    "g": "C1"
+    "g": "U"
    }
   },
   "WI": {

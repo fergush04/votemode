@@ -255,10 +255,10 @@ function nationalCoverageFill(s) {
     let defs = svg.select('defs');
     if (defs.empty()) defs = svg.insert('defs', ':first-child');
     const p = defs.append('pattern')
-      .attr('id', pid).attr('width', 8).attr('height', 8)
+      .attr('id', pid).attr('width', 12).attr('height', 12)
       .attr('patternUnits', 'userSpaceOnUse').attr('patternTransform', 'rotate(45)');
-    p.append('rect').attr('width', 8).attr('height', 8).attr('fill', coverageColor(cov.g[0]));
-    p.append('rect').attr('width', 4).attr('height', 8).attr('fill', coverageColor(cov.g[1]));
+    p.append('rect').attr('width', 12).attr('height', 12).attr('fill', coverageColor(cov.g[0]));
+    p.append('rect').attr('width', 6).attr('height', 12).attr('fill', coverageColor(cov.g[1]));
   }
   return 'url(#' + pid + ')';
 }
