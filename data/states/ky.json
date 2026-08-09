@@ -4,14 +4,14 @@
  "unit_type": "county",
  "avg_completeness": "C3",
  "completeness_breakdown": {
-  "C3": 110,
-  "C2": 9,
+  "C3": 112,
+  "C2": 7,
   "C4": 1
  },
  "votes_D": 704042,
  "votes_R": 1337491,
- "votes_other": 35217,
- "total_votes": 2076750,
+ "votes_other": 35209,
+ "total_votes": 2076742,
  "pct_D": 33.9,
  "pct_R": 64.4,
  "unit_count": 120,
@@ -25,9 +25,9 @@
   ],
   "mode_split": {
    "election_day": 61.4,
-   "early_in_person": 30.9,
+   "early_in_person": 31.3,
    "mail": 6.4,
-   "pre_election_day": 1.3,
+   "pre_election_day": 0.8,
    "provisional": 0.0
   }
  },
@@ -44,24 +44,24 @@
    "pct_D": 14.0,
    "pct_R": 85.2,
    "modes": {
-    "election_day": {
-     "votes_D": 714,
-     "votes_R": 5394,
-     "votes_other": 54
+    "mail": {
+     "votes_D": 120,
+     "votes_R": 335,
+     "votes_other": 1
     },
     "early_in_person": {
      "votes_D": 423,
      "votes_R": 1914,
      "votes_other": 19
     },
-    "mail": {
-     "votes_D": 120,
-     "votes_R": 335,
-     "votes_other": 1
+    "election_day": {
+     "votes_D": 714,
+     "votes_R": 5394,
+     "votes_other": 54
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -78,24 +78,24 @@
    "pct_D": 16.0,
    "pct_R": 83.1,
    "modes": {
-    "election_day": {
-     "votes_D": 843,
-     "votes_R": 5262,
-     "votes_other": 64
+    "mail": {
+     "votes_D": 166,
+     "votes_R": 325,
+     "votes_other": 4
     },
     "early_in_person": {
      "votes_D": 496,
      "votes_R": 2237,
      "votes_other": 21
     },
-    "mail": {
-     "votes_D": 166,
-     "votes_R": 325,
-     "votes_other": 4
+    "election_day": {
+     "votes_D": 843,
+     "votes_R": 5262,
+     "votes_other": 64
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -112,24 +112,24 @@
    "pct_D": 24.6,
    "pct_R": 73.7,
    "modes": {
-    "election_day": {
-     "votes_D": 1050,
-     "votes_R": 3703,
-     "votes_other": 106
+    "mail": {
+     "votes_D": 192,
+     "votes_R": 248,
+     "votes_other": 10
     },
     "early_in_person": {
      "votes_D": 1984,
      "votes_R": 5699,
      "votes_other": 103
     },
-    "mail": {
-     "votes_D": 192,
-     "votes_R": 248,
-     "votes_other": 10
+    "election_day": {
+     "votes_D": 1050,
+     "votes_R": 3703,
+     "votes_other": 106
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -146,24 +146,24 @@
    "pct_D": 17.0,
    "pct_R": 81.5,
    "modes": {
-    "election_day": {
-     "votes_D": 508,
-     "votes_R": 2469,
-     "votes_other": 48
+    "mail": {
+     "votes_D": 54,
+     "votes_R": 114,
+     "votes_other": 1
     },
     "early_in_person": {
      "votes_D": 135,
      "votes_R": 748,
      "votes_other": 11
     },
-    "mail": {
-     "votes_D": 54,
-     "votes_R": 114,
-     "votes_other": 1
+    "election_day": {
+     "votes_D": 508,
+     "votes_R": 2469,
+     "votes_other": 48
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -180,24 +180,24 @@
    "pct_D": 23.1,
    "pct_R": 75.8,
    "modes": {
-    "election_day": {
-     "votes_D": 2357,
-     "votes_R": 9488,
-     "votes_other": 153
+    "mail": {
+     "votes_D": 495,
+     "votes_R": 767,
+     "votes_other": 7
     },
     "early_in_person": {
      "votes_D": 1713,
      "votes_R": 4764,
      "votes_other": 58
     },
-    "mail": {
-     "votes_D": 495,
-     "votes_R": 767,
-     "votes_other": 7
+    "election_day": {
+     "votes_D": 2357,
+     "votes_R": 9488,
+     "votes_other": 153
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -214,24 +214,24 @@
    "pct_D": 23.7,
    "pct_R": 75.0,
    "modes": {
-    "election_day": {
-     "votes_D": 585,
-     "votes_R": 2367,
-     "votes_other": 47
+    "mail": {
+     "votes_D": 204,
+     "votes_R": 232,
+     "votes_other": 11
     },
     "early_in_person": {
      "votes_D": 489,
      "votes_R": 1442,
      "votes_other": 12
     },
-    "mail": {
-     "votes_D": 204,
-     "votes_R": 232,
-     "votes_other": 11
+    "election_day": {
+     "votes_D": 585,
+     "votes_R": 2367,
+     "votes_other": 47
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -248,24 +248,24 @@
    "pct_D": 15.2,
    "pct_R": 83.8,
    "modes": {
-    "election_day": {
-     "votes_D": 799,
-     "votes_R": 5162,
-     "votes_other": 59
+    "mail": {
+     "votes_D": 236,
+     "votes_R": 814,
+     "votes_other": 8
     },
     "early_in_person": {
      "votes_D": 384,
      "votes_R": 1855,
      "votes_other": 23
     },
-    "mail": {
-     "votes_D": 236,
-     "votes_R": 814,
-     "votes_other": 8
+    "election_day": {
+     "votes_D": 799,
+     "votes_R": 5162,
+     "votes_other": 59
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -282,24 +282,24 @@
    "pct_D": 30.6,
    "pct_R": 67.7,
    "modes": {
-    "election_day": {
-     "votes_D": 13073,
-     "votes_R": 31489,
-     "votes_other": 924
+    "mail": {
+     "votes_D": 2387,
+     "votes_R": 3460,
+     "votes_other": 87
     },
     "early_in_person": {
      "votes_D": 5141,
      "votes_R": 10701,
      "votes_other": 159
     },
-    "mail": {
-     "votes_D": 2387,
-     "votes_R": 3460,
-     "votes_other": 87
+    "election_day": {
+     "votes_D": 13073,
+     "votes_R": 31489,
+     "votes_other": 924
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -316,24 +316,24 @@
    "pct_D": 32.4,
    "pct_R": 65.9,
    "modes": {
-    "election_day": {
-     "votes_D": 1319,
-     "votes_R": 3457,
-     "votes_other": 102
+    "mail": {
+     "votes_D": 391,
+     "votes_R": 361,
+     "votes_other": 12
     },
     "early_in_person": {
      "votes_D": 1378,
      "votes_R": 2466,
      "votes_other": 51
     },
-    "mail": {
-     "votes_D": 391,
-     "votes_R": 361,
-     "votes_other": 12
+    "election_day": {
+     "votes_D": 1319,
+     "votes_R": 3457,
+     "votes_other": 102
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -350,24 +350,24 @@
    "pct_D": 30.0,
    "pct_R": 68.6,
    "modes": {
-    "election_day": {
-     "votes_D": 3449,
-     "votes_R": 8547,
-     "votes_other": 194
+    "mail": {
+     "votes_D": 696,
+     "votes_R": 860,
+     "votes_other": 20
     },
     "early_in_person": {
      "votes_D": 2146,
      "votes_R": 4956,
      "votes_other": 83
     },
-    "mail": {
-     "votes_D": 696,
-     "votes_R": 860,
-     "votes_other": 20
+    "election_day": {
+     "votes_D": 3449,
+     "votes_R": 8547,
+     "votes_other": 194
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -384,24 +384,24 @@
    "pct_D": 34.7,
    "pct_R": 63.7,
    "modes": {
-    "election_day": {
-     "votes_D": 2140,
-     "votes_R": 5189,
-     "votes_other": 153
+    "mail": {
+     "votes_D": 514,
+     "votes_R": 468,
+     "votes_other": 16
     },
     "early_in_person": {
      "votes_D": 2336,
      "votes_R": 3502,
      "votes_other": 55
     },
-    "mail": {
-     "votes_D": 514,
-     "votes_R": 468,
-     "votes_other": 16
+    "election_day": {
+     "votes_D": 2140,
+     "votes_R": 5189,
+     "votes_other": 153
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -418,19 +418,19 @@
    "pct_D": 16.9,
    "pct_R": 81.8,
    "modes": {
+    "pre_election_day": {
+     "votes_D": 327,
+     "votes_R": 1178,
+     "votes_other": 17
+    },
     "election_day": {
      "votes_D": 375,
      "votes_R": 2221,
      "votes_other": 35
-    },
-    "mail": {
-     "votes_D": 327,
-     "votes_R": 1178,
-     "votes_other": 17
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
    "notes": ""
@@ -447,18 +447,18 @@
    "pct_D": 19.6,
    "pct_R": 78.9,
    "modes": {
-    "election_day": {
-     "votes_D": 525,
-     "votes_R": 2561,
-     "votes_other": 41
-    },
     "pre_election_day": {
      "votes_D": 477,
      "votes_R": 1475,
      "votes_other": 34
+    },
+    "election_day": {
+     "votes_D": 525,
+     "votes_R": 2561,
+     "votes_other": 41
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "Breathitt County, KY",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -476,24 +476,24 @@
    "pct_D": 20.3,
    "pct_R": 78.4,
    "modes": {
-    "election_day": {
-     "votes_D": 1224,
-     "votes_R": 5659,
-     "votes_other": 101
+    "mail": {
+     "votes_D": 229,
+     "votes_R": 420,
+     "votes_other": 4
     },
     "early_in_person": {
      "votes_D": 585,
      "votes_R": 1803,
      "votes_other": 23
     },
-    "mail": {
-     "votes_D": 229,
-     "votes_R": 420,
-     "votes_other": 4
+    "election_day": {
+     "votes_D": 1224,
+     "votes_R": 5659,
+     "votes_other": 101
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -510,24 +510,24 @@
    "pct_D": 23.8,
    "pct_R": 74.8,
    "modes": {
-    "election_day": {
-     "votes_D": 3908,
-     "votes_R": 13844,
-     "votes_other": 352
+    "mail": {
+     "votes_D": 1213,
+     "votes_R": 1685,
+     "votes_other": 34
     },
     "early_in_person": {
      "votes_D": 5159,
      "votes_R": 16770,
      "votes_other": 244
     },
-    "mail": {
-     "votes_D": 1213,
-     "votes_R": 1685,
-     "votes_other": 34
+    "election_day": {
+     "votes_D": 3908,
+     "votes_R": 13844,
+     "votes_other": 352
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -544,24 +544,24 @@
    "pct_D": 16.2,
    "pct_R": 82.5,
    "modes": {
-    "election_day": {
-     "votes_D": 669,
-     "votes_R": 3733,
-     "votes_other": 60
+    "mail": {
+     "votes_D": 71,
+     "votes_R": 153,
+     "votes_other": 1
     },
     "early_in_person": {
      "votes_D": 225,
      "votes_R": 1019,
      "votes_other": 12
     },
-    "mail": {
-     "votes_D": 71,
-     "votes_R": 153,
-     "votes_other": 1
+    "election_day": {
+     "votes_D": 669,
+     "votes_R": 3733,
+     "votes_other": 60
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -578,24 +578,24 @@
    "pct_D": 20.3,
    "pct_R": 78.5,
    "modes": {
-    "election_day": {
-     "votes_D": 532,
-     "votes_R": 2650,
-     "votes_other": 45
+    "mail": {
+     "votes_D": 153,
+     "votes_R": 243,
+     "votes_other": 4
     },
     "early_in_person": {
      "votes_D": 571,
      "votes_R": 1967,
      "votes_other": 23
     },
-    "mail": {
-     "votes_D": 153,
-     "votes_R": 243,
-     "votes_other": 4
+    "election_day": {
+     "votes_D": 532,
+     "votes_R": 2650,
+     "votes_other": 45
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -612,24 +612,24 @@
    "pct_D": 30.2,
    "pct_R": 68.1,
    "modes": {
-    "election_day": {
-     "votes_D": 2661,
-     "votes_R": 6740,
-     "votes_other": 195
+    "mail": {
+     "votes_D": 474,
+     "votes_R": 580,
+     "votes_other": 22
     },
     "early_in_person": {
      "votes_D": 1976,
      "votes_R": 4219,
      "votes_other": 78
     },
-    "mail": {
-     "votes_D": 474,
-     "votes_R": 580,
-     "votes_other": 22
+    "election_day": {
+     "votes_D": 2661,
+     "votes_R": 6740,
+     "votes_other": 195
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -646,24 +646,24 @@
    "pct_D": 39.2,
    "pct_R": 58.9,
    "modes": {
-    "election_day": {
-     "votes_D": 12187,
-     "votes_R": 19605,
-     "votes_other": 759
+    "mail": {
+     "votes_D": 1654,
+     "votes_R": 1564,
+     "votes_other": 54
     },
     "early_in_person": {
      "votes_D": 5111,
      "votes_R": 7281,
      "votes_other": 119
     },
-    "mail": {
-     "votes_D": 1654,
-     "votes_R": 1564,
-     "votes_other": 54
+    "election_day": {
+     "votes_D": 12187,
+     "votes_R": 19605,
+     "votes_other": 759
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -680,24 +680,24 @@
    "pct_D": 15.6,
    "pct_R": 83.6,
    "modes": {
-    "election_day": {
-     "votes_D": 269,
-     "votes_R": 1504,
-     "votes_other": 15
+    "mail": {
+     "votes_D": 37,
+     "votes_R": 72,
+     "votes_other": 2
     },
     "early_in_person": {
      "votes_D": 102,
      "votes_R": 606,
      "votes_other": 3
     },
-    "mail": {
-     "votes_D": 37,
-     "votes_R": 72,
-     "votes_other": 2
+    "election_day": {
+     "votes_D": 269,
+     "votes_R": 1504,
+     "votes_other": 15
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -714,24 +714,24 @@
    "pct_D": 23.9,
    "pct_R": 74.9,
    "modes": {
-    "election_day": {
-     "votes_D": 463,
-     "votes_R": 1823,
-     "votes_other": 31
+    "mail": {
+     "votes_D": 144,
+     "votes_R": 334,
+     "votes_other": 5
     },
     "early_in_person": {
      "votes_D": 356,
      "votes_R": 857,
      "votes_other": 12
     },
-    "mail": {
-     "votes_D": 144,
-     "votes_R": 334,
-     "votes_other": 5
+    "election_day": {
+     "votes_D": 463,
+     "votes_R": 1823,
+     "votes_other": 31
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -748,24 +748,24 @@
    "pct_D": 20.2,
    "pct_R": 78.6,
    "modes": {
-    "election_day": {
-     "votes_D": 1490,
-     "votes_R": 6439,
-     "votes_other": 103
+    "mail": {
+     "votes_D": 244,
+     "votes_R": 476,
+     "votes_other": 10
     },
     "early_in_person": {
      "votes_D": 571,
      "votes_R": 2066,
      "votes_other": 23
     },
-    "mail": {
-     "votes_D": 244,
-     "votes_R": 476,
-     "votes_other": 10
+    "election_day": {
+     "votes_D": 1490,
+     "votes_R": 6439,
+     "votes_other": 103
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -782,24 +782,24 @@
    "pct_D": 11.4,
    "pct_R": 87.8,
    "modes": {
-    "election_day": {
-     "votes_D": 366,
-     "votes_R": 3334,
-     "votes_other": 31
+    "mail": {
+     "votes_D": 79,
+     "votes_R": 322,
+     "votes_other": 7
     },
     "early_in_person": {
      "votes_D": 359,
      "votes_R": 2560,
      "votes_other": 22
     },
-    "mail": {
-     "votes_D": 79,
-     "votes_R": 322,
-     "votes_other": 7
+    "election_day": {
+     "votes_D": 366,
+     "votes_R": 3334,
+     "votes_other": 31
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -816,24 +816,24 @@
    "pct_D": 32.6,
    "pct_R": 66.1,
    "modes": {
-    "election_day": {
-     "votes_D": 3769,
-     "votes_R": 8361,
-     "votes_other": 204
+    "mail": {
+     "votes_D": 539,
+     "votes_R": 622,
+     "votes_other": 18
     },
     "early_in_person": {
      "votes_D": 2747,
      "votes_R": 5349,
      "votes_other": 62
     },
-    "mail": {
-     "votes_D": 539,
-     "votes_R": 622,
-     "votes_other": 18
+    "election_day": {
+     "votes_D": 3769,
+     "votes_R": 8361,
+     "votes_other": 204
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -850,24 +850,24 @@
    "pct_D": 31.5,
    "pct_R": 66.8,
    "modes": {
-    "election_day": {
-     "votes_D": 3276,
-     "votes_R": 7792,
-     "votes_other": 231
+    "mail": {
+     "votes_D": 497,
+     "votes_R": 530,
+     "votes_other": 15
     },
     "early_in_person": {
      "votes_D": 1866,
      "votes_R": 3628,
      "votes_other": 50
     },
-    "mail": {
-     "votes_D": 497,
-     "votes_R": 530,
-     "votes_other": 15
+    "election_day": {
+     "votes_D": 3276,
+     "votes_R": 7792,
+     "votes_other": 231
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -884,24 +884,24 @@
    "pct_D": 9.2,
    "pct_R": 89.4,
    "modes": {
-    "election_day": {
-     "votes_D": 457,
-     "votes_R": 5509,
-     "votes_other": 84
+    "mail": {
+     "votes_D": 91,
+     "votes_R": 277,
+     "votes_other": 4
     },
     "early_in_person": {
      "votes_D": 144,
      "votes_R": 943,
      "votes_other": 17
     },
-    "mail": {
-     "votes_D": 91,
-     "votes_R": 277,
-     "votes_other": 4
+    "election_day": {
+     "votes_D": 457,
+     "votes_R": 5509,
+     "votes_other": 84
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0012,
    "completeness": "C3",
    "notes": ""
@@ -918,24 +918,24 @@
    "pct_D": 11.2,
    "pct_R": 87.4,
    "modes": {
-    "election_day": {
-     "votes_D": 178,
-     "votes_R": 1638,
-     "votes_other": 27
+    "mail": {
+     "votes_D": 85,
+     "votes_R": 342,
+     "votes_other": 10
     },
     "early_in_person": {
      "votes_D": 286,
      "votes_R": 2296,
      "votes_other": 29
     },
-    "mail": {
-     "votes_D": 85,
-     "votes_R": 342,
-     "votes_other": 10
+    "election_day": {
+     "votes_D": 178,
+     "votes_R": 1638,
+     "votes_other": 27
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0023,
    "completeness": "C3",
    "notes": ""
@@ -952,24 +952,24 @@
    "pct_D": 15.2,
    "pct_R": 83.5,
    "modes": {
-    "election_day": {
-     "votes_D": 306,
-     "votes_R": 2012,
-     "votes_other": 29
+    "mail": {
+     "votes_D": 42,
+     "votes_R": 108,
+     "votes_other": 3
     },
     "early_in_person": {
      "votes_D": 260,
      "votes_R": 1229,
      "votes_other": 21
     },
-    "mail": {
-     "votes_D": 42,
-     "votes_R": 108,
-     "votes_other": 3
+    "election_day": {
+     "votes_D": 306,
+     "votes_R": 2012,
+     "votes_other": 29
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -986,24 +986,24 @@
    "pct_D": 14.0,
    "pct_R": 84.9,
    "modes": {
-    "election_day": {
-     "votes_D": 251,
-     "votes_R": 1705,
-     "votes_other": 26
+    "mail": {
+     "votes_D": 47,
+     "votes_R": 175,
+     "votes_other": 2
     },
     "early_in_person": {
      "votes_D": 185,
      "votes_R": 1042,
      "votes_other": 9
     },
-    "mail": {
-     "votes_D": 47,
-     "votes_R": 175,
-     "votes_other": 2
+    "election_day": {
+     "votes_D": 251,
+     "votes_R": 1705,
+     "votes_other": 26
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1020,24 +1020,24 @@
    "pct_D": 33.3,
    "pct_R": 65.2,
    "modes": {
-    "election_day": {
-     "votes_D": 9621,
-     "votes_R": 22118,
-     "votes_other": 576
+    "mail": {
+     "votes_D": 1645,
+     "votes_R": 1492,
+     "votes_other": 56
     },
     "early_in_person": {
      "votes_D": 4407,
      "votes_R": 7095,
      "votes_other": 87
     },
-    "mail": {
-     "votes_D": 1645,
-     "votes_R": 1492,
-     "votes_other": 56
+    "election_day": {
+     "votes_D": 9621,
+     "votes_R": 22118,
+     "votes_other": 576
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1054,24 +1054,24 @@
    "pct_D": 17.9,
    "pct_R": 80.8,
    "modes": {
-    "election_day": {
-     "votes_D": 700,
-     "votes_R": 3409,
-     "votes_other": 63
+    "mail": {
+     "votes_D": 109,
+     "votes_R": 243,
+     "votes_other": 4
     },
     "early_in_person": {
      "votes_D": 309,
      "votes_R": 1396,
      "votes_other": 14
     },
-    "mail": {
-     "votes_D": 109,
-     "votes_R": 243,
-     "votes_other": 4
+    "election_day": {
+     "votes_D": 700,
+     "votes_R": 3409,
+     "votes_other": 63
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1088,18 +1088,18 @@
    "pct_D": 18.3,
    "pct_R": 80.2,
    "modes": {
-    "election_day": {
-     "votes_D": 343,
-     "votes_R": 1702,
-     "votes_other": 35
-    },
     "pre_election_day": {
      "votes_D": 189,
      "votes_R": 633,
      "votes_other": 9
+    },
+    "election_day": {
+     "votes_D": 343,
+     "votes_R": 1702,
+     "votes_other": 35
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "Elliott County, KY",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1117,24 +1117,24 @@
    "pct_D": 17.7,
    "pct_R": 80.9,
    "modes": {
-    "election_day": {
-     "votes_D": 642,
-     "votes_R": 3442,
-     "votes_other": 63
+    "mail": {
+     "votes_D": 130,
+     "votes_R": 281,
+     "votes_other": 2
     },
     "early_in_person": {
      "votes_D": 342,
      "votes_R": 1368,
      "votes_other": 20
     },
-    "mail": {
-     "votes_D": 130,
-     "votes_R": 281,
-     "votes_other": 2
+    "election_day": {
+     "votes_D": 642,
+     "votes_R": 3442,
+     "votes_other": 63
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1151,20 +1151,20 @@
    "pct_D": 57.9,
    "pct_R": 39.8,
    "modes": {
-    "election_day": {
-     "votes_D": 55796,
-     "votes_R": 42796,
-     "votes_other": 2603
+    "mail": {
+     "votes_D": 8439,
+     "votes_R": 3898,
+     "votes_other": 230
     },
     "early_in_person": {
      "votes_D": 19152,
      "votes_R": 10650,
      "votes_other": 362
     },
-    "mail": {
-     "votes_D": 8439,
-     "votes_R": 3898,
-     "votes_other": 230
+    "election_day": {
+     "votes_D": 55796,
+     "votes_R": 42796,
+     "votes_other": 2603
     }
    },
    "data_source": "OpenElections",
@@ -1185,24 +1185,24 @@
    "pct_D": 19.1,
    "pct_R": 79.7,
    "modes": {
-    "election_day": {
-     "votes_D": 840,
-     "votes_R": 4084,
-     "votes_other": 66
+    "mail": {
+     "votes_D": 149,
+     "votes_R": 303,
+     "votes_other": 10
     },
     "early_in_person": {
      "votes_D": 345,
      "votes_R": 1191,
      "votes_other": 12
     },
-    "mail": {
-     "votes_D": 149,
-     "votes_R": 303,
-     "votes_other": 10
+    "election_day": {
+     "votes_D": 840,
+     "votes_R": 4084,
+     "votes_other": 66
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1219,18 +1219,18 @@
    "pct_D": 19.6,
    "pct_R": 78.8,
    "modes": {
-    "election_day": {
-     "votes_D": 1913,
-     "votes_R": 8847,
-     "votes_other": 190
-    },
     "pre_election_day": {
      "votes_D": 1148,
      "votes_R": 3479,
      "votes_other": 75
+    },
+    "election_day": {
+     "votes_D": 1913,
+     "votes_R": 8847,
+     "votes_other": 190
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "Floyd County, KY",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1248,24 +1248,24 @@
    "pct_D": 46.6,
    "pct_R": 51.4,
    "modes": {
-    "election_day": {
-     "votes_D": 5569,
-     "votes_R": 7821,
-     "votes_other": 365
+    "mail": {
+     "votes_D": 999,
+     "votes_R": 565,
+     "votes_other": 25
     },
     "early_in_person": {
      "votes_D": 5428,
      "votes_R": 4860,
      "votes_other": 131
     },
-    "mail": {
-     "votes_D": 999,
-     "votes_R": 565,
-     "votes_other": 25
+    "election_day": {
+     "votes_D": 5569,
+     "votes_R": 7821,
+     "votes_other": 365
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1282,24 +1282,24 @@
    "pct_D": 29.7,
    "pct_R": 69.5,
    "modes": {
-    "election_day": {
-     "votes_D": 427,
-     "votes_R": 942,
-     "votes_other": 13
+    "mail": {
+     "votes_D": 49,
+     "votes_R": 47,
+     "votes_other": 0
     },
     "early_in_person": {
      "votes_D": 160,
      "votes_R": 502,
      "votes_other": 5
     },
-    "mail": {
-     "votes_D": 49,
-     "votes_R": 47,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 427,
+     "votes_R": 942,
+     "votes_other": 13
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1316,24 +1316,24 @@
    "pct_D": 19.4,
    "pct_R": 79.4,
    "modes": {
-    "election_day": {
-     "votes_D": 497,
-     "votes_R": 2277,
-     "votes_other": 36
+    "mail": {
+     "votes_D": 64,
+     "votes_R": 154,
+     "votes_other": 0
     },
     "early_in_person": {
      "votes_D": 200,
      "votes_R": 678,
      "votes_other": 11
     },
-    "mail": {
-     "votes_D": 64,
-     "votes_R": 154,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 497,
+     "votes_R": 2277,
+     "votes_other": 36
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1350,24 +1350,24 @@
    "pct_D": 19.3,
    "pct_R": 79.5,
    "modes": {
-    "election_day": {
-     "votes_D": 957,
-     "votes_R": 4547,
-     "votes_other": 73
+    "mail": {
+     "votes_D": 195,
+     "votes_R": 350,
+     "votes_other": 12
     },
     "early_in_person": {
      "votes_D": 567,
      "votes_R": 2189,
      "votes_other": 27
     },
-    "mail": {
-     "votes_D": 195,
-     "votes_R": 350,
-     "votes_other": 12
+    "election_day": {
+     "votes_D": 957,
+     "votes_R": 4547,
+     "votes_other": 73
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1384,24 +1384,24 @@
    "pct_D": 17.0,
    "pct_R": 81.7,
    "modes": {
-    "election_day": {
-     "votes_D": 1014,
-     "votes_R": 5979,
-     "votes_other": 106
+    "mail": {
+     "votes_D": 165,
+     "votes_R": 381,
+     "votes_other": 8
     },
     "early_in_person": {
      "votes_D": 765,
      "votes_R": 3012,
      "votes_other": 39
     },
-    "mail": {
-     "votes_D": 165,
-     "votes_R": 381,
-     "votes_other": 8
+    "election_day": {
+     "votes_D": 1014,
+     "votes_R": 5979,
+     "votes_other": 106
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1418,24 +1418,24 @@
    "pct_D": 18.6,
    "pct_R": 80.2,
    "modes": {
-    "election_day": {
-     "votes_D": 2024,
-     "votes_R": 9451,
-     "votes_other": 155
+    "mail": {
+     "votes_D": 223,
+     "votes_R": 450,
+     "votes_other": 8
     },
     "early_in_person": {
      "votes_D": 858,
      "votes_R": 3477,
      "votes_other": 32
     },
-    "mail": {
-     "votes_D": 223,
-     "votes_R": 450,
-     "votes_other": 8
+    "election_day": {
+     "votes_D": 2024,
+     "votes_R": 9451,
+     "votes_other": 155
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1452,24 +1452,24 @@
    "pct_D": 18.5,
    "pct_R": 80.3,
    "modes": {
-    "election_day": {
-     "votes_D": 1299,
-     "votes_R": 6889,
-     "votes_other": 118
+    "mail": {
+     "votes_D": 202,
+     "votes_R": 364,
+     "votes_other": 8
     },
     "early_in_person": {
      "votes_D": 734,
      "votes_R": 2457,
      "votes_other": 24
     },
-    "mail": {
-     "votes_D": 202,
-     "votes_R": 364,
-     "votes_other": 8
+    "election_day": {
+     "votes_D": 1299,
+     "votes_R": 6889,
+     "votes_other": 118
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1486,24 +1486,24 @@
    "pct_D": 13.4,
    "pct_R": 85.9,
    "modes": {
-    "election_day": {
-     "votes_D": 439,
-     "votes_R": 3375,
-     "votes_other": 32
+    "mail": {
+     "votes_D": 112,
+     "votes_R": 313,
+     "votes_other": 5
     },
     "early_in_person": {
      "votes_D": 231,
      "votes_R": 1345,
      "votes_other": 5
     },
-    "mail": {
-     "votes_D": 112,
-     "votes_R": 313,
-     "votes_other": 5
+    "election_day": {
+     "votes_D": 439,
+     "votes_R": 3375,
+     "votes_other": 32
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1520,24 +1520,24 @@
    "pct_D": 24.1,
    "pct_R": 74.6,
    "modes": {
-    "election_day": {
-     "votes_D": 3000,
-     "votes_R": 9760,
-     "votes_other": 182
+    "mail": {
+     "votes_D": 556,
+     "votes_R": 1096,
+     "votes_other": 20
     },
     "early_in_person": {
      "votes_D": 625,
      "votes_R": 2105,
      "votes_other": 30
     },
-    "mail": {
-     "votes_D": 556,
-     "votes_R": 1096,
-     "votes_other": 20
+    "election_day": {
+     "votes_D": 3000,
+     "votes_R": 9760,
+     "votes_other": 182
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1554,21 +1554,26 @@
    "pct_D": 25.3,
    "pct_R": 72.8,
    "modes": {
+    "mail": {
+     "votes_D": 85,
+     "votes_R": 85,
+     "votes_other": 2
+    },
+    "early_in_person": {
+     "votes_D": 318,
+     "votes_R": 769,
+     "votes_other": 11
+    },
     "election_day": {
      "votes_D": 770,
      "votes_R": 2521,
      "votes_other": 72
-    },
-    "pre_election_day": {
-     "votes_D": 403,
-     "votes_R": 854,
-     "votes_other": 13
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "Hancock County, KY",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C2",
+   "completeness": "C3",
    "notes": ""
   },
   "21093": {
@@ -1583,24 +1588,24 @@
    "pct_D": 34.5,
    "pct_R": 63.8,
    "modes": {
-    "election_day": {
-     "votes_D": 8639,
-     "votes_R": 19832,
-     "votes_other": 652
+    "mail": {
+     "votes_D": 2422,
+     "votes_R": 2666,
+     "votes_other": 45
     },
     "early_in_person": {
      "votes_D": 5511,
      "votes_R": 8174,
      "votes_other": 141
     },
-    "mail": {
-     "votes_D": 2422,
-     "votes_R": 2666,
-     "votes_other": 45
+    "election_day": {
+     "votes_D": 8639,
+     "votes_R": 19832,
+     "votes_other": 652
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1617,24 +1622,24 @@
    "pct_D": 11.5,
    "pct_R": 87.7,
    "modes": {
-    "election_day": {
-     "votes_D": 730,
-     "votes_R": 6639,
-     "votes_other": 58
+    "mail": {
+     "votes_D": 138,
+     "votes_R": 325,
+     "votes_other": 4
     },
     "early_in_person": {
      "votes_D": 331,
      "votes_R": 2145,
      "votes_other": 18
     },
-    "mail": {
-     "votes_D": 138,
-     "votes_R": 325,
-     "votes_other": 4
+    "election_day": {
+     "votes_D": 730,
+     "votes_R": 6639,
+     "votes_other": 58
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1651,24 +1656,24 @@
    "pct_D": 25.1,
    "pct_R": 73.6,
    "modes": {
-    "election_day": {
-     "votes_D": 1283,
-     "votes_R": 4609,
-     "votes_other": 84
+    "mail": {
+     "votes_D": 246,
+     "votes_R": 267,
+     "votes_other": 7
     },
     "early_in_person": {
      "votes_D": 736,
      "votes_R": 1763,
      "votes_other": 23
     },
-    "mail": {
-     "votes_D": 246,
-     "votes_R": 267,
-     "votes_other": 7
+    "election_day": {
+     "votes_D": 1283,
+     "votes_R": 4609,
+     "votes_other": 84
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1685,24 +1690,24 @@
    "pct_D": 19.5,
    "pct_R": 79.6,
    "modes": {
-    "election_day": {
-     "votes_D": 1003,
-     "votes_R": 4903,
-     "votes_other": 63
+    "mail": {
+     "votes_D": 204,
+     "votes_R": 461,
+     "votes_other": 6
     },
     "early_in_person": {
      "votes_D": 435,
      "votes_R": 1327,
      "votes_other": 7
     },
-    "mail": {
-     "votes_D": 204,
-     "votes_R": 461,
-     "votes_other": 6
+    "election_day": {
+     "votes_D": 1003,
+     "votes_R": 4903,
+     "votes_other": 63
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1719,24 +1724,24 @@
    "pct_D": 34.7,
    "pct_R": 64.0,
    "modes": {
-    "election_day": {
-     "votes_D": 3189,
-     "votes_R": 6862,
-     "votes_other": 164
+    "mail": {
+     "votes_D": 623,
+     "votes_R": 506,
+     "votes_other": 14
     },
     "early_in_person": {
      "votes_D": 3025,
      "votes_R": 5224,
      "votes_other": 81
     },
-    "mail": {
-     "votes_D": 623,
-     "votes_R": 506,
-     "votes_other": 14
+    "election_day": {
+     "votes_D": 3189,
+     "votes_R": 6862,
+     "votes_other": 164
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1753,24 +1758,24 @@
    "pct_D": 23.0,
    "pct_R": 75.5,
    "modes": {
-    "election_day": {
-     "votes_D": 1141,
-     "votes_R": 4153,
-     "votes_other": 99
+    "mail": {
+     "votes_D": 166,
+     "votes_R": 222,
+     "votes_other": 5
     },
     "early_in_person": {
      "votes_D": 550,
      "votes_R": 1718,
      "votes_other": 20
     },
-    "mail": {
-     "votes_D": 166,
-     "votes_R": 222,
-     "votes_other": 5
+    "election_day": {
+     "votes_D": 1141,
+     "votes_R": 4153,
+     "votes_other": 99
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1787,24 +1792,24 @@
    "pct_D": 19.0,
    "pct_R": 80.0,
    "modes": {
-    "election_day": {
-     "votes_D": 240,
-     "votes_R": 1099,
-     "votes_other": 15
+    "mail": {
+     "votes_D": 35,
+     "votes_R": 71,
+     "votes_other": 0
     },
     "early_in_person": {
      "votes_D": 119,
      "votes_R": 486,
      "votes_other": 4
     },
-    "mail": {
-     "votes_D": 35,
-     "votes_R": 71,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 240,
+     "votes_R": 1099,
+     "votes_other": 15
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1821,24 +1826,24 @@
    "pct_D": 23.9,
    "pct_R": 74.8,
    "modes": {
-    "election_day": {
-     "votes_D": 2768,
-     "votes_R": 10194,
-     "votes_other": 203
+    "mail": {
+     "votes_D": 446,
+     "votes_R": 651,
+     "votes_other": 6
     },
     "early_in_person": {
      "votes_D": 1702,
      "votes_R": 4516,
      "votes_other": 51
     },
-    "mail": {
-     "votes_D": 446,
-     "votes_R": 651,
-     "votes_other": 6
+    "election_day": {
+     "votes_D": 2768,
+     "votes_R": 10194,
+     "votes_other": 203
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1855,24 +1860,24 @@
    "pct_D": 8.5,
    "pct_R": 90.1,
    "modes": {
-    "election_day": {
-     "votes_D": 299,
-     "votes_R": 3555,
-     "votes_other": 54
+    "mail": {
+     "votes_D": 88,
+     "votes_R": 304,
+     "votes_other": 5
     },
     "early_in_person": {
      "votes_D": 119,
      "votes_R": 1499,
      "votes_other": 21
     },
-    "mail": {
-     "votes_D": 88,
-     "votes_R": 304,
-     "votes_other": 5
+    "election_day": {
+     "votes_D": 299,
+     "votes_R": 3555,
+     "votes_other": 54
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0017,
    "completeness": "C3",
    "notes": ""
@@ -1889,20 +1894,20 @@
    "pct_D": 57.1,
    "pct_R": 40.6,
    "modes": {
-    "election_day": {
-     "votes_D": 122725,
-     "votes_R": 91464,
-     "votes_other": 6010
+    "mail": {
+     "votes_D": 13188,
+     "votes_R": 6290,
+     "votes_other": 368
     },
     "early_in_person": {
      "votes_D": 67123,
      "votes_R": 46783,
      "votes_other": 1721
     },
-    "mail": {
-     "votes_D": 13188,
-     "votes_R": 6290,
-     "votes_other": 368
+    "election_day": {
+     "votes_D": 122725,
+     "votes_R": 91464,
+     "votes_other": 6010
     },
     "provisional": {
      "votes_D": 34,
@@ -1911,7 +1916,7 @@
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0046,
    "completeness": "C4",
    "notes": ""
@@ -1928,24 +1933,24 @@
    "pct_D": 31.1,
    "pct_R": 66.9,
    "modes": {
-    "election_day": {
-     "votes_D": 5043,
-     "votes_R": 12000,
-     "votes_other": 406
+    "mail": {
+     "votes_D": 1014,
+     "votes_R": 1333,
+     "votes_other": 24
     },
     "early_in_person": {
      "votes_D": 2246,
      "votes_R": 4521,
      "votes_other": 98
     },
-    "mail": {
-     "votes_D": 1014,
-     "votes_R": 1333,
-     "votes_other": 24
+    "election_day": {
+     "votes_D": 5043,
+     "votes_R": 12000,
+     "votes_other": 406
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -1962,18 +1967,18 @@
    "pct_D": 14.0,
    "pct_R": 84.7,
    "modes": {
-    "election_day": {
-     "votes_D": 615,
-     "votes_R": 4301,
-     "votes_other": 67
-    },
     "pre_election_day": {
      "votes_D": 735,
      "votes_R": 3849,
      "votes_other": 55
+    },
+    "election_day": {
+     "votes_D": 615,
+     "votes_R": 4301,
+     "votes_other": 67
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "Johnson County, KY",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1991,24 +1996,24 @@
    "pct_D": 38.0,
    "pct_R": 59.6,
    "modes": {
-    "election_day": {
-     "votes_D": 15714,
-     "votes_R": 27842,
-     "votes_other": 1311
+    "mail": {
+     "votes_D": 2740,
+     "votes_R": 2451,
+     "votes_other": 122
     },
     "early_in_person": {
      "votes_D": 12405,
      "votes_R": 18151,
      "votes_other": 505
     },
-    "mail": {
-     "votes_D": 2740,
-     "votes_R": 2451,
-     "votes_other": 122
+    "election_day": {
+     "votes_D": 15714,
+     "votes_R": 27842,
+     "votes_other": 1311
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0036,
    "completeness": "C3",
    "notes": ""
@@ -2025,18 +2030,18 @@
    "pct_D": 19.7,
    "pct_R": 78.8,
    "modes": {
-    "election_day": {
-     "votes_D": 659,
-     "votes_R": 3275,
-     "votes_other": 60
-    },
     "pre_election_day": {
      "votes_D": 522,
      "votes_R": 1457,
      "votes_other": 30
+    },
+    "election_day": {
+     "votes_D": 659,
+     "votes_R": 3275,
+     "votes_other": 60
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "Knott County, KY",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -2054,31 +2059,31 @@
    "pct_D": 13.8,
    "pct_R": 84.8,
    "modes": {
-    "election_day": {
-     "votes_D": 1039,
-     "votes_R": 7325,
-     "votes_other": 121
+    "mail": {
+     "votes_D": 244,
+     "votes_R": 576,
+     "votes_other": 11
     },
     "early_in_person": {
      "votes_D": 538,
      "votes_R": 3277,
      "votes_other": 48
     },
-    "mail": {
-     "votes_D": 244,
-     "votes_R": 576,
-     "votes_other": 11
+    "election_day": {
+     "votes_D": 1039,
+     "votes_R": 7325,
+     "votes_other": 121
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0017,
    "completeness": "C3",
    "notes": ""
   },
   "21123": {
    "name": "Larue",
-   "raw_name": "Larue",
+   "raw_name": "LaRue",
    "fips": "21123",
    "is_mappable": true,
    "votes_D": 1389,
@@ -2088,24 +2093,24 @@
    "pct_D": 19.1,
    "pct_R": 79.5,
    "modes": {
-    "election_day": {
-     "votes_D": 755,
-     "votes_R": 3617,
-     "votes_other": 69
+    "mail": {
+     "votes_D": 143,
+     "votes_R": 335,
+     "votes_other": 7
     },
     "early_in_person": {
      "votes_D": 491,
      "votes_R": 1821,
      "votes_other": 21
     },
-    "mail": {
-     "votes_D": 143,
-     "votes_R": 335,
-     "votes_other": 7
+    "election_day": {
+     "votes_D": 755,
+     "votes_R": 3617,
+     "votes_other": 69
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2122,24 +2127,24 @@
    "pct_D": 14.4,
    "pct_R": 84.2,
    "modes": {
-    "election_day": {
-     "votes_D": 2553,
-     "votes_R": 16829,
-     "votes_other": 310
+    "mail": {
+     "votes_D": 546,
+     "votes_R": 1236,
+     "votes_other": 21
     },
     "early_in_person": {
      "votes_D": 938,
      "votes_R": 5451,
      "votes_other": 54
     },
-    "mail": {
-     "votes_D": 546,
-     "votes_R": 1236,
-     "votes_other": 21
+    "election_day": {
+     "votes_D": 2553,
+     "votes_R": 16829,
+     "votes_other": 310
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0018,
    "completeness": "C3",
    "notes": ""
@@ -2156,24 +2161,24 @@
    "pct_D": 15.9,
    "pct_R": 83.1,
    "modes": {
-    "election_day": {
-     "votes_D": 658,
-     "votes_R": 3741,
-     "votes_other": 46
+    "mail": {
+     "votes_D": 165,
+     "votes_R": 378,
+     "votes_other": 5
     },
     "early_in_person": {
      "votes_D": 221,
      "votes_R": 1345,
      "votes_other": 15
     },
-    "mail": {
-     "votes_D": 165,
-     "votes_R": 378,
-     "votes_other": 5
+    "election_day": {
+     "votes_D": 658,
+     "votes_R": 3741,
+     "votes_other": 46
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2190,24 +2195,24 @@
    "pct_D": 15.1,
    "pct_R": 82.6,
    "modes": {
-    "election_day": {
-     "votes_D": 253,
-     "votes_R": 1584,
-     "votes_other": 37
+    "mail": {
+     "votes_D": 51,
+     "votes_R": 120,
+     "votes_other": 3
     },
     "early_in_person": {
      "votes_D": 102,
      "votes_R": 523,
      "votes_other": 22
     },
-    "mail": {
-     "votes_D": 51,
-     "votes_R": 120,
-     "votes_other": 3
+    "election_day": {
+     "votes_D": 253,
+     "votes_R": 1584,
+     "votes_other": 37
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0019,
    "completeness": "C3",
    "notes": ""
@@ -2224,24 +2229,24 @@
    "pct_D": 8.8,
    "pct_R": 89.7,
    "modes": {
-    "election_day": {
-     "votes_D": 227,
-     "votes_R": 2759,
-     "votes_other": 45
+    "mail": {
+     "votes_D": 44,
+     "votes_R": 217,
+     "votes_other": 4
     },
     "early_in_person": {
      "votes_D": 111,
      "votes_R": 932,
      "votes_other": 19
     },
-    "mail": {
-     "votes_D": 44,
-     "votes_R": 217,
-     "votes_other": 4
+    "election_day": {
+     "votes_D": 227,
+     "votes_R": 2759,
+     "votes_other": 45
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0002,
    "completeness": "C3",
    "notes": ""
@@ -2258,24 +2263,24 @@
    "pct_D": 17.2,
    "pct_R": 81.0,
    "modes": {
-    "election_day": {
-     "votes_D": 801,
-     "votes_R": 4842,
-     "votes_other": 106
+    "mail": {
+     "votes_D": 163,
+     "votes_R": 261,
+     "votes_other": 3
     },
     "early_in_person": {
      "votes_D": 493,
      "votes_R": 1745,
      "votes_other": 37
     },
-    "mail": {
-     "votes_D": 163,
-     "votes_R": 261,
-     "votes_other": 3
+    "election_day": {
+     "votes_D": 801,
+     "votes_R": 4842,
+     "votes_other": 106
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0024,
    "completeness": "C3",
    "notes": ""
@@ -2292,24 +2297,24 @@
    "pct_D": 11.6,
    "pct_R": 87.3,
    "modes": {
-    "election_day": {
-     "votes_D": 460,
-     "votes_R": 3804,
-     "votes_other": 47
+    "mail": {
+     "votes_D": 79,
+     "votes_R": 310,
+     "votes_other": 3
     },
     "early_in_person": {
      "votes_D": 127,
      "votes_R": 883,
      "votes_other": 8
     },
-    "mail": {
-     "votes_D": 79,
-     "votes_R": 310,
-     "votes_other": 3
+    "election_day": {
+     "votes_D": 460,
+     "votes_R": 3804,
+     "votes_other": 47
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2326,24 +2331,24 @@
    "pct_D": 18.9,
    "pct_R": 80.1,
    "modes": {
-    "election_day": {
-     "votes_D": 1061,
-     "votes_R": 5749,
-     "votes_other": 70
+    "mail": {
+     "votes_D": 390,
+     "votes_R": 884,
+     "votes_other": 16
     },
     "early_in_person": {
      "votes_D": 629,
      "votes_R": 2200,
      "votes_other": 35
     },
-    "mail": {
-     "votes_D": 390,
-     "votes_R": 884,
-     "votes_other": 16
+    "election_day": {
+     "votes_D": 1061,
+     "votes_R": 5749,
+     "votes_other": 70
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2360,24 +2365,24 @@
    "pct_D": 17.8,
    "pct_R": 80.9,
    "modes": {
-    "election_day": {
-     "votes_D": 504,
-     "votes_R": 2562,
-     "votes_other": 47
+    "mail": {
+     "votes_D": 107,
+     "votes_R": 197,
+     "votes_other": 2
     },
     "early_in_person": {
      "votes_D": 275,
      "votes_R": 1262,
      "votes_other": 16
     },
-    "mail": {
-     "votes_D": 107,
-     "votes_R": 197,
-     "votes_other": 2
+    "election_day": {
+     "votes_D": 504,
+     "votes_R": 2562,
+     "votes_other": 47
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2394,24 +2399,24 @@
    "pct_D": 21.9,
    "pct_R": 76.9,
    "modes": {
-    "election_day": {
-     "votes_D": 1397,
-     "votes_R": 5568,
-     "votes_other": 101
+    "mail": {
+     "votes_D": 260,
+     "votes_R": 377,
+     "votes_other": 10
     },
     "early_in_person": {
      "votes_D": 1077,
      "votes_R": 3675,
      "votes_other": 46
     },
-    "mail": {
-     "votes_D": 260,
-     "votes_R": 377,
-     "votes_other": 10
+    "election_day": {
+     "votes_D": 1397,
+     "votes_R": 5568,
+     "votes_other": 101
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2428,24 +2433,24 @@
    "pct_D": 22.7,
    "pct_R": 76.1,
    "modes": {
-    "election_day": {
-     "votes_D": 469,
-     "votes_R": 1804,
-     "votes_other": 31
+    "mail": {
+     "votes_D": 94,
+     "votes_R": 174,
+     "votes_other": 6
     },
     "early_in_person": {
      "votes_D": 387,
      "votes_R": 1209,
      "votes_other": 13
     },
-    "mail": {
-     "votes_D": 94,
-     "votes_R": 174,
-     "votes_other": 6
+    "election_day": {
+     "votes_D": 469,
+     "votes_R": 1804,
+     "votes_other": 31
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2462,24 +2467,24 @@
    "pct_D": 33.5,
    "pct_R": 64.3,
    "modes": {
-    "election_day": {
-     "votes_D": 6003,
-     "votes_R": 13804,
-     "votes_other": 552
+    "mail": {
+     "votes_D": 1432,
+     "votes_R": 1228,
+     "votes_other": 41
     },
     "early_in_person": {
      "votes_D": 7745,
      "votes_R": 14098,
      "votes_other": 426
     },
-    "mail": {
-     "votes_D": 1432,
-     "votes_R": 1228,
-     "votes_other": 41
+    "election_day": {
+     "votes_D": 6003,
+     "votes_R": 13804,
+     "votes_other": 552
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0031,
    "completeness": "C3",
    "notes": ""
@@ -2496,18 +2501,18 @@
    "pct_D": 17.2,
    "pct_R": 81.3,
    "modes": {
-    "election_day": {
-     "votes_D": 475,
-     "votes_R": 3015,
-     "votes_other": 50
-    },
     "pre_election_day": {
      "votes_D": 434,
      "votes_R": 1273,
      "votes_other": 27
+    },
+    "election_day": {
+     "votes_D": 475,
+     "votes_R": 3015,
+     "votes_other": 50
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "Magoffin County, KY",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -2525,24 +2530,24 @@
    "pct_D": 27.6,
    "pct_R": 71.1,
    "modes": {
-    "election_day": {
-     "votes_D": 1275,
-     "votes_R": 4237,
-     "votes_other": 69
+    "mail": {
+     "votes_D": 212,
+     "votes_R": 181,
+     "votes_other": 5
     },
     "early_in_person": {
      "votes_D": 1026,
      "votes_R": 2055,
      "votes_other": 40
     },
-    "mail": {
-     "votes_D": 212,
-     "votes_R": 181,
-     "votes_other": 5
+    "election_day": {
+     "votes_D": 1275,
+     "votes_R": 4237,
+     "votes_other": 69
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0002,
    "completeness": "C3",
    "notes": ""
@@ -2559,24 +2564,24 @@
    "pct_D": 21.0,
    "pct_R": 77.7,
    "modes": {
-    "election_day": {
-     "votes_D": 2269,
-     "votes_R": 8930,
-     "votes_other": 172
+    "mail": {
+     "votes_D": 283,
+     "votes_R": 545,
+     "votes_other": 8
     },
     "early_in_person": {
      "votes_D": 1148,
      "votes_R": 4202,
      "votes_other": 45
     },
-    "mail": {
-     "votes_D": 283,
-     "votes_R": 545,
-     "votes_other": 8
+    "election_day": {
+     "votes_D": 2269,
+     "votes_R": 8930,
+     "votes_other": 172
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2593,24 +2598,24 @@
    "pct_D": 7.8,
    "pct_R": 91.4,
    "modes": {
-    "election_day": {
-     "votes_D": 160,
-     "votes_R": 2005,
-     "votes_other": 19
+    "mail": {
+     "votes_D": 38,
+     "votes_R": 186,
+     "votes_other": 0
     },
     "early_in_person": {
      "votes_D": 89,
      "votes_R": 1152,
      "votes_other": 9
     },
-    "mail": {
-     "votes_D": 38,
-     "votes_R": 186,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 160,
+     "votes_R": 2005,
+     "votes_other": 19
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0008,
    "completeness": "C3",
    "notes": ""
@@ -2627,60 +2632,65 @@
    "pct_D": 27.5,
    "pct_R": 71.1,
    "modes": {
-    "election_day": {
-     "votes_D": 1090,
-     "votes_R": 3426,
-     "votes_other": 69
+    "mail": {
+     "votes_D": 236,
+     "votes_R": 322,
+     "votes_other": 12
     },
     "early_in_person": {
      "votes_D": 844,
      "votes_R": 1873,
      "votes_other": 29
     },
-    "mail": {
-     "votes_D": 236,
-     "votes_R": 322,
-     "votes_other": 12
+    "election_day": {
+     "votes_D": 1090,
+     "votes_R": 3426,
+     "votes_other": 69
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "21145": {
    "name": "McCracken",
-   "raw_name": "Mccracken",
+   "raw_name": "McCracken",
    "fips": "21145",
    "is_mappable": true,
    "votes_D": 10191,
    "votes_R": 21349,
-   "votes_other": 407,
-   "total_votes": 31947,
+   "votes_other": 399,
+   "total_votes": 31939,
    "pct_D": 31.9,
    "pct_R": 66.8,
    "modes": {
+    "mail": {
+     "votes_D": 984,
+     "votes_R": 1025,
+     "votes_other": 19
+    },
+    "early_in_person": {
+     "votes_D": 2702,
+     "votes_R": 5493,
+     "votes_other": 70
+    },
     "election_day": {
      "votes_D": 6505,
      "votes_R": 14831,
-     "votes_other": 315
-    },
-    "pre_election_day": {
-     "votes_D": 3686,
-     "votes_R": 6518,
-     "votes_other": 92
+     "votes_other": 310
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "McCracken County, KY",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C2",
+   "completeness": "C3",
    "notes": ""
   },
   "21147": {
    "name": "McCreary",
-   "raw_name": "Mccreary",
+   "raw_name": "McCreary",
    "fips": "21147",
    "is_mappable": true,
    "votes_D": 641,
@@ -2690,31 +2700,31 @@
    "pct_D": 10.3,
    "pct_R": 89.0,
    "modes": {
-    "election_day": {
-     "votes_D": 420,
-     "votes_R": 3968,
-     "votes_other": 34
+    "mail": {
+     "votes_D": 99,
+     "votes_R": 495,
+     "votes_other": 3
     },
     "early_in_person": {
      "votes_D": 122,
      "votes_R": 1068,
      "votes_other": 3
     },
-    "mail": {
-     "votes_D": 99,
-     "votes_R": 495,
-     "votes_other": 3
+    "election_day": {
+     "votes_D": 420,
+     "votes_R": 3968,
+     "votes_other": 34
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "21149": {
    "name": "McLean",
-   "raw_name": "Mclean",
+   "raw_name": "McLean",
    "fips": "21149",
    "is_mappable": true,
    "votes_D": 989,
@@ -2724,24 +2734,24 @@
    "pct_D": 21.3,
    "pct_R": 77.2,
    "modes": {
-    "election_day": {
-     "votes_D": 661,
-     "votes_R": 2753,
-     "votes_other": 59
+    "mail": {
+     "votes_D": 87,
+     "votes_R": 101,
+     "votes_other": 0
     },
     "early_in_person": {
      "votes_D": 241,
      "votes_R": 724,
      "votes_other": 8
     },
-    "mail": {
-     "votes_D": 87,
-     "votes_R": 101,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 661,
+     "votes_R": 2753,
+     "votes_other": 59
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2758,24 +2768,24 @@
    "pct_D": 23.2,
    "pct_R": 75.3,
    "modes": {
-    "election_day": {
-     "votes_D": 1738,
-     "votes_R": 6734,
-     "votes_other": 147
+    "mail": {
+     "votes_D": 324,
+     "votes_R": 473,
+     "votes_other": 21
     },
     "early_in_person": {
      "votes_D": 1217,
      "votes_R": 3423,
      "votes_other": 46
     },
-    "mail": {
-     "votes_D": 324,
-     "votes_R": 473,
-     "votes_other": 21
+    "election_day": {
+     "votes_D": 1738,
+     "votes_R": 6734,
+     "votes_other": 147
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2792,24 +2802,24 @@
    "pct_D": 20.1,
    "pct_R": 77.7,
    "modes": {
-    "election_day": {
-     "votes_D": 269,
-     "votes_R": 1513,
-     "votes_other": 43
+    "mail": {
+     "votes_D": 144,
+     "votes_R": 209,
+     "votes_other": 4
     },
     "early_in_person": {
      "votes_D": 251,
      "votes_R": 841,
      "votes_other": 26
     },
-    "mail": {
-     "votes_D": 144,
-     "votes_R": 209,
-     "votes_other": 4
+    "election_day": {
+     "votes_D": 269,
+     "votes_R": 1513,
+     "votes_other": 43
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0018,
    "completeness": "C3",
    "notes": ""
@@ -2826,24 +2836,24 @@
    "pct_D": 23.9,
    "pct_R": 74.5,
    "modes": {
-    "election_day": {
-     "votes_D": 1804,
-     "votes_R": 6553,
-     "votes_other": 153
+    "mail": {
+     "votes_D": 308,
+     "votes_R": 541,
+     "votes_other": 11
     },
     "early_in_person": {
      "votes_D": 726,
      "votes_R": 1732,
      "votes_other": 23
     },
-    "mail": {
-     "votes_D": 308,
-     "votes_R": 541,
-     "votes_other": 11
+    "election_day": {
+     "votes_D": 1804,
+     "votes_R": 6553,
+     "votes_other": 153
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2860,24 +2870,24 @@
    "pct_D": 17.2,
    "pct_R": 81.9,
    "modes": {
-    "election_day": {
-     "votes_D": 500,
-     "votes_R": 3062,
-     "votes_other": 33
+    "mail": {
+     "votes_D": 100,
+     "votes_R": 108,
+     "votes_other": 2
     },
     "early_in_person": {
      "votes_D": 284,
      "votes_R": 1027,
      "votes_other": 11
     },
-    "mail": {
-     "votes_D": 100,
-     "votes_R": 108,
-     "votes_other": 2
+    "election_day": {
+     "votes_D": 500,
+     "votes_R": 3062,
+     "votes_other": 33
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2894,24 +2904,24 @@
    "pct_D": 10.9,
    "pct_R": 88.1,
    "modes": {
-    "election_day": {
-     "votes_D": 414,
-     "votes_R": 3749,
-     "votes_other": 40
+    "mail": {
+     "votes_D": 59,
+     "votes_R": 230,
+     "votes_other": 4
     },
     "early_in_person": {
      "votes_D": 103,
      "votes_R": 700,
      "votes_other": 9
     },
-    "mail": {
-     "votes_D": 59,
-     "votes_R": 230,
-     "votes_other": 4
+    "election_day": {
+     "votes_D": 414,
+     "votes_R": 3749,
+     "votes_other": 40
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2928,24 +2938,24 @@
    "pct_D": 26.0,
    "pct_R": 72.6,
    "modes": {
-    "election_day": {
-     "votes_D": 1430,
-     "votes_R": 4896,
-     "votes_other": 124
+    "mail": {
+     "votes_D": 324,
+     "votes_R": 363,
+     "votes_other": 10
     },
     "early_in_person": {
      "votes_D": 1575,
      "votes_R": 4043,
      "votes_other": 56
     },
-    "mail": {
-     "votes_D": 324,
-     "votes_R": 363,
-     "votes_other": 10
+    "election_day": {
+     "votes_D": 1430,
+     "votes_R": 4896,
+     "votes_other": 124
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -2962,24 +2972,24 @@
    "pct_D": 17.5,
    "pct_R": 80.9,
    "modes": {
-    "election_day": {
-     "votes_D": 528,
-     "votes_R": 3126,
-     "votes_other": 63
+    "mail": {
+     "votes_D": 119,
+     "votes_R": 158,
+     "votes_other": 11
     },
     "early_in_person": {
      "votes_D": 292,
      "votes_R": 1069,
      "votes_other": 12
     },
-    "mail": {
-     "votes_D": 119,
-     "votes_R": 158,
-     "votes_other": 11
+    "election_day": {
+     "votes_D": 528,
+     "votes_R": 3126,
+     "votes_other": 63
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0009,
    "completeness": "C3",
    "notes": ""
@@ -2996,24 +3006,24 @@
    "pct_D": 22.3,
    "pct_R": 76.6,
    "modes": {
-    "election_day": {
-     "votes_D": 1561,
-     "votes_R": 6074,
-     "votes_other": 97
+    "mail": {
+     "votes_D": 369,
+     "votes_R": 465,
+     "votes_other": 10
     },
     "early_in_person": {
      "votes_D": 1118,
      "votes_R": 3952,
      "votes_other": 46
     },
-    "mail": {
-     "votes_D": 369,
-     "votes_R": 465,
-     "votes_other": 10
+    "election_day": {
+     "votes_D": 1561,
+     "votes_R": 6074,
+     "votes_other": 97
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3030,24 +3040,24 @@
    "pct_D": 28.5,
    "pct_R": 70.2,
    "modes": {
-    "election_day": {
-     "votes_D": 4165,
-     "votes_R": 11962,
-     "votes_other": 229
+    "mail": {
+     "votes_D": 804,
+     "votes_R": 892,
+     "votes_other": 22
     },
     "early_in_person": {
      "votes_D": 1546,
      "votes_R": 3198,
      "votes_other": 34
     },
-    "mail": {
-     "votes_D": 804,
-     "votes_R": 892,
-     "votes_other": 22
+    "election_day": {
+     "votes_D": 4165,
+     "votes_R": 11962,
+     "votes_other": 229
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3064,24 +3074,24 @@
    "pct_D": 24.8,
    "pct_R": 73.8,
    "modes": {
-    "election_day": {
-     "votes_D": 343,
-     "votes_R": 1502,
-     "votes_other": 24
+    "mail": {
+     "votes_D": 144,
+     "votes_R": 134,
+     "votes_other": 0
     },
     "early_in_person": {
      "votes_D": 337,
      "votes_R": 815,
      "votes_other": 20
     },
-    "mail": {
-     "votes_D": 144,
-     "votes_R": 134,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 343,
+     "votes_R": 1502,
+     "votes_other": 24
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3098,24 +3108,24 @@
    "pct_D": 19.1,
    "pct_R": 79.4,
    "modes": {
-    "election_day": {
-     "votes_D": 1195,
-     "votes_R": 6112,
-     "votes_other": 127
+    "mail": {
+     "votes_D": 229,
+     "votes_R": 330,
+     "votes_other": 7
     },
     "early_in_person": {
      "votes_D": 670,
      "votes_R": 2237,
      "votes_other": 30
     },
-    "mail": {
-     "votes_D": 229,
-     "votes_R": 330,
-     "votes_other": 7
+    "election_day": {
+     "votes_D": 1195,
+     "votes_R": 6112,
+     "votes_other": 127
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3132,24 +3142,24 @@
    "pct_D": 37.7,
    "pct_R": 60.3,
    "modes": {
-    "election_day": {
-     "votes_D": 5741,
-     "votes_R": 10310,
-     "votes_other": 476
+    "mail": {
+     "votes_D": 1339,
+     "votes_R": 1237,
+     "votes_other": 42
     },
     "early_in_person": {
      "votes_D": 7322,
      "votes_R": 11478,
      "votes_other": 265
     },
-    "mail": {
-     "votes_D": 1339,
-     "votes_R": 1237,
-     "votes_other": 42
+    "election_day": {
+     "votes_D": 5741,
+     "votes_R": 10310,
+     "votes_other": 476
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3166,24 +3176,24 @@
    "pct_D": 18.0,
    "pct_R": 80.6,
    "modes": {
-    "election_day": {
-     "votes_D": 610,
-     "votes_R": 3272,
-     "votes_other": 60
+    "mail": {
+     "votes_D": 86,
+     "votes_R": 226,
+     "votes_other": 2
     },
     "early_in_person": {
      "votes_D": 292,
      "votes_R": 936,
      "votes_other": 16
     },
-    "mail": {
-     "votes_D": 86,
-     "votes_R": 226,
-     "votes_other": 2
+    "election_day": {
+     "votes_D": 610,
+     "votes_R": 3272,
+     "votes_other": 60
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3200,24 +3210,24 @@
    "pct_D": 11.0,
    "pct_R": 88.4,
    "modes": {
-    "election_day": {
-     "votes_D": 92,
-     "votes_R": 970,
-     "votes_other": 9
+    "mail": {
+     "votes_D": 28,
+     "votes_R": 191,
+     "votes_other": 0
     },
     "early_in_person": {
      "votes_D": 83,
      "votes_R": 464,
      "votes_other": 2
     },
-    "mail": {
-     "votes_D": 28,
-     "votes_R": 191,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 92,
+     "votes_R": 970,
+     "votes_other": 9
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3234,24 +3244,24 @@
    "pct_D": 17.5,
    "pct_R": 81.1,
    "modes": {
-    "election_day": {
-     "votes_D": 758,
-     "votes_R": 4007,
-     "votes_other": 65
+    "mail": {
+     "votes_D": 155,
+     "votes_R": 369,
+     "votes_other": 15
     },
     "early_in_person": {
      "votes_D": 297,
      "votes_R": 1217,
      "votes_other": 17
     },
-    "mail": {
-     "votes_D": 155,
-     "votes_R": 369,
-     "votes_other": 15
+    "election_day": {
+     "votes_D": 758,
+     "votes_R": 4007,
+     "votes_other": 65
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3268,24 +3278,24 @@
    "pct_D": 19.7,
    "pct_R": 79.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1272,
-     "votes_R": 5989,
-     "votes_other": 79
+    "mail": {
+     "votes_D": 234,
+     "votes_R": 387,
+     "votes_other": 7
     },
     "early_in_person": {
      "votes_D": 460,
      "votes_R": 1537,
      "votes_other": 27
     },
-    "mail": {
-     "votes_D": 234,
-     "votes_R": 387,
-     "votes_other": 7
+    "election_day": {
+     "votes_D": 1272,
+     "votes_R": 5989,
+     "votes_other": 79
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3302,24 +3312,24 @@
    "pct_D": 16.8,
    "pct_R": 82.2,
    "modes": {
-    "election_day": {
-     "votes_D": 2481,
-     "votes_R": 14826,
-     "votes_other": 173
+    "mail": {
+     "votes_D": 532,
+     "votes_R": 1017,
+     "votes_other": 20
     },
     "early_in_person": {
      "votes_D": 1012,
      "votes_R": 3841,
      "votes_other": 48
     },
-    "mail": {
-     "votes_D": 532,
-     "votes_R": 1017,
-     "votes_other": 20
+    "election_day": {
+     "votes_D": 2481,
+     "votes_R": 14826,
+     "votes_other": 173
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3336,24 +3346,24 @@
    "pct_D": 21.9,
    "pct_R": 76.2,
    "modes": {
-    "election_day": {
-     "votes_D": 465,
-     "votes_R": 2126,
-     "votes_other": 55
+    "mail": {
+     "votes_D": 189,
+     "votes_R": 262,
+     "votes_other": 10
     },
     "early_in_person": {
      "votes_D": 520,
      "votes_R": 1704,
      "votes_other": 38
     },
-    "mail": {
-     "votes_D": 189,
-     "votes_R": 262,
-     "votes_other": 10
+    "election_day": {
+     "votes_D": 465,
+     "votes_R": 2126,
+     "votes_other": 55
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0017,
    "completeness": "C3",
    "notes": ""
@@ -3370,24 +3380,24 @@
    "pct_D": 16.9,
    "pct_R": 82.1,
    "modes": {
-    "election_day": {
-     "votes_D": 2083,
-     "votes_R": 11569,
-     "votes_other": 189
+    "mail": {
+     "votes_D": 551,
+     "votes_R": 1153,
+     "votes_other": 20
     },
     "early_in_person": {
      "votes_D": 2717,
      "votes_R": 13329,
      "votes_other": 124
     },
-    "mail": {
-     "votes_D": 551,
-     "votes_R": 1153,
-     "votes_other": 20
+    "election_day": {
+     "votes_D": 2083,
+     "votes_R": 11569,
+     "votes_other": 189
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3404,24 +3414,24 @@
    "pct_D": 18.8,
    "pct_R": 80.0,
    "modes": {
-    "election_day": {
-     "votes_D": 110,
-     "votes_R": 681,
-     "votes_other": 7
+    "mail": {
+     "votes_D": 32,
+     "votes_R": 37,
+     "votes_other": 0
     },
     "early_in_person": {
      "votes_D": 73,
      "votes_R": 197,
      "votes_other": 7
     },
-    "mail": {
-     "votes_D": 32,
-     "votes_R": 37,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 110,
+     "votes_R": 681,
+     "votes_other": 7
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3438,24 +3448,24 @@
    "pct_D": 12.7,
    "pct_R": 85.8,
    "modes": {
-    "election_day": {
-     "votes_D": 539,
-     "votes_R": 4159,
-     "votes_other": 86
+    "mail": {
+     "votes_D": 109,
+     "votes_R": 267,
+     "votes_other": 5
     },
     "early_in_person": {
      "votes_D": 338,
      "votes_R": 2209,
      "votes_other": 25
     },
-    "mail": {
-     "votes_D": 109,
-     "votes_R": 267,
-     "votes_other": 5
+    "election_day": {
+     "votes_D": 539,
+     "votes_R": 4159,
+     "votes_other": 86
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0017,
    "completeness": "C3",
    "notes": ""
@@ -3472,24 +3482,24 @@
    "pct_D": 35.3,
    "pct_R": 63.0,
    "modes": {
-    "election_day": {
-     "votes_D": 1931,
-     "votes_R": 3943,
-     "votes_other": 104
+    "mail": {
+     "votes_D": 320,
+     "votes_R": 365,
+     "votes_other": 11
     },
     "early_in_person": {
      "votes_D": 1233,
      "votes_R": 1916,
      "votes_other": 50
     },
-    "mail": {
-     "votes_D": 320,
-     "votes_R": 365,
-     "votes_other": 11
+    "election_day": {
+     "votes_D": 1931,
+     "votes_R": 3943,
+     "votes_other": 104
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3506,24 +3516,24 @@
    "pct_D": 13.5,
    "pct_R": 85.7,
    "modes": {
-    "election_day": {
-     "votes_D": 654,
-     "votes_R": 4869,
-     "votes_other": 46
+    "mail": {
+     "votes_D": 171,
+     "votes_R": 520,
+     "votes_other": 9
     },
     "early_in_person": {
      "votes_D": 375,
      "votes_R": 2233,
      "votes_other": 16
     },
-    "mail": {
-     "votes_D": 171,
-     "votes_R": 520,
-     "votes_other": 9
+    "election_day": {
+     "votes_D": 654,
+     "votes_R": 4869,
+     "votes_other": 46
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3540,24 +3550,24 @@
    "pct_D": 35.3,
    "pct_R": 63.0,
    "modes": {
-    "election_day": {
-     "votes_D": 5142,
-     "votes_R": 11048,
-     "votes_other": 345
+    "mail": {
+     "votes_D": 853,
+     "votes_R": 828,
+     "votes_other": 30
     },
     "early_in_person": {
      "votes_D": 4506,
      "votes_R": 6871,
      "votes_other": 146
     },
-    "mail": {
-     "votes_D": 853,
-     "votes_R": 828,
-     "votes_other": 30
+    "election_day": {
+     "votes_D": 5142,
+     "votes_R": 11048,
+     "votes_other": 345
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3574,24 +3584,24 @@
    "pct_D": 31.8,
    "pct_R": 66.4,
    "modes": {
-    "election_day": {
-     "votes_D": 5413,
-     "votes_R": 12240,
-     "votes_other": 372
+    "mail": {
+     "votes_D": 672,
+     "votes_R": 878,
+     "votes_other": 22
     },
     "early_in_person": {
      "votes_D": 1737,
      "votes_R": 3238,
      "votes_other": 48
     },
-    "mail": {
-     "votes_D": 672,
-     "votes_R": 878,
-     "votes_other": 22
+    "election_day": {
+     "votes_D": 5413,
+     "votes_R": 12240,
+     "votes_other": 372
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3608,24 +3618,24 @@
    "pct_D": 27.4,
    "pct_R": 71.3,
    "modes": {
-    "election_day": {
-     "votes_D": 1128,
-     "votes_R": 3473,
-     "votes_other": 82
+    "mail": {
+     "votes_D": 229,
+     "votes_R": 214,
+     "votes_other": 3
     },
     "early_in_person": {
      "votes_D": 1046,
      "votes_R": 2566,
      "votes_other": 35
     },
-    "mail": {
-     "votes_D": 229,
-     "votes_R": 214,
-     "votes_other": 3
+    "election_day": {
+     "votes_D": 1128,
+     "votes_R": 3473,
+     "votes_other": 82
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3642,24 +3652,24 @@
    "pct_D": 21.0,
    "pct_R": 77.8,
    "modes": {
-    "election_day": {
-     "votes_D": 1037,
-     "votes_R": 4269,
-     "votes_other": 78
+    "mail": {
+     "votes_D": 189,
+     "votes_R": 484,
+     "votes_other": 3
     },
     "early_in_person": {
      "votes_D": 1189,
      "votes_R": 4174,
      "votes_other": 57
     },
-    "mail": {
-     "votes_D": 189,
-     "votes_R": 484,
-     "votes_other": 3
+    "election_day": {
+     "votes_D": 1037,
+     "votes_R": 4269,
+     "votes_other": 78
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3676,24 +3686,24 @@
    "pct_D": 21.0,
    "pct_R": 77.7,
    "modes": {
-    "election_day": {
-     "votes_D": 1496,
-     "votes_R": 6044,
-     "votes_other": 120
+    "mail": {
+     "votes_D": 199,
+     "votes_R": 393,
+     "votes_other": 11
     },
     "early_in_person": {
      "votes_D": 881,
      "votes_R": 3086,
      "votes_other": 31
     },
-    "mail": {
-     "votes_D": 199,
-     "votes_R": 393,
-     "votes_other": 11
+    "election_day": {
+     "votes_D": 1496,
+     "votes_R": 6044,
+     "votes_other": 120
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3710,24 +3720,24 @@
    "pct_D": 20.6,
    "pct_R": 78.4,
    "modes": {
-    "election_day": {
-     "votes_D": 741,
-     "votes_R": 2795,
-     "votes_other": 43
+    "mail": {
+     "votes_D": 60,
+     "votes_R": 93,
+     "votes_other": 4
     },
     "early_in_person": {
      "votes_D": 250,
      "votes_R": 1121,
      "votes_other": 5
     },
-    "mail": {
-     "votes_D": 60,
-     "votes_R": 93,
-     "votes_other": 4
+    "election_day": {
+     "votes_D": 741,
+     "votes_R": 2795,
+     "votes_other": 43
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3744,24 +3754,24 @@
    "pct_D": 23.2,
    "pct_R": 75.5,
    "modes": {
-    "election_day": {
-     "votes_D": 919,
-     "votes_R": 3272,
-     "votes_other": 70
+    "mail": {
+     "votes_D": 140,
+     "votes_R": 262,
+     "votes_other": 7
     },
     "early_in_person": {
      "votes_D": 608,
      "votes_R": 1902,
      "votes_other": 16
     },
-    "mail": {
-     "votes_D": 140,
-     "votes_R": 262,
-     "votes_other": 7
+    "election_day": {
+     "votes_D": 919,
+     "votes_R": 3272,
+     "votes_other": 70
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3778,24 +3788,24 @@
    "pct_D": 21.7,
    "pct_R": 77.3,
    "modes": {
-    "election_day": {
-     "votes_D": 517,
-     "votes_R": 2084,
-     "votes_other": 28
+    "mail": {
+     "votes_D": 116,
+     "votes_R": 224,
+     "votes_other": 7
     },
     "early_in_person": {
      "votes_D": 290,
      "votes_R": 975,
      "votes_other": 8
     },
-    "mail": {
-     "votes_D": 116,
-     "votes_R": 224,
-     "votes_other": 7
+    "election_day": {
+     "votes_D": 517,
+     "votes_R": 2084,
+     "votes_other": 28
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3812,24 +3822,24 @@
    "pct_D": 20.2,
    "pct_R": 78.5,
    "modes": {
-    "election_day": {
-     "votes_D": 660,
-     "votes_R": 3212,
-     "votes_other": 51
+    "mail": {
+     "votes_D": 74,
+     "votes_R": 192,
+     "votes_other": 7
     },
     "early_in_person": {
      "votes_D": 491,
      "votes_R": 1354,
      "votes_other": 17
     },
-    "mail": {
-     "votes_D": 74,
-     "votes_R": 192,
-     "votes_other": 7
+    "election_day": {
+     "votes_D": 660,
+     "votes_R": 3212,
+     "votes_other": 51
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3846,24 +3856,24 @@
    "pct_D": 37.0,
    "pct_R": 61.3,
    "modes": {
-    "election_day": {
-     "votes_D": 9411,
-     "votes_R": 15876,
-     "votes_other": 568
+    "mail": {
+     "votes_D": 1707,
+     "votes_R": 1629,
+     "votes_other": 42
     },
     "early_in_person": {
      "votes_D": 9947,
      "votes_R": 17357,
      "votes_other": 354
     },
-    "mail": {
-     "votes_D": 1707,
-     "votes_R": 1629,
-     "votes_other": 42
+    "election_day": {
+     "votes_D": 9411,
+     "votes_R": 15876,
+     "votes_other": 568
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3880,24 +3890,24 @@
    "pct_D": 24.2,
    "pct_R": 74.4,
    "modes": {
-    "election_day": {
-     "votes_D": 721,
-     "votes_R": 2901,
-     "votes_other": 56
+    "mail": {
+     "votes_D": 148,
+     "votes_R": 127,
+     "votes_other": 5
     },
     "early_in_person": {
      "votes_D": 664,
      "votes_R": 1692,
      "votes_other": 27
     },
-    "mail": {
-     "votes_D": 148,
-     "votes_R": 127,
-     "votes_other": 5
+    "election_day": {
+     "votes_D": 721,
+     "votes_R": 2901,
+     "votes_other": 56
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3914,24 +3924,24 @@
    "pct_D": 16.5,
    "pct_R": 82.5,
    "modes": {
-    "election_day": {
-     "votes_D": 814,
-     "votes_R": 4846,
-     "votes_other": 56
+    "mail": {
+     "votes_D": 220,
+     "votes_R": 614,
+     "votes_other": 12
     },
     "early_in_person": {
      "votes_D": 410,
      "votes_R": 1743,
      "votes_other": 18
     },
-    "mail": {
-     "votes_D": 220,
-     "votes_R": 614,
-     "votes_other": 12
+    "election_day": {
+     "votes_D": 814,
+     "votes_R": 4846,
+     "votes_other": 56
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3948,24 +3958,24 @@
    "pct_D": 20.8,
    "pct_R": 78.1,
    "modes": {
-    "election_day": {
-     "votes_D": 765,
-     "votes_R": 3168,
-     "votes_other": 47
+    "mail": {
+     "votes_D": 75,
+     "votes_R": 109,
+     "votes_other": 2
     },
     "early_in_person": {
      "votes_D": 313,
      "votes_R": 1062,
      "votes_other": 15
     },
-    "mail": {
-     "votes_D": 75,
-     "votes_R": 109,
-     "votes_other": 2
+    "election_day": {
+     "votes_D": 765,
+     "votes_R": 3168,
+     "votes_other": 47
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
@@ -3982,20 +3992,20 @@
    "pct_D": 14.8,
    "pct_R": 84.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1076,
-     "votes_R": 7498,
-     "votes_other": 111
+    "mail": {
+     "votes_D": 283,
+     "votes_R": 634,
+     "votes_other": 5
     },
     "early_in_person": {
      "votes_D": 877,
      "votes_R": 4555,
      "votes_other": 35
     },
-    "mail": {
-     "votes_D": 283,
-     "votes_R": 634,
-     "votes_other": 5
+    "election_day": {
+     "votes_D": 1076,
+     "votes_R": 7498,
+     "votes_other": 111
     }
    },
    "data_source": "OpenElections",
@@ -4016,24 +4026,24 @@
    "pct_D": 23.6,
    "pct_R": 74.1,
    "modes": {
-    "election_day": {
-     "votes_D": 449,
-     "votes_R": 1663,
-     "votes_other": 54
+    "mail": {
+     "votes_D": 64,
+     "votes_R": 82,
+     "votes_other": 0
     },
     "early_in_person": {
      "votes_D": 176,
      "votes_R": 418,
      "votes_other": 13
     },
-    "mail": {
-     "votes_D": 64,
-     "votes_R": 82,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 449,
+     "votes_R": 1663,
+     "votes_other": 54
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0014,
    "completeness": "C3",
    "notes": ""
@@ -4050,24 +4060,24 @@
    "pct_D": 41.9,
    "pct_R": 56.2,
    "modes": {
-    "election_day": {
-     "votes_D": 2390,
-     "votes_R": 3796,
-     "votes_other": 162
+    "mail": {
+     "votes_D": 681,
+     "votes_R": 507,
+     "votes_other": 22
     },
     "early_in_person": {
      "votes_D": 3211,
      "votes_R": 4116,
      "votes_other": 108
     },
-    "mail": {
-     "votes_D": 681,
-     "votes_R": 507,
-     "votes_other": 22
+    "election_day": {
+     "votes_D": 2390,
+     "votes_R": 3796,
+     "votes_other": 162
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""

@@ -28,7 +28,7 @@
  "units": {
   "abington": {
    "name": "ABINGTON",
-   "raw_name": "ABINGTON",
+   "raw_name": "Abington",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4714,
@@ -44,7 +44,7 @@
      "votes_other": 217
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -52,7 +52,7 @@
   },
   "acton": {
    "name": "ACTON",
-   "raw_name": "ACTON",
+   "raw_name": "Acton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 10177,
@@ -68,7 +68,7 @@
      "votes_other": 469
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -76,7 +76,7 @@
   },
   "acushnet": {
    "name": "ACUSHNET",
-   "raw_name": "ACUSHNET",
+   "raw_name": "Acushnet",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2311,
@@ -92,7 +92,7 @@
      "votes_other": 111
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -100,7 +100,7 @@
   },
   "adams": {
    "name": "ADAMS",
-   "raw_name": "ADAMS",
+   "raw_name": "Adams",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2603,
@@ -116,7 +116,7 @@
      "votes_other": 98
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -124,7 +124,7 @@
   },
   "agawam": {
    "name": "AGAWAM",
-   "raw_name": "AGAWAM",
+   "raw_name": "Agawam",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6942,
@@ -140,7 +140,7 @@
      "votes_other": 372
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -148,7 +148,7 @@
   },
   "alford": {
    "name": "ALFORD",
-   "raw_name": "ALFORD",
+   "raw_name": "Alford",
    "fips": null,
    "is_mappable": true,
    "votes_D": 252,
@@ -164,7 +164,7 @@
      "votes_other": 7
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -172,7 +172,7 @@
   },
   "amesbury": {
    "name": "AMESBURY",
-   "raw_name": "AMESBURY",
+   "raw_name": "Amesbury",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6567,
@@ -188,7 +188,7 @@
      "votes_other": 202
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -196,7 +196,7 @@
   },
   "amherst": {
    "name": "AMHERST",
-   "raw_name": "AMHERST",
+   "raw_name": "Amherst",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9316,
@@ -212,7 +212,7 @@
      "votes_other": 458
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -220,7 +220,7 @@
   },
   "andover": {
    "name": "ANDOVER",
-   "raw_name": "ANDOVER",
+   "raw_name": "Andover",
    "fips": null,
    "is_mappable": true,
    "votes_D": 13115,
@@ -236,7 +236,7 @@
      "votes_other": 620
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -244,7 +244,7 @@
   },
   "aquinnah": {
    "name": "AQUINNAH",
-   "raw_name": "AQUINNAH",
+   "raw_name": "Aquinnah",
    "fips": null,
    "is_mappable": true,
    "votes_D": 304,
@@ -260,7 +260,7 @@
      "votes_other": 10
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -268,7 +268,7 @@
   },
   "arlington": {
    "name": "ARLINGTON",
-   "raw_name": "ARLINGTON",
+   "raw_name": "Arlington",
    "fips": null,
    "is_mappable": true,
    "votes_D": 22399,
@@ -284,7 +284,7 @@
      "votes_other": 846
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -292,7 +292,7 @@
   },
   "ashburnham": {
    "name": "ASHBURNHAM",
-   "raw_name": "ASHBURNHAM",
+   "raw_name": "Ashburnham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1965,
@@ -308,7 +308,7 @@
      "votes_other": 105
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -316,7 +316,7 @@
   },
   "ashby": {
    "name": "ASHBY",
-   "raw_name": "ASHBY",
+   "raw_name": "Ashby",
    "fips": null,
    "is_mappable": true,
    "votes_D": 936,
@@ -332,7 +332,7 @@
      "votes_other": 37
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -340,7 +340,7 @@
   },
   "ashfield": {
    "name": "ASHFIELD",
-   "raw_name": "ASHFIELD",
+   "raw_name": "Ashfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 919,
@@ -356,7 +356,7 @@
      "votes_other": 50
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -364,7 +364,7 @@
   },
   "ashland": {
    "name": "ASHLAND",
-   "raw_name": "ASHLAND",
+   "raw_name": "Ashland",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6589,
@@ -380,7 +380,7 @@
      "votes_other": 226
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -388,7 +388,7 @@
   },
   "athol": {
    "name": "ATHOL",
-   "raw_name": "ATHOL",
+   "raw_name": "Athol",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2602,
@@ -404,7 +404,7 @@
      "votes_other": 133
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -412,7 +412,7 @@
   },
   "attleboro": {
    "name": "ATTLEBORO",
-   "raw_name": "ATTLEBORO",
+   "raw_name": "Attleboro",
    "fips": null,
    "is_mappable": true,
    "votes_D": 12675,
@@ -428,7 +428,7 @@
      "votes_other": 599
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -436,7 +436,7 @@
   },
   "auburn": {
    "name": "AUBURN",
-   "raw_name": "AUBURN",
+   "raw_name": "Auburn",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5206,
@@ -452,7 +452,7 @@
      "votes_other": 260
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -460,7 +460,7 @@
   },
   "avon": {
    "name": "AVON",
-   "raw_name": "AVON",
+   "raw_name": "Avon",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1375,
@@ -476,7 +476,7 @@
      "votes_other": 50
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -484,7 +484,7 @@
   },
   "ayer": {
    "name": "AYER",
-   "raw_name": "AYER",
+   "raw_name": "Ayer",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2870,
@@ -500,7 +500,7 @@
      "votes_other": 107
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -508,7 +508,7 @@
   },
   "barnstable": {
    "name": "BARNSTABLE",
-   "raw_name": "BARNSTABLE",
+   "raw_name": "Barnstable",
    "fips": null,
    "is_mappable": true,
    "votes_D": 15227,
@@ -524,7 +524,7 @@
      "votes_other": 609
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -532,7 +532,7 @@
   },
   "barre": {
    "name": "BARRE",
-   "raw_name": "BARRE",
+   "raw_name": "Barre",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1408,
@@ -548,7 +548,7 @@
      "votes_other": 57
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -556,7 +556,7 @@
   },
   "becket": {
    "name": "BECKET",
-   "raw_name": "BECKET",
+   "raw_name": "Becket",
    "fips": null,
    "is_mappable": true,
    "votes_D": 743,
@@ -572,7 +572,7 @@
      "votes_other": 44
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -580,7 +580,7 @@
   },
   "bedford": {
    "name": "BEDFORD",
-   "raw_name": "BEDFORD",
+   "raw_name": "Bedford",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5874,
@@ -596,7 +596,7 @@
      "votes_other": 275
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -604,7 +604,7 @@
   },
   "belchertown": {
    "name": "BELCHERTOWN",
-   "raw_name": "BELCHERTOWN",
+   "raw_name": "Belchertown",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5603,
@@ -620,7 +620,7 @@
      "votes_other": 214
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -628,7 +628,7 @@
   },
   "bellingham": {
    "name": "BELLINGHAM",
-   "raw_name": "BELLINGHAM",
+   "raw_name": "Bellingham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4894,
@@ -644,7 +644,7 @@
      "votes_other": 243
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -652,7 +652,7 @@
   },
   "belmont": {
    "name": "BELMONT",
-   "raw_name": "BELMONT",
+   "raw_name": "Belmont",
    "fips": null,
    "is_mappable": true,
    "votes_D": 10996,
@@ -668,7 +668,7 @@
      "votes_other": 564
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -676,7 +676,7 @@
   },
   "berkley": {
    "name": "BERKLEY",
-   "raw_name": "BERKLEY",
+   "raw_name": "Berkley",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1612,
@@ -692,7 +692,7 @@
      "votes_other": 68
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -700,7 +700,7 @@
   },
   "berlin": {
    "name": "BERLIN",
-   "raw_name": "BERLIN",
+   "raw_name": "Berlin",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1385,
@@ -716,7 +716,7 @@
      "votes_other": 81
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -724,7 +724,7 @@
   },
   "bernardston": {
    "name": "BERNARDSTON",
-   "raw_name": "BERNARDSTON",
+   "raw_name": "Bernardston",
    "fips": null,
    "is_mappable": true,
    "votes_D": 878,
@@ -740,7 +740,7 @@
      "votes_other": 36
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -748,7 +748,7 @@
   },
   "beverly": {
    "name": "BEVERLY",
-   "raw_name": "BEVERLY",
+   "raw_name": "Beverly",
    "fips": null,
    "is_mappable": true,
    "votes_D": 15536,
@@ -764,7 +764,7 @@
      "votes_other": 606
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -772,7 +772,7 @@
   },
   "billerica": {
    "name": "BILLERICA",
-   "raw_name": "BILLERICA",
+   "raw_name": "Billerica",
    "fips": null,
    "is_mappable": true,
    "votes_D": 11743,
@@ -788,7 +788,7 @@
      "votes_other": 581
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -796,7 +796,7 @@
   },
   "blackstone": {
    "name": "BLACKSTONE",
-   "raw_name": "BLACKSTONE",
+   "raw_name": "Blackstone",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2245,
@@ -812,7 +812,7 @@
      "votes_other": 88
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -820,7 +820,7 @@
   },
   "blandford": {
    "name": "BLANDFORD",
-   "raw_name": "BLANDFORD",
+   "raw_name": "Blandford",
    "fips": null,
    "is_mappable": true,
    "votes_D": 308,
@@ -836,7 +836,7 @@
      "votes_other": 15
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -844,7 +844,7 @@
   },
   "bolton": {
    "name": "BOLTON",
-   "raw_name": "BOLTON",
+   "raw_name": "Bolton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2459,
@@ -860,7 +860,7 @@
      "votes_other": 119
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -868,7 +868,7 @@
   },
   "boston": {
    "name": "BOSTON",
-   "raw_name": "BOSTON",
+   "raw_name": "Boston",
    "fips": null,
    "is_mappable": true,
    "votes_D": 201628,
@@ -884,7 +884,7 @@
      "votes_other": 9339
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -892,7 +892,7 @@
   },
   "bourne": {
    "name": "BOURNE",
-   "raw_name": "BOURNE",
+   "raw_name": "Bourne",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6265,
@@ -908,7 +908,7 @@
      "votes_other": 277
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -916,7 +916,7 @@
   },
   "boxborough": {
    "name": "BOXBOROUGH",
-   "raw_name": "BOXBOROUGH",
+   "raw_name": "Boxborough",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2295,
@@ -932,7 +932,7 @@
      "votes_other": 103
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -940,7 +940,7 @@
   },
   "boxford": {
    "name": "BOXFORD",
-   "raw_name": "BOXFORD",
+   "raw_name": "Boxford",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3012,
@@ -956,7 +956,7 @@
      "votes_other": 141
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -964,7 +964,7 @@
   },
   "boylston": {
    "name": "BOYLSTON",
-   "raw_name": "BOYLSTON",
+   "raw_name": "Boylston",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1886,
@@ -980,7 +980,7 @@
      "votes_other": 102
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -988,7 +988,7 @@
   },
   "braintree": {
    "name": "BRAINTREE",
-   "raw_name": "BRAINTREE",
+   "raw_name": "Braintree",
    "fips": null,
    "is_mappable": true,
    "votes_D": 10546,
@@ -1004,7 +1004,7 @@
      "votes_other": 546
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1012,7 +1012,7 @@
   },
   "brewster": {
    "name": "BREWSTER",
-   "raw_name": "BREWSTER",
+   "raw_name": "Brewster",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4776,
@@ -1028,7 +1028,7 @@
      "votes_other": 147
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1036,7 +1036,7 @@
   },
   "bridgewater": {
    "name": "BRIDGEWATER",
-   "raw_name": "BRIDGEWATER",
+   "raw_name": "Bridgewater",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7070,
@@ -1052,7 +1052,7 @@
      "votes_other": 296
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1060,7 +1060,7 @@
   },
   "brimfield": {
    "name": "BRIMFIELD",
-   "raw_name": "BRIMFIELD",
+   "raw_name": "Brimfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1017,
@@ -1076,7 +1076,7 @@
      "votes_other": 70
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1084,7 +1084,7 @@
   },
   "brockton": {
    "name": "BROCKTON",
-   "raw_name": "BROCKTON",
+   "raw_name": "Brockton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 24727,
@@ -1100,7 +1100,7 @@
      "votes_other": 741
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1108,7 +1108,7 @@
   },
   "brookfield": {
    "name": "BROOKFIELD",
-   "raw_name": "BROOKFIELD",
+   "raw_name": "Brookfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 930,
@@ -1124,7 +1124,7 @@
      "votes_other": 51
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1132,7 +1132,7 @@
   },
   "brookline": {
    "name": "BROOKLINE",
-   "raw_name": "BROOKLINE",
+   "raw_name": "Brookline",
    "fips": null,
    "is_mappable": true,
    "votes_D": 23710,
@@ -1148,7 +1148,7 @@
      "votes_other": 1039
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1156,7 +1156,7 @@
   },
   "buckland": {
    "name": "BUCKLAND",
-   "raw_name": "BUCKLAND",
+   "raw_name": "Buckland",
    "fips": null,
    "is_mappable": true,
    "votes_D": 808,
@@ -1172,7 +1172,7 @@
      "votes_other": 29
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1180,7 +1180,7 @@
   },
   "burlington": {
    "name": "BURLINGTON",
-   "raw_name": "BURLINGTON",
+   "raw_name": "Burlington",
    "fips": null,
    "is_mappable": true,
    "votes_D": 8218,
@@ -1196,7 +1196,7 @@
      "votes_other": 460
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1204,7 +1204,7 @@
   },
   "cambridge": {
    "name": "CAMBRIDGE",
-   "raw_name": "CAMBRIDGE",
+   "raw_name": "Cambridge",
    "fips": null,
    "is_mappable": true,
    "votes_D": 43690,
@@ -1220,7 +1220,7 @@
      "votes_other": 2273
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1228,7 +1228,7 @@
   },
   "canton": {
    "name": "CANTON",
-   "raw_name": "CANTON",
+   "raw_name": "Canton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 8381,
@@ -1244,7 +1244,7 @@
      "votes_other": 358
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1252,7 +1252,7 @@
   },
   "carlisle": {
    "name": "CARLISLE",
-   "raw_name": "CARLISLE",
+   "raw_name": "Carlisle",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2648,
@@ -1268,7 +1268,7 @@
      "votes_other": 90
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1276,7 +1276,7 @@
   },
   "carver": {
    "name": "CARVER",
-   "raw_name": "CARVER",
+   "raw_name": "Carver",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3022,
@@ -1292,7 +1292,7 @@
      "votes_other": 148
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1300,7 +1300,7 @@
   },
   "charlemont": {
    "name": "CHARLEMONT",
-   "raw_name": "CHARLEMONT",
+   "raw_name": "Charlemont",
    "fips": null,
    "is_mappable": true,
    "votes_D": 479,
@@ -1316,7 +1316,7 @@
      "votes_other": 39
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1324,7 +1324,7 @@
   },
   "charlton": {
    "name": "CHARLTON",
-   "raw_name": "CHARLTON",
+   "raw_name": "Charlton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3494,
@@ -1340,7 +1340,7 @@
      "votes_other": 193
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1348,7 +1348,7 @@
   },
   "chatham": {
    "name": "CHATHAM",
-   "raw_name": "CHATHAM",
+   "raw_name": "Chatham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2962,
@@ -1364,7 +1364,7 @@
      "votes_other": 136
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1372,7 +1372,7 @@
   },
   "chelmsford": {
    "name": "CHELMSFORD",
-   "raw_name": "CHELMSFORD",
+   "raw_name": "Chelmsford",
    "fips": null,
    "is_mappable": true,
    "votes_D": 12937,
@@ -1388,7 +1388,7 @@
      "votes_other": 591
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1396,7 +1396,7 @@
   },
   "chelsea": {
    "name": "CHELSEA",
-   "raw_name": "CHELSEA",
+   "raw_name": "Chelsea",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5787,
@@ -1412,7 +1412,7 @@
      "votes_other": 292
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1420,7 +1420,7 @@
   },
   "cheshire": {
    "name": "CHESHIRE",
-   "raw_name": "CHESHIRE",
+   "raw_name": "Cheshire",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1032,
@@ -1436,7 +1436,7 @@
      "votes_other": 32
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1444,7 +1444,7 @@
   },
   "chester": {
    "name": "CHESTER",
-   "raw_name": "CHESTER",
+   "raw_name": "Chester",
    "fips": null,
    "is_mappable": true,
    "votes_D": 293,
@@ -1460,7 +1460,7 @@
      "votes_other": 16
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1468,7 +1468,7 @@
   },
   "chesterfield": {
    "name": "CHESTERFIELD",
-   "raw_name": "CHESTERFIELD",
+   "raw_name": "Chesterfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 497,
@@ -1484,7 +1484,7 @@
      "votes_other": 35
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1492,7 +1492,7 @@
   },
   "chicopee": {
    "name": "CHICOPEE",
-   "raw_name": "CHICOPEE",
+   "raw_name": "Chicopee",
    "fips": null,
    "is_mappable": true,
    "votes_D": 12630,
@@ -1508,7 +1508,7 @@
      "votes_other": 620
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1516,7 +1516,7 @@
   },
   "chilmark": {
    "name": "CHILMARK",
-   "raw_name": "CHILMARK",
+   "raw_name": "Chilmark",
    "fips": null,
    "is_mappable": true,
    "votes_D": 778,
@@ -1532,7 +1532,7 @@
      "votes_other": 30
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1540,7 +1540,7 @@
   },
   "clarksburg": {
    "name": "CLARKSBURG",
-   "raw_name": "CLARKSBURG",
+   "raw_name": "Clarksburg",
    "fips": null,
    "is_mappable": true,
    "votes_D": 551,
@@ -1556,7 +1556,7 @@
      "votes_other": 22
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1564,7 +1564,7 @@
   },
   "clinton": {
    "name": "CLINTON",
-   "raw_name": "CLINTON",
+   "raw_name": "Clinton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4192,
@@ -1580,7 +1580,7 @@
      "votes_other": 193
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1588,7 +1588,7 @@
   },
   "cohasset": {
    "name": "COHASSET",
-   "raw_name": "COHASSET",
+   "raw_name": "Cohasset",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3458,
@@ -1604,7 +1604,7 @@
      "votes_other": 184
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1612,7 +1612,7 @@
   },
   "colrain": {
    "name": "COLRAIN",
-   "raw_name": "COLRAIN",
+   "raw_name": "Colrain",
    "fips": null,
    "is_mappable": true,
    "votes_D": 644,
@@ -1628,7 +1628,7 @@
      "votes_other": 34
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1636,7 +1636,7 @@
   },
   "concord": {
    "name": "CONCORD",
-   "raw_name": "CONCORD",
+   "raw_name": "Concord",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9588,
@@ -1652,7 +1652,7 @@
      "votes_other": 336
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1660,7 +1660,7 @@
   },
   "conway": {
    "name": "CONWAY",
-   "raw_name": "CONWAY",
+   "raw_name": "Conway",
    "fips": null,
    "is_mappable": true,
    "votes_D": 943,
@@ -1676,7 +1676,7 @@
      "votes_other": 45
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1684,7 +1684,7 @@
   },
   "cummington": {
    "name": "CUMMINGTON",
-   "raw_name": "CUMMINGTON",
+   "raw_name": "Cummington",
    "fips": null,
    "is_mappable": true,
    "votes_D": 399,
@@ -1700,7 +1700,7 @@
      "votes_other": 24
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1708,7 +1708,7 @@
   },
   "dalton": {
    "name": "DALTON",
-   "raw_name": "DALTON",
+   "raw_name": "Dalton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2322,
@@ -1724,7 +1724,7 @@
      "votes_other": 90
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1732,7 +1732,7 @@
   },
   "danvers": {
    "name": "DANVERS",
-   "raw_name": "DANVERS",
+   "raw_name": "Danvers",
    "fips": null,
    "is_mappable": true,
    "votes_D": 8769,
@@ -1748,7 +1748,7 @@
      "votes_other": 366
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1756,7 +1756,7 @@
   },
   "dartmouth": {
    "name": "DARTMOUTH",
-   "raw_name": "DARTMOUTH",
+   "raw_name": "Dartmouth",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9054,
@@ -1772,7 +1772,7 @@
      "votes_other": 312
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1780,7 +1780,7 @@
   },
   "dedham": {
    "name": "DEDHAM",
-   "raw_name": "DEDHAM",
+   "raw_name": "Dedham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9494,
@@ -1796,7 +1796,7 @@
      "votes_other": 449
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1804,7 +1804,7 @@
   },
   "deerfield": {
    "name": "DEERFIELD",
-   "raw_name": "DEERFIELD",
+   "raw_name": "Deerfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2307,
@@ -1820,7 +1820,7 @@
      "votes_other": 111
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1828,7 +1828,7 @@
   },
   "dennis": {
    "name": "DENNIS",
-   "raw_name": "DENNIS",
+   "raw_name": "Dennis",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5809,
@@ -1844,7 +1844,7 @@
      "votes_other": 221
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1852,7 +1852,7 @@
   },
   "dighton": {
    "name": "DIGHTON",
-   "raw_name": "DIGHTON",
+   "raw_name": "Dighton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1906,
@@ -1868,7 +1868,7 @@
      "votes_other": 72
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1876,7 +1876,7 @@
   },
   "douglas": {
    "name": "DOUGLAS",
-   "raw_name": "DOUGLAS",
+   "raw_name": "Douglas",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2407,
@@ -1892,7 +1892,7 @@
      "votes_other": 95
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1900,7 +1900,7 @@
   },
   "dover": {
    "name": "DOVER",
-   "raw_name": "DOVER",
+   "raw_name": "Dover",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2439,
@@ -1916,7 +1916,7 @@
      "votes_other": 172
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1924,7 +1924,7 @@
   },
   "dracut": {
    "name": "DRACUT",
-   "raw_name": "DRACUT",
+   "raw_name": "Dracut",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7889,
@@ -1940,7 +1940,7 @@
      "votes_other": 311
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1948,7 +1948,7 @@
   },
   "dudley": {
    "name": "DUDLEY",
-   "raw_name": "DUDLEY",
+   "raw_name": "Dudley",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2686,
@@ -1964,7 +1964,7 @@
      "votes_other": 134
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1972,7 +1972,7 @@
   },
   "dunstable": {
    "name": "DUNSTABLE",
-   "raw_name": "DUNSTABLE",
+   "raw_name": "Dunstable",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1205,
@@ -1988,7 +1988,7 @@
      "votes_other": 39
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1996,7 +1996,7 @@
   },
   "duxbury": {
    "name": "DUXBURY",
-   "raw_name": "DUXBURY",
+   "raw_name": "Duxbury",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6298,
@@ -2012,7 +2012,7 @@
      "votes_other": 305
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2020,7 +2020,7 @@
   },
   "e_bridgewater": {
    "name": "E. BRIDGEWATER",
-   "raw_name": "E. BRIDGEWATER",
+   "raw_name": "East Bridgewater",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3726,
@@ -2036,7 +2036,7 @@
      "votes_other": 189
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2044,7 +2044,7 @@
   },
   "e_brookfield": {
    "name": "E. BROOKFIELD",
-   "raw_name": "E. BROOKFIELD",
+   "raw_name": "East Brookfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 556,
@@ -2060,7 +2060,7 @@
      "votes_other": 21
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2068,7 +2068,7 @@
   },
   "e_longmeadow": {
    "name": "E. LONGMEADOW",
-   "raw_name": "E. LONGMEADOW",
+   "raw_name": "East Longmeadow",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4839,
@@ -2084,7 +2084,7 @@
      "votes_other": 203
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2092,7 +2092,7 @@
   },
   "eastham": {
    "name": "EASTHAM",
-   "raw_name": "EASTHAM",
+   "raw_name": "Eastham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2885,
@@ -2108,7 +2108,7 @@
      "votes_other": 97
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2116,7 +2116,7 @@
   },
   "easthampton": {
    "name": "EASTHAMPTON",
-   "raw_name": "EASTHAMPTON",
+   "raw_name": "Easthampton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7216,
@@ -2132,7 +2132,7 @@
      "votes_other": 404
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2140,7 +2140,7 @@
   },
   "easton": {
    "name": "EASTON",
-   "raw_name": "EASTON",
+   "raw_name": "Easton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7997,
@@ -2156,7 +2156,7 @@
      "votes_other": 376
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2164,7 +2164,7 @@
   },
   "edgartown": {
    "name": "EDGARTOWN",
-   "raw_name": "EDGARTOWN",
+   "raw_name": "Edgartown",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1969,
@@ -2180,7 +2180,7 @@
      "votes_other": 74
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2188,7 +2188,7 @@
   },
   "egremont": {
    "name": "EGREMONT",
-   "raw_name": "EGREMONT",
+   "raw_name": "Egremont",
    "fips": null,
    "is_mappable": true,
    "votes_D": 752,
@@ -2204,7 +2204,7 @@
      "votes_other": 25
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2212,7 +2212,7 @@
   },
   "erving": {
    "name": "ERVING",
-   "raw_name": "ERVING",
+   "raw_name": "Erving",
    "fips": null,
    "is_mappable": true,
    "votes_D": 500,
@@ -2228,7 +2228,7 @@
      "votes_other": 33
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2236,7 +2236,7 @@
   },
   "essex": {
    "name": "ESSEX",
-   "raw_name": "ESSEX",
+   "raw_name": "Essex",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1540,
@@ -2252,7 +2252,7 @@
      "votes_other": 67
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2260,7 +2260,7 @@
   },
   "everett": {
    "name": "EVERETT",
-   "raw_name": "EVERETT",
+   "raw_name": "Everett",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7629,
@@ -2276,7 +2276,7 @@
      "votes_other": 366
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2284,7 +2284,7 @@
   },
   "fairhaven": {
    "name": "FAIRHAVEN",
-   "raw_name": "FAIRHAVEN",
+   "raw_name": "Fairhaven",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4781,
@@ -2300,7 +2300,7 @@
      "votes_other": 147
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2308,7 +2308,7 @@
   },
   "fall_river": {
    "name": "FALL RIVER",
-   "raw_name": "FALL RIVER",
+   "raw_name": "Fall River",
    "fips": null,
    "is_mappable": true,
    "votes_D": 14726,
@@ -2324,7 +2324,7 @@
      "votes_other": 593
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2332,7 +2332,7 @@
   },
   "falmouth": {
    "name": "FALMOUTH",
-   "raw_name": "FALMOUTH",
+   "raw_name": "Falmouth",
    "fips": null,
    "is_mappable": true,
    "votes_D": 13744,
@@ -2348,7 +2348,7 @@
      "votes_other": 484
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2356,7 +2356,7 @@
   },
   "fitchburg": {
    "name": "FITCHBURG",
-   "raw_name": "FITCHBURG",
+   "raw_name": "Fitchburg",
    "fips": null,
    "is_mappable": true,
    "votes_D": 8613,
@@ -2372,7 +2372,7 @@
      "votes_other": 418
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2380,7 +2380,7 @@
   },
   "florida": {
    "name": "FLORIDA",
-   "raw_name": "FLORIDA",
+   "raw_name": "Florida",
    "fips": null,
    "is_mappable": true,
    "votes_D": 184,
@@ -2396,7 +2396,7 @@
      "votes_other": 8
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2404,7 +2404,7 @@
   },
   "foxborough": {
    "name": "FOXBOROUGH",
-   "raw_name": "FOXBOROUGH",
+   "raw_name": "Foxborough",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5986,
@@ -2420,7 +2420,7 @@
      "votes_other": 332
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2428,7 +2428,7 @@
   },
   "framingham": {
    "name": "FRAMINGHAM",
-   "raw_name": "FRAMINGHAM",
+   "raw_name": "Framingham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 20681,
@@ -2444,7 +2444,7 @@
      "votes_other": 873
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2452,7 +2452,7 @@
   },
   "franklin": {
    "name": "FRANKLIN",
-   "raw_name": "FRANKLIN",
+   "raw_name": "Franklin",
    "fips": null,
    "is_mappable": true,
    "votes_D": 11509,
@@ -2468,7 +2468,7 @@
      "votes_other": 521
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2476,7 +2476,7 @@
   },
   "freetown": {
    "name": "FREETOWN",
-   "raw_name": "FREETOWN",
+   "raw_name": "Freetown",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2236,
@@ -2492,7 +2492,7 @@
      "votes_other": 129
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2500,7 +2500,7 @@
   },
   "gardner": {
    "name": "GARDNER",
-   "raw_name": "GARDNER",
+   "raw_name": "Gardner",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4835,
@@ -2516,7 +2516,7 @@
      "votes_other": 230
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2524,7 +2524,7 @@
   },
   "georgetown": {
    "name": "GEORGETOWN",
-   "raw_name": "GEORGETOWN",
+   "raw_name": "Georgetown",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2855,
@@ -2540,7 +2540,7 @@
      "votes_other": 134
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2548,7 +2548,7 @@
   },
   "gill": {
    "name": "GILL",
-   "raw_name": "GILL",
+   "raw_name": "Gill",
    "fips": null,
    "is_mappable": true,
    "votes_D": 691,
@@ -2564,7 +2564,7 @@
      "votes_other": 29
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2572,7 +2572,7 @@
   },
   "gloucester": {
    "name": "GLOUCESTER",
-   "raw_name": "GLOUCESTER",
+   "raw_name": "Gloucester",
    "fips": null,
    "is_mappable": true,
    "votes_D": 11138,
@@ -2588,7 +2588,7 @@
      "votes_other": 412
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2596,7 +2596,7 @@
   },
   "goshen": {
    "name": "GOSHEN",
-   "raw_name": "GOSHEN",
+   "raw_name": "Goshen",
    "fips": null,
    "is_mappable": true,
    "votes_D": 391,
@@ -2612,7 +2612,7 @@
      "votes_other": 18
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2620,7 +2620,7 @@
   },
   "gosnold": {
    "name": "GOSNOLD",
-   "raw_name": "GOSNOLD",
+   "raw_name": "Gosnold",
    "fips": null,
    "is_mappable": true,
    "votes_D": 51,
@@ -2636,7 +2636,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2644,7 +2644,7 @@
   },
   "grafton": {
    "name": "GRAFTON",
-   "raw_name": "GRAFTON",
+   "raw_name": "Grafton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6651,
@@ -2660,7 +2660,7 @@
      "votes_other": 321
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2668,7 +2668,7 @@
   },
   "granby": {
    "name": "GRANBY",
-   "raw_name": "GRANBY",
+   "raw_name": "Granby",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1930,
@@ -2684,7 +2684,7 @@
      "votes_other": 69
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2692,7 +2692,7 @@
   },
   "granville": {
    "name": "GRANVILLE",
-   "raw_name": "GRANVILLE",
+   "raw_name": "Granville",
    "fips": null,
    "is_mappable": true,
    "votes_D": 357,
@@ -2708,7 +2708,7 @@
      "votes_other": 25
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2716,7 +2716,7 @@
   },
   "great_barrington": {
    "name": "GREAT BARRINGTON",
-   "raw_name": "GREAT BARRINGTON",
+   "raw_name": "Great Barrington",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3098,
@@ -2732,7 +2732,7 @@
      "votes_other": 130
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2740,7 +2740,7 @@
   },
   "greenfield": {
    "name": "GREENFIELD",
-   "raw_name": "GREENFIELD",
+   "raw_name": "Greenfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6655,
@@ -2756,7 +2756,7 @@
      "votes_other": 357
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2764,7 +2764,7 @@
   },
   "groton": {
    "name": "GROTON",
-   "raw_name": "GROTON",
+   "raw_name": "Groton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4810,
@@ -2780,7 +2780,7 @@
      "votes_other": 229
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2788,7 +2788,7 @@
   },
   "groveland": {
    "name": "GROVELAND",
-   "raw_name": "GROVELAND",
+   "raw_name": "Groveland",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2250,
@@ -2804,7 +2804,7 @@
      "votes_other": 109
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2812,7 +2812,7 @@
   },
   "hadley": {
    "name": "HADLEY",
-   "raw_name": "HADLEY",
+   "raw_name": "Hadley",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2234,
@@ -2828,7 +2828,7 @@
      "votes_other": 97
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2836,7 +2836,7 @@
   },
   "halifax": {
    "name": "HALIFAX",
-   "raw_name": "HALIFAX",
+   "raw_name": "Halifax",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2076,
@@ -2852,7 +2852,7 @@
      "votes_other": 80
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2860,7 +2860,7 @@
   },
   "hamilton": {
    "name": "HAMILTON",
-   "raw_name": "HAMILTON",
+   "raw_name": "Hamilton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3157,
@@ -2876,7 +2876,7 @@
      "votes_other": 168
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2884,7 +2884,7 @@
   },
   "hampden": {
    "name": "HAMPDEN",
-   "raw_name": "HAMPDEN",
+   "raw_name": "Hampden",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1418,
@@ -2900,7 +2900,7 @@
      "votes_other": 60
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2908,7 +2908,7 @@
   },
   "hancock": {
    "name": "HANCOCK",
-   "raw_name": "HANCOCK",
+   "raw_name": "Hancock",
    "fips": null,
    "is_mappable": true,
    "votes_D": 245,
@@ -2924,7 +2924,7 @@
      "votes_other": 12
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2932,7 +2932,7 @@
   },
   "hanover": {
    "name": "HANOVER",
-   "raw_name": "HANOVER",
+   "raw_name": "Hanover",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4576,
@@ -2948,7 +2948,7 @@
      "votes_other": 218
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2956,7 +2956,7 @@
   },
   "hanson": {
    "name": "HANSON",
-   "raw_name": "HANSON",
+   "raw_name": "Hanson",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2937,
@@ -2972,7 +2972,7 @@
      "votes_other": 152
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2980,7 +2980,7 @@
   },
   "hardwick": {
    "name": "HARDWICK",
-   "raw_name": "HARDWICK",
+   "raw_name": "Hardwick",
    "fips": null,
    "is_mappable": true,
    "votes_D": 706,
@@ -2996,7 +2996,7 @@
      "votes_other": 31
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3004,7 +3004,7 @@
   },
   "harvard": {
    "name": "HARVARD",
-   "raw_name": "HARVARD",
+   "raw_name": "Harvard",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2983,
@@ -3020,7 +3020,7 @@
      "votes_other": 127
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3028,7 +3028,7 @@
   },
   "harwich": {
    "name": "HARWICH",
-   "raw_name": "HARWICH",
+   "raw_name": "Harwich",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5598,
@@ -3044,7 +3044,7 @@
      "votes_other": 192
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3052,7 +3052,7 @@
   },
   "hatfield": {
    "name": "HATFIELD",
-   "raw_name": "HATFIELD",
+   "raw_name": "Hatfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1472,
@@ -3068,7 +3068,7 @@
      "votes_other": 51
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3076,7 +3076,7 @@
   },
   "haverhill": {
    "name": "HAVERHILL",
-   "raw_name": "HAVERHILL",
+   "raw_name": "Haverhill",
    "fips": null,
    "is_mappable": true,
    "votes_D": 16959,
@@ -3092,7 +3092,7 @@
      "votes_other": 677
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3100,7 +3100,7 @@
   },
   "hawley": {
    "name": "HAWLEY",
-   "raw_name": "HAWLEY",
+   "raw_name": "Hawley",
    "fips": null,
    "is_mappable": true,
    "votes_D": 117,
@@ -3116,7 +3116,7 @@
      "votes_other": 6
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3124,7 +3124,7 @@
   },
   "heath": {
    "name": "HEATH",
-   "raw_name": "HEATH",
+   "raw_name": "Heath",
    "fips": null,
    "is_mappable": true,
    "votes_D": 279,
@@ -3140,7 +3140,7 @@
      "votes_other": 11
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3148,7 +3148,7 @@
   },
   "hingham": {
    "name": "HINGHAM",
-   "raw_name": "HINGHAM",
+   "raw_name": "Hingham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 10065,
@@ -3164,7 +3164,7 @@
      "votes_other": 488
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3172,7 +3172,7 @@
   },
   "hinsdale": {
    "name": "HINSDALE",
-   "raw_name": "HINSDALE",
+   "raw_name": "Hinsdale",
    "fips": null,
    "is_mappable": true,
    "votes_D": 708,
@@ -3188,7 +3188,7 @@
      "votes_other": 31
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3196,7 +3196,7 @@
   },
   "holbrook": {
    "name": "HOLBROOK",
-   "raw_name": "HOLBROOK",
+   "raw_name": "Holbrook",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3278,
@@ -3212,7 +3212,7 @@
      "votes_other": 150
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3220,7 +3220,7 @@
   },
   "holden": {
    "name": "HOLDEN",
-   "raw_name": "HOLDEN",
+   "raw_name": "Holden",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6911,
@@ -3236,7 +3236,7 @@
      "votes_other": 275
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3244,7 +3244,7 @@
   },
   "holland": {
    "name": "HOLLAND",
-   "raw_name": "HOLLAND",
+   "raw_name": "Holland",
    "fips": null,
    "is_mappable": true,
    "votes_D": 658,
@@ -3260,7 +3260,7 @@
      "votes_other": 43
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3268,7 +3268,7 @@
   },
   "holliston": {
    "name": "HOLLISTON",
-   "raw_name": "HOLLISTON",
+   "raw_name": "Holliston",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6359,
@@ -3284,7 +3284,7 @@
      "votes_other": 296
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3292,7 +3292,7 @@
   },
   "holyoke": {
    "name": "HOLYOKE",
-   "raw_name": "HOLYOKE",
+   "raw_name": "Holyoke",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9409,
@@ -3308,7 +3308,7 @@
      "votes_other": 458
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3316,7 +3316,7 @@
   },
   "hopedale": {
    "name": "HOPEDALE",
-   "raw_name": "HOPEDALE",
+   "raw_name": "Hopedale",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2054,
@@ -3332,7 +3332,7 @@
      "votes_other": 102
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3340,7 +3340,7 @@
   },
   "hopkinton": {
    "name": "HOPKINTON",
-   "raw_name": "HOPKINTON",
+   "raw_name": "Hopkinton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6843,
@@ -3356,7 +3356,7 @@
      "votes_other": 316
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3364,7 +3364,7 @@
   },
   "hubbardston": {
    "name": "HUBBARDSTON",
-   "raw_name": "HUBBARDSTON",
+   "raw_name": "Hubbardston",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1262,
@@ -3380,7 +3380,7 @@
      "votes_other": 78
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3388,7 +3388,7 @@
   },
   "hudson": {
    "name": "HUDSON",
-   "raw_name": "HUDSON",
+   "raw_name": "Hudson",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6793,
@@ -3404,7 +3404,7 @@
      "votes_other": 344
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3412,7 +3412,7 @@
   },
   "hull": {
    "name": "HULL",
-   "raw_name": "HULL",
+   "raw_name": "Hull",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4171,
@@ -3428,7 +3428,7 @@
      "votes_other": 149
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3436,7 +3436,7 @@
   },
   "huntington": {
    "name": "HUNTINGTON",
-   "raw_name": "HUNTINGTON",
+   "raw_name": "Huntington",
    "fips": null,
    "is_mappable": true,
    "votes_D": 554,
@@ -3452,7 +3452,7 @@
      "votes_other": 24
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3460,7 +3460,7 @@
   },
   "ipswich": {
    "name": "IPSWICH",
-   "raw_name": "IPSWICH",
+   "raw_name": "Ipswich",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6055,
@@ -3476,7 +3476,7 @@
      "votes_other": 264
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3484,7 +3484,7 @@
   },
   "kingston": {
    "name": "KINGSTON",
-   "raw_name": "KINGSTON",
+   "raw_name": "Kingston",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4245,
@@ -3500,7 +3500,7 @@
      "votes_other": 184
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3508,7 +3508,7 @@
   },
   "lakeville": {
    "name": "LAKEVILLE",
-   "raw_name": "LAKEVILLE",
+   "raw_name": "Lakeville",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3268,
@@ -3524,7 +3524,7 @@
      "votes_other": 177
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3532,7 +3532,7 @@
   },
   "lancaster": {
    "name": "LANCASTER",
-   "raw_name": "LANCASTER",
+   "raw_name": "Lancaster",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2322,
@@ -3548,7 +3548,7 @@
      "votes_other": 121
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3556,7 +3556,7 @@
   },
   "lanesborough": {
    "name": "LANESBOROUGH",
-   "raw_name": "LANESBOROUGH",
+   "raw_name": "Lanesborough",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1156,
@@ -3572,7 +3572,7 @@
      "votes_other": 42
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3580,7 +3580,7 @@
   },
   "lawrence": {
    "name": "LAWRENCE",
-   "raw_name": "LAWRENCE",
+   "raw_name": "Lawrence",
    "fips": null,
    "is_mappable": true,
    "votes_D": 12073,
@@ -3596,7 +3596,7 @@
      "votes_other": 560
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3604,7 +3604,7 @@
   },
   "lee": {
    "name": "LEE",
-   "raw_name": "LEE",
+   "raw_name": "Lee",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2133,
@@ -3620,7 +3620,7 @@
      "votes_other": 100
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3628,7 +3628,7 @@
   },
   "leicester": {
    "name": "LEICESTER",
-   "raw_name": "LEICESTER",
+   "raw_name": "Leicester",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2822,
@@ -3644,7 +3644,7 @@
      "votes_other": 146
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3652,7 +3652,7 @@
   },
   "lenox": {
    "name": "LENOX",
-   "raw_name": "LENOX",
+   "raw_name": "Lenox",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2563,
@@ -3668,7 +3668,7 @@
      "votes_other": 90
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3676,7 +3676,7 @@
   },
   "leominster": {
    "name": "LEOMINSTER",
-   "raw_name": "LEOMINSTER",
+   "raw_name": "Leominster",
    "fips": null,
    "is_mappable": true,
    "votes_D": 10955,
@@ -3692,7 +3692,7 @@
      "votes_other": 488
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3700,7 +3700,7 @@
   },
   "leverett": {
    "name": "LEVERETT",
-   "raw_name": "LEVERETT",
+   "raw_name": "Leverett",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1079,
@@ -3716,7 +3716,7 @@
      "votes_other": 56
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3724,7 +3724,7 @@
   },
   "lexington": {
    "name": "LEXINGTON",
-   "raw_name": "LEXINGTON",
+   "raw_name": "Lexington",
    "fips": null,
    "is_mappable": true,
    "votes_D": 14362,
@@ -3740,7 +3740,7 @@
      "votes_other": 708
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3748,7 +3748,7 @@
   },
   "leyden": {
    "name": "LEYDEN",
-   "raw_name": "LEYDEN",
+   "raw_name": "Leyden",
    "fips": null,
    "is_mappable": true,
    "votes_D": 315,
@@ -3764,7 +3764,7 @@
      "votes_other": 21
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3772,7 +3772,7 @@
   },
   "lincoln": {
    "name": "LINCOLN",
-   "raw_name": "LINCOLN",
+   "raw_name": "Lincoln",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3258,
@@ -3788,7 +3788,7 @@
      "votes_other": 120
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3796,7 +3796,7 @@
   },
   "littleton": {
    "name": "LITTLETON",
-   "raw_name": "LITTLETON",
+   "raw_name": "Littleton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4295,
@@ -3812,7 +3812,7 @@
      "votes_other": 147
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3820,7 +3820,7 @@
   },
   "longmeadow": {
    "name": "LONGMEADOW",
-   "raw_name": "LONGMEADOW",
+   "raw_name": "Longmeadow",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5960,
@@ -3836,7 +3836,7 @@
      "votes_other": 291
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3844,7 +3844,7 @@
   },
   "lowell": {
    "name": "LOWELL",
-   "raw_name": "LOWELL",
+   "raw_name": "Lowell",
    "fips": null,
    "is_mappable": true,
    "votes_D": 21080,
@@ -3860,7 +3860,7 @@
      "votes_other": 940
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3868,7 +3868,7 @@
   },
   "ludlow": {
    "name": "LUDLOW",
-   "raw_name": "LUDLOW",
+   "raw_name": "Ludlow",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5025,
@@ -3884,7 +3884,7 @@
      "votes_other": 225
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3892,7 +3892,7 @@
   },
   "lunenburg": {
    "name": "LUNENBURG",
-   "raw_name": "LUNENBURG",
+   "raw_name": "Lunenburg",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3866,
@@ -3908,7 +3908,7 @@
      "votes_other": 174
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3916,7 +3916,7 @@
   },
   "lynn": {
    "name": "LYNN",
-   "raw_name": "LYNN",
+   "raw_name": "Lynn",
    "fips": null,
    "is_mappable": true,
    "votes_D": 18982,
@@ -3932,7 +3932,7 @@
      "votes_other": 877
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3940,7 +3940,7 @@
   },
   "lynnfield": {
    "name": "LYNNFIELD",
-   "raw_name": "LYNNFIELD",
+   "raw_name": "Lynnfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3813,
@@ -3956,7 +3956,7 @@
      "votes_other": 123
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3964,7 +3964,7 @@
   },
   "malden": {
    "name": "MALDEN",
-   "raw_name": "MALDEN",
+   "raw_name": "Malden",
    "fips": null,
    "is_mappable": true,
    "votes_D": 15327,
@@ -3980,7 +3980,7 @@
      "votes_other": 855
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -3988,7 +3988,7 @@
   },
   "manchester_by_the_sea": {
    "name": "MANCHESTER-BY-THE-SEA",
-   "raw_name": "MANCHESTER-BY-THE-SEA",
+   "raw_name": "Manchester-By-The-Sea",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2575,
@@ -4004,7 +4004,7 @@
      "votes_other": 109
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4012,7 +4012,7 @@
   },
   "mansfield": {
    "name": "MANSFIELD",
-   "raw_name": "MANSFIELD",
+   "raw_name": "Mansfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7939,
@@ -4028,7 +4028,7 @@
      "votes_other": 468
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4036,7 +4036,7 @@
   },
   "marblehead": {
    "name": "MARBLEHEAD",
-   "raw_name": "MARBLEHEAD",
+   "raw_name": "Marblehead",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9299,
@@ -4052,7 +4052,7 @@
      "votes_other": 338
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4060,7 +4060,7 @@
   },
   "marion": {
    "name": "MARION",
-   "raw_name": "MARION",
+   "raw_name": "Marion",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2236,
@@ -4076,7 +4076,7 @@
      "votes_other": 88
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4084,7 +4084,7 @@
   },
   "marlborough": {
    "name": "MARLBOROUGH",
-   "raw_name": "MARLBOROUGH",
+   "raw_name": "Marlborough",
    "fips": null,
    "is_mappable": true,
    "votes_D": 10996,
@@ -4100,7 +4100,7 @@
      "votes_other": 443
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4108,7 +4108,7 @@
   },
   "marshfield": {
    "name": "MARSHFIELD",
-   "raw_name": "MARSHFIELD",
+   "raw_name": "Marshfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 8903,
@@ -4124,7 +4124,7 @@
      "votes_other": 328
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4132,7 +4132,7 @@
   },
   "mashpee": {
    "name": "MASHPEE",
-   "raw_name": "MASHPEE",
+   "raw_name": "Mashpee",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5883,
@@ -4148,7 +4148,7 @@
      "votes_other": 198
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4156,7 +4156,7 @@
   },
   "mattapoisett": {
    "name": "MATTAPOISETT",
-   "raw_name": "MATTAPOISETT",
+   "raw_name": "Mattapoisett",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2739,
@@ -4172,7 +4172,7 @@
      "votes_other": 87
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4180,7 +4180,7 @@
   },
   "maynard": {
    "name": "MAYNARD",
-   "raw_name": "MAYNARD",
+   "raw_name": "Maynard",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4743,
@@ -4196,7 +4196,7 @@
      "votes_other": 172
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4204,7 +4204,7 @@
   },
   "medfield": {
    "name": "MEDFIELD",
-   "raw_name": "MEDFIELD",
+   "raw_name": "Medfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5230,
@@ -4220,7 +4220,7 @@
      "votes_other": 276
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4228,7 +4228,7 @@
   },
   "medford": {
    "name": "MEDFORD",
-   "raw_name": "MEDFORD",
+   "raw_name": "Medford",
    "fips": null,
    "is_mappable": true,
    "votes_D": 21050,
@@ -4244,7 +4244,7 @@
      "votes_other": 1047
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4252,7 +4252,7 @@
   },
   "medway": {
    "name": "MEDWAY",
-   "raw_name": "MEDWAY",
+   "raw_name": "Medway",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5029,
@@ -4268,7 +4268,7 @@
      "votes_other": 221
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4276,7 +4276,7 @@
   },
   "melrose": {
    "name": "MELROSE",
-   "raw_name": "MELROSE",
+   "raw_name": "Melrose",
    "fips": null,
    "is_mappable": true,
    "votes_D": 12041,
@@ -4292,7 +4292,7 @@
      "votes_other": 497
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4300,7 +4300,7 @@
   },
   "mendon": {
    "name": "MENDON",
-   "raw_name": "MENDON",
+   "raw_name": "Mendon",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1972,
@@ -4316,7 +4316,7 @@
      "votes_other": 92
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4324,7 +4324,7 @@
   },
   "merrimac": {
    "name": "MERRIMAC",
-   "raw_name": "MERRIMAC",
+   "raw_name": "Merrimac",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2383,
@@ -4340,7 +4340,7 @@
      "votes_other": 89
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4348,7 +4348,7 @@
   },
   "methuen": {
    "name": "METHUEN",
-   "raw_name": "METHUEN",
+   "raw_name": "Methuen",
    "fips": null,
    "is_mappable": true,
    "votes_D": 12220,
@@ -4364,7 +4364,7 @@
      "votes_other": 554
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4372,7 +4372,7 @@
   },
   "middleborough": {
    "name": "MIDDLEBOROUGH",
-   "raw_name": "MIDDLEBOROUGH",
+   "raw_name": "Middleborough",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6021,
@@ -4388,7 +4388,7 @@
      "votes_other": 284
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4396,7 +4396,7 @@
   },
   "middlefield": {
    "name": "MIDDLEFIELD",
-   "raw_name": "MIDDLEFIELD",
+   "raw_name": "Middlefield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 185,
@@ -4412,7 +4412,7 @@
      "votes_other": 4
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4420,7 +4420,7 @@
   },
   "middleton": {
    "name": "MIDDLETON",
-   "raw_name": "MIDDLETON",
+   "raw_name": "Middleton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2558,
@@ -4436,7 +4436,7 @@
      "votes_other": 149
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4444,7 +4444,7 @@
   },
   "milford": {
    "name": "MILFORD",
-   "raw_name": "MILFORD",
+   "raw_name": "Milford",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7586,
@@ -4460,7 +4460,7 @@
      "votes_other": 387
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4468,7 +4468,7 @@
   },
   "millbury": {
    "name": "MILLBURY",
-   "raw_name": "MILLBURY",
+   "raw_name": "Millbury",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3904,
@@ -4484,7 +4484,7 @@
      "votes_other": 187
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4492,7 +4492,7 @@
   },
   "millis": {
    "name": "MILLIS",
-   "raw_name": "MILLIS",
+   "raw_name": "Millis",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3560,
@@ -4508,7 +4508,7 @@
      "votes_other": 164
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4516,7 +4516,7 @@
   },
   "millville": {
    "name": "MILLVILLE",
-   "raw_name": "MILLVILLE",
+   "raw_name": "Millville",
    "fips": null,
    "is_mappable": true,
    "votes_D": 708,
@@ -4532,7 +4532,7 @@
      "votes_other": 29
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4540,7 +4540,7 @@
   },
   "milton": {
    "name": "MILTON",
-   "raw_name": "MILTON",
+   "raw_name": "Milton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 11718,
@@ -4556,7 +4556,7 @@
      "votes_other": 463
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4564,7 +4564,7 @@
   },
   "monroe": {
    "name": "MONROE",
-   "raw_name": "MONROE",
+   "raw_name": "Monroe",
    "fips": null,
    "is_mappable": true,
    "votes_D": 24,
@@ -4580,7 +4580,7 @@
      "votes_other": 3
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4588,7 +4588,7 @@
   },
   "monson": {
    "name": "MONSON",
-   "raw_name": "MONSON",
+   "raw_name": "Monson",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2247,
@@ -4604,7 +4604,7 @@
      "votes_other": 102
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4612,7 +4612,7 @@
   },
   "montague": {
    "name": "MONTAGUE",
-   "raw_name": "MONTAGUE",
+   "raw_name": "Montague",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3233,
@@ -4628,7 +4628,7 @@
      "votes_other": 215
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4636,7 +4636,7 @@
   },
   "monterey": {
    "name": "MONTEREY",
-   "raw_name": "MONTEREY",
+   "raw_name": "Monterey",
    "fips": null,
    "is_mappable": true,
    "votes_D": 482,
@@ -4652,7 +4652,7 @@
      "votes_other": 20
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4660,7 +4660,7 @@
   },
   "montgomery": {
    "name": "MONTGOMERY",
-   "raw_name": "MONTGOMERY",
+   "raw_name": "Montgomery",
    "fips": null,
    "is_mappable": true,
    "votes_D": 237,
@@ -4676,7 +4676,7 @@
      "votes_other": 9
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4684,7 +4684,7 @@
   },
   "mount_washington": {
    "name": "MOUNT WASHINGTON",
-   "raw_name": "MOUNT WASHINGTON",
+   "raw_name": "Mount Washington",
    "fips": null,
    "is_mappable": true,
    "votes_D": 93,
@@ -4700,7 +4700,7 @@
      "votes_other": 5
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4708,7 +4708,7 @@
   },
   "nahant": {
    "name": "NAHANT",
-   "raw_name": "NAHANT",
+   "raw_name": "Nahant",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1445,
@@ -4724,7 +4724,7 @@
      "votes_other": 38
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4732,7 +4732,7 @@
   },
   "nantucket": {
    "name": "NANTUCKET",
-   "raw_name": "NANTUCKET",
+   "raw_name": "Nantucket",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4784,
@@ -4748,7 +4748,7 @@
      "votes_other": 163
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4756,7 +4756,7 @@
   },
   "natick": {
    "name": "NATICK",
-   "raw_name": "NATICK",
+   "raw_name": "Natick",
    "fips": null,
    "is_mappable": true,
    "votes_D": 15161,
@@ -4772,7 +4772,7 @@
      "votes_other": 577
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4780,7 +4780,7 @@
   },
   "needham": {
    "name": "NEEDHAM",
-   "raw_name": "NEEDHAM",
+   "raw_name": "Needham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 14586,
@@ -4796,7 +4796,7 @@
      "votes_other": 637
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4804,7 +4804,7 @@
   },
   "new_ashford": {
    "name": "NEW ASHFORD",
-   "raw_name": "NEW ASHFORD",
+   "raw_name": "New Ashford",
    "fips": null,
    "is_mappable": true,
    "votes_D": 93,
@@ -4820,7 +4820,7 @@
      "votes_other": 4
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4828,7 +4828,7 @@
   },
   "new_bedford": {
    "name": "NEW BEDFORD",
-   "raw_name": "NEW BEDFORD",
+   "raw_name": "New Bedford",
    "fips": null,
    "is_mappable": true,
    "votes_D": 18372,
@@ -4844,7 +4844,7 @@
      "votes_other": 735
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4852,7 +4852,7 @@
   },
   "new_braintree": {
    "name": "NEW BRAINTREE",
-   "raw_name": "NEW BRAINTREE",
+   "raw_name": "New Braintree",
    "fips": null,
    "is_mappable": true,
    "votes_D": 307,
@@ -4868,7 +4868,7 @@
      "votes_other": 11
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4876,7 +4876,7 @@
   },
   "new_marlborough": {
    "name": "NEW MARLBOROUGH",
-   "raw_name": "NEW MARLBOROUGH",
+   "raw_name": "New Marlborough",
    "fips": null,
    "is_mappable": true,
    "votes_D": 666,
@@ -4892,7 +4892,7 @@
      "votes_other": 27
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4900,7 +4900,7 @@
   },
   "new_salem": {
    "name": "NEW SALEM",
-   "raw_name": "NEW SALEM",
+   "raw_name": "New Salem",
    "fips": null,
    "is_mappable": true,
    "votes_D": 420,
@@ -4916,7 +4916,7 @@
      "votes_other": 31
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4924,7 +4924,7 @@
   },
   "newbury": {
    "name": "NEWBURY",
-   "raw_name": "NEWBURY",
+   "raw_name": "Newbury",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2946,
@@ -4940,7 +4940,7 @@
      "votes_other": 124
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4948,7 +4948,7 @@
   },
   "newburyport": {
    "name": "NEWBURYPORT",
-   "raw_name": "NEWBURYPORT",
+   "raw_name": "Newburyport",
    "fips": null,
    "is_mappable": true,
    "votes_D": 8811,
@@ -4964,7 +4964,7 @@
      "votes_other": 341
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4972,7 +4972,7 @@
   },
   "newton": {
    "name": "NEWTON",
-   "raw_name": "NEWTON",
+   "raw_name": "Newton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 36445,
@@ -4988,7 +4988,7 @@
      "votes_other": 1558
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -4996,7 +4996,7 @@
   },
   "norfolk": {
    "name": "NORFOLK",
-   "raw_name": "NORFOLK",
+   "raw_name": "Norfolk",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3895,
@@ -5012,7 +5012,7 @@
      "votes_other": 151
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5020,7 +5020,7 @@
   },
   "n_adams": {
    "name": "N. ADAMS",
-   "raw_name": "N. ADAMS",
+   "raw_name": "North Adams",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3758,
@@ -5036,7 +5036,7 @@
      "votes_other": 131
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5044,7 +5044,7 @@
   },
   "n_andover": {
    "name": "N. ANDOVER",
-   "raw_name": "N. ANDOVER",
+   "raw_name": "North Andover",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9912,
@@ -5060,7 +5060,7 @@
      "votes_other": 469
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5068,7 +5068,7 @@
   },
   "n_attleborough": {
    "name": "N. ATTLEBOROUGH",
-   "raw_name": "N. ATTLEBOROUGH",
+   "raw_name": "North Attleborough",
    "fips": null,
    "is_mappable": true,
    "votes_D": 8814,
@@ -5084,7 +5084,7 @@
      "votes_other": 468
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5092,7 +5092,7 @@
   },
   "n_brookfield": {
    "name": "N. BROOKFIELD",
-   "raw_name": "N. BROOKFIELD",
+   "raw_name": "North Brookfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1156,
@@ -5108,7 +5108,7 @@
      "votes_other": 49
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5116,7 +5116,7 @@
   },
   "n_reading": {
    "name": "N. READING",
-   "raw_name": "N. READING",
+   "raw_name": "North Reading",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5226,
@@ -5132,7 +5132,7 @@
      "votes_other": 234
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5140,7 +5140,7 @@
   },
   "northampton": {
    "name": "NORTHAMPTON",
-   "raw_name": "NORTHAMPTON",
+   "raw_name": "Northampton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 14477,
@@ -5156,7 +5156,7 @@
      "votes_other": 787
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5164,7 +5164,7 @@
   },
   "northborough": {
    "name": "NORTHBOROUGH",
-   "raw_name": "NORTHBOROUGH",
+   "raw_name": "Northborough",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5851,
@@ -5180,7 +5180,7 @@
      "votes_other": 337
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5188,7 +5188,7 @@
   },
   "northbridge": {
    "name": "NORTHBRIDGE",
-   "raw_name": "NORTHBRIDGE",
+   "raw_name": "Northbridge",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4373,
@@ -5204,7 +5204,7 @@
      "votes_other": 286
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5212,7 +5212,7 @@
   },
   "northfield": {
    "name": "NORTHFIELD",
-   "raw_name": "NORTHFIELD",
+   "raw_name": "Northfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1179,
@@ -5228,7 +5228,7 @@
      "votes_other": 70
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5236,7 +5236,7 @@
   },
   "norton": {
    "name": "NORTON",
-   "raw_name": "NORTON",
+   "raw_name": "Norton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5319,
@@ -5252,7 +5252,7 @@
      "votes_other": 283
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5260,7 +5260,7 @@
   },
   "norwell": {
    "name": "NORWELL",
-   "raw_name": "NORWELL",
+   "raw_name": "Norwell",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3924,
@@ -5276,7 +5276,7 @@
      "votes_other": 200
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5284,7 +5284,7 @@
   },
   "norwood": {
    "name": "NORWOOD",
-   "raw_name": "NORWOOD",
+   "raw_name": "Norwood",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9566,
@@ -5300,7 +5300,7 @@
      "votes_other": 455
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5308,7 +5308,7 @@
   },
   "oak_bluffs": {
    "name": "OAK BLUFFS",
-   "raw_name": "OAK BLUFFS",
+   "raw_name": "Oak Bluffs",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2247,
@@ -5324,7 +5324,7 @@
      "votes_other": 61
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5332,7 +5332,7 @@
   },
   "oakham": {
    "name": "OAKHAM",
-   "raw_name": "OAKHAM",
+   "raw_name": "Oakham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 514,
@@ -5348,7 +5348,7 @@
      "votes_other": 29
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5356,7 +5356,7 @@
   },
   "orange": {
    "name": "ORANGE",
-   "raw_name": "ORANGE",
+   "raw_name": "Orange",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1879,
@@ -5372,7 +5372,7 @@
      "votes_other": 92
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5380,7 +5380,7 @@
   },
   "orleans": {
    "name": "ORLEANS",
-   "raw_name": "ORLEANS",
+   "raw_name": "Orleans",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3225,
@@ -5396,7 +5396,7 @@
      "votes_other": 110
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5404,7 +5404,7 @@
   },
   "otis": {
    "name": "OTIS",
-   "raw_name": "OTIS",
+   "raw_name": "Otis",
    "fips": null,
    "is_mappable": true,
    "votes_D": 549,
@@ -5420,7 +5420,7 @@
      "votes_other": 31
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5428,7 +5428,7 @@
   },
   "oxford": {
    "name": "OXFORD",
-   "raw_name": "OXFORD",
+   "raw_name": "Oxford",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3310,
@@ -5444,7 +5444,7 @@
      "votes_other": 135
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5452,7 +5452,7 @@
   },
   "palmer": {
    "name": "PALMER",
-   "raw_name": "PALMER",
+   "raw_name": "Palmer",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2755,
@@ -5468,7 +5468,7 @@
      "votes_other": 132
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5476,7 +5476,7 @@
   },
   "paxton": {
    "name": "PAXTON",
-   "raw_name": "PAXTON",
+   "raw_name": "Paxton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1557,
@@ -5492,7 +5492,7 @@
      "votes_other": 64
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5500,7 +5500,7 @@
   },
   "peabody": {
    "name": "PEABODY",
-   "raw_name": "PEABODY",
+   "raw_name": "Peabody",
    "fips": null,
    "is_mappable": true,
    "votes_D": 14571,
@@ -5516,7 +5516,7 @@
      "votes_other": 571
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5524,7 +5524,7 @@
   },
   "pelham": {
    "name": "PELHAM",
-   "raw_name": "PELHAM",
+   "raw_name": "Pelham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 743,
@@ -5540,7 +5540,7 @@
      "votes_other": 19
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5548,7 +5548,7 @@
   },
   "pembroke": {
    "name": "PEMBROKE",
-   "raw_name": "PEMBROKE",
+   "raw_name": "Pembroke",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5420,
@@ -5564,7 +5564,7 @@
      "votes_other": 278
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5572,7 +5572,7 @@
   },
   "pepperell": {
    "name": "PEPPERELL",
-   "raw_name": "PEPPERELL",
+   "raw_name": "Pepperell",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3729,
@@ -5588,7 +5588,7 @@
      "votes_other": 220
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5596,7 +5596,7 @@
   },
   "peru": {
    "name": "PERU",
-   "raw_name": "PERU",
+   "raw_name": "Peru",
    "fips": null,
    "is_mappable": true,
    "votes_D": 256,
@@ -5612,7 +5612,7 @@
      "votes_other": 19
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5620,7 +5620,7 @@
   },
   "petersham": {
    "name": "PETERSHAM",
-   "raw_name": "PETERSHAM",
+   "raw_name": "Petersham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 518,
@@ -5636,7 +5636,7 @@
      "votes_other": 25
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5644,7 +5644,7 @@
   },
   "phillipston": {
    "name": "PHILLIPSTON",
-   "raw_name": "PHILLIPSTON",
+   "raw_name": "Phillipston",
    "fips": null,
    "is_mappable": true,
    "votes_D": 438,
@@ -5660,7 +5660,7 @@
      "votes_other": 23
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5668,7 +5668,7 @@
   },
   "pittsfield": {
    "name": "PITTSFIELD",
-   "raw_name": "PITTSFIELD",
+   "raw_name": "Pittsfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 14628,
@@ -5684,7 +5684,7 @@
      "votes_other": 485
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5692,7 +5692,7 @@
   },
   "plainfield": {
    "name": "PLAINFIELD",
-   "raw_name": "PLAINFIELD",
+   "raw_name": "Plainfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 274,
@@ -5708,7 +5708,7 @@
      "votes_other": 18
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5716,7 +5716,7 @@
   },
   "plainville": {
    "name": "PLAINVILLE",
-   "raw_name": "PLAINVILLE",
+   "raw_name": "Plainville",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2782,
@@ -5732,7 +5732,7 @@
      "votes_other": 168
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5740,7 +5740,7 @@
   },
   "plymouth": {
    "name": "PLYMOUTH",
-   "raw_name": "PLYMOUTH",
+   "raw_name": "Plymouth",
    "fips": null,
    "is_mappable": true,
    "votes_D": 21658,
@@ -5756,7 +5756,7 @@
      "votes_other": 865
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5764,7 +5764,7 @@
   },
   "plympton": {
    "name": "PLYMPTON",
-   "raw_name": "PLYMPTON",
+   "raw_name": "Plympton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 878,
@@ -5780,7 +5780,7 @@
      "votes_other": 40
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5788,7 +5788,7 @@
   },
   "princeton": {
    "name": "PRINCETON",
-   "raw_name": "PRINCETON",
+   "raw_name": "Princeton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1466,
@@ -5804,7 +5804,7 @@
      "votes_other": 67
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5812,7 +5812,7 @@
   },
   "provincetown": {
    "name": "PROVINCETOWN",
-   "raw_name": "PROVINCETOWN",
+   "raw_name": "Provincetown",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2429,
@@ -5828,7 +5828,7 @@
      "votes_other": 42
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5836,7 +5836,7 @@
   },
   "quincy": {
    "name": "QUINCY",
-   "raw_name": "QUINCY",
+   "raw_name": "Quincy",
    "fips": null,
    "is_mappable": true,
    "votes_D": 25651,
@@ -5852,7 +5852,7 @@
      "votes_other": 1272
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5860,7 +5860,7 @@
   },
   "randolph": {
    "name": "RANDOLPH",
-   "raw_name": "RANDOLPH",
+   "raw_name": "Randolph",
    "fips": null,
    "is_mappable": true,
    "votes_D": 11410,
@@ -5876,7 +5876,7 @@
      "votes_other": 362
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5884,7 +5884,7 @@
   },
   "raynham": {
    "name": "RAYNHAM",
-   "raw_name": "RAYNHAM",
+   "raw_name": "Raynham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4059,
@@ -5900,7 +5900,7 @@
      "votes_other": 176
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5908,7 +5908,7 @@
   },
   "reading": {
    "name": "READING",
-   "raw_name": "READING",
+   "raw_name": "Reading",
    "fips": null,
    "is_mappable": true,
    "votes_D": 10431,
@@ -5924,7 +5924,7 @@
      "votes_other": 303
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5932,7 +5932,7 @@
   },
   "rehoboth": {
    "name": "REHOBOTH",
-   "raw_name": "REHOBOTH",
+   "raw_name": "Rehoboth",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3455,
@@ -5948,7 +5948,7 @@
      "votes_other": 143
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5956,7 +5956,7 @@
   },
   "revere": {
    "name": "REVERE",
-   "raw_name": "REVERE",
+   "raw_name": "Revere",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9711,
@@ -5972,7 +5972,7 @@
      "votes_other": 580
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -5980,7 +5980,7 @@
   },
   "richmond": {
    "name": "RICHMOND",
-   "raw_name": "RICHMOND",
+   "raw_name": "Richmond",
    "fips": null,
    "is_mappable": true,
    "votes_D": 772,
@@ -5996,7 +5996,7 @@
      "votes_other": 24
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6004,7 +6004,7 @@
   },
   "rochester": {
    "name": "ROCHESTER",
-   "raw_name": "ROCHESTER",
+   "raw_name": "Rochester",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1665,
@@ -6020,7 +6020,7 @@
      "votes_other": 85
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6028,7 +6028,7 @@
   },
   "rockland": {
    "name": "ROCKLAND",
-   "raw_name": "ROCKLAND",
+   "raw_name": "Rockland",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4726,
@@ -6044,7 +6044,7 @@
      "votes_other": 251
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6052,7 +6052,7 @@
   },
   "rockport": {
    "name": "ROCKPORT",
-   "raw_name": "ROCKPORT",
+   "raw_name": "Rockport",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3725,
@@ -6068,7 +6068,7 @@
      "votes_other": 118
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6076,7 +6076,7 @@
   },
   "rowe": {
    "name": "ROWE",
-   "raw_name": "ROWE",
+   "raw_name": "Rowe",
    "fips": null,
    "is_mappable": true,
    "votes_D": 139,
@@ -6092,7 +6092,7 @@
      "votes_other": 3
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6100,7 +6100,7 @@
   },
   "rowley": {
    "name": "ROWLEY",
-   "raw_name": "ROWLEY",
+   "raw_name": "Rowley",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2063,
@@ -6116,7 +6116,7 @@
      "votes_other": 102
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6124,7 +6124,7 @@
   },
   "royalston": {
    "name": "ROYALSTON",
-   "raw_name": "ROYALSTON",
+   "raw_name": "Royalston",
    "fips": null,
    "is_mappable": true,
    "votes_D": 392,
@@ -6140,7 +6140,7 @@
      "votes_other": 26
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6148,7 +6148,7 @@
   },
   "russell": {
    "name": "RUSSELL",
-   "raw_name": "RUSSELL",
+   "raw_name": "Russell",
    "fips": null,
    "is_mappable": true,
    "votes_D": 350,
@@ -6164,7 +6164,7 @@
      "votes_other": 28
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6172,7 +6172,7 @@
   },
   "rutland": {
    "name": "RUTLAND",
-   "raw_name": "RUTLAND",
+   "raw_name": "Rutland",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2736,
@@ -6188,7 +6188,7 @@
      "votes_other": 158
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6196,7 +6196,7 @@
   },
   "salem": {
    "name": "SALEM",
-   "raw_name": "SALEM",
+   "raw_name": "Salem",
    "fips": null,
    "is_mappable": true,
    "votes_D": 16536,
@@ -6212,7 +6212,7 @@
      "votes_other": 655
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6220,7 +6220,7 @@
   },
   "salisbury": {
    "name": "SALISBURY",
-   "raw_name": "SALISBURY",
+   "raw_name": "Salisbury",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2657,
@@ -6236,7 +6236,7 @@
      "votes_other": 123
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6244,7 +6244,7 @@
   },
   "sandisfield": {
    "name": "SANDISFIELD",
-   "raw_name": "SANDISFIELD",
+   "raw_name": "Sandisfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 280,
@@ -6260,7 +6260,7 @@
      "votes_other": 12
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6268,7 +6268,7 @@
   },
   "sandwich": {
    "name": "SANDWICH",
-   "raw_name": "SANDWICH",
+   "raw_name": "Sandwich",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7256,
@@ -6284,7 +6284,7 @@
      "votes_other": 295
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6292,7 +6292,7 @@
   },
   "saugus": {
    "name": "SAUGUS",
-   "raw_name": "SAUGUS",
+   "raw_name": "Saugus",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6617,
@@ -6308,7 +6308,7 @@
      "votes_other": 254
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6316,7 +6316,7 @@
   },
   "savoy": {
    "name": "SAVOY",
-   "raw_name": "SAVOY",
+   "raw_name": "Savoy",
    "fips": null,
    "is_mappable": true,
    "votes_D": 213,
@@ -6332,7 +6332,7 @@
      "votes_other": 8
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6340,7 +6340,7 @@
   },
   "scituate": {
    "name": "SCITUATE",
-   "raw_name": "SCITUATE",
+   "raw_name": "Scituate",
    "fips": null,
    "is_mappable": true,
    "votes_D": 8229,
@@ -6356,7 +6356,7 @@
      "votes_other": 280
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6364,7 +6364,7 @@
   },
   "seekonk": {
    "name": "SEEKONK",
-   "raw_name": "SEEKONK",
+   "raw_name": "Seekonk",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4392,
@@ -6380,7 +6380,7 @@
      "votes_other": 224
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6388,7 +6388,7 @@
   },
   "sharon": {
    "name": "SHARON",
-   "raw_name": "SHARON",
+   "raw_name": "Sharon",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7575,
@@ -6404,7 +6404,7 @@
      "votes_other": 326
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6412,7 +6412,7 @@
   },
   "sheffield": {
    "name": "SHEFFIELD",
-   "raw_name": "SHEFFIELD",
+   "raw_name": "Sheffield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1373,
@@ -6428,7 +6428,7 @@
      "votes_other": 75
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6436,7 +6436,7 @@
   },
   "shelburne": {
    "name": "SHELBURNE",
-   "raw_name": "SHELBURNE",
+   "raw_name": "Shelburne",
    "fips": null,
    "is_mappable": true,
    "votes_D": 914,
@@ -6452,7 +6452,7 @@
      "votes_other": 48
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6460,7 +6460,7 @@
   },
   "sherborn": {
    "name": "SHERBORN",
-   "raw_name": "SHERBORN",
+   "raw_name": "Sherborn",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2089,
@@ -6476,7 +6476,7 @@
      "votes_other": 111
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6484,7 +6484,7 @@
   },
   "shirley": {
    "name": "SHIRLEY",
-   "raw_name": "SHIRLEY",
+   "raw_name": "Shirley",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2030,
@@ -6500,7 +6500,7 @@
      "votes_other": 109
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6508,7 +6508,7 @@
   },
   "shrewsbury": {
    "name": "SHREWSBURY",
-   "raw_name": "SHREWSBURY",
+   "raw_name": "Shrewsbury",
    "fips": null,
    "is_mappable": true,
    "votes_D": 11852,
@@ -6524,7 +6524,7 @@
      "votes_other": 757
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6532,7 +6532,7 @@
   },
   "shutesbury": {
    "name": "SHUTESBURY",
-   "raw_name": "SHUTESBURY",
+   "raw_name": "Shutesbury",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1030,
@@ -6548,7 +6548,7 @@
      "votes_other": 43
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6556,7 +6556,7 @@
   },
   "somerset": {
    "name": "SOMERSET",
-   "raw_name": "SOMERSET",
+   "raw_name": "Somerset",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5199,
@@ -6572,7 +6572,7 @@
      "votes_other": 174
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6580,7 +6580,7 @@
   },
   "somerville": {
    "name": "SOMERVILLE",
-   "raw_name": "SOMERVILLE",
+   "raw_name": "Somerville",
    "fips": null,
    "is_mappable": true,
    "votes_D": 33218,
@@ -6596,7 +6596,7 @@
      "votes_other": 1879
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6604,7 +6604,7 @@
   },
   "s_hadley": {
    "name": "S. HADLEY",
-   "raw_name": "S. HADLEY",
+   "raw_name": "South Hadley",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6237,
@@ -6620,7 +6620,7 @@
      "votes_other": 270
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6628,7 +6628,7 @@
   },
   "southampton": {
    "name": "SOUTHAMPTON",
-   "raw_name": "SOUTHAMPTON",
+   "raw_name": "Southampton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2120,
@@ -6644,7 +6644,7 @@
      "votes_other": 101
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6652,7 +6652,7 @@
   },
   "southborough": {
    "name": "SOUTHBOROUGH",
-   "raw_name": "SOUTHBOROUGH",
+   "raw_name": "Southborough",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4135,
@@ -6668,7 +6668,7 @@
      "votes_other": 211
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6676,7 +6676,7 @@
   },
   "southbridge": {
    "name": "SOUTHBRIDGE",
-   "raw_name": "SOUTHBRIDGE",
+   "raw_name": "Southbridge",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3501,
@@ -6692,7 +6692,7 @@
      "votes_other": 172
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6700,7 +6700,7 @@
   },
   "southwick": {
    "name": "SOUTHWICK",
-   "raw_name": "SOUTHWICK",
+   "raw_name": "Southwick",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2289,
@@ -6716,7 +6716,7 @@
      "votes_other": 122
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6724,7 +6724,7 @@
   },
   "spencer": {
    "name": "SPENCER",
-   "raw_name": "SPENCER",
+   "raw_name": "Spencer",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2791,
@@ -6740,7 +6740,7 @@
      "votes_other": 127
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6748,7 +6748,7 @@
   },
   "springfield": {
    "name": "SPRINGFIELD",
-   "raw_name": "SPRINGFIELD",
+   "raw_name": "Springfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 33329,
@@ -6764,7 +6764,7 @@
      "votes_other": 1296
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6772,7 +6772,7 @@
   },
   "sterling": {
    "name": "STERLING",
-   "raw_name": "STERLING",
+   "raw_name": "Sterling",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2832,
@@ -6788,7 +6788,7 @@
      "votes_other": 143
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6796,7 +6796,7 @@
   },
   "stockbridge": {
    "name": "STOCKBRIDGE",
-   "raw_name": "STOCKBRIDGE",
+   "raw_name": "Stockbridge",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1073,
@@ -6812,7 +6812,7 @@
      "votes_other": 24
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6820,7 +6820,7 @@
   },
   "stoneham": {
    "name": "STONEHAM",
-   "raw_name": "STONEHAM",
+   "raw_name": "Stoneham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7650,
@@ -6836,7 +6836,7 @@
      "votes_other": 263
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6844,7 +6844,7 @@
   },
   "stoughton": {
    "name": "STOUGHTON",
-   "raw_name": "STOUGHTON",
+   "raw_name": "Stoughton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9106,
@@ -6860,7 +6860,7 @@
      "votes_other": 305
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6868,7 +6868,7 @@
   },
   "stow": {
    "name": "STOW",
-   "raw_name": "STOW",
+   "raw_name": "Stow",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3434,
@@ -6884,7 +6884,7 @@
      "votes_other": 161
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6892,7 +6892,7 @@
   },
   "sturbridge": {
    "name": "STURBRIDGE",
-   "raw_name": "STURBRIDGE",
+   "raw_name": "Sturbridge",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3137,
@@ -6908,7 +6908,7 @@
      "votes_other": 157
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6916,7 +6916,7 @@
   },
   "sudbury": {
    "name": "SUDBURY",
-   "raw_name": "SUDBURY",
+   "raw_name": "Sudbury",
    "fips": null,
    "is_mappable": true,
    "votes_D": 8768,
@@ -6932,7 +6932,7 @@
      "votes_other": 384
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6940,7 +6940,7 @@
   },
   "sunderland": {
    "name": "SUNDERLAND",
-   "raw_name": "SUNDERLAND",
+   "raw_name": "Sunderland",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1408,
@@ -6956,7 +6956,7 @@
      "votes_other": 74
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6964,7 +6964,7 @@
   },
   "sutton": {
    "name": "SUTTON",
-   "raw_name": "SUTTON",
+   "raw_name": "Sutton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2882,
@@ -6980,7 +6980,7 @@
      "votes_other": 149
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -6988,7 +6988,7 @@
   },
   "swampscott": {
    "name": "SWAMPSCOTT",
-   "raw_name": "SWAMPSCOTT",
+   "raw_name": "Swampscott",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6219,
@@ -7004,7 +7004,7 @@
      "votes_other": 224
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7012,7 +7012,7 @@
   },
   "swansea": {
    "name": "SWANSEA",
-   "raw_name": "SWANSEA",
+   "raw_name": "Swansea",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4402,
@@ -7028,7 +7028,7 @@
      "votes_other": 194
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7036,7 +7036,7 @@
   },
   "taunton": {
    "name": "TAUNTON",
-   "raw_name": "TAUNTON",
+   "raw_name": "Taunton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 13582,
@@ -7052,7 +7052,7 @@
      "votes_other": 561
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7060,7 +7060,7 @@
   },
   "templeton": {
    "name": "TEMPLETON",
-   "raw_name": "TEMPLETON",
+   "raw_name": "Templeton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1883,
@@ -7076,7 +7076,7 @@
      "votes_other": 127
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7084,7 +7084,7 @@
   },
   "tewksbury": {
    "name": "TEWKSBURY",
-   "raw_name": "TEWKSBURY",
+   "raw_name": "Tewksbury",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9002,
@@ -7100,7 +7100,7 @@
      "votes_other": 415
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7108,7 +7108,7 @@
   },
   "tisbury": {
    "name": "TISBURY",
-   "raw_name": "TISBURY",
+   "raw_name": "Tisbury",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2031,
@@ -7124,7 +7124,7 @@
      "votes_other": 85
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7132,7 +7132,7 @@
   },
   "tolland": {
    "name": "TOLLAND",
-   "raw_name": "TOLLAND",
+   "raw_name": "Tolland",
    "fips": null,
    "is_mappable": true,
    "votes_D": 148,
@@ -7148,7 +7148,7 @@
      "votes_other": 2
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7156,7 +7156,7 @@
   },
   "topsfield": {
    "name": "TOPSFIELD",
-   "raw_name": "TOPSFIELD",
+   "raw_name": "Topsfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2480,
@@ -7172,7 +7172,7 @@
      "votes_other": 106
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7180,7 +7180,7 @@
   },
   "townsend": {
    "name": "TOWNSEND",
-   "raw_name": "TOWNSEND",
+   "raw_name": "Townsend",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2557,
@@ -7196,7 +7196,7 @@
      "votes_other": 112
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7204,7 +7204,7 @@
   },
   "truro": {
    "name": "TRURO",
-   "raw_name": "TRURO",
+   "raw_name": "Truro",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1434,
@@ -7220,7 +7220,7 @@
      "votes_other": 26
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7228,7 +7228,7 @@
   },
   "tyngsborough": {
    "name": "TYNGSBOROUGH",
-   "raw_name": "TYNGSBOROUGH",
+   "raw_name": "Tyngsborough",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3767,
@@ -7244,7 +7244,7 @@
      "votes_other": 153
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7252,7 +7252,7 @@
   },
   "tyringham": {
    "name": "TYRINGHAM",
-   "raw_name": "TYRINGHAM",
+   "raw_name": "Tyringham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 224,
@@ -7268,7 +7268,7 @@
      "votes_other": 16
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7276,7 +7276,7 @@
   },
   "upton": {
    "name": "UPTON",
-   "raw_name": "UPTON",
+   "raw_name": "Upton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3086,
@@ -7292,7 +7292,7 @@
      "votes_other": 153
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7300,7 +7300,7 @@
   },
   "uxbridge": {
    "name": "UXBRIDGE",
-   "raw_name": "UXBRIDGE",
+   "raw_name": "Uxbridge",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4172,
@@ -7316,7 +7316,7 @@
      "votes_other": 201
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7324,7 +7324,7 @@
   },
   "wakefield": {
    "name": "WAKEFIELD",
-   "raw_name": "WAKEFIELD",
+   "raw_name": "Wakefield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9585,
@@ -7340,7 +7340,7 @@
      "votes_other": 446
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7348,7 +7348,7 @@
   },
   "wales": {
    "name": "WALES",
-   "raw_name": "WALES",
+   "raw_name": "Wales",
    "fips": null,
    "is_mappable": true,
    "votes_D": 434,
@@ -7364,7 +7364,7 @@
      "votes_other": 24
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7372,7 +7372,7 @@
   },
   "walpole": {
    "name": "WALPOLE",
-   "raw_name": "WALPOLE",
+   "raw_name": "Walpole",
    "fips": null,
    "is_mappable": true,
    "votes_D": 8692,
@@ -7388,7 +7388,7 @@
      "votes_other": 467
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7396,7 +7396,7 @@
   },
   "waltham": {
    "name": "WALTHAM",
-   "raw_name": "WALTHAM",
+   "raw_name": "Waltham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 18048,
@@ -7412,7 +7412,7 @@
      "votes_other": 617
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7420,7 +7420,7 @@
   },
   "ware": {
    "name": "WARE",
-   "raw_name": "WARE",
+   "raw_name": "Ware",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2298,
@@ -7436,7 +7436,7 @@
      "votes_other": 98
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7444,7 +7444,7 @@
   },
   "wareham": {
    "name": "WAREHAM",
-   "raw_name": "WAREHAM",
+   "raw_name": "Wareham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6535,
@@ -7460,7 +7460,7 @@
      "votes_other": 213
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7468,7 +7468,7 @@
   },
   "warren": {
    "name": "WARREN",
-   "raw_name": "WARREN",
+   "raw_name": "Warren",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1072,
@@ -7484,7 +7484,7 @@
      "votes_other": 71
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7492,7 +7492,7 @@
   },
   "warwick": {
    "name": "WARWICK",
-   "raw_name": "WARWICK",
+   "raw_name": "Warwick",
    "fips": null,
    "is_mappable": true,
    "votes_D": 309,
@@ -7508,7 +7508,7 @@
      "votes_other": 20
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7516,7 +7516,7 @@
   },
   "washington": {
    "name": "WASHINGTON",
-   "raw_name": "WASHINGTON",
+   "raw_name": "Washington",
    "fips": null,
    "is_mappable": true,
    "votes_D": 218,
@@ -7532,7 +7532,7 @@
      "votes_other": 10
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7540,7 +7540,7 @@
   },
   "watertown": {
    "name": "WATERTOWN",
-   "raw_name": "WATERTOWN",
+   "raw_name": "Watertown",
    "fips": null,
    "is_mappable": true,
    "votes_D": 13539,
@@ -7556,7 +7556,7 @@
      "votes_other": 628
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7564,7 +7564,7 @@
   },
   "wayland": {
    "name": "WAYLAND",
-   "raw_name": "WAYLAND",
+   "raw_name": "Wayland",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6787,
@@ -7580,7 +7580,7 @@
      "votes_other": 310
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7588,7 +7588,7 @@
   },
   "webster": {
    "name": "WEBSTER",
-   "raw_name": "WEBSTER",
+   "raw_name": "Webster",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3671,
@@ -7604,7 +7604,7 @@
      "votes_other": 177
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7612,7 +7612,7 @@
   },
   "wellesley": {
    "name": "WELLESLEY",
-   "raw_name": "WELLESLEY",
+   "raw_name": "Wellesley",
    "fips": null,
    "is_mappable": true,
    "votes_D": 11342,
@@ -7628,7 +7628,7 @@
      "votes_other": 540
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7636,7 +7636,7 @@
   },
   "wellfleet": {
    "name": "WELLFLEET",
-   "raw_name": "WELLFLEET",
+   "raw_name": "Wellfleet",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1890,
@@ -7652,7 +7652,7 @@
      "votes_other": 78
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7660,7 +7660,7 @@
   },
   "wendell": {
    "name": "WENDELL",
-   "raw_name": "WENDELL",
+   "raw_name": "Wendell",
    "fips": null,
    "is_mappable": true,
    "votes_D": 439,
@@ -7676,7 +7676,7 @@
      "votes_other": 34
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7684,7 +7684,7 @@
   },
   "wenham": {
    "name": "WENHAM",
-   "raw_name": "WENHAM",
+   "raw_name": "Wenham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1718,
@@ -7700,7 +7700,7 @@
      "votes_other": 102
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7708,7 +7708,7 @@
   },
   "w_boylston": {
    "name": "W. BOYLSTON",
-   "raw_name": "W. BOYLSTON",
+   "raw_name": "West Boylston",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2643,
@@ -7724,7 +7724,7 @@
      "votes_other": 154
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7732,7 +7732,7 @@
   },
   "w_bridgewater": {
    "name": "W. BRIDGEWATER",
-   "raw_name": "W. BRIDGEWATER",
+   "raw_name": "West Bridgewater",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2020,
@@ -7748,7 +7748,7 @@
      "votes_other": 87
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7756,7 +7756,7 @@
   },
   "w_brookfield": {
    "name": "W. BROOKFIELD",
-   "raw_name": "W. BROOKFIELD",
+   "raw_name": "West Brookfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1126,
@@ -7772,7 +7772,7 @@
      "votes_other": 43
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7780,7 +7780,7 @@
   },
   "w_newbury": {
    "name": "W. NEWBURY",
-   "raw_name": "W. NEWBURY",
+   "raw_name": "West Newbury",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2068,
@@ -7796,7 +7796,7 @@
      "votes_other": 99
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7804,7 +7804,7 @@
   },
   "w_springfield": {
    "name": "W. SPRINGFIELD",
-   "raw_name": "W. SPRINGFIELD",
+   "raw_name": "West Springfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6237,
@@ -7820,7 +7820,7 @@
      "votes_other": 324
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7828,7 +7828,7 @@
   },
   "w_stockbridge": {
    "name": "W. STOCKBRIDGE",
-   "raw_name": "W. STOCKBRIDGE",
+   "raw_name": "West Stockbridge",
    "fips": null,
    "is_mappable": true,
    "votes_D": 730,
@@ -7844,7 +7844,7 @@
      "votes_other": 36
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7852,7 +7852,7 @@
   },
   "w_tisbury": {
    "name": "W. TISBURY",
-   "raw_name": "W. TISBURY",
+   "raw_name": "West Tisbury",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1757,
@@ -7868,7 +7868,7 @@
      "votes_other": 66
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7876,7 +7876,7 @@
   },
   "westborough": {
    "name": "WESTBOROUGH",
-   "raw_name": "WESTBOROUGH",
+   "raw_name": "Westborough",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7038,
@@ -7892,7 +7892,7 @@
      "votes_other": 382
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7900,7 +7900,7 @@
   },
   "westfield": {
    "name": "WESTFIELD",
-   "raw_name": "WESTFIELD",
+   "raw_name": "Westfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9407,
@@ -7916,7 +7916,7 @@
      "votes_other": 494
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7924,7 +7924,7 @@
   },
   "westford": {
    "name": "WESTFORD",
-   "raw_name": "WESTFORD",
+   "raw_name": "Westford",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9543,
@@ -7940,7 +7940,7 @@
      "votes_other": 498
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7948,7 +7948,7 @@
   },
   "westhampton": {
    "name": "WESTHAMPTON",
-   "raw_name": "WESTHAMPTON",
+   "raw_name": "Westhampton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 762,
@@ -7964,7 +7964,7 @@
      "votes_other": 40
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7972,7 +7972,7 @@
   },
   "westminster": {
    "name": "WESTMINSTER",
-   "raw_name": "WESTMINSTER",
+   "raw_name": "Westminster",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2588,
@@ -7988,7 +7988,7 @@
      "votes_other": 134
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -7996,7 +7996,7 @@
   },
   "weston": {
    "name": "WESTON",
-   "raw_name": "WESTON",
+   "raw_name": "Weston",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4484,
@@ -8012,7 +8012,7 @@
      "votes_other": 232
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8020,7 +8020,7 @@
   },
   "westport": {
    "name": "WESTPORT",
-   "raw_name": "WESTPORT",
+   "raw_name": "Westport",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4955,
@@ -8036,7 +8036,7 @@
      "votes_other": 202
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8044,7 +8044,7 @@
   },
   "westwood": {
    "name": "WESTWOOD",
-   "raw_name": "WESTWOOD",
+   "raw_name": "Westwood",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6203,
@@ -8060,7 +8060,7 @@
      "votes_other": 350
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8068,7 +8068,7 @@
   },
   "weymouth": {
    "name": "WEYMOUTH",
-   "raw_name": "WEYMOUTH",
+   "raw_name": "Weymouth",
    "fips": null,
    "is_mappable": true,
    "votes_D": 17340,
@@ -8084,7 +8084,7 @@
      "votes_other": 796
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8092,7 +8092,7 @@
   },
   "whately": {
    "name": "WHATELY",
-   "raw_name": "WHATELY",
+   "raw_name": "Whately",
    "fips": null,
    "is_mappable": true,
    "votes_D": 717,
@@ -8108,7 +8108,7 @@
      "votes_other": 25
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8116,7 +8116,7 @@
   },
   "whitman": {
    "name": "WHITMAN",
-   "raw_name": "WHITMAN",
+   "raw_name": "Whitman",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4113,
@@ -8132,7 +8132,7 @@
      "votes_other": 193
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8140,7 +8140,7 @@
   },
   "wilbraham": {
    "name": "WILBRAHAM",
-   "raw_name": "WILBRAHAM",
+   "raw_name": "Wilbraham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4648,
@@ -8156,7 +8156,7 @@
      "votes_other": 262
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8164,7 +8164,7 @@
   },
   "williamsburg": {
    "name": "WILLIAMSBURG",
-   "raw_name": "WILLIAMSBURG",
+   "raw_name": "Williamsburg",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1373,
@@ -8180,7 +8180,7 @@
      "votes_other": 72
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8188,7 +8188,7 @@
   },
   "williamstown": {
    "name": "WILLIAMSTOWN",
-   "raw_name": "WILLIAMSTOWN",
+   "raw_name": "Williamstown",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3006,
@@ -8204,7 +8204,7 @@
      "votes_other": 105
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8212,7 +8212,7 @@
   },
   "wilmington": {
    "name": "WILMINGTON",
-   "raw_name": "WILMINGTON",
+   "raw_name": "Wilmington",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7206,
@@ -8228,7 +8228,7 @@
      "votes_other": 343
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8236,7 +8236,7 @@
   },
   "winchendon": {
    "name": "WINCHENDON",
-   "raw_name": "WINCHENDON",
+   "raw_name": "Winchendon",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2159,
@@ -8252,7 +8252,7 @@
      "votes_other": 144
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8260,7 +8260,7 @@
   },
   "winchester": {
    "name": "WINCHESTER",
-   "raw_name": "WINCHESTER",
+   "raw_name": "Winchester",
    "fips": null,
    "is_mappable": true,
    "votes_D": 9099,
@@ -8276,7 +8276,7 @@
      "votes_other": 467
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8284,7 +8284,7 @@
   },
   "windsor": {
    "name": "WINDSOR",
-   "raw_name": "WINDSOR",
+   "raw_name": "Windsor",
    "fips": null,
    "is_mappable": true,
    "votes_D": 338,
@@ -8300,7 +8300,7 @@
      "votes_other": 12
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8308,7 +8308,7 @@
   },
   "winthrop": {
    "name": "WINTHROP",
-   "raw_name": "WINTHROP",
+   "raw_name": "Winthrop",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5154,
@@ -8324,7 +8324,7 @@
      "votes_other": 222
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8332,7 +8332,7 @@
   },
   "woburn": {
    "name": "WOBURN",
-   "raw_name": "WOBURN",
+   "raw_name": "Woburn",
    "fips": null,
    "is_mappable": true,
    "votes_D": 12352,
@@ -8348,7 +8348,7 @@
      "votes_other": 562
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8356,7 +8356,7 @@
   },
   "worcester": {
    "name": "WORCESTER",
-   "raw_name": "WORCESTER",
+   "raw_name": "Worcester",
    "fips": null,
    "is_mappable": true,
    "votes_D": 40923,
@@ -8372,7 +8372,7 @@
      "votes_other": 2009
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8380,7 +8380,7 @@
   },
   "worthington": {
    "name": "WORTHINGTON",
-   "raw_name": "WORTHINGTON",
+   "raw_name": "Worthington",
    "fips": null,
    "is_mappable": true,
    "votes_D": 536,
@@ -8396,7 +8396,7 @@
      "votes_other": 44
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8404,7 +8404,7 @@
   },
   "wrentham": {
    "name": "WRENTHAM",
-   "raw_name": "WRENTHAM",
+   "raw_name": "Wrentham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3957,
@@ -8420,7 +8420,7 @@
      "votes_other": 241
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -8428,7 +8428,7 @@
   },
   "yarmouth": {
    "name": "YARMOUTH",
-   "raw_name": "YARMOUTH",
+   "raw_name": "Yarmouth",
    "fips": null,
    "is_mappable": true,
    "votes_D": 8746,
@@ -8444,7 +8444,7 @@
      "votes_other": 293
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",

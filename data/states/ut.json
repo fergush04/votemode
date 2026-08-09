@@ -8,8 +8,8 @@
  },
  "votes_D": 562382,
  "votes_R": 883417,
- "votes_other": 42505,
- "total_votes": 1488304,
+ "votes_other": 42093,
+ "total_votes": 1487892,
  "pct_D": 37.8,
  "pct_R": 59.4,
  "unit_count": 29,
@@ -28,7 +28,7 @@
  "units": {
   "49001": {
    "name": "Beaver",
-   "raw_name": "BEAVER",
+   "raw_name": "Beaver",
    "fips": "49001",
    "is_mappable": true,
    "votes_D": 394,
@@ -52,20 +52,20 @@
   },
   "49003": {
    "name": "Box Elder",
-   "raw_name": "BOX ELDER",
+   "raw_name": "Box Elder",
    "fips": "49003",
    "is_mappable": true,
    "votes_D": 5274,
    "votes_R": 22853,
-   "votes_other": 1205,
-   "total_votes": 29332,
-   "pct_D": 18.0,
-   "pct_R": 77.9,
+   "votes_other": 793,
+   "total_votes": 28920,
+   "pct_D": 18.2,
+   "pct_R": 79.0,
    "modes": {
     "total": {
      "votes_D": 5274,
      "votes_R": 22853,
-     "votes_other": 1205
+     "votes_other": 793
     }
    },
    "data_source": "MEDSL",
@@ -76,7 +76,7 @@
   },
   "49005": {
    "name": "Cache",
-   "raw_name": "CACHE",
+   "raw_name": "Cache",
    "fips": "49005",
    "is_mappable": true,
    "votes_D": 18696,
@@ -100,7 +100,7 @@
   },
   "49007": {
    "name": "Carbon",
-   "raw_name": "CARBON",
+   "raw_name": "Carbon",
    "fips": "49007",
    "is_mappable": true,
    "votes_D": 2522,
@@ -124,7 +124,7 @@
   },
   "49009": {
    "name": "Daggett",
-   "raw_name": "DAGGETT",
+   "raw_name": "Daggett",
    "fips": "49009",
    "is_mappable": true,
    "votes_D": 100,
@@ -148,7 +148,7 @@
   },
   "49011": {
    "name": "Davis",
-   "raw_name": "DAVIS",
+   "raw_name": "Davis",
    "fips": "49011",
    "is_mappable": true,
    "votes_D": 59872,
@@ -172,7 +172,7 @@
   },
   "49013": {
    "name": "Duchesne",
-   "raw_name": "DUCHESNE",
+   "raw_name": "Duchesne",
    "fips": "49013",
    "is_mappable": true,
    "votes_D": 998,
@@ -196,7 +196,7 @@
   },
   "49015": {
    "name": "Emery",
-   "raw_name": "EMERY",
+   "raw_name": "Emery",
    "fips": "49015",
    "is_mappable": true,
    "votes_D": 603,
@@ -220,7 +220,7 @@
   },
   "49017": {
    "name": "Garfield",
-   "raw_name": "GARFIELD",
+   "raw_name": "Garfield",
    "fips": "49017",
    "is_mappable": true,
    "votes_D": 541,
@@ -244,7 +244,7 @@
   },
   "49019": {
    "name": "Grand",
-   "raw_name": "GRAND",
+   "raw_name": "Grand",
    "fips": "49019",
    "is_mappable": true,
    "votes_D": 2828,
@@ -268,7 +268,7 @@
   },
   "49021": {
    "name": "Iron",
-   "raw_name": "IRON",
+   "raw_name": "Iron",
    "fips": "49021",
    "is_mappable": true,
    "votes_D": 5683,
@@ -292,7 +292,7 @@
   },
   "49023": {
    "name": "Juab",
-   "raw_name": "JUAB",
+   "raw_name": "Juab",
    "fips": "49023",
    "is_mappable": true,
    "votes_D": 733,
@@ -316,7 +316,7 @@
   },
   "49025": {
    "name": "Kane",
-   "raw_name": "KANE",
+   "raw_name": "Kane",
    "fips": "49025",
    "is_mappable": true,
    "votes_D": 1137,
@@ -340,7 +340,7 @@
   },
   "49027": {
    "name": "Millard",
-   "raw_name": "MILLARD",
+   "raw_name": "Millard",
    "fips": "49027",
    "is_mappable": true,
    "votes_D": 713,
@@ -364,7 +364,7 @@
   },
   "49029": {
    "name": "Morgan",
-   "raw_name": "MORGAN",
+   "raw_name": "Morgan",
    "fips": "49029",
    "is_mappable": true,
    "votes_D": 1253,
@@ -388,7 +388,7 @@
   },
   "49031": {
    "name": "Piute",
-   "raw_name": "PIUTE",
+   "raw_name": "Piute",
    "fips": "49031",
    "is_mappable": true,
    "votes_D": 94,
@@ -412,7 +412,7 @@
   },
   "49033": {
    "name": "Rich",
-   "raw_name": "RICH",
+   "raw_name": "Rich",
    "fips": "49033",
    "is_mappable": true,
    "votes_D": 214,
@@ -436,7 +436,7 @@
   },
   "49035": {
    "name": "Salt Lake",
-   "raw_name": "SALT LAKE",
+   "raw_name": "Salt Lake",
    "fips": "49035",
    "is_mappable": true,
    "votes_D": 273577,
@@ -460,7 +460,7 @@
   },
   "49037": {
    "name": "San Juan",
-   "raw_name": "SAN JUAN",
+   "raw_name": "San Juan",
    "fips": "49037",
    "is_mappable": true,
    "votes_D": 2581,
@@ -484,7 +484,7 @@
   },
   "49039": {
    "name": "Sanpete",
-   "raw_name": "SANPETE",
+   "raw_name": "Sanpete",
    "fips": "49039",
    "is_mappable": true,
    "votes_D": 1906,
@@ -508,7 +508,7 @@
   },
   "49041": {
    "name": "Sevier",
-   "raw_name": "SEVIER",
+   "raw_name": "Sevier",
    "fips": "49041",
    "is_mappable": true,
    "votes_D": 1236,
@@ -532,7 +532,7 @@
   },
   "49043": {
    "name": "Summit",
-   "raw_name": "SUMMIT",
+   "raw_name": "Summit",
    "fips": "49043",
    "is_mappable": true,
    "votes_D": 14604,
@@ -556,7 +556,7 @@
   },
   "49045": {
    "name": "Tooele",
-   "raw_name": "TOOELE",
+   "raw_name": "Tooele",
    "fips": "49045",
    "is_mappable": true,
    "votes_D": 9557,
@@ -580,7 +580,7 @@
   },
   "49047": {
    "name": "Uintah",
-   "raw_name": "UINTAH",
+   "raw_name": "Uintah",
    "fips": "49047",
    "is_mappable": true,
    "votes_D": 1947,
@@ -604,7 +604,7 @@
   },
   "49049": {
    "name": "Utah",
-   "raw_name": "UTAH",
+   "raw_name": "Utah",
    "fips": "49049",
    "is_mappable": true,
    "votes_D": 84922,
@@ -628,7 +628,7 @@
   },
   "49051": {
    "name": "Wasatch",
-   "raw_name": "WASATCH",
+   "raw_name": "Wasatch",
    "fips": "49051",
    "is_mappable": true,
    "votes_D": 6456,
@@ -652,7 +652,7 @@
   },
   "49053": {
    "name": "Washington",
-   "raw_name": "WASHINGTON",
+   "raw_name": "Washington",
    "fips": "49053",
    "is_mappable": true,
    "votes_D": 22324,
@@ -676,7 +676,7 @@
   },
   "49055": {
    "name": "Wayne",
-   "raw_name": "WAYNE",
+   "raw_name": "Wayne",
    "fips": "49055",
    "is_mappable": true,
    "votes_D": 381,
@@ -700,7 +700,7 @@
   },
   "49057": {
    "name": "Weber",
-   "raw_name": "WEBER",
+   "raw_name": "Weber",
    "fips": "49057",
    "is_mappable": true,
    "votes_D": 41236,

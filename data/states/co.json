@@ -8,8 +8,8 @@
  },
  "votes_D": 1728159,
  "votes_R": 1377441,
- "votes_other": 87145,
- "total_votes": 3192745,
+ "votes_other": 87133,
+ "total_votes": 3192733,
  "pct_D": 54.1,
  "pct_R": 43.1,
  "unit_count": 64,
@@ -28,23 +28,23 @@
  "units": {
   "08001": {
    "name": "Adams",
-   "raw_name": "ADAMS",
+   "raw_name": "Adams",
    "fips": "08001",
    "is_mappable": true,
    "votes_D": 124056,
    "votes_R": 103024,
-   "votes_other": 6411,
-   "total_votes": 233491,
+   "votes_other": 6409,
+   "total_votes": 233489,
    "pct_D": 53.1,
    "pct_R": 44.1,
    "modes": {
     "total": {
      "votes_D": 124056,
      "votes_R": 103024,
-     "votes_other": 6411
+     "votes_other": 6409
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -52,7 +52,7 @@
   },
   "08003": {
    "name": "Alamosa",
-   "raw_name": "ALAMOSA",
+   "raw_name": "Alamosa",
    "fips": "08003",
    "is_mappable": true,
    "votes_D": 3244,
@@ -68,7 +68,7 @@
      "votes_other": 228
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -76,7 +76,7 @@
   },
   "08005": {
    "name": "Arapahoe",
-   "raw_name": "ARAPAHOE",
+   "raw_name": "Arapahoe",
    "fips": "08005",
    "is_mappable": true,
    "votes_D": 190725,
@@ -92,7 +92,7 @@
      "votes_other": 9595
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -100,7 +100,7 @@
   },
   "08007": {
    "name": "Archuleta",
-   "raw_name": "ARCHULETA",
+   "raw_name": "Archuleta",
    "fips": "08007",
    "is_mappable": true,
    "votes_D": 3904,
@@ -116,7 +116,7 @@
      "votes_other": 235
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -124,7 +124,7 @@
   },
   "08009": {
    "name": "Baca",
-   "raw_name": "BACA",
+   "raw_name": "Baca",
    "fips": "08009",
    "is_mappable": true,
    "votes_D": 275,
@@ -140,7 +140,7 @@
      "votes_other": 43
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -148,7 +148,7 @@
   },
   "08011": {
    "name": "Bent",
-   "raw_name": "BENT",
+   "raw_name": "Bent",
    "fips": "08011",
    "is_mappable": true,
    "votes_D": 645,
@@ -164,7 +164,7 @@
      "votes_other": 48
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -172,23 +172,23 @@
   },
   "08013": {
    "name": "Boulder",
-   "raw_name": "BOULDER",
+   "raw_name": "Boulder",
    "fips": "08013",
    "is_mappable": true,
    "votes_D": 150149,
    "votes_R": 40758,
-   "votes_other": 5397,
-   "total_votes": 196304,
+   "votes_other": 5396,
+   "total_votes": 196303,
    "pct_D": 76.5,
    "pct_R": 20.8,
    "modes": {
     "total": {
      "votes_D": 150149,
      "votes_R": 40758,
-     "votes_other": 5397
+     "votes_other": 5396
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -196,7 +196,7 @@
   },
   "08014": {
    "name": "Broomfield",
-   "raw_name": "BROOMFIELD",
+   "raw_name": "Broomfield",
    "fips": "08014",
    "is_mappable": true,
    "votes_D": 29426,
@@ -212,7 +212,7 @@
      "votes_other": 1351
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -220,7 +220,7 @@
   },
   "08015": {
    "name": "Chaffee",
-   "raw_name": "CHAFFEE",
+   "raw_name": "Chaffee",
    "fips": "08015",
    "is_mappable": true,
    "votes_D": 7992,
@@ -236,7 +236,7 @@
      "votes_other": 397
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -244,7 +244,7 @@
   },
   "08017": {
    "name": "Cheyenne",
-   "raw_name": "CHEYENNE",
+   "raw_name": "Cheyenne",
    "fips": "08017",
    "is_mappable": true,
    "votes_D": 108,
@@ -260,7 +260,7 @@
      "votes_other": 17
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -268,7 +268,7 @@
   },
   "08019": {
    "name": "Clear Creek",
-   "raw_name": "CLEAR CREEK",
+   "raw_name": "Clear Creek",
    "fips": "08019",
    "is_mappable": true,
    "votes_D": 3464,
@@ -284,7 +284,7 @@
      "votes_other": 186
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -292,7 +292,7 @@
   },
   "08021": {
    "name": "Conejos",
-   "raw_name": "CONEJOS",
+   "raw_name": "Conejos",
    "fips": "08021",
    "is_mappable": true,
    "votes_D": 1627,
@@ -308,7 +308,7 @@
      "votes_other": 120
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -316,7 +316,7 @@
   },
   "08023": {
    "name": "Costilla",
-   "raw_name": "COSTILLA",
+   "raw_name": "Costilla",
    "fips": "08023",
    "is_mappable": true,
    "votes_D": 1155,
@@ -332,7 +332,7 @@
      "votes_other": 75
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -340,7 +340,7 @@
   },
   "08025": {
    "name": "Crowley",
-   "raw_name": "CROWLEY",
+   "raw_name": "Crowley",
    "fips": "08025",
    "is_mappable": true,
    "votes_D": 422,
@@ -356,7 +356,7 @@
      "votes_other": 53
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -364,7 +364,7 @@
   },
   "08027": {
    "name": "Custer",
-   "raw_name": "CUSTER",
+   "raw_name": "Custer",
    "fips": "08027",
    "is_mappable": true,
    "votes_D": 1188,
@@ -380,7 +380,7 @@
      "votes_other": 96
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -388,7 +388,7 @@
   },
   "08029": {
    "name": "Delta",
-   "raw_name": "DELTA",
+   "raw_name": "Delta",
    "fips": "08029",
    "is_mappable": true,
    "votes_D": 6030,
@@ -404,7 +404,7 @@
      "votes_other": 500
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -412,23 +412,23 @@
   },
   "08031": {
    "name": "Denver",
-   "raw_name": "DENVER",
+   "raw_name": "Denver",
    "fips": "08031",
    "is_mappable": true,
    "votes_D": 278634,
    "votes_R": 74765,
-   "votes_other": 10120,
-   "total_votes": 363519,
+   "votes_other": 10119,
+   "total_votes": 363518,
    "pct_D": 76.6,
    "pct_R": 20.6,
    "modes": {
     "total": {
      "votes_D": 278634,
      "votes_R": 74765,
-     "votes_other": 10120
+     "votes_other": 10119
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -436,7 +436,7 @@
   },
   "08033": {
    "name": "Dolores",
-   "raw_name": "DOLORES",
+   "raw_name": "Dolores",
    "fips": "08033",
    "is_mappable": true,
    "votes_D": 325,
@@ -452,7 +452,7 @@
      "votes_other": 18
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -460,23 +460,23 @@
   },
   "08035": {
    "name": "Douglas",
-   "raw_name": "DOUGLAS",
+   "raw_name": "Douglas",
    "fips": "08035",
    "is_mappable": true,
    "votes_D": 110408,
    "votes_R": 127451,
-   "votes_other": 6033,
-   "total_votes": 243892,
+   "votes_other": 6028,
+   "total_votes": 243887,
    "pct_D": 45.3,
    "pct_R": 52.3,
    "modes": {
     "total": {
      "votes_D": 110408,
      "votes_R": 127451,
-     "votes_other": 6033
+     "votes_other": 6028
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -484,23 +484,23 @@
   },
   "08037": {
    "name": "Eagle",
-   "raw_name": "EAGLE",
+   "raw_name": "Eagle",
    "fips": "08037",
    "is_mappable": true,
    "votes_D": 16943,
    "votes_R": 10148,
-   "votes_other": 714,
-   "total_votes": 27805,
+   "votes_other": 713,
+   "total_votes": 27804,
    "pct_D": 60.9,
    "pct_R": 36.5,
    "modes": {
     "total": {
      "votes_D": 16943,
      "votes_R": 10148,
-     "votes_other": 714
+     "votes_other": 713
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -508,7 +508,7 @@
   },
   "08041": {
    "name": "El Paso",
-   "raw_name": "EL PASO",
+   "raw_name": "El Paso",
    "fips": "08041",
    "is_mappable": true,
    "votes_D": 166597,
@@ -524,7 +524,7 @@
      "votes_other": 10456
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -532,7 +532,7 @@
   },
   "08039": {
    "name": "Elbert",
-   "raw_name": "ELBERT",
+   "raw_name": "Elbert",
    "fips": "08039",
    "is_mappable": true,
    "votes_D": 4768,
@@ -548,7 +548,7 @@
      "votes_other": 445
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -556,7 +556,7 @@
   },
   "08043": {
    "name": "Fremont",
-   "raw_name": "FREMONT",
+   "raw_name": "Fremont",
    "fips": "08043",
    "is_mappable": true,
    "votes_D": 7526,
@@ -572,7 +572,7 @@
      "votes_other": 631
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -580,7 +580,7 @@
   },
   "08045": {
    "name": "Garfield",
-   "raw_name": "GARFIELD",
+   "raw_name": "Garfield",
    "fips": "08045",
    "is_mappable": true,
    "votes_D": 15128,
@@ -596,7 +596,7 @@
      "votes_other": 755
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -604,7 +604,7 @@
   },
   "08047": {
    "name": "Gilpin",
-   "raw_name": "GILPIN",
+   "raw_name": "Gilpin",
    "fips": "08047",
    "is_mappable": true,
    "votes_D": 2254,
@@ -620,7 +620,7 @@
      "votes_other": 147
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -628,7 +628,7 @@
   },
   "08049": {
    "name": "Grand",
-   "raw_name": "GRAND",
+   "raw_name": "Grand",
    "fips": "08049",
    "is_mappable": true,
    "votes_D": 4743,
@@ -644,7 +644,7 @@
      "votes_other": 319
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -652,7 +652,7 @@
   },
   "08051": {
    "name": "Gunnison",
-   "raw_name": "GUNNISON",
+   "raw_name": "Gunnison",
    "fips": "08051",
    "is_mappable": true,
    "votes_D": 6887,
@@ -668,7 +668,7 @@
      "votes_other": 366
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -676,7 +676,7 @@
   },
   "08053": {
    "name": "Hinsdale",
-   "raw_name": "HINSDALE",
+   "raw_name": "Hinsdale",
    "fips": "08053",
    "is_mappable": true,
    "votes_D": 257,
@@ -692,7 +692,7 @@
      "votes_other": 18
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -700,7 +700,7 @@
   },
   "08055": {
    "name": "Huerfano",
-   "raw_name": "HUERFANO",
+   "raw_name": "Huerfano",
    "fips": "08055",
    "is_mappable": true,
    "votes_D": 1965,
@@ -716,7 +716,7 @@
      "votes_other": 131
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -724,7 +724,7 @@
   },
   "08057": {
    "name": "Jackson",
-   "raw_name": "JACKSON",
+   "raw_name": "Jackson",
    "fips": "08057",
    "is_mappable": true,
    "votes_D": 173,
@@ -740,7 +740,7 @@
      "votes_other": 27
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -748,23 +748,23 @@
   },
   "08059": {
    "name": "Jefferson",
-   "raw_name": "JEFFERSON",
+   "raw_name": "Jefferson",
    "fips": "08059",
    "is_mappable": true,
    "votes_D": 210875,
    "votes_R": 140505,
-   "votes_other": 10336,
-   "total_votes": 361716,
+   "votes_other": 10335,
+   "total_votes": 361715,
    "pct_D": 58.3,
    "pct_R": 38.8,
    "modes": {
     "total": {
      "votes_D": 210875,
      "votes_R": 140505,
-     "votes_other": 10336
+     "votes_other": 10335
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -772,7 +772,7 @@
   },
   "08061": {
    "name": "Kiowa",
-   "raw_name": "KIOWA",
+   "raw_name": "Kiowa",
    "fips": "08061",
    "is_mappable": true,
    "votes_D": 102,
@@ -788,7 +788,7 @@
      "votes_other": 17
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -796,7 +796,7 @@
   },
   "08063": {
    "name": "Kit Carson",
-   "raw_name": "KIT CARSON",
+   "raw_name": "Kit Carson",
    "fips": "08063",
    "is_mappable": true,
    "votes_D": 556,
@@ -812,7 +812,7 @@
      "votes_other": 59
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -820,7 +820,7 @@
   },
   "08067": {
    "name": "La Plata",
-   "raw_name": "LA PLATA",
+   "raw_name": "La Plata",
    "fips": "08067",
    "is_mappable": true,
    "votes_D": 20677,
@@ -836,7 +836,7 @@
      "votes_other": 991
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -844,7 +844,7 @@
   },
   "08065": {
    "name": "Lake",
-   "raw_name": "LAKE",
+   "raw_name": "Lake",
    "fips": "08065",
    "is_mappable": true,
    "votes_D": 2199,
@@ -860,7 +860,7 @@
      "votes_other": 157
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -868,7 +868,7 @@
   },
   "08069": {
    "name": "Larimer",
-   "raw_name": "LARIMER",
+   "raw_name": "Larimer",
    "fips": "08069",
    "is_mappable": true,
    "votes_D": 129376,
@@ -884,7 +884,7 @@
      "votes_other": 6598
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -892,7 +892,7 @@
   },
   "08071": {
    "name": "Las Animas",
-   "raw_name": "LAS ANIMAS",
+   "raw_name": "Las Animas",
    "fips": "08071",
    "is_mappable": true,
    "votes_D": 3276,
@@ -908,7 +908,7 @@
      "votes_other": 189
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -916,7 +916,7 @@
   },
   "08073": {
    "name": "Lincoln",
-   "raw_name": "LINCOLN",
+   "raw_name": "Lincoln",
    "fips": "08073",
    "is_mappable": true,
    "votes_D": 432,
@@ -932,7 +932,7 @@
      "votes_other": 49
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -940,7 +940,7 @@
   },
   "08075": {
    "name": "Logan",
-   "raw_name": "LOGAN",
+   "raw_name": "Logan",
    "fips": "08075",
    "is_mappable": true,
    "votes_D": 2098,
@@ -956,7 +956,7 @@
      "votes_other": 213
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -964,7 +964,7 @@
   },
   "08077": {
    "name": "Mesa",
-   "raw_name": "MESA",
+   "raw_name": "Mesa",
    "fips": "08077",
    "is_mappable": true,
    "votes_D": 33573,
@@ -980,7 +980,7 @@
      "votes_other": 2208
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -988,7 +988,7 @@
   },
   "08079": {
    "name": "Mineral",
-   "raw_name": "MINERAL",
+   "raw_name": "Mineral",
    "fips": "08079",
    "is_mappable": true,
    "votes_D": 317,
@@ -1004,7 +1004,7 @@
      "votes_other": 19
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1012,7 +1012,7 @@
   },
   "08081": {
    "name": "Moffat",
-   "raw_name": "MOFFAT",
+   "raw_name": "Moffat",
    "fips": "08081",
    "is_mappable": true,
    "votes_D": 1167,
@@ -1028,7 +1028,7 @@
      "votes_other": 146
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1036,7 +1036,7 @@
   },
   "08083": {
    "name": "Montezuma",
-   "raw_name": "MONTEZUMA",
+   "raw_name": "Montezuma",
    "fips": "08083",
    "is_mappable": true,
    "votes_D": 5793,
@@ -1052,7 +1052,7 @@
      "votes_other": 374
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1060,7 +1060,7 @@
   },
   "08085": {
    "name": "Montrose",
-   "raw_name": "MONTROSE",
+   "raw_name": "Montrose",
    "fips": "08085",
    "is_mappable": true,
    "votes_D": 8354,
@@ -1076,7 +1076,7 @@
      "votes_other": 568
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1084,23 +1084,23 @@
   },
   "08087": {
    "name": "Morgan",
-   "raw_name": "MORGAN",
+   "raw_name": "Morgan",
    "fips": "08087",
    "is_mappable": true,
    "votes_D": 3291,
    "votes_R": 9830,
-   "votes_other": 344,
-   "total_votes": 13465,
+   "votes_other": 343,
+   "total_votes": 13464,
    "pct_D": 24.4,
    "pct_R": 73.0,
    "modes": {
     "total": {
      "votes_D": 3291,
      "votes_R": 9830,
-     "votes_other": 344
+     "votes_other": 343
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1108,7 +1108,7 @@
   },
   "08089": {
    "name": "Otero",
-   "raw_name": "OTERO",
+   "raw_name": "Otero",
    "fips": "08089",
    "is_mappable": true,
    "votes_D": 3164,
@@ -1124,7 +1124,7 @@
      "votes_other": 242
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1132,7 +1132,7 @@
   },
   "08091": {
    "name": "Ouray",
-   "raw_name": "OURAY",
+   "raw_name": "Ouray",
    "fips": "08091",
    "is_mappable": true,
    "votes_D": 2442,
@@ -1148,7 +1148,7 @@
      "votes_other": 83
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1156,7 +1156,7 @@
   },
   "08093": {
    "name": "Park",
-   "raw_name": "PARK",
+   "raw_name": "Park",
    "fips": "08093",
    "is_mappable": true,
    "votes_D": 4841,
@@ -1172,7 +1172,7 @@
      "votes_other": 380
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1180,7 +1180,7 @@
   },
   "08095": {
    "name": "Phillips",
-   "raw_name": "PHILLIPS",
+   "raw_name": "Phillips",
    "fips": "08095",
    "is_mappable": true,
    "votes_D": 412,
@@ -1196,7 +1196,7 @@
      "votes_other": 55
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1204,7 +1204,7 @@
   },
   "08097": {
    "name": "Pitkin",
-   "raw_name": "PITKIN",
+   "raw_name": "Pitkin",
    "fips": "08097",
    "is_mappable": true,
    "votes_D": 7932,
@@ -1220,7 +1220,7 @@
      "votes_other": 245
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1228,7 +1228,7 @@
   },
   "08099": {
    "name": "Prowers",
-   "raw_name": "PROWERS",
+   "raw_name": "Prowers",
    "fips": "08099",
    "is_mappable": true,
    "votes_D": 1227,
@@ -1244,7 +1244,7 @@
      "votes_other": 85
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1252,7 +1252,7 @@
   },
   "08101": {
    "name": "Pueblo",
-   "raw_name": "PUEBLO",
+   "raw_name": "Pueblo",
    "fips": "08101",
    "is_mappable": true,
    "votes_D": 39328,
@@ -1268,7 +1268,7 @@
      "votes_other": 2104
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1276,7 +1276,7 @@
   },
   "08103": {
    "name": "Rio Blanco",
-   "raw_name": "RIO BLANCO",
+   "raw_name": "Rio Blanco",
    "fips": "08103",
    "is_mappable": true,
    "votes_D": 637,
@@ -1292,7 +1292,7 @@
      "votes_other": 67
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1300,7 +1300,7 @@
   },
   "08105": {
    "name": "Rio Grande",
-   "raw_name": "RIO GRANDE",
+   "raw_name": "Rio Grande",
    "fips": "08105",
    "is_mappable": true,
    "votes_D": 2306,
@@ -1316,7 +1316,7 @@
      "votes_other": 145
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1324,7 +1324,7 @@
   },
   "08107": {
    "name": "Routt",
-   "raw_name": "ROUTT",
+   "raw_name": "Routt",
    "fips": "08107",
    "is_mappable": true,
    "votes_D": 10208,
@@ -1340,7 +1340,7 @@
      "votes_other": 451
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1348,7 +1348,7 @@
   },
   "08109": {
    "name": "Saguache",
-   "raw_name": "SAGUACHE",
+   "raw_name": "Saguache",
    "fips": "08109",
    "is_mappable": true,
    "votes_D": 1704,
@@ -1364,7 +1364,7 @@
      "votes_other": 120
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1372,7 +1372,7 @@
   },
   "08111": {
    "name": "San Juan",
-   "raw_name": "SAN JUAN",
+   "raw_name": "San Juan",
    "fips": "08111",
    "is_mappable": true,
    "votes_D": 376,
@@ -1388,7 +1388,7 @@
      "votes_other": 25
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1396,7 +1396,7 @@
   },
   "08113": {
    "name": "San Miguel",
-   "raw_name": "SAN MIGUEL",
+   "raw_name": "San Miguel",
    "fips": "08113",
    "is_mappable": true,
    "votes_D": 3529,
@@ -1412,7 +1412,7 @@
      "votes_other": 121
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1420,7 +1420,7 @@
   },
   "08115": {
    "name": "Sedgwick",
-   "raw_name": "SEDGWICK",
+   "raw_name": "Sedgwick",
    "fips": "08115",
    "is_mappable": true,
    "votes_D": 283,
@@ -1436,7 +1436,7 @@
      "votes_other": 27
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1444,7 +1444,7 @@
   },
   "08117": {
    "name": "Summit",
-   "raw_name": "SUMMIT",
+   "raw_name": "Summit",
    "fips": "08117",
    "is_mappable": true,
    "votes_D": 11762,
@@ -1460,7 +1460,7 @@
      "votes_other": 539
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1468,7 +1468,7 @@
   },
   "08119": {
    "name": "Teller",
-   "raw_name": "TELLER",
+   "raw_name": "Teller",
    "fips": "08119",
    "is_mappable": true,
    "votes_D": 5065,
@@ -1484,7 +1484,7 @@
      "votes_other": 417
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1492,7 +1492,7 @@
   },
   "08121": {
    "name": "Washington",
-   "raw_name": "WASHINGTON",
+   "raw_name": "Washington",
    "fips": "08121",
    "is_mappable": true,
    "votes_D": 329,
@@ -1508,7 +1508,7 @@
      "votes_other": 41
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1516,7 +1516,7 @@
   },
   "08123": {
    "name": "Weld",
-   "raw_name": "WELD",
+   "raw_name": "Weld",
    "fips": "08123",
    "is_mappable": true,
    "votes_D": 68752,
@@ -1532,7 +1532,7 @@
      "votes_other": 4700
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1540,7 +1540,7 @@
   },
   "08125": {
    "name": "Yuma",
-   "raw_name": "YUMA",
+   "raw_name": "Yuma",
    "fips": "08125",
    "is_mappable": true,
    "votes_D": 758,
@@ -1556,7 +1556,7 @@
      "votes_other": 98
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "CO-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",

@@ -31,7 +31,7 @@
  "units": {
   "42001": {
    "name": "Adams",
-   "raw_name": "ADAMS",
+   "raw_name": "Adams",
    "fips": "42001",
    "is_mappable": true,
    "votes_D": 19842,
@@ -57,7 +57,7 @@
      "votes_other": 4
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -65,7 +65,7 @@
   },
   "42003": {
    "name": "Allegheny",
-   "raw_name": "ALLEGHENY",
+   "raw_name": "Allegheny",
    "fips": "42003",
    "is_mappable": true,
    "votes_D": 429916,
@@ -91,7 +91,7 @@
      "votes_other": 127
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -99,7 +99,7 @@
   },
   "42005": {
    "name": "Armstrong",
-   "raw_name": "ARMSTRONG",
+   "raw_name": "Armstrong",
    "fips": "42005",
    "is_mappable": true,
    "votes_D": 8553,
@@ -125,7 +125,7 @@
      "votes_other": 2
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -133,7 +133,7 @@
   },
   "42007": {
    "name": "Beaver",
-   "raw_name": "BEAVER",
+   "raw_name": "Beaver",
    "fips": "42007",
    "is_mappable": true,
    "votes_D": 37196,
@@ -159,7 +159,7 @@
      "votes_other": 3
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -167,7 +167,7 @@
   },
   "42009": {
    "name": "Bedford",
-   "raw_name": "BEDFORD",
+   "raw_name": "Bedford",
    "fips": "42009",
    "is_mappable": true,
    "votes_D": 4336,
@@ -193,7 +193,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -201,7 +201,7 @@
   },
   "42011": {
    "name": "Berks",
-   "raw_name": "BERKS",
+   "raw_name": "Berks",
    "fips": "42011",
    "is_mappable": true,
    "votes_D": 91125,
@@ -227,7 +227,7 @@
      "votes_other": 12
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -235,7 +235,7 @@
   },
   "42013": {
    "name": "Blair",
-   "raw_name": "BLAIR",
+   "raw_name": "Blair",
    "fips": "42013",
    "is_mappable": true,
    "votes_D": 18127,
@@ -261,7 +261,7 @@
      "votes_other": 2
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -269,7 +269,7 @@
   },
   "42015": {
    "name": "Bradford",
-   "raw_name": "BRADFORD",
+   "raw_name": "Bradford",
    "fips": "42015",
    "is_mappable": true,
    "votes_D": 7990,
@@ -295,7 +295,7 @@
      "votes_other": 6
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -303,7 +303,7 @@
   },
   "42017": {
    "name": "Bucks",
-   "raw_name": "BUCKS",
+   "raw_name": "Bucks",
    "fips": "42017",
    "is_mappable": true,
    "votes_D": 198431,
@@ -329,7 +329,7 @@
      "votes_other": 42
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -337,7 +337,7 @@
   },
   "42019": {
    "name": "Butler",
-   "raw_name": "BUTLER",
+   "raw_name": "Butler",
    "fips": "42019",
    "is_mappable": true,
    "votes_D": 40661,
@@ -363,7 +363,7 @@
      "votes_other": 3
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -371,7 +371,7 @@
   },
   "42021": {
    "name": "Cambria",
-   "raw_name": "CAMBRIA",
+   "raw_name": "Cambria",
    "fips": "42021",
    "is_mappable": true,
    "votes_D": 21177,
@@ -397,7 +397,7 @@
      "votes_other": 7
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -405,7 +405,7 @@
   },
   "42023": {
    "name": "Cameron",
-   "raw_name": "CAMERON",
+   "raw_name": "Cameron",
    "fips": "42023",
    "is_mappable": true,
    "votes_D": 538,
@@ -431,7 +431,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -439,7 +439,7 @@
   },
   "42025": {
    "name": "Carbon",
-   "raw_name": "CARBON",
+   "raw_name": "Carbon",
    "fips": "42025",
    "is_mappable": true,
    "votes_D": 11394,
@@ -465,7 +465,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -473,7 +473,7 @@
   },
   "42027": {
    "name": "Centre",
-   "raw_name": "CENTRE",
+   "raw_name": "Centre",
    "fips": "42027",
    "is_mappable": true,
    "votes_D": 41119,
@@ -499,7 +499,7 @@
      "votes_other": 6
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -507,7 +507,7 @@
   },
   "42029": {
    "name": "Chester",
-   "raw_name": "CHESTER",
+   "raw_name": "Chester",
    "fips": "42029",
    "is_mappable": true,
    "votes_D": 184281,
@@ -533,7 +533,7 @@
      "votes_other": 30
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -541,7 +541,7 @@
   },
   "42031": {
    "name": "Clarion",
-   "raw_name": "CLARION",
+   "raw_name": "Clarion",
    "fips": "42031",
    "is_mappable": true,
    "votes_D": 4562,
@@ -567,7 +567,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -575,7 +575,7 @@
   },
   "42033": {
    "name": "Clearfield",
-   "raw_name": "CLEARFIELD",
+   "raw_name": "Clearfield",
    "fips": "42033",
    "is_mappable": true,
    "votes_D": 9647,
@@ -601,7 +601,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -609,7 +609,7 @@
   },
   "42035": {
    "name": "Clinton",
-   "raw_name": "CLINTON",
+   "raw_name": "Clinton",
    "fips": "42035",
    "is_mappable": true,
    "votes_D": 5395,
@@ -635,7 +635,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -643,7 +643,7 @@
   },
   "42037": {
    "name": "Columbia",
-   "raw_name": "COLUMBIA",
+   "raw_name": "Columbia",
    "fips": "42037",
    "is_mappable": true,
    "votes_D": 11083,
@@ -669,7 +669,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -677,7 +677,7 @@
   },
   "42039": {
    "name": "Crawford",
-   "raw_name": "CRAWFORD",
+   "raw_name": "Crawford",
    "fips": "42039",
    "is_mappable": true,
    "votes_D": 12858,
@@ -703,7 +703,7 @@
      "votes_other": 2
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -711,7 +711,7 @@
   },
   "42041": {
    "name": "Cumberland",
-   "raw_name": "CUMBERLAND",
+   "raw_name": "Cumberland",
    "fips": "42041",
    "is_mappable": true,
    "votes_D": 66255,
@@ -737,7 +737,7 @@
      "votes_other": 13
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -745,7 +745,7 @@
   },
   "42043": {
    "name": "Dauphin",
-   "raw_name": "DAUPHIN",
+   "raw_name": "Dauphin",
    "fips": "42043",
    "is_mappable": true,
    "votes_D": 78327,
@@ -771,7 +771,7 @@
      "votes_other": 27
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -779,7 +779,7 @@
   },
   "42045": {
    "name": "Delaware",
-   "raw_name": "DELAWARE",
+   "raw_name": "Delaware",
    "fips": "42045",
    "is_mappable": true,
    "votes_D": 201324,
@@ -805,7 +805,7 @@
      "votes_other": 60
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -813,7 +813,7 @@
   },
   "42047": {
    "name": "Elk",
-   "raw_name": "ELK",
+   "raw_name": "Elk",
    "fips": "42047",
    "is_mappable": true,
    "votes_D": 4483,
@@ -839,7 +839,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -847,7 +847,7 @@
   },
   "42049": {
    "name": "Erie",
-   "raw_name": "ERIE",
+   "raw_name": "Erie",
    "fips": "42049",
    "is_mappable": true,
    "votes_D": 67456,
@@ -873,7 +873,7 @@
      "votes_other": 19
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -881,7 +881,7 @@
   },
   "42051": {
    "name": "Fayette",
-   "raw_name": "FAYETTE",
+   "raw_name": "Fayette",
    "fips": "42051",
    "is_mappable": true,
    "votes_D": 19548,
@@ -907,7 +907,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -915,7 +915,7 @@
   },
   "42053": {
    "name": "Forest",
-   "raw_name": "FOREST",
+   "raw_name": "Forest",
    "fips": "42053",
    "is_mappable": true,
    "votes_D": 724,
@@ -941,7 +941,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -949,7 +949,7 @@
   },
   "42055": {
    "name": "Franklin",
-   "raw_name": "FRANKLIN",
+   "raw_name": "Franklin",
    "fips": "42055",
    "is_mappable": true,
    "votes_D": 23543,
@@ -975,7 +975,7 @@
      "votes_other": 9
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -983,7 +983,7 @@
   },
   "42057": {
    "name": "Fulton",
-   "raw_name": "FULTON",
+   "raw_name": "Fulton",
    "fips": "42057",
    "is_mappable": true,
    "votes_D": 1102,
@@ -1009,7 +1009,7 @@
      "votes_other": 2
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1017,7 +1017,7 @@
   },
   "42059": {
    "name": "Greene",
-   "raw_name": "GREENE",
+   "raw_name": "Greene",
    "fips": "42059",
    "is_mappable": true,
    "votes_D": 4592,
@@ -1043,7 +1043,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1051,7 +1051,7 @@
   },
   "42061": {
    "name": "Huntingdon",
-   "raw_name": "HUNTINGDON",
+   "raw_name": "Huntingdon",
    "fips": "42061",
    "is_mappable": true,
    "votes_D": 5368,
@@ -1077,7 +1077,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1085,7 +1085,7 @@
   },
   "42063": {
    "name": "Indiana",
-   "raw_name": "INDIANA",
+   "raw_name": "Indiana",
    "fips": "42063",
    "is_mappable": true,
    "votes_D": 12697,
@@ -1111,7 +1111,7 @@
      "votes_other": 2
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1119,7 +1119,7 @@
   },
   "42065": {
    "name": "Jefferson",
-   "raw_name": "JEFFERSON",
+   "raw_name": "Jefferson",
    "fips": "42065",
    "is_mappable": true,
    "votes_D": 4707,
@@ -1145,7 +1145,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1153,7 +1153,7 @@
   },
   "42067": {
    "name": "Juniata",
-   "raw_name": "JUNIATA",
+   "raw_name": "Juniata",
    "fips": "42067",
    "is_mappable": true,
    "votes_D": 2290,
@@ -1179,7 +1179,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1187,7 +1187,7 @@
   },
   "42069": {
    "name": "Lackawanna",
-   "raw_name": "LACKAWANNA",
+   "raw_name": "Lackawanna",
    "fips": "42069",
    "is_mappable": true,
    "votes_D": 59510,
@@ -1213,7 +1213,7 @@
      "votes_other": 10
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1221,7 +1221,7 @@
   },
   "42071": {
    "name": "Lancaster",
-   "raw_name": "LANCASTER",
+   "raw_name": "Lancaster",
    "fips": "42071",
    "is_mappable": true,
    "votes_D": 120119,
@@ -1247,7 +1247,7 @@
      "votes_other": 30
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1255,7 +1255,7 @@
   },
   "42073": {
    "name": "Lawrence",
-   "raw_name": "LAWRENCE",
+   "raw_name": "Lawrence",
    "fips": "42073",
    "is_mappable": true,
    "votes_D": 15440,
@@ -1281,7 +1281,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1289,7 +1289,7 @@
   },
   "42075": {
    "name": "Lebanon",
-   "raw_name": "LEBANON",
+   "raw_name": "Lebanon",
    "fips": "42075",
    "is_mappable": true,
    "votes_D": 24734,
@@ -1315,7 +1315,7 @@
      "votes_other": 8
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1323,7 +1323,7 @@
   },
   "42077": {
    "name": "Lehigh",
-   "raw_name": "LEHIGH",
+   "raw_name": "Lehigh",
    "fips": "42077",
    "is_mappable": true,
    "votes_D": 96317,
@@ -1349,7 +1349,7 @@
      "votes_other": 42
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1357,7 +1357,7 @@
   },
   "42079": {
    "name": "Luzerne",
-   "raw_name": "LUZERNE",
+   "raw_name": "Luzerne",
    "fips": "42079",
    "is_mappable": true,
    "votes_D": 62504,
@@ -1383,7 +1383,7 @@
      "votes_other": 18
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1391,7 +1391,7 @@
   },
   "42081": {
    "name": "Lycoming",
-   "raw_name": "LYCOMING",
+   "raw_name": "Lycoming",
    "fips": "42081",
    "is_mappable": true,
    "votes_D": 17216,
@@ -1417,7 +1417,7 @@
      "votes_other": 5
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1425,7 +1425,7 @@
   },
   "42083": {
    "name": "McKean",
-   "raw_name": "MCKEAN",
+   "raw_name": "McKean",
    "fips": "42083",
    "is_mappable": true,
    "votes_D": 5115,
@@ -1451,7 +1451,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1459,7 +1459,7 @@
   },
   "42085": {
    "name": "Mercer",
-   "raw_name": "MERCER",
+   "raw_name": "Mercer",
    "fips": "42085",
    "is_mappable": true,
    "votes_D": 20145,
@@ -1485,7 +1485,7 @@
      "votes_other": 3
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1493,7 +1493,7 @@
   },
   "42087": {
    "name": "Mifflin",
-   "raw_name": "MIFFLIN",
+   "raw_name": "Mifflin",
    "fips": "42087",
    "is_mappable": true,
    "votes_D": 4735,
@@ -1519,7 +1519,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1527,7 +1527,7 @@
   },
   "42089": {
    "name": "Monroe",
-   "raw_name": "MONROE",
+   "raw_name": "Monroe",
    "fips": "42089",
    "is_mappable": true,
    "votes_D": 42007,
@@ -1553,7 +1553,7 @@
      "votes_other": 15
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1561,7 +1561,7 @@
   },
   "42091": {
    "name": "Montgomery",
-   "raw_name": "MONTGOMERY",
+   "raw_name": "Montgomery",
    "fips": "42091",
    "is_mappable": true,
    "votes_D": 317103,
@@ -1587,7 +1587,7 @@
      "votes_other": 62
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1595,7 +1595,7 @@
   },
   "42093": {
    "name": "Montour",
-   "raw_name": "MONTOUR",
+   "raw_name": "Montour",
    "fips": "42093",
    "is_mappable": true,
    "votes_D": 3862,
@@ -1621,7 +1621,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1629,7 +1629,7 @@
   },
   "42095": {
    "name": "Northampton",
-   "raw_name": "NORTHAMPTON",
+   "raw_name": "Northampton",
    "fips": "42095",
    "is_mappable": true,
    "votes_D": 86655,
@@ -1655,7 +1655,7 @@
      "votes_other": 41
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1663,7 +1663,7 @@
   },
   "42097": {
    "name": "Northumberland",
-   "raw_name": "NORTHUMBERLAND",
+   "raw_name": "Northumberland",
    "fips": "42097",
    "is_mappable": true,
    "votes_D": 12863,
@@ -1689,7 +1689,7 @@
      "votes_other": 4
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1697,7 +1697,7 @@
   },
   "42099": {
    "name": "Perry",
-   "raw_name": "PERRY",
+   "raw_name": "Perry",
    "fips": "42099",
    "is_mappable": true,
    "votes_D": 6385,
@@ -1723,7 +1723,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1731,7 +1731,7 @@
   },
   "42101": {
    "name": "Philadelphia",
-   "raw_name": "PHILADELPHIA",
+   "raw_name": "Philadelphia",
    "fips": "42101",
    "is_mappable": true,
    "votes_D": 568571,
@@ -1757,7 +1757,7 @@
      "votes_other": 167
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1765,7 +1765,7 @@
   },
   "42103": {
    "name": "Pike",
-   "raw_name": "PIKE",
+   "raw_name": "Pike",
    "fips": "42103",
    "is_mappable": true,
    "votes_D": 13132,
@@ -1791,7 +1791,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1799,7 +1799,7 @@
   },
   "42105": {
    "name": "Potter",
-   "raw_name": "POTTER",
+   "raw_name": "Potter",
    "fips": "42105",
    "is_mappable": true,
    "votes_D": 1675,
@@ -1825,7 +1825,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1833,7 +1833,7 @@
   },
   "42107": {
    "name": "Schuylkill",
-   "raw_name": "SCHUYLKILL",
+   "raw_name": "Schuylkill",
    "fips": "42107",
    "is_mappable": true,
    "votes_D": 20882,
@@ -1859,7 +1859,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1867,7 +1867,7 @@
   },
   "42109": {
    "name": "Snyder",
-   "raw_name": "SNYDER",
+   "raw_name": "Snyder",
    "fips": "42109",
    "is_mappable": true,
    "votes_D": 5239,
@@ -1893,7 +1893,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1901,7 +1901,7 @@
   },
   "42111": {
    "name": "Somerset",
-   "raw_name": "SOMERSET",
+   "raw_name": "Somerset",
    "fips": "42111",
    "is_mappable": true,
    "votes_D": 8596,
@@ -1927,7 +1927,7 @@
      "votes_other": 2
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1935,7 +1935,7 @@
   },
   "42113": {
    "name": "Sullivan",
-   "raw_name": "SULLIVAN",
+   "raw_name": "Sullivan",
    "fips": "42113",
    "is_mappable": true,
    "votes_D": 976,
@@ -1961,7 +1961,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1969,7 +1969,7 @@
   },
   "42115": {
    "name": "Susquehanna",
-   "raw_name": "SUSQUEHANNA",
+   "raw_name": "Susquehanna",
    "fips": "42115",
    "is_mappable": true,
    "votes_D": 6093,
@@ -1995,7 +1995,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -2003,7 +2003,7 @@
   },
   "42117": {
    "name": "Tioga",
-   "raw_name": "TIOGA",
+   "raw_name": "Tioga",
    "fips": "42117",
    "is_mappable": true,
    "votes_D": 5100,
@@ -2029,7 +2029,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -2037,7 +2037,7 @@
   },
   "42119": {
    "name": "Union",
-   "raw_name": "UNION",
+   "raw_name": "Union",
    "fips": "42119",
    "is_mappable": true,
    "votes_D": 8015,
@@ -2063,7 +2063,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -2071,7 +2071,7 @@
   },
   "42121": {
    "name": "Venango",
-   "raw_name": "VENANGO",
+   "raw_name": "Venango",
    "fips": "42121",
    "is_mappable": true,
    "votes_D": 7624,
@@ -2097,7 +2097,7 @@
      "votes_other": 2
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -2105,7 +2105,7 @@
   },
   "42123": {
    "name": "Warren",
-   "raw_name": "WARREN",
+   "raw_name": "Warren",
    "fips": "42123",
    "is_mappable": true,
    "votes_D": 6212,
@@ -2131,7 +2131,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -2139,7 +2139,7 @@
   },
   "42125": {
    "name": "Washington",
-   "raw_name": "WASHINGTON",
+   "raw_name": "Washington",
    "fips": "42125",
    "is_mappable": true,
    "votes_D": 44910,
@@ -2165,7 +2165,7 @@
      "votes_other": 8
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -2173,7 +2173,7 @@
   },
   "42127": {
    "name": "Wayne",
-   "raw_name": "WAYNE",
+   "raw_name": "Wayne",
    "fips": "42127",
    "is_mappable": true,
    "votes_D": 9150,
@@ -2199,7 +2199,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -2207,7 +2207,7 @@
   },
   "42129": {
    "name": "Westmoreland",
-   "raw_name": "WESTMORELAND",
+   "raw_name": "Westmoreland",
    "fips": "42129",
    "is_mappable": true,
    "votes_D": 74904,
@@ -2233,7 +2233,7 @@
      "votes_other": 6
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -2241,7 +2241,7 @@
   },
   "42131": {
    "name": "Wyoming",
-   "raw_name": "WYOMING",
+   "raw_name": "Wyoming",
    "fips": "42131",
    "is_mappable": true,
    "votes_D": 4680,
@@ -2267,7 +2267,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -2275,7 +2275,7 @@
   },
   "42133": {
    "name": "York",
-   "raw_name": "YORK",
+   "raw_name": "York",
    "fips": "42133",
    "is_mappable": true,
    "votes_D": 91926,
@@ -2301,7 +2301,7 @@
      "votes_other": 40
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "PA-DOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",

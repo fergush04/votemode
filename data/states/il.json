@@ -4,15 +4,15 @@
  "unit_type": "county",
  "avg_completeness": "U",
  "completeness_breakdown": {
-  "C3": 22,
+  "C3": 18,
   "U": 71,
-  "C4": 7,
+  "C4": 11,
   "C2": 2
  },
- "votes_D": 3062845,
- "votes_R": 2449951,
- "votes_other": 149228,
- "total_votes": 5662024,
+ "votes_D": 3062830,
+ "votes_R": 2449026,
+ "votes_other": 147314,
+ "total_votes": 5659170,
  "pct_D": 54.1,
  "pct_R": 43.3,
  "unit_count": 102,
@@ -25,12 +25,13 @@
    "Late blue shift"
   ],
   "mode_split": {
-   "total": 58.4,
-   "election_day": 18.4,
+   "total": 58.6,
+   "election_day": 18.2,
    "early_in_person": 15.8,
-   "mail": 7.1,
-   "provisional": 0.3,
-   "pre_election_day": 0.0
+   "mail": 6.9,
+   "late_mail": 0.5,
+   "pre_election_day": 0.0,
+   "provisional": 0.0
   }
  },
  "units": {
@@ -41,28 +42,28 @@
    "is_mappable": true,
    "votes_D": 8111,
    "votes_R": 23161,
-   "votes_other": 494,
-   "total_votes": 31766,
-   "pct_D": 25.5,
-   "pct_R": 72.9,
+   "votes_other": 472,
+   "total_votes": 31744,
+   "pct_D": 25.6,
+   "pct_R": 73.0,
    "modes": {
     "election_day": {
      "votes_D": 3592,
      "votes_R": 13387,
-     "votes_other": 321
+     "votes_other": 310
     },
     "early_in_person": {
      "votes_D": 3271,
      "votes_R": 8784,
-     "votes_other": 109
+     "votes_other": 102
     },
     "mail": {
      "votes_D": 1248,
      "votes_R": 990,
-     "votes_other": 64
+     "votes_other": 60
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Adams County, IL",
    "official_results": true,
    "pct_off_official": 0.0049,
    "completeness": "C3",
@@ -195,21 +196,36 @@
    "is_mappable": true,
    "votes_D": 560,
    "votes_R": 2059,
-   "votes_other": 65,
-   "total_votes": 2684,
+   "votes_other": 61,
+   "total_votes": 2680,
    "pct_D": 20.9,
-   "pct_R": 76.7,
+   "pct_R": 76.8,
    "modes": {
-    "total": {
-     "votes_D": 560,
-     "votes_R": 2059,
-     "votes_other": 65
+    "early_in_person": {
+     "votes_D": 112,
+     "votes_R": 519,
+     "votes_other": 2
+    },
+    "election_day": {
+     "votes_D": 272,
+     "votes_R": 1306,
+     "votes_other": 44
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 5,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 176,
+     "votes_R": 229,
+     "votes_other": 15
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Calhoun County, IL",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "U",
+   "completeness": "C4",
    "notes": ""
   },
   "17015": {
@@ -282,19 +298,19 @@
      "votes_R": 15323,
      "votes_other": 465
     },
-    "mail": {
-     "votes_D": 14303,
-     "votes_R": 3089,
-     "votes_other": 238
-    },
     "provisional": {
      "votes_D": 80,
      "votes_R": 43,
      "votes_other": 1
+    },
+    "mail": {
+     "votes_D": 14303,
+     "votes_R": 3089,
+     "votes_other": 238
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Champaign County, IL",
+   "official_results": true,
    "pct_off_official": 0.0283,
    "completeness": "C4",
    "notes": ""
@@ -383,15 +399,15 @@
    "pct_D": 23.1,
    "pct_R": 75.0,
    "modes": {
-    "election_day": {
-     "votes_D": 2848,
-     "votes_R": 11560,
-     "votes_other": 288
-    },
     "early_in_person": {
      "votes_D": 742,
      "votes_R": 1991,
      "votes_other": 28
+    },
+    "election_day": {
+     "votes_D": 2848,
+     "votes_R": 11560,
+     "votes_other": 288
     },
     "mail": {
      "votes_D": 857,
@@ -399,7 +415,7 @@
      "votes_other": 45
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Clinton County, IL",
    "official_results": true,
    "pct_off_official": 0.0055,
    "completeness": "C3",
@@ -503,7 +519,7 @@
   },
   "17037": {
    "name": "DeKalb",
-   "raw_name": "DeKalb",
+   "raw_name": "Dekalb",
    "fips": "17037",
    "is_mappable": true,
    "votes_D": 23648,
@@ -513,15 +529,15 @@
    "pct_D": 50.1,
    "pct_R": 48.1,
    "modes": {
-    "election_day": {
-     "votes_D": 10863,
-     "votes_R": 13153,
-     "votes_other": 544
-    },
     "early_in_person": {
      "votes_D": 9159,
      "votes_R": 8388,
      "votes_other": 198
+    },
+    "election_day": {
+     "votes_D": 10863,
+     "votes_R": 13153,
+     "votes_other": 544
     },
     "mail": {
      "votes_D": 3626,
@@ -529,7 +545,7 @@
      "votes_other": 80
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Dekalb County, IL",
    "official_results": true,
    "pct_off_official": 0.0125,
    "completeness": "C3",
@@ -585,39 +601,39 @@
   },
   "17043": {
    "name": "DuPage",
-   "raw_name": "DuPage",
+   "raw_name": "Dupage",
    "fips": "17043",
    "is_mappable": true,
    "votes_D": 251164,
    "votes_R": 191243,
-   "votes_other": 14475,
-   "total_votes": 456882,
+   "votes_other": 14009,
+   "total_votes": 456416,
    "pct_D": 55.0,
    "pct_R": 41.9,
    "modes": {
-    "election_day": {
-     "votes_D": 74982,
-     "votes_R": 72829,
-     "votes_other": 7198
-    },
     "early_in_person": {
      "votes_D": 106309,
      "votes_R": 97277,
-     "votes_other": 4613
+     "votes_other": 4467
     },
-    "mail": {
-     "votes_D": 69832,
-     "votes_R": 21105,
-     "votes_other": 2655
+    "election_day": {
+     "votes_D": 74982,
+     "votes_R": 72829,
+     "votes_other": 6995
     },
     "provisional": {
      "votes_D": 41,
      "votes_R": 32,
      "votes_other": 9
+    },
+    "mail": {
+     "votes_D": 69832,
+     "votes_R": 21105,
+     "votes_other": 2538
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Dupage County, IL",
+   "official_results": true,
    "pct_off_official": 0.0235,
    "completeness": "C4",
    "notes": ""
@@ -682,15 +698,15 @@
    "pct_D": 18.9,
    "pct_R": 79.4,
    "modes": {
-    "election_day": {
-     "votes_D": 1757,
-     "votes_R": 10066,
-     "votes_other": 235
-    },
     "early_in_person": {
      "votes_D": 1143,
      "votes_R": 4184,
      "votes_other": 45
+    },
+    "election_day": {
+     "votes_D": 1757,
+     "votes_R": 10066,
+     "votes_other": 235
     },
     "mail": {
      "votes_D": 704,
@@ -698,8 +714,8 @@
      "votes_other": 41
     }
    },
-   "data_source": "County-Web",
-   "official_results": true,
+   "data_source": "Effingham County, IL",
+   "official_results": false,
    "pct_off_official": 0.0081,
    "completeness": "C3",
    "notes": ""
@@ -764,15 +780,15 @@
    "pct_D": 24.1,
    "pct_R": 74.6,
    "modes": {
-    "election_day": {
-     "votes_D": 2379,
-     "votes_R": 9396,
-     "votes_other": 166
-    },
     "early_in_person": {
      "votes_D": 1050,
      "votes_R": 3088,
      "votes_other": 31
+    },
+    "election_day": {
+     "votes_D": 2379,
+     "votes_R": 9396,
+     "votes_other": 166
     },
     "mail": {
      "votes_D": 828,
@@ -780,7 +796,7 @@
      "votes_other": 31
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Franklin County, IL",
    "official_results": true,
    "pct_off_official": 0.0034,
    "completeness": "C3",
@@ -793,28 +809,28 @@
    "is_mappable": true,
    "votes_D": 5980,
    "votes_R": 9827,
-   "votes_other": 337,
-   "total_votes": 16144,
-   "pct_D": 37.0,
+   "votes_other": 330,
+   "total_votes": 16137,
+   "pct_D": 37.1,
    "pct_R": 60.9,
    "modes": {
-    "election_day": {
-     "votes_D": 3943,
-     "votes_R": 7996,
-     "votes_other": 279
-    },
     "early_in_person": {
      "votes_D": 656,
      "votes_R": 1187,
-     "votes_other": 18
+     "votes_other": 17
+    },
+    "election_day": {
+     "votes_D": 3943,
+     "votes_R": 7996,
+     "votes_other": 274
     },
     "mail": {
      "votes_D": 1381,
      "votes_R": 644,
-     "votes_other": 40
+     "votes_other": 39
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Fulton County, IL",
    "official_results": true,
    "pct_off_official": 0.0046,
    "completeness": "C3",
@@ -995,33 +1011,33 @@
    "is_mappable": true,
    "votes_D": 9226,
    "votes_R": 15359,
-   "votes_other": 473,
-   "total_votes": 25058,
+   "votes_other": 477,
+   "total_votes": 25062,
    "pct_D": 36.8,
    "pct_R": 61.3,
    "modes": {
-    "election_day": {
-     "votes_D": 5445,
-     "votes_R": 11443,
-     "votes_other": 340
-    },
     "early_in_person": {
      "votes_D": 1074,
      "votes_R": 2224,
      "votes_other": 31
     },
-    "mail": {
-     "votes_D": 2680,
-     "votes_R": 1673,
-     "votes_other": 102
+    "election_day": {
+     "votes_D": 5445,
+     "votes_R": 11443,
+     "votes_other": 340
     },
     "provisional": {
      "votes_D": 27,
      "votes_R": 19,
-     "votes_other": 0
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 2680,
+     "votes_R": 1673,
+     "votes_other": 102
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Henry County, IL",
    "official_results": true,
    "pct_off_official": 0.0061,
    "completeness": "C4",
@@ -1034,29 +1050,29 @@
    "is_mappable": true,
    "votes_D": 2742,
    "votes_R": 10364,
-   "votes_other": 201,
-   "total_votes": 13307,
+   "votes_other": 184,
+   "total_votes": 13290,
    "pct_D": 20.6,
-   "pct_R": 77.9,
+   "pct_R": 78.0,
    "modes": {
-    "election_day": {
-     "votes_D": 1606,
-     "votes_R": 7650,
-     "votes_other": 149
-    },
     "early_in_person": {
      "votes_D": 473,
      "votes_R": 1859,
-     "votes_other": 16
+     "votes_other": 15
+    },
+    "election_day": {
+     "votes_D": 1606,
+     "votes_R": 7650,
+     "votes_other": 134
     },
     "mail": {
      "votes_D": 663,
      "votes_R": 855,
-     "votes_other": 36
+     "votes_other": 35
     }
    },
-   "data_source": "County-PDF",
-   "official_results": true,
+   "data_source": "Iroquois County, IL",
+   "official_results": false,
    "pct_off_official": 0.0048,
    "completeness": "C3",
    "notes": ""
@@ -1092,24 +1108,24 @@
    "is_mappable": true,
    "votes_D": 910,
    "votes_R": 4446,
-   "votes_other": 64,
-   "total_votes": 5420,
+   "votes_other": 60,
+   "total_votes": 5416,
    "pct_D": 16.8,
-   "pct_R": 82.0,
+   "pct_R": 82.1,
    "modes": {
-    "election_day": {
-     "votes_D": 446,
-     "votes_R": 3090,
-     "votes_other": 48
-    },
     "pre_election_day": {
      "votes_D": 464,
      "votes_R": 1356,
      "votes_other": 16
+    },
+    "election_day": {
+     "votes_D": 446,
+     "votes_R": 3090,
+     "votes_other": 44
     }
    },
-   "data_source": "County-PDF",
-   "official_results": true,
+   "data_source": "Jasper County, IL",
+   "official_results": false,
    "pct_off_official": 0.004,
    "completeness": "C2",
    "notes": ""
@@ -1217,28 +1233,28 @@
    "is_mappable": true,
    "votes_D": 120077,
    "votes_R": 99260,
-   "votes_other": 4197,
-   "total_votes": 223534,
-   "pct_D": 53.7,
-   "pct_R": 44.4,
+   "votes_other": 3027,
+   "total_votes": 222364,
+   "pct_D": 54.0,
+   "pct_R": 44.6,
    "modes": {
-    "election_day": {
-     "votes_D": 38614,
-     "votes_R": 40100,
-     "votes_other": 2165
-    },
     "early_in_person": {
      "votes_D": 49183,
      "votes_R": 48065,
-     "votes_other": 1194
+     "votes_other": 867
+    },
+    "election_day": {
+     "votes_D": 38614,
+     "votes_R": 40100,
+     "votes_other": 1601
     },
     "mail": {
      "votes_D": 32280,
      "votes_R": 11095,
-     "votes_other": 838
+     "votes_other": 559
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Kane County, IL",
    "official_results": true,
    "pct_off_official": 0.0053,
    "completeness": "C3",
@@ -1250,35 +1266,35 @@
    "fips": "17091",
    "is_mappable": true,
    "votes_D": 18399,
-   "votes_R": 29170,
-   "votes_other": 216,
-   "total_votes": 47785,
-   "pct_D": 38.5,
-   "pct_R": 61.0,
+   "votes_R": 28285,
+   "votes_other": 831,
+   "total_votes": 47515,
+   "pct_D": 38.7,
+   "pct_R": 59.5,
    "modes": {
-    "election_day": {
-     "votes_D": 8984,
-     "votes_R": 19138,
-     "votes_other": 149
+    "mail": {
+     "votes_D": 3142,
+     "votes_R": 1853,
+     "votes_other": 118
     },
     "early_in_person": {
      "votes_D": 6182,
-     "votes_R": 7989,
-     "votes_other": 42
+     "votes_R": 7816,
+     "votes_other": 152
     },
-    "mail": {
-     "votes_D": 3142,
-     "votes_R": 1981,
-     "votes_other": 25
+    "election_day": {
+     "votes_D": 8984,
+     "votes_R": 18558,
+     "votes_other": 557
     },
-    "provisional": {
+    "late_mail": {
      "votes_D": 91,
-     "votes_R": 62,
-     "votes_other": 0
+     "votes_R": 58,
+     "votes_other": 4
     }
    },
-   "data_source": "County-Web",
-   "official_results": false,
+   "data_source": "Kankakee County, IL",
+   "official_results": true,
    "pct_off_official": 0.0011,
    "completeness": "C4",
    "notes": ""
@@ -1343,36 +1359,36 @@
    "pct_D": 59.7,
    "pct_R": 38.9,
    "modes": {
-    "election_day": {
-     "votes_D": 55904,
-     "votes_R": 50048,
-     "votes_other": 2231
-    },
     "early_in_person": {
      "votes_D": 74125,
      "votes_R": 54795,
      "votes_other": 1218
     },
+    "election_day": {
+     "votes_D": 55904,
+     "votes_R": 50048,
+     "votes_other": 2231
+    },
+    "late_mail": {
+     "votes_D": 12919,
+     "votes_R": 4287,
+     "votes_other": 329
+    },
     "mail": {
      "votes_D": 41694,
      "votes_R": 11272,
      "votes_other": 501
-    },
-    "provisional": {
-     "votes_D": 12919,
-     "votes_R": 4287,
-     "votes_other": 329
     }
    },
-   "data_source": "County-Web",
-   "official_results": false,
+   "data_source": "Lake County, IL",
+   "official_results": true,
    "pct_off_official": 0.0185,
    "completeness": "C4",
    "notes": ""
   },
   "17099": {
    "name": "LaSalle",
-   "raw_name": "LaSalle",
+   "raw_name": "Lasalle",
    "fips": "17099",
    "is_mappable": true,
    "votes_D": 21029,
@@ -1473,33 +1489,33 @@
    "is_mappable": true,
    "votes_D": 3543,
    "votes_R": 8757,
-   "votes_other": 425,
-   "total_votes": 12725,
-   "pct_D": 27.8,
-   "pct_R": 68.8,
+   "votes_other": 255,
+   "total_votes": 12555,
+   "pct_D": 28.2,
+   "pct_R": 69.7,
    "modes": {
-    "election_day": {
-     "votes_D": 1943,
-     "votes_R": 6021,
-     "votes_other": 291
+    "mail": {
+     "votes_D": 795,
+     "votes_R": 713,
+     "votes_other": 47
     },
     "early_in_person": {
      "votes_D": 747,
      "votes_R": 1957,
-     "votes_other": 50
+     "votes_other": 25
     },
-    "mail": {
-     "votes_D": 795,
-     "votes_R": 713,
-     "votes_other": 77
+    "election_day": {
+     "votes_D": 1943,
+     "votes_R": 6021,
+     "votes_other": 182
     },
     "provisional": {
      "votes_D": 58,
      "votes_R": 66,
-     "votes_other": 7
+     "votes_other": 1
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Logan County, IL",
    "official_results": true,
    "pct_off_official": 0.0075,
    "completeness": "C4",
@@ -1541,26 +1557,31 @@
    "pct_D": 29.4,
    "pct_R": 68.6,
    "modes": {
-    "election_day": {
-     "votes_D": 3601,
-     "votes_R": 11554,
-     "votes_other": 326
-    },
     "early_in_person": {
      "votes_D": 1345,
      "votes_R": 3048,
      "votes_other": 54
     },
+    "election_day": {
+     "votes_D": 3601,
+     "votes_R": 11554,
+     "votes_other": 326
+    },
+    "late_mail": {
+     "votes_D": 24,
+     "votes_R": 39,
+     "votes_other": 2
+    },
     "mail": {
-     "votes_D": 1946,
-     "votes_R": 1463,
-     "votes_other": 88
+     "votes_D": 1922,
+     "votes_R": 1424,
+     "votes_other": 86
     }
    },
-   "data_source": "County-Web",
-   "official_results": false,
+   "data_source": "Macoupin County, IL",
+   "official_results": true,
    "pct_off_official": 0.0043,
-   "completeness": "C3",
+   "completeness": "C4",
    "notes": ""
   },
   "17119": {
@@ -1575,15 +1596,15 @@
    "pct_D": 42.2,
    "pct_R": 55.3,
    "modes": {
-    "election_day": {
-     "votes_D": 24483,
-     "votes_R": 42481,
-     "votes_other": 2063
-    },
     "early_in_person": {
      "votes_D": 20306,
      "votes_R": 26412,
      "votes_other": 759
+    },
+    "election_day": {
+     "votes_D": 24483,
+     "votes_R": 42481,
+     "votes_other": 2063
     },
     "mail": {
      "votes_D": 11552,
@@ -1591,7 +1612,7 @@
      "votes_other": 495
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Madison County, IL",
    "official_results": true,
    "pct_off_official": 0.0035,
    "completeness": "C3",
@@ -1609,15 +1630,15 @@
    "pct_D": 24.6,
    "pct_R": 74.1,
    "modes": {
-    "election_day": {
-     "votes_D": 2444,
-     "votes_R": 8396,
-     "votes_other": 157
-    },
     "early_in_person": {
      "votes_D": 946,
      "votes_R": 3276,
      "votes_other": 32
+    },
+    "election_day": {
+     "votes_D": 2444,
+     "votes_R": 8396,
+     "votes_other": 157
     },
     "mail": {
      "votes_D": 726,
@@ -1625,7 +1646,7 @@
      "votes_other": 42
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Marion County, IL",
    "official_results": true,
    "pct_off_official": 0.0032,
    "completeness": "C3",
@@ -1686,36 +1707,36 @@
    "is_mappable": true,
    "votes_D": 1678,
    "votes_R": 4936,
-   "votes_other": 0,
-   "total_votes": 6614,
-   "pct_D": 25.4,
-   "pct_R": 74.6,
+   "votes_other": 54,
+   "total_votes": 6668,
+   "pct_D": 25.2,
+   "pct_R": 74.0,
    "modes": {
-    "election_day": {
-     "votes_D": 952,
-     "votes_R": 3401,
-     "votes_other": 0
-    },
     "early_in_person": {
      "votes_D": 493,
      "votes_R": 1301,
-     "votes_other": 0
+     "votes_other": 7
+    },
+    "election_day": {
+     "votes_D": 952,
+     "votes_R": 3401,
+     "votes_other": 45
     },
     "mail": {
      "votes_D": 233,
      "votes_R": 234,
-     "votes_other": 0
+     "votes_other": 2
     }
    },
-   "data_source": "County-PDF",
-   "official_results": true,
+   "data_source": "Massac County, IL",
+   "official_results": false,
    "pct_off_official": 0.0133,
    "completeness": "C3",
    "notes": ""
   },
   "17109": {
    "name": "McDonough",
-   "raw_name": "McDonough",
+   "raw_name": "Mcdonough",
    "fips": "17109",
    "is_mappable": true,
    "votes_D": 4736,
@@ -1739,7 +1760,7 @@
   },
   "17111": {
    "name": "McHenry",
-   "raw_name": "McHenry",
+   "raw_name": "Mchenry",
    "fips": "17111",
    "is_mappable": true,
    "votes_D": 75370,
@@ -1749,63 +1770,68 @@
    "pct_D": 46.6,
    "pct_R": 51.9,
    "modes": {
-    "election_day": {
-     "votes_D": 22830,
-     "votes_R": 35634,
-     "votes_other": 1250
-    },
     "early_in_person": {
      "votes_D": 31208,
      "votes_R": 40355,
      "votes_other": 680
     },
+    "election_day": {
+     "votes_D": 22830,
+     "votes_R": 35634,
+     "votes_other": 1250
+    },
     "mail": {
-     "votes_D": 21332,
-     "votes_R": 7944,
-     "votes_other": 466
+     "votes_D": 17745,
+     "votes_R": 6210,
+     "votes_other": 346
+    },
+    "late_mail": {
+     "votes_D": 3587,
+     "votes_R": 1734,
+     "votes_other": 120
     }
    },
-   "data_source": "County-Web",
-   "official_results": false,
+   "data_source": "Mchenry County, IL",
+   "official_results": true,
    "pct_off_official": 0.012,
-   "completeness": "C3",
+   "completeness": "C4",
    "notes": ""
   },
   "17113": {
    "name": "McLean",
-   "raw_name": "McLean",
+   "raw_name": "Mclean",
    "fips": "17113",
    "is_mappable": true,
    "votes_D": 44495,
    "votes_R": 40290,
-   "votes_other": 2330,
-   "total_votes": 87115,
-   "pct_D": 51.1,
-   "pct_R": 46.2,
+   "votes_other": 1875,
+   "total_votes": 86660,
+   "pct_D": 51.3,
+   "pct_R": 46.5,
    "modes": {
     "election_day": {
-     "votes_D": 17919,
-     "votes_R": 22591,
-     "votes_other": 1348
+     "votes_D": 17417,
+     "votes_R": 22252,
+     "votes_other": 1048
     },
     "early_in_person": {
-     "votes_D": 17008,
-     "votes_R": 13606,
-     "votes_other": 568
+     "votes_D": 17510,
+     "votes_R": 13945,
+     "votes_other": 492
+    },
+    "late_mail": {
+     "votes_D": 683,
+     "votes_R": 389,
+     "votes_other": 54
     },
     "mail": {
      "votes_D": 8885,
      "votes_R": 3704,
-     "votes_other": 342
-    },
-    "provisional": {
-     "votes_D": 683,
-     "votes_R": 389,
-     "votes_other": 72
+     "votes_other": 281
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Mclean County, IL",
+   "official_results": true,
    "pct_off_official": 0.004,
    "completeness": "C4",
    "notes": ""
@@ -1817,28 +1843,28 @@
    "is_mappable": true,
    "votes_D": 1828,
    "votes_R": 4495,
-   "votes_other": 90,
-   "total_votes": 6413,
-   "pct_D": 28.5,
-   "pct_R": 70.1,
+   "votes_other": 123,
+   "total_votes": 6446,
+   "pct_D": 28.4,
+   "pct_R": 69.7,
    "modes": {
-    "election_day": {
-     "votes_D": 930,
-     "votes_R": 3264,
-     "votes_other": 59
-    },
     "early_in_person": {
      "votes_D": 576,
      "votes_R": 1036,
-     "votes_other": 19
+     "votes_other": 25
+    },
+    "election_day": {
+     "votes_D": 930,
+     "votes_R": 3264,
+     "votes_other": 83
     },
     "mail": {
      "votes_D": 322,
      "votes_R": 195,
-     "votes_other": 12
+     "votes_other": 15
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Menard County, IL",
    "official_results": false,
    "pct_off_official": 0.0079,
    "completeness": "C3",
@@ -1880,15 +1906,15 @@
    "pct_D": 30.8,
    "pct_R": 66.9,
    "modes": {
-    "election_day": {
-     "votes_D": 2857,
-     "votes_R": 8110,
-     "votes_other": 302
-    },
     "early_in_person": {
      "votes_D": 2351,
      "votes_R": 4982,
      "votes_other": 110
+    },
+    "election_day": {
+     "votes_D": 2857,
+     "votes_R": 8110,
+     "votes_other": 302
     },
     "mail": {
      "votes_D": 1265,
@@ -1896,7 +1922,7 @@
      "votes_other": 74
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Monroe County, IL",
    "official_results": true,
    "pct_off_official": 0.0006,
    "completeness": "C3",
@@ -2005,29 +2031,29 @@
    "is_mappable": true,
    "votes_D": 40564,
    "votes_R": 36896,
-   "votes_other": 1678,
-   "total_votes": 79138,
-   "pct_D": 51.3,
-   "pct_R": 46.6,
+   "votes_other": 1271,
+   "total_votes": 78731,
+   "pct_D": 51.5,
+   "pct_R": 46.9,
    "modes": {
-    "election_day": {
-     "votes_D": 15561,
-     "votes_R": 19055,
-     "votes_other": 944
-    },
     "early_in_person": {
      "votes_D": 11220,
      "votes_R": 11927,
-     "votes_other": 315
+     "votes_other": 213
+    },
+    "election_day": {
+     "votes_D": 15561,
+     "votes_R": 19055,
+     "votes_other": 739
     },
     "mail": {
      "votes_D": 13783,
      "votes_R": 5914,
-     "votes_other": 419
+     "votes_other": 319
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Peoria County, IL",
+   "official_results": true,
    "pct_off_official": 0.0124,
    "completeness": "C3",
    "notes": ""
@@ -2092,15 +2118,15 @@
    "pct_D": 17.3,
    "pct_R": 81.1,
    "modes": {
-    "election_day": {
-     "votes_D": 687,
-     "votes_R": 4267,
-     "votes_other": 81
-    },
     "early_in_person": {
      "votes_D": 377,
      "votes_R": 1497,
      "votes_other": 20
+    },
+    "election_day": {
+     "votes_D": 687,
+     "votes_R": 4267,
+     "votes_other": 81
     },
     "mail": {
      "votes_D": 238,
@@ -2108,7 +2134,7 @@
      "votes_other": 17
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Pike County, IL",
    "official_results": true,
    "pct_off_official": 0.0029,
    "completeness": "C3",
@@ -2191,33 +2217,23 @@
    "raw_name": "Randolph",
    "fips": "17157",
    "is_mappable": true,
-   "votes_D": 3476,
-   "votes_R": 10664,
-   "votes_other": 247,
-   "total_votes": 14387,
-   "pct_D": 24.2,
-   "pct_R": 74.1,
+   "votes_D": 3461,
+   "votes_R": 10624,
+   "votes_other": 289,
+   "total_votes": 14374,
+   "pct_D": 24.1,
+   "pct_R": 73.9,
    "modes": {
-    "election_day": {
-     "votes_D": 2132,
-     "votes_R": 8313,
-     "votes_other": 186
-    },
-    "early_in_person": {
-     "votes_D": 15,
-     "votes_R": 40,
-     "votes_other": 0
-    },
-    "mail": {
-     "votes_D": 1329,
-     "votes_R": 2311,
-     "votes_other": 61
+    "total": {
+     "votes_D": 3461,
+     "votes_R": 10624,
+     "votes_other": 289
     }
    },
-   "data_source": "County-Web",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0009,
-   "completeness": "C3",
+   "completeness": "U",
    "notes": ""
   },
   "17159": {
@@ -2323,28 +2339,28 @@
    "is_mappable": true,
    "votes_D": 961,
    "votes_R": 2720,
-   "votes_other": 75,
-   "total_votes": 3756,
+   "votes_other": 78,
+   "total_votes": 3759,
    "pct_D": 25.6,
    "pct_R": 72.4,
    "modes": {
+    "early_in_person": {
+     "votes_D": 250,
+     "votes_R": 675,
+     "votes_other": 18
+    },
     "election_day": {
      "votes_D": 459,
      "votes_R": 1820,
      "votes_other": 45
     },
-    "early_in_person": {
-     "votes_D": 250,
-     "votes_R": 675,
-     "votes_other": 17
-    },
     "mail": {
      "votes_D": 252,
      "votes_R": 225,
-     "votes_other": 13
+     "votes_other": 15
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Schuyler County, IL",
    "official_results": true,
    "pct_off_official": 0.0037,
    "completeness": "C3",
@@ -2429,23 +2445,23 @@
    "is_mappable": true,
    "votes_D": 725,
    "votes_R": 1983,
-   "votes_other": 0,
-   "total_votes": 2708,
-   "pct_D": 26.8,
-   "pct_R": 73.2,
+   "votes_other": 57,
+   "total_votes": 2765,
+   "pct_D": 26.2,
+   "pct_R": 71.7,
    "modes": {
-    "election_day": {
-     "votes_D": 438,
-     "votes_R": 1478,
-     "votes_other": 0
-    },
     "pre_election_day": {
      "votes_D": 287,
      "votes_R": 505,
-     "votes_other": 0
+     "votes_other": 22
+    },
+    "election_day": {
+     "votes_D": 438,
+     "votes_R": 1478,
+     "votes_other": 35
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Stark County, IL",
    "official_results": true,
    "pct_off_official": 0.0206,
    "completeness": "C2",
@@ -2631,15 +2647,15 @@
    "pct_D": 14.0,
    "pct_R": 84.9,
    "modes": {
-    "election_day": {
-     "votes_D": 639,
-     "votes_R": 4939,
-     "votes_other": 72
-    },
     "early_in_person": {
      "votes_D": 288,
      "votes_R": 1579,
      "votes_other": 11
+    },
+    "election_day": {
+     "votes_D": 639,
+     "votes_R": 4939,
+     "votes_other": 72
     },
     "mail": {
      "votes_D": 226,
@@ -2647,8 +2663,8 @@
      "votes_other": 10
     }
    },
-   "data_source": "County-Web",
-   "official_results": true,
+   "data_source": "Wayne County, IL",
+   "official_results": false,
    "pct_off_official": 0.0046,
    "completeness": "C3",
    "notes": ""
@@ -2713,15 +2729,15 @@
    "pct_D": 49.7,
    "pct_R": 48.1,
    "modes": {
-    "election_day": {
-     "votes_D": 70818,
-     "votes_R": 84330,
-     "votes_other": 4491
-    },
     "early_in_person": {
      "votes_D": 56909,
      "votes_R": 60190,
      "votes_other": 1505
+    },
+    "election_day": {
+     "votes_D": 70818,
+     "votes_R": 84330,
+     "votes_other": 4491
     },
     "mail": {
      "votes_D": 35147,
@@ -2729,8 +2745,8 @@
      "votes_other": 1062
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Will County, IL",
+   "official_results": true,
    "pct_off_official": 0.012,
    "completeness": "C3",
    "notes": ""
@@ -2771,26 +2787,31 @@
    "pct_D": 49.1,
    "pct_R": 48.6,
    "modes": {
-    "election_day": {
-     "votes_D": 28417,
-     "votes_R": 38008,
-     "votes_other": 1846
+    "late_mail": {
+     "votes_D": 1176,
+     "votes_R": 446,
+     "votes_other": 90
     },
     "early_in_person": {
      "votes_D": 16229,
      "votes_R": 15336,
      "votes_other": 437
     },
+    "election_day": {
+     "votes_D": 28417,
+     "votes_R": 38008,
+     "votes_other": 1846
+    },
     "mail": {
-     "votes_D": 15296,
-     "votes_R": 5913,
-     "votes_other": 536
+     "votes_D": 14120,
+     "votes_R": 5467,
+     "votes_other": 446
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Winnebago County, IL",
    "official_results": true,
    "pct_off_official": 0.0042,
-   "completeness": "C3",
+   "completeness": "C4",
    "notes": ""
   },
   "17203": {

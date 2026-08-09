@@ -4,16 +4,16 @@
  "unit_type": "county",
  "avg_completeness": "C2",
  "completeness_breakdown": {
-  "C2": 26,
+  "C2": 27,
   "C1": 4,
-  "C3": 12,
-  "U": 13,
-  "C4": 3
+  "C3": 11,
+  "U": 12,
+  "C4": 4
  },
- "votes_D": 9273927,
- "votes_R": 6078780,
- "votes_other": 513708,
- "total_votes": 15866415,
+ "votes_D": 9275613,
+ "votes_R": 6080936,
+ "votes_other": 502663,
+ "total_votes": 15859212,
  "pct_D": 58.5,
  "pct_R": 38.3,
  "unit_count": 58,
@@ -27,38 +27,39 @@
   ],
   "mode_split": {
    "mail": 77.7,
-   "election_day": 16.2,
-   "total": 3.8,
-   "provisional": 1.2,
-   "in_person": 1.1,
+   "in_person": 13.1,
+   "election_day": 4.1,
+   "total": 3.7,
+   "late_mail": 0.8,
+   "provisional": 0.5,
    "early_in_person": 0.1
   }
  },
  "units": {
   "06001": {
    "name": "Alameda",
-   "raw_name": "ALAMEDA",
+   "raw_name": "Alameda",
    "fips": "06001",
    "is_mappable": true,
-   "votes_D": 499366,
-   "votes_R": 140643,
-   "votes_other": 29559,
-   "total_votes": 669568,
+   "votes_D": 499551,
+   "votes_R": 140789,
+   "votes_other": 29567,
+   "total_votes": 669907,
    "pct_D": 74.6,
    "pct_R": 21.0,
    "modes": {
-    "in_person": {
-     "votes_D": 51975,
-     "votes_R": 28814,
-     "votes_other": 4437
+    "election_day": {
+     "votes_D": 52085,
+     "votes_R": 28923,
+     "votes_other": 4443
     },
     "mail": {
-     "votes_D": 447391,
-     "votes_R": 111829,
-     "votes_other": 25122
+     "votes_D": 447466,
+     "votes_R": 111866,
+     "votes_other": 25124
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Alameda County, CA",
    "official_results": true,
    "pct_off_official": 0.0001,
    "completeness": "C2",
@@ -66,7 +67,7 @@
   },
   "06003": {
    "name": "Alpine",
-   "raw_name": "ALPINE",
+   "raw_name": "Alpine",
    "fips": "06003",
    "is_mappable": true,
    "votes_D": 479,
@@ -82,7 +83,7 @@
      "votes_other": 16
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C1",
@@ -90,7 +91,7 @@
   },
   "06005": {
    "name": "Amador",
-   "raw_name": "AMADOR",
+   "raw_name": "Amador",
    "fips": "06005",
    "is_mappable": true,
    "votes_D": 7783,
@@ -111,7 +112,7 @@
      "votes_other": 492
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Amador County, CA",
    "official_results": true,
    "pct_off_official": 0.0082,
    "completeness": "C2",
@@ -119,7 +120,7 @@
   },
   "06007": {
    "name": "Butte",
-   "raw_name": "BUTTE",
+   "raw_name": "Butte",
    "fips": "06007",
    "is_mappable": true,
    "votes_D": 44228,
@@ -129,23 +130,23 @@
    "pct_D": 46.8,
    "pct_R": 49.9,
    "modes": {
-    "election_day": {
+    "in_person": {
      "votes_D": 1,
      "votes_R": 1,
      "votes_other": 0
-    },
-    "mail": {
-     "votes_D": 42424,
-     "votes_R": 45115,
-     "votes_other": 3000
     },
     "provisional": {
      "votes_D": 1803,
      "votes_R": 2063,
      "votes_other": 116
+    },
+    "mail": {
+     "votes_D": 42424,
+     "votes_R": 45115,
+     "votes_other": 3000
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Butte County, CA",
    "official_results": true,
    "pct_off_official": 0.0022,
    "completeness": "C3",
@@ -153,23 +154,23 @@
   },
   "06009": {
    "name": "Calaveras",
-   "raw_name": "CALAVERAS",
+   "raw_name": "Calaveras",
    "fips": "06009",
    "is_mappable": true,
    "votes_D": 9181,
    "votes_R": 16625,
-   "votes_other": 673,
-   "total_votes": 26479,
+   "votes_other": 674,
+   "total_votes": 26480,
    "pct_D": 34.7,
    "pct_R": 62.8,
    "modes": {
     "total": {
      "votes_D": 9181,
      "votes_R": 16625,
-     "votes_other": 673
+     "votes_other": 674
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -177,7 +178,7 @@
   },
   "06011": {
    "name": "Colusa",
-   "raw_name": "COLUSA",
+   "raw_name": "Colusa",
    "fips": "06011",
    "is_mappable": true,
    "votes_D": 2431,
@@ -193,7 +194,7 @@
      "votes_other": 176
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C1",
@@ -201,28 +202,28 @@
   },
   "06013": {
    "name": "Contra Costa",
-   "raw_name": "CONTRA COSTA",
+   "raw_name": "Contra Costa",
    "fips": "06013",
    "is_mappable": true,
-   "votes_D": 355460,
-   "votes_R": 154751,
-   "votes_other": 17548,
-   "total_votes": 527759,
-   "pct_D": 67.4,
+   "votes_D": 355658,
+   "votes_R": 154986,
+   "votes_other": 17649,
+   "total_votes": 528293,
+   "pct_D": 67.3,
    "pct_R": 29.3,
    "modes": {
-    "in_person": {
-     "votes_D": 35809,
-     "votes_R": 31073,
-     "votes_other": 2579
+    "election_day": {
+     "votes_D": 36007,
+     "votes_R": 31303,
+     "votes_other": 2612
     },
     "mail": {
      "votes_D": 319651,
-     "votes_R": 123678,
-     "votes_other": 14969
+     "votes_R": 123683,
+     "votes_other": 15037
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Contra Costa County, CA",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -230,23 +231,23 @@
   },
   "06015": {
    "name": "Del Norte",
-   "raw_name": "DEL NORTE",
+   "raw_name": "Del Norte",
    "fips": "06015",
    "is_mappable": true,
    "votes_D": 4266,
-   "votes_R": 5991,
-   "votes_other": 299,
-   "total_votes": 10556,
+   "votes_R": 5999,
+   "votes_other": 300,
+   "total_votes": 10565,
    "pct_D": 40.4,
    "pct_R": 56.8,
    "modes": {
     "total": {
      "votes_D": 4266,
-     "votes_R": 5991,
-     "votes_other": 299
+     "votes_R": 5999,
+     "votes_other": 300
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -254,7 +255,7 @@
   },
   "06017": {
    "name": "El Dorado",
-   "raw_name": "EL DORADO",
+   "raw_name": "El Dorado",
    "fips": "06017",
    "is_mappable": true,
    "votes_D": 47703,
@@ -279,13 +280,13 @@
      "votes_R": 934,
      "votes_other": 41
     },
-    "in_person": {
+    "early_in_person": {
      "votes_D": 945,
      "votes_R": 3042,
      "votes_other": 56
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "El Dorado County, CA",
    "official_results": true,
    "pct_off_official": 0.0013,
    "completeness": "C4",
@@ -293,20 +294,20 @@
   },
   "06019": {
    "name": "Fresno",
-   "raw_name": "FRESNO",
+   "raw_name": "Fresno",
    "fips": "06019",
    "is_mappable": true,
-   "votes_D": 151438,
-   "votes_R": 165558,
-   "votes_other": 8547,
-   "total_votes": 325543,
+   "votes_D": 151538,
+   "votes_R": 165728,
+   "votes_other": 8550,
+   "total_votes": 325816,
    "pct_D": 46.5,
    "pct_R": 50.9,
    "modes": {
     "in_person": {
-     "votes_D": 22651,
-     "votes_R": 38237,
-     "votes_other": 1289
+     "votes_D": 22751,
+     "votes_R": 38407,
+     "votes_other": 1292
     },
     "mail": {
      "votes_D": 128787,
@@ -314,7 +315,7 @@
      "votes_other": 7258
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Fresno County, CA",
    "official_results": true,
    "pct_off_official": 0.0003,
    "completeness": "C2",
@@ -322,23 +323,23 @@
   },
   "06021": {
    "name": "Glenn",
-   "raw_name": "GLENN",
+   "raw_name": "Glenn",
    "fips": "06021",
    "is_mappable": true,
-   "votes_D": 3191,
-   "votes_R": 6737,
-   "votes_other": 273,
-   "total_votes": 10201,
-   "pct_D": 31.3,
-   "pct_R": 66.0,
+   "votes_D": 3260,
+   "votes_R": 6904,
+   "votes_other": 278,
+   "total_votes": 10442,
+   "pct_D": 31.2,
+   "pct_R": 66.1,
    "modes": {
     "total": {
-     "votes_D": 3191,
-     "votes_R": 6737,
-     "votes_other": 273
+     "votes_D": 3260,
+     "votes_R": 6904,
+     "votes_other": 278
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -346,28 +347,28 @@
   },
   "06023": {
    "name": "Humboldt",
-   "raw_name": "HUMBOLDT",
+   "raw_name": "Humboldt",
    "fips": "06023",
    "is_mappable": true,
    "votes_D": 39800,
    "votes_R": 21559,
-   "votes_other": 2873,
-   "total_votes": 64232,
+   "votes_other": 2869,
+   "total_votes": 64228,
    "pct_D": 62.0,
    "pct_R": 33.6,
    "modes": {
     "in_person": {
      "votes_D": 5874,
      "votes_R": 5337,
-     "votes_other": 565
+     "votes_other": 564
     },
     "mail": {
      "votes_D": 33926,
      "votes_R": 16222,
-     "votes_other": 2308
+     "votes_other": 2305
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Humboldt County, CA",
    "official_results": true,
    "pct_off_official": 0.0013,
    "completeness": "C2",
@@ -375,7 +376,7 @@
   },
   "06025": {
    "name": "Imperial",
-   "raw_name": "IMPERIAL",
+   "raw_name": "Imperial",
    "fips": "06025",
    "is_mappable": true,
    "votes_D": 26083,
@@ -385,15 +386,15 @@
    "pct_D": 48.3,
    "pct_R": 49.1,
    "modes": {
-    "election_day": {
-     "votes_D": 7519,
-     "votes_R": 10439,
-     "votes_other": 473
-    },
     "early_in_person": {
      "votes_D": 177,
      "votes_R": 273,
      "votes_other": 5
+    },
+    "election_day": {
+     "votes_D": 7519,
+     "votes_R": 10439,
+     "votes_other": 473
     },
     "mail": {
      "votes_D": 18387,
@@ -401,7 +402,7 @@
      "votes_other": 931
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Imperial County, CA",
    "official_results": true,
    "pct_off_official": 0.008,
    "completeness": "C3",
@@ -409,23 +410,23 @@
   },
   "06027": {
    "name": "Inyo",
-   "raw_name": "INYO",
+   "raw_name": "Inyo",
    "fips": "06027",
    "is_mappable": true,
-   "votes_D": 4199,
-   "votes_R": 4451,
-   "votes_other": 280,
-   "total_votes": 8930,
-   "pct_D": 47.0,
-   "pct_R": 49.8,
+   "votes_D": 4201,
+   "votes_R": 4468,
+   "votes_other": 284,
+   "total_votes": 8953,
+   "pct_D": 46.9,
+   "pct_R": 49.9,
    "modes": {
     "total": {
-     "votes_D": 4199,
-     "votes_R": 4451,
-     "votes_other": 280
+     "votes_D": 4201,
+     "votes_R": 4468,
+     "votes_other": 284
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -433,20 +434,20 @@
   },
   "06029": {
    "name": "Kern",
-   "raw_name": "KERN",
+   "raw_name": "Kern",
    "fips": "06029",
    "is_mappable": true,
-   "votes_D": 108047,
-   "votes_R": 167414,
-   "votes_other": 7194,
-   "total_votes": 282655,
+   "votes_D": 108162,
+   "votes_R": 167680,
+   "votes_other": 7198,
+   "total_votes": 283040,
    "pct_D": 38.2,
    "pct_R": 59.2,
    "modes": {
     "election_day": {
-     "votes_D": 15208,
-     "votes_R": 32036,
-     "votes_other": 1070
+     "votes_D": 15323,
+     "votes_R": 32302,
+     "votes_other": 1074
     },
     "mail": {
      "votes_D": 92839,
@@ -454,7 +455,7 @@
      "votes_other": 6124
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Kern County, CA",
    "official_results": true,
    "pct_off_official": 0.0003,
    "completeness": "C2",
@@ -462,28 +463,28 @@
   },
   "06031": {
    "name": "Kings",
-   "raw_name": "KINGS",
+   "raw_name": "Kings",
    "fips": "06031",
    "is_mappable": true,
    "votes_D": 15519,
    "votes_R": 25074,
-   "votes_other": 908,
-   "total_votes": 41501,
-   "pct_D": 37.4,
-   "pct_R": 60.4,
+   "votes_other": 790,
+   "total_votes": 41383,
+   "pct_D": 37.5,
+   "pct_R": 60.6,
    "modes": {
-    "in_person": {
-     "votes_D": 1993,
-     "votes_R": 4616,
-     "votes_other": 88
-    },
     "mail": {
      "votes_D": 13526,
      "votes_R": 20458,
-     "votes_other": 820
+     "votes_other": 717
+    },
+    "in_person": {
+     "votes_D": 1993,
+     "votes_R": 4616,
+     "votes_other": 73
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Kings County, CA",
    "official_results": true,
    "pct_off_official": 0.004,
    "completeness": "C2",
@@ -491,13 +492,13 @@
   },
   "06033": {
    "name": "Lake",
-   "raw_name": "LAKE",
+   "raw_name": "Lake",
    "fips": "06033",
    "is_mappable": true,
    "votes_D": 12794,
    "votes_R": 13161,
-   "votes_other": 806,
-   "total_votes": 26761,
+   "votes_other": 804,
+   "total_votes": 26759,
    "pct_D": 47.8,
    "pct_R": 49.2,
    "modes": {
@@ -509,10 +510,10 @@
     "mail": {
      "votes_D": 11532,
      "votes_R": 10983,
-     "votes_other": 710
+     "votes_other": 708
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Lake County, CA",
    "official_results": true,
    "pct_off_official": 0.0004,
    "completeness": "C2",
@@ -520,23 +521,23 @@
   },
   "06035": {
    "name": "Lassen",
-   "raw_name": "LASSEN",
+   "raw_name": "Lassen",
    "fips": "06035",
    "is_mappable": true,
-   "votes_D": 2455,
-   "votes_R": 8517,
-   "votes_other": 272,
-   "total_votes": 11244,
+   "votes_D": 2478,
+   "votes_R": 8619,
+   "votes_other": 274,
+   "total_votes": 11371,
    "pct_D": 21.8,
-   "pct_R": 75.7,
+   "pct_R": 75.8,
    "modes": {
     "total": {
-     "votes_D": 2455,
-     "votes_R": 8517,
-     "votes_other": 272
+     "votes_D": 2478,
+     "votes_R": 8619,
+     "votes_other": 274
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -544,7 +545,7 @@
   },
   "06037": {
    "name": "Los Angeles",
-   "raw_name": "LOS ANGELES",
+   "raw_name": "Los Angeles",
    "fips": "06037",
    "is_mappable": true,
    "votes_D": 2417109,
@@ -565,7 +566,7 @@
      "votes_other": 87699
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Los Angeles County, CA",
    "official_results": true,
    "pct_off_official": 0.0003,
    "completeness": "C2",
@@ -573,28 +574,28 @@
   },
   "06039": {
    "name": "Madera",
-   "raw_name": "MADERA",
+   "raw_name": "Madera",
    "fips": "06039",
    "is_mappable": true,
-   "votes_D": 20946,
-   "votes_R": 32294,
-   "votes_other": 1296,
-   "total_votes": 54536,
+   "votes_D": 20981,
+   "votes_R": 32344,
+   "votes_other": 1307,
+   "total_votes": 54632,
    "pct_D": 38.4,
    "pct_R": 59.2,
    "modes": {
     "in_person": {
-     "votes_D": 2404,
-     "votes_R": 5843,
-     "votes_other": 170
+     "votes_D": 2424,
+     "votes_R": 5875,
+     "votes_other": 174
     },
     "mail": {
-     "votes_D": 18542,
-     "votes_R": 26451,
-     "votes_other": 1126
+     "votes_D": 18557,
+     "votes_R": 26469,
+     "votes_other": 1133
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Madera County, CA",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -602,20 +603,20 @@
   },
   "06041": {
    "name": "Marin",
-   "raw_name": "MARIN",
+   "raw_name": "Marin",
    "fips": "06041",
    "is_mappable": true,
-   "votes_D": 116066,
-   "votes_R": 24016,
-   "votes_other": 3920,
-   "total_votes": 144002,
+   "votes_D": 116124,
+   "votes_R": 24036,
+   "votes_other": 3922,
+   "total_votes": 144082,
    "pct_D": 80.6,
    "pct_R": 16.7,
    "modes": {
     "in_person": {
-     "votes_D": 11070,
-     "votes_R": 4284,
-     "votes_other": 577
+     "votes_D": 11128,
+     "votes_R": 4304,
+     "votes_other": 579
     },
     "mail": {
      "votes_D": 104996,
@@ -623,7 +624,7 @@
      "votes_other": 3343
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Marin County, CA",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -631,52 +632,57 @@
   },
   "06043": {
    "name": "Mariposa",
-   "raw_name": "MARIPOSA",
+   "raw_name": "Mariposa",
    "fips": "06043",
    "is_mappable": true,
-   "votes_D": 3597,
-   "votes_R": 5562,
-   "votes_other": 260,
-   "total_votes": 9419,
-   "pct_D": 38.2,
-   "pct_R": 59.1,
+   "votes_D": 3622,
+   "votes_R": 5625,
+   "votes_other": 262,
+   "total_votes": 9509,
+   "pct_D": 38.1,
+   "pct_R": 59.2,
    "modes": {
-    "total": {
-     "votes_D": 3597,
-     "votes_R": 5562,
-     "votes_other": 260
+    "provisional": {
+     "votes_D": 43,
+     "votes_R": 115,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 3579,
+     "votes_R": 5510,
+     "votes_other": 258
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Mariposa County, CA",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "U",
+   "completeness": "C2",
    "notes": ""
   },
   "06045": {
    "name": "Mendocino",
-   "raw_name": "MENDOCINO",
+   "raw_name": "Mendocino",
    "fips": "06045",
    "is_mappable": true,
    "votes_D": 24049,
    "votes_R": 13528,
-   "votes_other": 1642,
-   "total_votes": 39219,
+   "votes_other": 1639,
+   "total_votes": 39216,
    "pct_D": 61.3,
    "pct_R": 34.5,
    "modes": {
+    "mail": {
+     "votes_D": 22888,
+     "votes_R": 12364,
+     "votes_other": 1523
+    },
     "election_day": {
      "votes_D": 1161,
      "votes_R": 1164,
      "votes_other": 116
-    },
-    "mail": {
-     "votes_D": 22888,
-     "votes_R": 12364,
-     "votes_other": 1526
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Mendocino County, CA",
    "official_results": true,
    "pct_off_official": 0.0104,
    "completeness": "C2",
@@ -684,38 +690,38 @@
   },
   "06047": {
    "name": "Merced",
-   "raw_name": "MERCED",
+   "raw_name": "Merced",
    "fips": "06047",
    "is_mappable": true,
    "votes_D": 40190,
    "votes_R": 43955,
-   "votes_other": 0,
-   "total_votes": 84145,
-   "pct_D": 47.8,
-   "pct_R": 52.2,
+   "votes_other": 2539,
+   "total_votes": 86684,
+   "pct_D": 46.4,
+   "pct_R": 50.7,
    "modes": {
-    "election_day": {
-     "votes_D": 3266,
-     "votes_R": 5243,
-     "votes_other": 0
-    },
     "early_in_person": {
      "votes_D": 774,
      "votes_R": 1919,
-     "votes_other": 0
+     "votes_other": 43
     },
-    "mail": {
-     "votes_D": 34751,
-     "votes_R": 35593,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 3266,
+     "votes_R": 5243,
+     "votes_other": 203
     },
     "provisional": {
      "votes_D": 1399,
      "votes_R": 1200,
-     "votes_other": 0
+     "votes_other": 54
+    },
+    "mail": {
+     "votes_D": 34751,
+     "votes_R": 35593,
+     "votes_other": 2239
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Merced County, CA",
    "official_results": true,
    "pct_off_official": 0.01,
    "completeness": "C4",
@@ -723,25 +729,25 @@
   },
   "06049": {
    "name": "Modoc",
-   "raw_name": "MODOC",
+   "raw_name": "Modoc",
    "fips": "06049",
    "is_mappable": true,
    "votes_D": 1008,
    "votes_R": 2884,
-   "votes_other": 124,
-   "total_votes": 4016,
-   "pct_D": 25.1,
-   "pct_R": 71.8,
+   "votes_other": 135,
+   "total_votes": 4027,
+   "pct_D": 25.0,
+   "pct_R": 71.6,
    "modes": {
     "election_day": {
      "votes_D": 38,
      "votes_R": 222,
-     "votes_other": 5
+     "votes_other": 6
     },
     "mail": {
      "votes_D": 936,
      "votes_R": 2557,
-     "votes_other": 113
+     "votes_other": 123
     },
     "provisional": {
      "votes_D": 34,
@@ -749,7 +755,7 @@
      "votes_other": 6
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Modoc County, CA",
    "official_results": true,
    "pct_off_official": 0.0045,
    "completeness": "C3",
@@ -757,23 +763,23 @@
   },
   "06051": {
    "name": "Mono",
-   "raw_name": "MONO",
+   "raw_name": "Mono",
    "fips": "06051",
    "is_mappable": true,
-   "votes_D": 3518,
-   "votes_R": 2290,
-   "votes_other": 246,
-   "total_votes": 6054,
+   "votes_D": 3522,
+   "votes_R": 2294,
+   "votes_other": 248,
+   "total_votes": 6064,
    "pct_D": 58.1,
    "pct_R": 37.8,
    "modes": {
     "total": {
-     "votes_D": 3518,
-     "votes_R": 2290,
-     "votes_other": 246
+     "votes_D": 3522,
+     "votes_R": 2294,
+     "votes_other": 248
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -781,28 +787,28 @@
   },
   "06053": {
    "name": "Monterey",
-   "raw_name": "MONTEREY",
+   "raw_name": "Monterey",
    "fips": "06053",
    "is_mappable": true,
-   "votes_D": 92960,
-   "votes_R": 49116,
-   "votes_other": 4424,
-   "total_votes": 146500,
-   "pct_D": 63.5,
+   "votes_D": 93060,
+   "votes_R": 49226,
+   "votes_other": 4468,
+   "total_votes": 146754,
+   "pct_D": 63.4,
    "pct_R": 33.5,
    "modes": {
     "election_day": {
-     "votes_D": 8910,
-     "votes_R": 7488,
-     "votes_other": 545
+     "votes_D": 8985,
+     "votes_R": 7563,
+     "votes_other": 558
     },
     "mail": {
-     "votes_D": 84050,
-     "votes_R": 41628,
-     "votes_other": 3879
+     "votes_D": 84075,
+     "votes_R": 41663,
+     "votes_other": 3910
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Monterey County, CA",
    "official_results": true,
    "pct_off_official": 0.0015,
    "completeness": "C2",
@@ -810,23 +816,23 @@
   },
   "06055": {
    "name": "Napa",
-   "raw_name": "NAPA",
+   "raw_name": "Napa",
    "fips": "06055",
    "is_mappable": true,
-   "votes_D": 43092,
-   "votes_R": 20233,
-   "votes_other": 1972,
-   "total_votes": 65297,
-   "pct_D": 66.0,
-   "pct_R": 31.0,
+   "votes_D": 43212,
+   "votes_R": 20357,
+   "votes_other": 1992,
+   "total_votes": 65561,
+   "pct_D": 65.9,
+   "pct_R": 31.1,
    "modes": {
     "total": {
-     "votes_D": 43092,
-     "votes_R": 20233,
-     "votes_other": 1972
+     "votes_D": 43212,
+     "votes_R": 20357,
+     "votes_other": 1992
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -834,38 +840,38 @@
   },
   "06057": {
    "name": "Nevada",
-   "raw_name": "NEVADA",
+   "raw_name": "Nevada",
    "fips": "06057",
    "is_mappable": true,
    "votes_D": 33784,
    "votes_R": 26177,
-   "votes_other": 2183,
-   "total_votes": 62144,
+   "votes_other": 2171,
+   "total_votes": 62132,
    "pct_D": 54.4,
    "pct_R": 42.1,
    "modes": {
-    "election_day": {
-     "votes_D": 1204,
-     "votes_R": 2016,
-     "votes_other": 183
-    },
     "early_in_person": {
      "votes_D": 928,
      "votes_R": 2490,
      "votes_other": 61
     },
-    "mail": {
-     "votes_D": 31189,
-     "votes_R": 21084,
-     "votes_other": 1904
+    "election_day": {
+     "votes_D": 1204,
+     "votes_R": 2016,
+     "votes_other": 183
     },
     "provisional": {
      "votes_D": 463,
      "votes_R": 587,
      "votes_other": 35
+    },
+    "mail": {
+     "votes_D": 31189,
+     "votes_R": 21084,
+     "votes_other": 1892
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Nevada County, CA",
    "official_results": true,
    "pct_off_official": 0.0011,
    "completeness": "C4",
@@ -873,28 +879,28 @@
   },
   "06059": {
    "name": "Orange",
-   "raw_name": "ORANGE",
+   "raw_name": "Orange",
    "fips": "06059",
    "is_mappable": true,
    "votes_D": 691731,
    "votes_R": 654815,
-   "votes_other": 53326,
-   "total_votes": 1399872,
-   "pct_D": 49.4,
-   "pct_R": 46.8,
+   "votes_other": 44761,
+   "total_votes": 1391307,
+   "pct_D": 49.7,
+   "pct_R": 47.1,
    "modes": {
     "in_person": {
      "votes_D": 108537,
      "votes_R": 202031,
-     "votes_other": 10329
+     "votes_other": 8866
     },
     "mail": {
      "votes_D": 583194,
      "votes_R": 452784,
-     "votes_other": 42997
+     "votes_other": 35895
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Orange County, CA",
    "official_results": true,
    "pct_off_official": 0.0068,
    "completeness": "C2",
@@ -902,23 +908,23 @@
   },
   "06061": {
    "name": "Placer",
-   "raw_name": "PLACER",
+   "raw_name": "Placer",
    "fips": "06061",
    "is_mappable": true,
-   "votes_D": 103895,
-   "votes_R": 123701,
-   "votes_other": 6905,
-   "total_votes": 234501,
+   "votes_D": 103958,
+   "votes_R": 123941,
+   "votes_other": 6972,
+   "total_votes": 234871,
    "pct_D": 44.3,
    "pct_R": 52.8,
    "modes": {
     "total": {
-     "votes_D": 103895,
-     "votes_R": 123701,
-     "votes_other": 6905
+     "votes_D": 103958,
+     "votes_R": 123941,
+     "votes_other": 6972
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -926,23 +932,23 @@
   },
   "06063": {
    "name": "Plumas",
-   "raw_name": "PLUMAS",
+   "raw_name": "Plumas",
    "fips": "06063",
    "is_mappable": true,
    "votes_D": 4020,
    "votes_R": 5725,
-   "votes_other": 322,
-   "total_votes": 10067,
+   "votes_other": 325,
+   "total_votes": 10070,
    "pct_D": 39.9,
    "pct_R": 56.9,
    "modes": {
     "mail": {
      "votes_D": 4020,
      "votes_R": 5725,
-     "votes_other": 322
+     "votes_other": 325
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C1",
@@ -950,33 +956,33 @@
   },
   "06065": {
    "name": "Riverside",
-   "raw_name": "RIVERSIDE",
+   "raw_name": "Riverside",
    "fips": "06065",
    "is_mappable": true,
    "votes_D": 451782,
    "votes_R": 463677,
-   "votes_other": 25051,
-   "total_votes": 940510,
+   "votes_other": 24946,
+   "total_votes": 940405,
    "pct_D": 48.0,
    "pct_R": 49.3,
    "modes": {
-    "in_person": {
-     "votes_D": 43610,
-     "votes_R": 79025,
-     "votes_other": 2735
+    "provisional": {
+     "votes_D": 13606,
+     "votes_R": 18263,
+     "votes_other": 777
     },
     "mail": {
      "votes_D": 394566,
      "votes_R": 366389,
-     "votes_other": 21536
+     "votes_other": 21444
     },
-    "provisional": {
-     "votes_D": 13606,
-     "votes_R": 18263,
-     "votes_other": 780
+    "in_person": {
+     "votes_D": 43610,
+     "votes_R": 79025,
+     "votes_other": 2725
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Riverside County, CA",
    "official_results": true,
    "pct_off_official": 0.0013,
    "completeness": "C3",
@@ -984,7 +990,7 @@
   },
   "06067": {
    "name": "Sacramento",
-   "raw_name": "SACRAMENTO",
+   "raw_name": "Sacramento",
    "fips": "06067",
    "is_mappable": true,
    "votes_D": 381564,
@@ -994,7 +1000,12 @@
    "pct_D": 58.1,
    "pct_R": 38.4,
    "modes": {
-    "in_person": {
+    "late_mail": {
+     "votes_D": 11419,
+     "votes_R": 10641,
+     "votes_other": 817
+    },
+    "election_day": {
      "votes_D": 20921,
      "votes_R": 27319,
      "votes_other": 1682
@@ -1003,14 +1014,9 @@
      "votes_D": 349224,
      "votes_R": 214180,
      "votes_other": 20544
-    },
-    "provisional": {
-     "votes_D": 11419,
-     "votes_R": 10641,
-     "votes_other": 817
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Sacramento County, CA",
    "official_results": true,
    "pct_off_official": 0.0005,
    "completeness": "C3",
@@ -1018,20 +1024,20 @@
   },
   "06069": {
    "name": "San Benito",
-   "raw_name": "SAN BENITO",
+   "raw_name": "San Benito",
    "fips": "06069",
    "is_mappable": true,
-   "votes_D": 15165,
-   "votes_R": 11681,
-   "votes_other": 770,
-   "total_votes": 27616,
+   "votes_D": 15175,
+   "votes_R": 11701,
+   "votes_other": 771,
+   "total_votes": 27647,
    "pct_D": 54.9,
    "pct_R": 42.3,
    "modes": {
     "in_person": {
-     "votes_D": 1552,
-     "votes_R": 2246,
-     "votes_other": 114
+     "votes_D": 1562,
+     "votes_R": 2266,
+     "votes_other": 115
     },
     "mail": {
      "votes_D": 13613,
@@ -1039,7 +1045,7 @@
      "votes_other": 656
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "San Benito County, CA",
    "official_results": true,
    "pct_off_official": 0.0012,
    "completeness": "C2",
@@ -1047,33 +1053,33 @@
   },
   "06071": {
    "name": "San Bernardino",
-   "raw_name": "SAN BERNARDINO",
+   "raw_name": "San Bernardino",
    "fips": "06071",
    "is_mappable": true,
    "votes_D": 362114,
    "votes_R": 378416,
-   "votes_other": 21316,
-   "total_votes": 761846,
+   "votes_other": 21184,
+   "total_votes": 761714,
    "pct_D": 47.5,
    "pct_R": 49.7,
    "modes": {
     "mail": {
      "votes_D": 305201,
      "votes_R": 286035,
-     "votes_other": 17265
+     "votes_other": 17151
+    },
+    "election_day": {
+     "votes_D": 49851,
+     "votes_R": 81731,
+     "votes_other": 3649
     },
     "provisional": {
      "votes_D": 7062,
      "votes_R": 10650,
      "votes_other": 384
-    },
-    "in_person": {
-     "votes_D": 49851,
-     "votes_R": 81731,
-     "votes_other": 3667
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "San Bernardino County, CA",
    "official_results": true,
    "pct_off_official": 0.0035,
    "completeness": "C3",
@@ -1081,28 +1087,28 @@
   },
   "06073": {
    "name": "San Diego",
-   "raw_name": "SAN DIEGO",
+   "raw_name": "San Diego",
    "fips": "06073",
    "is_mappable": true,
    "votes_D": 841372,
    "votes_R": 593270,
-   "votes_other": 43386,
-   "total_votes": 1478028,
+   "votes_other": 43144,
+   "total_votes": 1477786,
    "pct_D": 56.9,
    "pct_R": 40.1,
    "modes": {
-    "in_person": {
-     "votes_D": 102836,
-     "votes_R": 115738,
-     "votes_other": 6831
-    },
     "mail": {
      "votes_D": 738536,
      "votes_R": 477532,
-     "votes_other": 36555
+     "votes_other": 36343
+    },
+    "in_person": {
+     "votes_D": 102836,
+     "votes_R": 115738,
+     "votes_other": 6801
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "San Diego County, CA",
    "official_results": true,
    "pct_off_official": 0.0007,
    "completeness": "C2",
@@ -1110,7 +1116,7 @@
   },
   "06075": {
    "name": "San Francisco",
-   "raw_name": "SAN FRANCISCO",
+   "raw_name": "San Francisco",
    "fips": "06075",
    "is_mappable": true,
    "votes_D": 323719,
@@ -1131,7 +1137,7 @@
      "votes_other": 13574
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "San Francisco County, CA",
    "official_results": true,
    "pct_off_official": 0.0001,
    "completeness": "C2",
@@ -1139,33 +1145,33 @@
   },
   "06077": {
    "name": "San Joaquin",
-   "raw_name": "SAN JOAQUIN",
+   "raw_name": "San Joaquin",
    "fips": "06077",
    "is_mappable": true,
    "votes_D": 126647,
    "votes_R": 128996,
-   "votes_other": 8066,
-   "total_votes": 263709,
+   "votes_other": 8028,
+   "total_votes": 263671,
    "pct_D": 48.0,
    "pct_R": 48.9,
    "modes": {
-    "election_day": {
-     "votes_D": 18534,
-     "votes_R": 28276,
-     "votes_other": 1423
-    },
     "early_in_person": {
      "votes_D": 815,
      "votes_R": 1066,
      "votes_other": 40
     },
+    "election_day": {
+     "votes_D": 18534,
+     "votes_R": 28276,
+     "votes_other": 1419
+    },
     "mail": {
      "votes_D": 107298,
      "votes_R": 99654,
-     "votes_other": 6603
+     "votes_other": 6569
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "San Joaquin County, CA",
    "official_results": true,
    "pct_off_official": 0.001,
    "completeness": "C3",
@@ -1173,28 +1179,28 @@
   },
   "06079": {
    "name": "San Luis Obispo",
-   "raw_name": "SAN LUIS OBISPO",
+   "raw_name": "San Luis Obispo",
    "fips": "06079",
    "is_mappable": true,
    "votes_D": 81314,
    "votes_R": 64932,
-   "votes_other": 4566,
-   "total_votes": 150812,
+   "votes_other": 4520,
+   "total_votes": 150766,
    "pct_D": 53.9,
    "pct_R": 43.1,
    "modes": {
+    "election_day": {
+     "votes_D": 5041,
+     "votes_R": 6607,
+     "votes_other": 380
+    },
     "mail": {
      "votes_D": 76273,
      "votes_R": 58325,
-     "votes_other": 4185
-    },
-    "in_person": {
-     "votes_D": 5041,
-     "votes_R": 6607,
-     "votes_other": 381
+     "votes_other": 4140
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "San Luis Obispo County, CA",
    "official_results": true,
    "pct_off_official": 0.0008,
    "completeness": "C2",
@@ -1202,7 +1208,7 @@
   },
   "06081": {
    "name": "San Mateo",
-   "raw_name": "SAN MATEO",
+   "raw_name": "San Mateo",
    "fips": "06081",
    "is_mappable": true,
    "votes_D": 242957,
@@ -1223,7 +1229,7 @@
      "votes_other": 9577
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "San Mateo County, CA",
    "official_results": true,
    "pct_off_official": 0.0009,
    "completeness": "C2",
@@ -1231,7 +1237,7 @@
   },
   "06083": {
    "name": "Santa Barbara",
-   "raw_name": "SANTA BARBARA",
+   "raw_name": "Santa Barbara",
    "fips": "06083",
    "is_mappable": true,
    "votes_D": 114134,
@@ -1241,26 +1247,26 @@
    "pct_D": 61.8,
    "pct_R": 35.1,
    "modes": {
-    "election_day": {
-     "votes_D": 13084,
-     "votes_R": 10846,
-     "votes_other": 810
-    },
     "mail": {
      "votes_D": 101050,
      "votes_R": 53999,
      "votes_other": 4886
+    },
+    "election_day": {
+     "votes_D": 13084,
+     "votes_R": 10846,
+     "votes_other": 810
     }
    },
-   "data_source": "County-PDF",
-   "official_results": true,
+   "data_source": "Santa Barbara County, CA",
+   "official_results": false,
    "pct_off_official": 0.0014,
    "completeness": "C2",
    "notes": ""
   },
   "06085": {
    "name": "Santa Clara",
-   "raw_name": "SANTA CLARA",
+   "raw_name": "Santa Clara",
    "fips": "06085",
    "is_mappable": true,
    "votes_D": 510744,
@@ -1281,7 +1287,7 @@
      "votes_other": 25189
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Santa Clara County, CA",
    "official_results": true,
    "pct_off_official": 0.0008,
    "completeness": "C2",
@@ -1289,7 +1295,7 @@
   },
   "06087": {
    "name": "Santa Cruz",
-   "raw_name": "SANTA CRUZ",
+   "raw_name": "Santa Cruz",
    "fips": "06087",
    "is_mappable": true,
    "votes_D": 100998,
@@ -1310,7 +1316,7 @@
      "votes_other": 4940
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Santa Cruz County, CA",
    "official_results": true,
    "pct_off_official": 0.0077,
    "completeness": "C2",
@@ -1318,28 +1324,28 @@
   },
   "06089": {
    "name": "Shasta",
-   "raw_name": "SHASTA",
+   "raw_name": "Shasta",
    "fips": "06089",
    "is_mappable": true,
    "votes_D": 27130,
    "votes_R": 59539,
-   "votes_other": 2231,
-   "total_votes": 88900,
+   "votes_other": 2250,
+   "total_votes": 88919,
    "pct_D": 30.5,
    "pct_R": 67.0,
    "modes": {
     "election_day": {
      "votes_D": 2292,
      "votes_R": 9932,
-     "votes_other": 271
+     "votes_other": 274
     },
     "mail": {
      "votes_D": 24838,
      "votes_R": 49607,
-     "votes_other": 1960
+     "votes_other": 1976
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Shasta County, CA",
    "official_results": true,
    "pct_off_official": 0.0001,
    "completeness": "C2",
@@ -1347,23 +1353,23 @@
   },
   "06091": {
    "name": "Sierra",
-   "raw_name": "SIERRA",
+   "raw_name": "Sierra",
    "fips": "06091",
    "is_mappable": true,
    "votes_D": 641,
    "votes_R": 1066,
-   "votes_other": 47,
-   "total_votes": 1754,
+   "votes_other": 48,
+   "total_votes": 1755,
    "pct_D": 36.5,
-   "pct_R": 60.8,
+   "pct_R": 60.7,
    "modes": {
     "mail": {
      "votes_D": 641,
      "votes_R": 1066,
-     "votes_other": 47
+     "votes_other": 48
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C1",
@@ -1371,23 +1377,23 @@
   },
   "06093": {
    "name": "Siskiyou",
-   "raw_name": "SISKIYOU",
+   "raw_name": "Siskiyou",
    "fips": "06093",
    "is_mappable": true,
    "votes_D": 8329,
    "votes_R": 12461,
-   "votes_other": 699,
-   "total_votes": 21489,
-   "pct_D": 38.8,
+   "votes_other": 708,
+   "total_votes": 21498,
+   "pct_D": 38.7,
    "pct_R": 58.0,
    "modes": {
     "total": {
      "votes_D": 8329,
      "votes_R": 12461,
-     "votes_other": 699
+     "votes_other": 708
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1395,33 +1401,33 @@
   },
   "06095": {
    "name": "Solano",
-   "raw_name": "SOLANO",
+   "raw_name": "Solano",
    "fips": "06095",
    "is_mappable": true,
    "votes_D": 113997,
    "votes_R": 70345,
-   "votes_other": 5541,
-   "total_votes": 189883,
-   "pct_D": 60.0,
-   "pct_R": 37.0,
+   "votes_other": 5492,
+   "total_votes": 189834,
+   "pct_D": 60.1,
+   "pct_R": 37.1,
    "modes": {
     "election_day": {
      "votes_D": 13099,
      "votes_R": 14229,
-     "votes_other": 793
-    },
-    "mail": {
-     "votes_D": 96719,
-     "votes_R": 52773,
-     "votes_other": 4500
+     "votes_other": 784
     },
     "provisional": {
      "votes_D": 4179,
      "votes_R": 3343,
-     "votes_other": 248
+     "votes_other": 247
+    },
+    "mail": {
+     "votes_D": 96719,
+     "votes_R": 52773,
+     "votes_other": 4461
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Solano County, CA",
    "official_results": true,
    "pct_off_official": 0.0016,
    "completeness": "C3",
@@ -1429,33 +1435,33 @@
   },
   "06097": {
    "name": "Sonoma",
-   "raw_name": "SONOMA",
+   "raw_name": "Sonoma",
    "fips": "06097",
    "is_mappable": true,
-   "votes_D": 179033,
-   "votes_R": 63070,
-   "votes_other": 8365,
-   "total_votes": 250468,
-   "pct_D": 71.5,
+   "votes_D": 179600,
+   "votes_R": 63426,
+   "votes_other": 8439,
+   "total_votes": 251465,
+   "pct_D": 71.4,
    "pct_R": 25.2,
    "modes": {
+    "late_mail": {
+     "votes_D": 69399,
+     "votes_R": 24966,
+     "votes_other": 4523
+    },
     "in_person": {
-     "votes_D": 8062,
-     "votes_R": 5973,
-     "votes_other": 513
+     "votes_D": 8270,
+     "votes_R": 6149,
+     "votes_other": 533
     },
     "mail": {
-     "votes_D": 101765,
-     "votes_R": 32226,
-     "votes_other": 3367
-    },
-    "late_mail": {
-     "votes_D": 69206,
-     "votes_R": 24871,
-     "votes_other": 4485
+     "votes_D": 101931,
+     "votes_R": 32311,
+     "votes_other": 3383
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Sonoma County, CA",
    "official_results": true,
    "pct_off_official": 0.0012,
    "completeness": "C3",
@@ -1463,28 +1469,28 @@
   },
   "06099": {
    "name": "Stanislaus",
-   "raw_name": "STANISLAUS",
+   "raw_name": "Stanislaus",
    "fips": "06099",
    "is_mappable": true,
    "votes_D": 85347,
    "votes_R": 106986,
-   "votes_other": 5192,
-   "total_votes": 197525,
-   "pct_D": 43.2,
-   "pct_R": 54.2,
+   "votes_other": 510,
+   "total_votes": 192843,
+   "pct_D": 44.3,
+   "pct_R": 55.5,
    "modes": {
     "mail": {
      "votes_D": 77598,
      "votes_R": 89863,
-     "votes_other": 4637
+     "votes_other": 457
     },
     "in_person": {
      "votes_D": 7749,
      "votes_R": 17123,
-     "votes_other": 555
+     "votes_other": 53
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Stanislaus County, CA",
    "official_results": true,
    "pct_off_official": 0.0012,
    "completeness": "C2",
@@ -1492,7 +1498,7 @@
   },
   "06101": {
    "name": "Sutter",
-   "raw_name": "SUTTER",
+   "raw_name": "Sutter",
    "fips": "06101",
    "is_mappable": true,
    "votes_D": 13016,
@@ -1507,18 +1513,18 @@
      "votes_R": 2184,
      "votes_other": 65
     },
-    "mail": {
-     "votes_D": 11972,
-     "votes_R": 22569,
-     "votes_other": 872
-    },
     "provisional": {
      "votes_D": 259,
      "votes_R": 619,
      "votes_other": 14
+    },
+    "mail": {
+     "votes_D": 11972,
+     "votes_R": 22569,
+     "votes_other": 872
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Sutter County, CA",
    "official_results": true,
    "pct_off_official": 0.0001,
    "completeness": "C3",
@@ -1526,23 +1532,23 @@
   },
   "06103": {
    "name": "Tehama",
-   "raw_name": "TEHAMA",
+   "raw_name": "Tehama",
    "fips": "06103",
    "is_mappable": true,
-   "votes_D": 7406,
-   "votes_R": 18463,
-   "votes_other": 612,
-   "total_votes": 26481,
-   "pct_D": 28.0,
+   "votes_D": 7415,
+   "votes_R": 18503,
+   "votes_other": 618,
+   "total_votes": 26536,
+   "pct_D": 27.9,
    "pct_R": 69.7,
    "modes": {
     "total": {
-     "votes_D": 7406,
-     "votes_R": 18463,
-     "votes_other": 612
+     "votes_D": 7415,
+     "votes_R": 18503,
+     "votes_other": 618
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1550,33 +1556,33 @@
   },
   "06105": {
    "name": "Trinity",
-   "raw_name": "TRINITY",
+   "raw_name": "Trinity",
    "fips": "06105",
    "is_mappable": true,
    "votes_D": 2449,
    "votes_R": 2979,
-   "votes_other": 218,
-   "total_votes": 5646,
+   "votes_other": 217,
+   "total_votes": 5645,
    "pct_D": 43.4,
    "pct_R": 52.8,
    "modes": {
+    "late_mail": {
+     "votes_D": 870,
+     "votes_R": 1103,
+     "votes_other": 121
+    },
     "election_day": {
      "votes_D": 83,
      "votes_R": 220,
-     "votes_other": 13
+     "votes_other": 12
     },
     "mail": {
      "votes_D": 1496,
      "votes_R": 1656,
      "votes_other": 84
-    },
-    "late_mail": {
-     "votes_D": 870,
-     "votes_R": 1103,
-     "votes_other": 121
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Trinity County, CA",
    "official_results": true,
    "pct_off_official": 0.0002,
    "completeness": "C3",
@@ -1584,23 +1590,23 @@
   },
   "06107": {
    "name": "Tulare",
-   "raw_name": "TULARE",
+   "raw_name": "Tulare",
    "fips": "06107",
    "is_mappable": true,
    "votes_D": 53221,
    "votes_R": 81854,
-   "votes_other": 3196,
-   "total_votes": 138271,
+   "votes_other": 3234,
+   "total_votes": 138309,
    "pct_D": 38.5,
    "pct_R": 59.2,
    "modes": {
     "total": {
      "votes_D": 53221,
      "votes_R": 81854,
-     "votes_other": 3196
+     "votes_other": 3234
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1608,23 +1614,23 @@
   },
   "06109": {
    "name": "Tuolumne",
-   "raw_name": "TUOLUMNE",
+   "raw_name": "Tuolumne",
    "fips": "06109",
    "is_mappable": true,
-   "votes_D": 10906,
-   "votes_R": 17192,
-   "votes_other": 691,
-   "total_votes": 28789,
+   "votes_D": 10909,
+   "votes_R": 17210,
+   "votes_other": 697,
+   "total_votes": 28816,
    "pct_D": 37.9,
    "pct_R": 59.7,
    "modes": {
     "total": {
-     "votes_D": 10906,
-     "votes_R": 17192,
-     "votes_other": 691
+     "votes_D": 10909,
+     "votes_R": 17210,
+     "votes_other": 697
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "CA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1632,7 +1638,7 @@
   },
   "06111": {
    "name": "Ventura",
-   "raw_name": "VENTURA",
+   "raw_name": "Ventura",
    "fips": "06111",
    "is_mappable": true,
    "votes_D": 217424,
@@ -1653,7 +1659,7 @@
      "votes_other": 9760
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Ventura County, CA",
    "official_results": true,
    "pct_off_official": 0.004,
    "completeness": "C2",
@@ -1661,47 +1667,52 @@
   },
   "06113": {
    "name": "Yolo",
-   "raw_name": "YOLO",
+   "raw_name": "Yolo",
    "fips": "06113",
    "is_mappable": true,
    "votes_D": 61405,
    "votes_R": 27844,
-   "votes_other": 3372,
-   "total_votes": 92621,
+   "votes_other": 3340,
+   "total_votes": 92589,
    "pct_D": 66.3,
    "pct_R": 30.1,
    "modes": {
-    "in_person": {
-     "votes_D": 4639,
-     "votes_R": 4165,
-     "votes_other": 374
-    },
-    "mail": {
-     "votes_D": 53013,
-     "votes_R": 22635,
-     "votes_other": 2824
-    },
     "provisional": {
      "votes_D": 3753,
      "votes_R": 1044,
      "votes_other": 174
+    },
+    "election_day": {
+     "votes_D": 3142,
+     "votes_R": 2758,
+     "votes_other": 289
+    },
+    "early_in_person": {
+     "votes_D": 1497,
+     "votes_R": 1407,
+     "votes_other": 84
+    },
+    "mail": {
+     "votes_D": 53013,
+     "votes_R": 22635,
+     "votes_other": 2793
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Yolo County, CA",
    "official_results": true,
    "pct_off_official": 0.0003,
-   "completeness": "C3",
+   "completeness": "C4",
    "notes": ""
   },
   "06115": {
    "name": "Yuba",
-   "raw_name": "YUBA",
+   "raw_name": "Yuba",
    "fips": "06115",
    "is_mappable": true,
    "votes_D": 10725,
    "votes_R": 18491,
-   "votes_other": 854,
-   "total_votes": 30070,
+   "votes_other": 856,
+   "total_votes": 30072,
    "pct_D": 35.7,
    "pct_R": 61.5,
    "modes": {
@@ -1713,10 +1724,10 @@
     "mail": {
      "votes_D": 9409,
      "votes_R": 14928,
-     "votes_other": 732
+     "votes_other": 734
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Yuba County, CA",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",

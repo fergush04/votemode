@@ -6,10 +6,10 @@
  "completeness_breakdown": {
   "U": 105
  },
- "votes_D": 544836,
- "votes_R": 758775,
+ "votes_D": 544853,
+ "votes_R": 758802,
  "votes_other": 23936,
- "total_votes": 1327547,
+ "total_votes": 1327591,
  "pct_D": 41.0,
  "pct_R": 57.2,
  "unit_count": 105,
@@ -44,7 +44,7 @@
      "votes_other": 126
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -68,7 +68,7 @@
      "votes_other": 61
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -92,7 +92,7 @@
      "votes_other": 143
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -116,7 +116,7 @@
      "votes_other": 28
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -140,7 +140,7 @@
      "votes_other": 158
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -164,7 +164,7 @@
      "votes_other": 125
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -188,7 +188,7 @@
      "votes_other": 87
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -212,7 +212,7 @@
      "votes_other": 660
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -236,7 +236,7 @@
      "votes_other": 24
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -260,7 +260,7 @@
      "votes_other": 17
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -284,7 +284,7 @@
      "votes_other": 163
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -308,7 +308,7 @@
      "votes_other": 31
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -332,7 +332,7 @@
      "votes_other": 18
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -356,7 +356,7 @@
      "votes_other": 96
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -380,7 +380,7 @@
      "votes_other": 62
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -404,7 +404,7 @@
      "votes_other": 72
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -428,7 +428,7 @@
      "votes_other": 17
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -452,7 +452,7 @@
      "votes_other": 226
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -476,7 +476,7 @@
      "votes_other": 294
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -500,7 +500,7 @@
      "votes_other": 20
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -524,7 +524,7 @@
      "votes_other": 141
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -548,7 +548,7 @@
      "votes_other": 52
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -572,7 +572,7 @@
      "votes_other": 936
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -596,7 +596,7 @@
      "votes_other": 14
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -620,7 +620,7 @@
      "votes_other": 24
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -644,7 +644,7 @@
      "votes_other": 257
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -668,7 +668,7 @@
      "votes_other": 44
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -692,7 +692,7 @@
      "votes_other": 191
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -716,7 +716,7 @@
      "votes_other": 147
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -740,7 +740,7 @@
      "votes_other": 259
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -764,7 +764,7 @@
      "votes_other": 201
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -788,7 +788,7 @@
      "votes_other": 19
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -812,7 +812,7 @@
      "votes_other": 22
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -836,7 +836,7 @@
      "votes_other": 32
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -860,7 +860,7 @@
      "votes_other": 32
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -884,7 +884,7 @@
      "votes_other": 8
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -908,7 +908,7 @@
      "votes_other": 44
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -932,7 +932,7 @@
      "votes_other": 13
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -956,7 +956,7 @@
      "votes_other": 46
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -980,7 +980,7 @@
      "votes_other": 293
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1004,7 +1004,7 @@
      "votes_other": 12
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1028,7 +1028,7 @@
      "votes_other": 13
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1052,7 +1052,7 @@
      "votes_other": 118
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1076,7 +1076,7 @@
      "votes_other": 203
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1100,7 +1100,7 @@
      "votes_other": 28
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1124,7 +1124,7 @@
      "votes_other": 6082
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1148,7 +1148,7 @@
      "votes_other": 27
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1172,7 +1172,7 @@
      "votes_other": 75
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1196,7 +1196,7 @@
      "votes_other": 15
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1220,7 +1220,7 @@
      "votes_other": 126
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1244,7 +1244,7 @@
      "votes_other": 23
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1268,7 +1268,7 @@
      "votes_other": 760
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1292,7 +1292,7 @@
      "votes_other": 24
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1316,7 +1316,7 @@
      "votes_other": 69
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1340,7 +1340,7 @@
      "votes_other": 31
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1364,7 +1364,7 @@
      "votes_other": 279
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1388,7 +1388,7 @@
      "votes_other": 129
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1412,7 +1412,7 @@
      "votes_other": 119
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1420,7 +1420,7 @@
   },
   "20113": {
    "name": "McPherson",
-   "raw_name": "Mcpherson",
+   "raw_name": "McPherson",
    "fips": "20113",
    "is_mappable": true,
    "votes_D": 4021,
@@ -1436,7 +1436,7 @@
      "votes_other": 267
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1460,7 +1460,7 @@
      "votes_other": 21
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1484,7 +1484,7 @@
      "votes_other": 359
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1508,7 +1508,7 @@
      "votes_other": 36
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1532,7 +1532,7 @@
      "votes_other": 220
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1556,7 +1556,7 @@
      "votes_other": 50
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1580,7 +1580,7 @@
      "votes_other": 20
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1604,7 +1604,7 @@
      "votes_other": 77
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1628,7 +1628,7 @@
      "votes_other": 127
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1652,7 +1652,7 @@
      "votes_other": 29
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1676,7 +1676,7 @@
      "votes_other": 42
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1700,7 +1700,7 @@
      "votes_other": 210
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1724,7 +1724,7 @@
      "votes_other": 36
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1748,7 +1748,7 @@
      "votes_other": 52
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1772,7 +1772,7 @@
      "votes_other": 47
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1796,7 +1796,7 @@
      "votes_other": 60
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1820,7 +1820,7 @@
      "votes_other": 267
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1844,7 +1844,7 @@
      "votes_other": 74
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1868,7 +1868,7 @@
      "votes_other": 33
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1892,7 +1892,7 @@
      "votes_other": 539
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1916,7 +1916,7 @@
      "votes_other": 46
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1940,7 +1940,7 @@
      "votes_other": 68
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1964,7 +1964,7 @@
      "votes_other": 620
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1988,7 +1988,7 @@
      "votes_other": 32
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2012,7 +2012,7 @@
      "votes_other": 27
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2036,7 +2036,7 @@
      "votes_other": 61
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2060,7 +2060,7 @@
      "votes_other": 423
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2084,7 +2084,7 @@
      "votes_other": 44
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2108,7 +2108,7 @@
      "votes_other": 3528
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2132,7 +2132,7 @@
      "votes_other": 78
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2143,20 +2143,20 @@
    "raw_name": "Shawnee",
    "fips": "20177",
    "is_mappable": true,
-   "votes_D": 40291,
-   "votes_R": 39874,
+   "votes_D": 40308,
+   "votes_R": 39901,
    "votes_other": 1610,
-   "total_votes": 81775,
+   "total_votes": 81819,
    "pct_D": 49.3,
    "pct_R": 48.8,
    "modes": {
     "total": {
-     "votes_D": 40291,
-     "votes_R": 39874,
+     "votes_D": 40308,
+     "votes_R": 39901,
      "votes_other": 1610
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2180,7 +2180,7 @@
      "votes_other": 18
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2204,7 +2204,7 @@
      "votes_other": 53
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2228,7 +2228,7 @@
      "votes_other": 31
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2252,7 +2252,7 @@
      "votes_other": 35
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2276,7 +2276,7 @@
      "votes_other": 12
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2300,7 +2300,7 @@
      "votes_other": 30
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2324,7 +2324,7 @@
      "votes_other": 212
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2348,7 +2348,7 @@
      "votes_other": 60
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2372,7 +2372,7 @@
      "votes_other": 28
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2396,7 +2396,7 @@
      "votes_other": 76
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2420,7 +2420,7 @@
      "votes_other": 10
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2444,7 +2444,7 @@
      "votes_other": 41
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2468,7 +2468,7 @@
      "votes_other": 13
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2492,7 +2492,7 @@
      "votes_other": 62
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2516,7 +2516,7 @@
      "votes_other": 19
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2540,7 +2540,7 @@
      "votes_other": 797
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",

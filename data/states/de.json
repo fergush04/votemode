@@ -40,20 +40,20 @@
    "pct_D": 50.2,
    "pct_R": 48.2,
    "modes": {
-    "election_day": {
-     "votes_D": 21700,
-     "votes_R": 23608,
-     "votes_other": 990
+    "mail": {
+     "votes_D": 3946,
+     "votes_R": 1632,
+     "votes_other": 77
     },
     "early_in_person": {
      "votes_D": 18576,
      "votes_R": 17218,
      "votes_other": 394
     },
-    "mail": {
-     "votes_D": 3946,
-     "votes_R": 1632,
-     "votes_other": 77
+    "election_day": {
+     "votes_D": 21700,
+     "votes_R": 23608,
+     "votes_other": 990
     }
    },
    "data_source": "MEDSL",
@@ -74,20 +74,20 @@
    "pct_D": 65.5,
    "pct_R": 32.9,
    "modes": {
-    "election_day": {
-     "votes_D": 108353,
-     "votes_R": 61555,
-     "votes_other": 3427
+    "mail": {
+     "votes_D": 15654,
+     "votes_R": 4265,
+     "votes_other": 217
     },
     "early_in_person": {
      "votes_D": 56693,
      "votes_R": 25048,
      "votes_other": 705
     },
-    "mail": {
-     "votes_D": 15654,
-     "votes_R": 4265,
-     "votes_other": 217
+    "election_day": {
+     "votes_D": 108353,
+     "votes_R": 61555,
+     "votes_other": 3427
     }
    },
    "data_source": "MEDSL",
@@ -108,20 +108,20 @@
    "pct_D": 43.9,
    "pct_R": 54.9,
    "modes": {
-    "election_day": {
-     "votes_D": 18211,
-     "votes_R": 26211,
-     "votes_other": 845
+    "mail": {
+     "votes_D": 8105,
+     "votes_R": 4557,
+     "votes_other": 129
     },
     "early_in_person": {
      "votes_D": 38520,
      "votes_R": 50257,
      "votes_other": 804
     },
-    "mail": {
-     "votes_D": 8105,
-     "votes_R": 4557,
-     "votes_other": 129
+    "election_day": {
+     "votes_D": 18211,
+     "votes_R": 26211,
+     "votes_other": 845
     }
    },
    "data_source": "MEDSL",

@@ -8,12 +8,12 @@
   "U": 30,
   "C2": 10
  },
- "votes_D": 274486,
+ "votes_D": 274972,
  "votes_R": 605246,
- "votes_other": 27553,
- "total_votes": 907285,
- "pct_D": 30.3,
- "pct_R": 66.7,
+ "votes_other": 25053,
+ "total_votes": 905271,
+ "pct_D": 30.4,
+ "pct_R": 66.9,
  "unit_count": 44,
  "state_profile": {
   "voting_summary": "Idaho votes mainly on election day, with early in-person and no-excuse absentee voting making up smaller shares. Polls close at 11 p.m. Eastern; counties release early and absentee votes alongside their first election day precincts, and counting is fast, with near-complete results by early morning. Where counties break out modes, mail ran only R+3 against R+41 on election day, so absentee batches read markedly less Republican in this deep-red state.",
@@ -24,11 +24,12 @@
    "Fast count"
   ],
   "mode_split": {
-   "election_day": 36.6,
-   "total": 31.4,
-   "mail": 16.1,
+   "total": 31.5,
+   "election_day": 28.2,
    "early_in_person": 15.7,
-   "pre_election_day": 0.2
+   "mail": 12.4,
+   "in_person": 8.4,
+   "pre_election_day": 3.9
   }
  },
  "units": {
@@ -39,28 +40,28 @@
    "is_mappable": true,
    "votes_D": 116116,
    "votes_R": 143759,
-   "votes_other": 9558,
-   "total_votes": 269433,
-   "pct_D": 43.1,
-   "pct_R": 53.4,
+   "votes_other": 7544,
+   "total_votes": 267419,
+   "pct_D": 43.4,
+   "pct_R": 53.8,
    "modes": {
-    "election_day": {
-     "votes_D": 48103,
-     "votes_R": 73647,
-     "votes_other": 5713
+    "mail": {
+     "votes_D": 38250,
+     "votes_R": 20882,
+     "votes_other": 1558
     },
     "early_in_person": {
      "votes_D": 29763,
      "votes_R": 49230,
-     "votes_other": 1743
+     "votes_other": 1347
     },
-    "mail": {
-     "votes_D": 38250,
-     "votes_R": 20882,
-     "votes_other": 2102
+    "election_day": {
+     "votes_D": 48103,
+     "votes_R": 73647,
+     "votes_other": 4639
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Ada County, ID",
    "official_results": true,
    "pct_off_official": 0.0075,
    "completeness": "C3",
@@ -102,24 +103,24 @@
    "pct_D": 35.6,
    "pct_R": 60.5,
    "modes": {
-    "election_day": {
-     "votes_D": 7341,
-     "votes_R": 16310,
-     "votes_other": 1153
+    "mail": {
+     "votes_D": 2675,
+     "votes_R": 1341,
+     "votes_other": 136
     },
     "early_in_person": {
      "votes_D": 4290,
      "votes_R": 6678,
      "votes_other": 302
     },
-    "mail": {
-     "votes_D": 2675,
-     "votes_R": 1341,
-     "votes_other": 136
+    "election_day": {
+     "votes_D": 7341,
+     "votes_R": 16310,
+     "votes_other": 1153
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Bannock County, ID",
+   "official_results": true,
    "pct_off_official": 0.0063,
    "completeness": "C3",
    "notes": ""
@@ -232,18 +233,18 @@
    "pct_D": 21.7,
    "pct_R": 75.9,
    "modes": {
-    "election_day": {
-     "votes_D": 540,
-     "votes_R": 2461,
-     "votes_other": 75
-    },
-    "mail": {
+    "pre_election_day": {
      "votes_D": 525,
      "votes_R": 1266,
      "votes_other": 43
+    },
+    "in_person": {
+     "votes_D": 540,
+     "votes_R": 2461,
+     "votes_other": 75
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -309,18 +310,18 @@
    "pct_D": 16.1,
    "pct_R": 81.5,
    "modes": {
-    "election_day": {
-     "votes_D": 472,
-     "votes_R": 3849,
-     "votes_other": 121
-    },
-    "mail": {
+    "pre_election_day": {
      "votes_D": 673,
      "votes_R": 1945,
      "votes_other": 50
+    },
+    "in_person": {
+     "votes_D": 472,
+     "votes_R": 3849,
+     "votes_other": 121
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -386,24 +387,24 @@
    "pct_D": 25.4,
    "pct_R": 72.0,
    "modes": {
-    "election_day": {
-     "votes_D": 10615,
-     "votes_R": 33988,
-     "votes_other": 1464
+    "mail": {
+     "votes_D": 9478,
+     "votes_R": 13985,
+     "votes_other": 610
     },
     "early_in_person": {
      "votes_D": 5576,
      "votes_R": 24782,
      "votes_other": 503
     },
-    "mail": {
-     "votes_D": 9478,
-     "votes_R": 13985,
-     "votes_other": 610
+    "election_day": {
+     "votes_D": 10615,
+     "votes_R": 33988,
+     "votes_other": 1464
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Canyon County, ID",
+   "official_results": true,
    "pct_off_official": 0.0003,
    "completeness": "C3",
    "notes": ""
@@ -612,18 +613,18 @@
    "pct_D": 16.0,
    "pct_R": 82.0,
    "modes": {
-    "election_day": {
-     "votes_D": 751,
-     "votes_R": 4889,
-     "votes_other": 134
-    },
-    "mail": {
+    "pre_election_day": {
      "votes_D": 948,
      "votes_R": 3818,
      "votes_other": 80
+    },
+    "in_person": {
+     "votes_D": 751,
+     "votes_R": 4889,
+     "votes_other": 134
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -634,26 +635,26 @@
    "raw_name": "Gooding",
    "fips": "16047",
    "is_mappable": true,
-   "votes_D": 614,
+   "votes_D": 1100,
    "votes_R": 4676,
-   "votes_other": 646,
+   "votes_other": 160,
    "total_votes": 5936,
-   "pct_D": 10.3,
+   "pct_D": 18.5,
    "pct_R": 78.8,
    "modes": {
+    "pre_election_day": {
+     "votes_D": 495,
+     "votes_R": 1423,
+     "votes_other": 48
+    },
     "election_day": {
      "votes_D": 605,
      "votes_R": 3253,
      "votes_other": 112
-    },
-    "pre_election_day": {
-     "votes_D": 9,
-     "votes_R": 1423,
-     "votes_other": 534
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Gooding County, ID",
+   "official_results": true,
    "pct_off_official": 0.003,
    "completeness": "C2",
    "notes": ""
@@ -670,18 +671,18 @@
    "pct_D": 14.8,
    "pct_R": 82.6,
    "modes": {
-    "election_day": {
-     "votes_D": 776,
-     "votes_R": 5660,
-     "votes_other": 180
-    },
-    "mail": {
+    "pre_election_day": {
      "votes_D": 684,
      "votes_R": 2488,
      "votes_other": 79
+    },
+    "in_person": {
+     "votes_D": 776,
+     "votes_R": 5660,
+     "votes_other": 180
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -723,18 +724,18 @@
    "pct_D": 21.9,
    "pct_R": 75.7,
    "modes": {
-    "election_day": {
-     "votes_D": 989,
-     "votes_R": 3592,
-     "votes_other": 140
-    },
-    "mail": {
+    "pre_election_day": {
      "votes_D": 753,
      "votes_R": 2420,
      "votes_other": 52
+    },
+    "in_person": {
+     "votes_D": 989,
+     "votes_R": 3592,
+     "votes_other": 140
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -752,23 +753,23 @@
    "pct_D": 23.0,
    "pct_R": 74.8,
    "modes": {
-    "election_day": {
-     "votes_D": 9189,
-     "votes_R": 43408,
-     "votes_other": 1382
+    "mail": {
+     "votes_D": 9865,
+     "votes_R": 12424,
+     "votes_other": 605
     },
     "early_in_person": {
      "votes_D": 3059,
      "votes_R": 16227,
      "votes_other": 181
     },
-    "mail": {
-     "votes_D": 9865,
-     "votes_R": 12424,
-     "votes_other": 605
+    "election_day": {
+     "votes_D": 9189,
+     "votes_R": 43408,
+     "votes_other": 1382
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Kootenai County, ID",
    "official_results": true,
    "pct_off_official": 0.0003,
    "completeness": "C3",
@@ -930,18 +931,18 @@
    "pct_D": 29.4,
    "pct_R": 68.1,
    "modes": {
-    "election_day": {
-     "votes_D": 3181,
-     "votes_R": 8643,
-     "votes_other": 353
-    },
-    "mail": {
+    "pre_election_day": {
      "votes_D": 2747,
      "votes_R": 5064,
      "votes_other": 147
+    },
+    "in_person": {
+     "votes_D": 3181,
+     "votes_R": 8643,
+     "votes_other": 353
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -983,18 +984,18 @@
    "pct_D": 15.3,
    "pct_R": 82.8,
    "modes": {
-    "election_day": {
-     "votes_D": 547,
-     "votes_R": 3459,
-     "votes_other": 72
-    },
-    "mail": {
+    "pre_election_day": {
      "votes_D": 209,
      "votes_R": 642,
      "votes_other": 21
+    },
+    "in_person": {
+     "votes_D": 547,
+     "votes_R": 3459,
+     "votes_other": 72
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1060,18 +1061,18 @@
    "pct_D": 24.0,
    "pct_R": 73.4,
    "modes": {
-    "election_day": {
-     "votes_D": 984,
-     "votes_R": 3678,
-     "votes_other": 135
-    },
-    "mail": {
+    "pre_election_day": {
      "votes_D": 488,
      "votes_R": 822,
      "votes_other": 25
+    },
+    "in_person": {
+     "votes_D": 984,
+     "votes_R": 3678,
+     "votes_other": 135
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1113,18 +1114,18 @@
    "pct_D": 24.2,
    "pct_R": 73.0,
    "modes": {
-    "election_day": {
-     "votes_D": 7420,
-     "votes_R": 21803,
-     "votes_other": 875
-    },
-    "mail": {
+    "pre_election_day": {
      "votes_D": 1644,
      "votes_R": 5501,
      "votes_other": 140
+    },
+    "in_person": {
+     "votes_D": 7420,
+     "votes_R": 21803,
+     "votes_other": 875
     }
    },
-   "data_source": "SOS-PDF",
+   "data_source": "MEDSL",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",

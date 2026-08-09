@@ -9,8 +9,8 @@
  },
  "votes_D": 214309,
  "votes_R": 533556,
- "votes_other": 14525,
- "total_votes": 762390,
+ "votes_other": 14329,
+ "total_votes": 762194,
  "pct_D": 28.1,
  "pct_R": 70.0,
  "unit_count": 55,
@@ -24,18 +24,18 @@
    "Fast count"
   ],
   "mode_split": {
-   "total": 89.5,
-   "election_day": 5.0,
-   "early_in_person": 4.9,
+   "total": 89.6,
+   "election_day": 5.1,
+   "early_in_person": 5.0,
    "mail": 0.4,
-   "unallocated": 0.1,
+   "late_mail": 0.0,
    "provisional": 0.0
   }
  },
  "units": {
   "54001": {
    "name": "Barbour",
-   "raw_name": "BARBOUR",
+   "raw_name": "Barbour",
    "fips": "54001",
    "is_mappable": true,
    "votes_D": 1199,
@@ -59,7 +59,7 @@
   },
   "54003": {
    "name": "Berkeley",
-   "raw_name": "BERKELEY",
+   "raw_name": "Berkeley",
    "fips": "54003",
    "is_mappable": true,
    "votes_D": 17500,
@@ -83,7 +83,7 @@
   },
   "54005": {
    "name": "Boone",
-   "raw_name": "BOONE",
+   "raw_name": "Boone",
    "fips": "54005",
    "is_mappable": true,
    "votes_D": 1641,
@@ -107,7 +107,7 @@
   },
   "54007": {
    "name": "Braxton",
-   "raw_name": "BRAXTON",
+   "raw_name": "Braxton",
    "fips": "54007",
    "is_mappable": true,
    "votes_D": 1233,
@@ -131,7 +131,7 @@
   },
   "54009": {
    "name": "Brooke",
-   "raw_name": "BROOKE",
+   "raw_name": "Brooke",
    "fips": "54009",
    "is_mappable": true,
    "votes_D": 2621,
@@ -155,7 +155,7 @@
   },
   "54011": {
    "name": "Cabell",
-   "raw_name": "CABELL",
+   "raw_name": "Cabell",
    "fips": "54011",
    "is_mappable": true,
    "votes_D": 13474,
@@ -179,7 +179,7 @@
   },
   "54013": {
    "name": "Calhoun",
-   "raw_name": "CALHOUN",
+   "raw_name": "Calhoun",
    "fips": "54013",
    "is_mappable": true,
    "votes_D": 488,
@@ -203,7 +203,7 @@
   },
   "54015": {
    "name": "Clay",
-   "raw_name": "CLAY",
+   "raw_name": "Clay",
    "fips": "54015",
    "is_mappable": true,
    "votes_D": 580,
@@ -227,7 +227,7 @@
   },
   "54017": {
    "name": "Doddridge",
-   "raw_name": "DODDRIDGE",
+   "raw_name": "Doddridge",
    "fips": "54017",
    "is_mappable": true,
    "votes_D": 374,
@@ -251,7 +251,7 @@
   },
   "54019": {
    "name": "Fayette",
-   "raw_name": "FAYETTE",
+   "raw_name": "Fayette",
    "fips": "54019",
    "is_mappable": true,
    "votes_D": 4387,
@@ -275,7 +275,7 @@
   },
   "54021": {
    "name": "Gilmer",
-   "raw_name": "GILMER",
+   "raw_name": "Gilmer",
    "fips": "54021",
    "is_mappable": true,
    "votes_D": 486,
@@ -299,7 +299,7 @@
   },
   "54023": {
    "name": "Grant",
-   "raw_name": "GRANT",
+   "raw_name": "Grant",
    "fips": "54023",
    "is_mappable": true,
    "votes_D": 552,
@@ -323,7 +323,7 @@
   },
   "54025": {
    "name": "Greenbrier",
-   "raw_name": "GREENBRIER",
+   "raw_name": "Greenbrier",
    "fips": "54025",
    "is_mappable": true,
    "votes_D": 4196,
@@ -347,7 +347,7 @@
   },
   "54027": {
    "name": "Hampshire",
-   "raw_name": "HAMPSHIRE",
+   "raw_name": "Hampshire",
    "fips": "54027",
    "is_mappable": true,
    "votes_D": 1890,
@@ -371,7 +371,7 @@
   },
   "54029": {
    "name": "Hancock",
-   "raw_name": "HANCOCK",
+   "raw_name": "Hancock",
    "fips": "54029",
    "is_mappable": true,
    "votes_D": 3360,
@@ -395,7 +395,7 @@
   },
   "54031": {
    "name": "Hardy",
-   "raw_name": "HARDY",
+   "raw_name": "Hardy",
    "fips": "54031",
    "is_mappable": true,
    "votes_D": 1297,
@@ -419,7 +419,7 @@
   },
   "54033": {
    "name": "Harrison",
-   "raw_name": "HARRISON",
+   "raw_name": "Harrison",
    "fips": "54033",
    "is_mappable": true,
    "votes_D": 8402,
@@ -443,7 +443,7 @@
   },
   "54035": {
    "name": "Jackson",
-   "raw_name": "JACKSON",
+   "raw_name": "Jackson",
    "fips": "54035",
    "is_mappable": true,
    "votes_D": 2699,
@@ -467,51 +467,46 @@
   },
   "54037": {
    "name": "Jefferson",
-   "raw_name": "JEFFERSON",
+   "raw_name": "Jefferson",
    "fips": "54037",
    "is_mappable": true,
    "votes_D": 11967,
    "votes_R": 16573,
-   "votes_other": 616,
-   "total_votes": 29156,
-   "pct_D": 41.0,
-   "pct_R": 56.8,
+   "votes_other": 315,
+   "total_votes": 28855,
+   "pct_D": 41.5,
+   "pct_R": 57.4,
    "modes": {
-    "early_in_person": {
-     "votes_D": 4564,
-     "votes_R": 5400,
-     "votes_other": 0
-    },
     "election_day": {
      "votes_D": 6648,
      "votes_R": 10684,
-     "votes_other": 0
+     "votes_other": 236
+    },
+    "early_in_person": {
+     "votes_D": 4564,
+     "votes_R": 5400,
+     "votes_other": 63
     },
     "mail": {
      "votes_D": 682,
      "votes_R": 421,
-     "votes_other": 0
+     "votes_other": 11
     },
-    "provisional": {
+    "late_mail": {
      "votes_D": 73,
      "votes_R": 68,
-     "votes_other": 0
-    },
-    "unallocated": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 616
+     "votes_other": 5
     }
    },
-   "data_source": "County-PDF",
-   "official_results": true,
+   "data_source": "Jefferson County, WV",
+   "official_results": false,
    "pct_off_official": 0.0,
    "completeness": "C4",
    "notes": ""
   },
   "54039": {
    "name": "Kanawha",
-   "raw_name": "KANAWHA",
+   "raw_name": "Kanawha",
    "fips": "54039",
    "is_mappable": true,
    "votes_D": 30231,
@@ -535,7 +530,7 @@
   },
   "54041": {
    "name": "Lewis",
-   "raw_name": "LEWIS",
+   "raw_name": "Lewis",
    "fips": "54041",
    "is_mappable": true,
    "votes_D": 1372,
@@ -559,7 +554,7 @@
   },
   "54043": {
    "name": "Lincoln",
-   "raw_name": "LINCOLN",
+   "raw_name": "Lincoln",
    "fips": "54043",
    "is_mappable": true,
    "votes_D": 1279,
@@ -583,7 +578,7 @@
   },
   "54045": {
    "name": "Logan",
-   "raw_name": "LOGAN",
+   "raw_name": "Logan",
    "fips": "54045",
    "is_mappable": true,
    "votes_D": 1848,
@@ -607,7 +602,7 @@
   },
   "54049": {
    "name": "Marion",
-   "raw_name": "MARION",
+   "raw_name": "Marion",
    "fips": "54049",
    "is_mappable": true,
    "votes_D": 8185,
@@ -631,7 +626,7 @@
   },
   "54051": {
    "name": "Marshall",
-   "raw_name": "MARSHALL",
+   "raw_name": "Marshall",
    "fips": "54051",
    "is_mappable": true,
    "votes_D": 3186,
@@ -655,7 +650,7 @@
   },
   "54053": {
    "name": "Mason",
-   "raw_name": "MASON",
+   "raw_name": "Mason",
    "fips": "54053",
    "is_mappable": true,
    "votes_D": 2111,
@@ -679,7 +674,7 @@
   },
   "54047": {
    "name": "McDowell",
-   "raw_name": "MCDOWELL",
+   "raw_name": "Mcdowell",
    "fips": "54047",
    "is_mappable": true,
    "votes_D": 1036,
@@ -703,7 +698,7 @@
   },
   "54055": {
    "name": "Mercer",
-   "raw_name": "MERCER",
+   "raw_name": "Mercer",
    "fips": "54055",
    "is_mappable": true,
    "votes_D": 4851,
@@ -727,7 +722,7 @@
   },
   "54057": {
    "name": "Mineral",
-   "raw_name": "MINERAL",
+   "raw_name": "Mineral",
    "fips": "54057",
    "is_mappable": true,
    "votes_D": 2483,
@@ -751,7 +746,7 @@
   },
   "54059": {
    "name": "Mingo",
-   "raw_name": "MINGO",
+   "raw_name": "Mingo",
    "fips": "54059",
    "is_mappable": true,
    "votes_D": 1061,
@@ -775,30 +770,30 @@
   },
   "54061": {
    "name": "Monongalia",
-   "raw_name": "MONONGALIA",
+   "raw_name": "Monongalia",
    "fips": "54061",
    "is_mappable": true,
    "votes_D": 19265,
    "votes_R": 21084,
-   "votes_other": 1103,
-   "total_votes": 41452,
-   "pct_D": 46.5,
-   "pct_R": 50.9,
+   "votes_other": 1349,
+   "total_votes": 41698,
+   "pct_D": 46.2,
+   "pct_R": 50.6,
    "modes": {
-    "early_in_person": {
-     "votes_D": 11487,
-     "votes_R": 11994,
-     "votes_other": 485
-    },
     "election_day": {
      "votes_D": 6939,
      "votes_R": 8544,
-     "votes_other": 594
+     "votes_other": 717
+    },
+    "early_in_person": {
+     "votes_D": 11487,
+     "votes_R": 11994,
+     "votes_other": 603
     },
     "mail": {
      "votes_D": 801,
      "votes_R": 484,
-     "votes_other": 21
+     "votes_other": 26
     },
     "provisional": {
      "votes_D": 38,
@@ -806,7 +801,7 @@
      "votes_other": 3
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Monongalia County, WV",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C4",
@@ -814,7 +809,7 @@
   },
   "54063": {
    "name": "Monroe",
-   "raw_name": "MONROE",
+   "raw_name": "Monroe",
    "fips": "54063",
    "is_mappable": true,
    "votes_D": 1155,
@@ -838,24 +833,24 @@
   },
   "54065": {
    "name": "Morgan",
-   "raw_name": "MORGAN",
+   "raw_name": "Morgan",
    "fips": "54065",
    "is_mappable": true,
    "votes_D": 1947,
    "votes_R": 7009,
-   "votes_other": 141,
-   "total_votes": 9097,
-   "pct_D": 21.4,
-   "pct_R": 77.0,
+   "votes_other": 0,
+   "total_votes": 8956,
+   "pct_D": 21.7,
+   "pct_R": 78.3,
    "modes": {
-    "early_in_person": {
-     "votes_D": 986,
-     "votes_R": 2758,
-     "votes_other": 0
-    },
     "election_day": {
      "votes_D": 839,
      "votes_R": 4088,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 986,
+     "votes_R": 2758,
      "votes_other": 0
     },
     "mail": {
@@ -863,26 +858,21 @@
      "votes_R": 145,
      "votes_other": 0
     },
-    "provisional": {
-     "votes_D": 0,
+    "late_mail": {
+     "votes_D": 7,
      "votes_R": 18,
      "votes_other": 0
-    },
-    "unallocated": {
-     "votes_D": 7,
-     "votes_R": 0,
-     "votes_other": 141
     }
    },
-   "data_source": "County-PDF",
-   "official_results": true,
+   "data_source": "Morgan County, WV",
+   "official_results": false,
    "pct_off_official": 0.0,
    "completeness": "C4",
    "notes": ""
   },
   "54067": {
    "name": "Nicholas",
-   "raw_name": "NICHOLAS",
+   "raw_name": "Nicholas",
    "fips": "54067",
    "is_mappable": true,
    "votes_D": 1919,
@@ -906,7 +896,7 @@
   },
   "54069": {
    "name": "Ohio",
-   "raw_name": "OHIO",
+   "raw_name": "Ohio",
    "fips": "54069",
    "is_mappable": true,
    "votes_D": 6727,
@@ -930,7 +920,7 @@
   },
   "54071": {
    "name": "Pendleton",
-   "raw_name": "PENDLETON",
+   "raw_name": "Pendleton",
    "fips": "54071",
    "is_mappable": true,
    "votes_D": 680,
@@ -954,7 +944,7 @@
   },
   "54073": {
    "name": "Pleasants",
-   "raw_name": "PLEASANTS",
+   "raw_name": "Pleasants",
    "fips": "54073",
    "is_mappable": true,
    "votes_D": 656,
@@ -978,7 +968,7 @@
   },
   "54075": {
    "name": "Pocahontas",
-   "raw_name": "POCAHONTAS",
+   "raw_name": "Pocahontas",
    "fips": "54075",
    "is_mappable": true,
    "votes_D": 927,
@@ -1002,7 +992,7 @@
   },
   "54077": {
    "name": "Preston",
-   "raw_name": "PRESTON",
+   "raw_name": "Preston",
    "fips": "54077",
    "is_mappable": true,
    "votes_D": 2953,
@@ -1026,7 +1016,7 @@
   },
   "54079": {
    "name": "Putnam",
-   "raw_name": "PUTNAM",
+   "raw_name": "Putnam",
    "fips": "54079",
    "is_mappable": true,
    "votes_D": 7124,
@@ -1050,7 +1040,7 @@
   },
   "54081": {
    "name": "Raleigh",
-   "raw_name": "RALEIGH",
+   "raw_name": "Raleigh",
    "fips": "54081",
    "is_mappable": true,
    "votes_D": 6816,
@@ -1074,7 +1064,7 @@
   },
   "54083": {
    "name": "Randolph",
-   "raw_name": "RANDOLPH",
+   "raw_name": "Randolph",
    "fips": "54083",
    "is_mappable": true,
    "votes_D": 3008,
@@ -1098,7 +1088,7 @@
   },
   "54085": {
    "name": "Ritchie",
-   "raw_name": "RITCHIE",
+   "raw_name": "Ritchie",
    "fips": "54085",
    "is_mappable": true,
    "votes_D": 517,
@@ -1122,7 +1112,7 @@
   },
   "54087": {
    "name": "Roane",
-   "raw_name": "ROANE",
+   "raw_name": "Roane",
    "fips": "54087",
    "is_mappable": true,
    "votes_D": 1218,
@@ -1146,7 +1136,7 @@
   },
   "54089": {
    "name": "Summers",
-   "raw_name": "SUMMERS",
+   "raw_name": "Summers",
    "fips": "54089",
    "is_mappable": true,
    "votes_D": 1226,
@@ -1170,7 +1160,7 @@
   },
   "54091": {
    "name": "Taylor",
-   "raw_name": "TAYLOR",
+   "raw_name": "Taylor",
    "fips": "54091",
    "is_mappable": true,
    "votes_D": 1694,
@@ -1194,7 +1184,7 @@
   },
   "54093": {
    "name": "Tucker",
-   "raw_name": "TUCKER",
+   "raw_name": "Tucker",
    "fips": "54093",
    "is_mappable": true,
    "votes_D": 890,
@@ -1218,7 +1208,7 @@
   },
   "54095": {
    "name": "Tyler",
-   "raw_name": "TYLER",
+   "raw_name": "Tyler",
    "fips": "54095",
    "is_mappable": true,
    "votes_D": 554,
@@ -1242,7 +1232,7 @@
   },
   "54097": {
    "name": "Upshur",
-   "raw_name": "UPSHUR",
+   "raw_name": "Upshur",
    "fips": "54097",
    "is_mappable": true,
    "votes_D": 2033,
@@ -1266,7 +1256,7 @@
   },
   "54099": {
    "name": "Wayne",
-   "raw_name": "WAYNE",
+   "raw_name": "Wayne",
    "fips": "54099",
    "is_mappable": true,
    "votes_D": 3532,
@@ -1290,7 +1280,7 @@
   },
   "54101": {
    "name": "Webster",
-   "raw_name": "WEBSTER",
+   "raw_name": "Webster",
    "fips": "54101",
    "is_mappable": true,
    "votes_D": 479,
@@ -1314,7 +1304,7 @@
   },
   "54103": {
    "name": "Wetzel",
-   "raw_name": "WETZEL",
+   "raw_name": "Wetzel",
    "fips": "54103",
    "is_mappable": true,
    "votes_D": 1294,
@@ -1338,7 +1328,7 @@
   },
   "54105": {
    "name": "Wirt",
-   "raw_name": "WIRT",
+   "raw_name": "Wirt",
    "fips": "54105",
    "is_mappable": true,
    "votes_D": 409,
@@ -1362,7 +1352,7 @@
   },
   "54107": {
    "name": "Wood",
-   "raw_name": "WOOD",
+   "raw_name": "Wood",
    "fips": "54107",
    "is_mappable": true,
    "votes_D": 10317,
@@ -1386,7 +1376,7 @@
   },
   "54109": {
    "name": "Wyoming",
-   "raw_name": "WYOMING",
+   "raw_name": "Wyoming",
    "fips": "54109",
    "is_mappable": true,
    "votes_D": 980,

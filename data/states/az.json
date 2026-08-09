@@ -4,15 +4,15 @@
  "unit_type": "county",
  "avg_completeness": "C3",
  "completeness_breakdown": {
-  "C3": 13,
-  "C4": 2
+  "C3": 12,
+  "C4": 3
  },
  "votes_D": 1582840,
  "votes_R": 1770209,
- "votes_other": 47908,
- "total_votes": 3400957,
+ "votes_other": 47952,
+ "total_votes": 3401001,
  "pct_D": 46.5,
- "pct_R": 52.1,
+ "pct_R": 52.0,
  "unit_count": 15,
  "state_profile": {
   "voting_summary": "Arizona is functionally a vote-by-mail state: 85% of its 2024 vote arrived as early (mail) ballots. Polls close at 9 p.m. Eastern; pre-processed early ballots are released first in a large batch, followed by election day precincts overnight. Mail dropped off on election day ('late earlies') requires days of signature verification, famously stretching Maricopa County's count across a week or more. Election day voting ran R+26 versus R+2 for early ballots, so Republicans gain overnight and close races hang on the late-early count for days.",
@@ -23,16 +23,16 @@
    "Multi-day count"
   ],
   "mode_split": {
-   "pre_election_day": 85.0,
+   "pre_election_day": 84.8,
    "election_day": 14.5,
    "provisional": 0.5,
-   "late_pre_election_day": 0.1
+   "late_pre_election_day": 0.3
   }
  },
  "units": {
   "04001": {
    "name": "Apache",
-   "raw_name": "APACHE",
+   "raw_name": "Apache",
    "fips": "04001",
    "is_mappable": true,
    "votes_D": 18872,
@@ -42,15 +42,15 @@
    "pct_D": 58.8,
    "pct_R": 39.9,
    "modes": {
-    "election_day": {
-     "votes_D": 5992,
-     "votes_R": 4039,
-     "votes_other": 117
-    },
     "pre_election_day": {
      "votes_D": 11603,
      "votes_R": 7914,
      "votes_other": 288
+    },
+    "election_day": {
+     "votes_D": 5992,
+     "votes_R": 4039,
+     "votes_other": 117
     },
     "provisional": {
      "votes_D": 1277,
@@ -58,7 +58,7 @@
      "votes_other": 29
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Apache County, AZ",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -66,7 +66,7 @@
   },
   "04003": {
    "name": "Cochise",
-   "raw_name": "COCHISE",
+   "raw_name": "Cochise",
    "fips": "04003",
    "is_mappable": true,
    "votes_D": 22296,
@@ -76,15 +76,15 @@
    "pct_D": 37.7,
    "pct_R": 60.8,
    "modes": {
-    "election_day": {
-     "votes_D": 2608,
-     "votes_R": 9815,
-     "votes_other": 183
-    },
     "pre_election_day": {
      "votes_D": 19583,
      "votes_R": 25904,
      "votes_other": 715
+    },
+    "election_day": {
+     "votes_D": 2608,
+     "votes_R": 9815,
+     "votes_other": 183
     },
     "provisional": {
      "votes_D": 105,
@@ -100,7 +100,7 @@
   },
   "04005": {
    "name": "Coconino",
-   "raw_name": "COCONINO",
+   "raw_name": "Coconino",
    "fips": "04005",
    "is_mappable": true,
    "votes_D": 41504,
@@ -110,15 +110,15 @@
    "pct_D": 59.0,
    "pct_R": 39.2,
    "modes": {
-    "election_day": {
-     "votes_D": 7731,
-     "votes_R": 7569,
-     "votes_other": 320
-    },
     "pre_election_day": {
      "votes_D": 33504,
      "votes_R": 19756,
      "votes_other": 968
+    },
+    "election_day": {
+     "votes_D": 7731,
+     "votes_R": 7569,
+     "votes_other": 320
     },
     "provisional": {
      "votes_D": 269,
@@ -126,7 +126,7 @@
      "votes_other": 6
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Coconino County, AZ",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -134,7 +134,7 @@
   },
   "04007": {
    "name": "Gila",
-   "raw_name": "GILA",
+   "raw_name": "Gila",
    "fips": "04007",
    "is_mappable": true,
    "votes_D": 8504,
@@ -144,15 +144,15 @@
    "pct_D": 30.7,
    "pct_R": 68.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1623,
-     "votes_R": 3614,
-     "votes_other": 54
-    },
     "pre_election_day": {
      "votes_D": 6837,
      "votes_R": 15142,
      "votes_other": 236
+    },
+    "election_day": {
+     "votes_D": 1623,
+     "votes_R": 3614,
+     "votes_other": 54
     },
     "provisional": {
      "votes_D": 44,
@@ -160,7 +160,7 @@
      "votes_other": 3
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Gila County, AZ",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -168,7 +168,7 @@
   },
   "04009": {
    "name": "Graham",
-   "raw_name": "GRAHAM",
+   "raw_name": "Graham",
    "fips": "04009",
    "is_mappable": true,
    "votes_D": 3867,
@@ -178,15 +178,15 @@
    "pct_D": 25.4,
    "pct_R": 73.5,
    "modes": {
-    "election_day": {
-     "votes_D": 1292,
-     "votes_R": 3579,
-     "votes_other": 45
-    },
     "pre_election_day": {
      "votes_D": 2378,
      "votes_R": 6874,
      "votes_other": 107
+    },
+    "election_day": {
+     "votes_D": 1292,
+     "votes_R": 3579,
+     "votes_other": 45
     },
     "late_pre_election_day": {
      "votes_D": 177,
@@ -199,7 +199,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Graham County, AZ",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C4",
@@ -207,7 +207,7 @@
   },
   "04011": {
    "name": "Greenlee",
-   "raw_name": "GREENLEE",
+   "raw_name": "Greenlee",
    "fips": "04011",
    "is_mappable": true,
    "votes_D": 954,
@@ -217,15 +217,15 @@
    "pct_D": 28.8,
    "pct_R": 69.8,
    "modes": {
-    "election_day": {
-     "votes_D": 164,
-     "votes_R": 937,
-     "votes_other": 15
-    },
     "pre_election_day": {
      "votes_D": 785,
      "votes_R": 1358,
      "votes_other": 31
+    },
+    "election_day": {
+     "votes_D": 164,
+     "votes_R": 937,
+     "votes_other": 15
     },
     "provisional": {
      "votes_D": 5,
@@ -241,33 +241,33 @@
   },
   "04012": {
    "name": "La Paz",
-   "raw_name": "LA PAZ",
+   "raw_name": "La Paz",
    "fips": "04012",
    "is_mappable": true,
    "votes_D": 2101,
    "votes_R": 5470,
-   "votes_other": 28,
-   "total_votes": 7599,
-   "pct_D": 27.6,
-   "pct_R": 72.0,
+   "votes_other": 72,
+   "total_votes": 7643,
+   "pct_D": 27.5,
+   "pct_R": 71.6,
    "modes": {
-    "election_day": {
-     "votes_D": 411,
-     "votes_R": 1314,
-     "votes_other": 0
-    },
     "pre_election_day": {
      "votes_D": 1524,
      "votes_R": 3796,
-     "votes_other": 16
+     "votes_other": 45
+    },
+    "election_day": {
+     "votes_D": 411,
+     "votes_R": 1314,
+     "votes_other": 20
     },
     "provisional": {
      "votes_D": 166,
      "votes_R": 360,
-     "votes_other": 12
+     "votes_other": 7
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "La Paz County, AZ",
    "official_results": true,
    "pct_off_official": 0.0033,
    "completeness": "C3",
@@ -275,7 +275,7 @@
   },
   "04013": {
    "name": "Maricopa",
-   "raw_name": "MARICOPA",
+   "raw_name": "Maricopa",
    "fips": "04013",
    "is_mappable": true,
    "votes_D": 980016,
@@ -285,15 +285,15 @@
    "pct_D": 47.5,
    "pct_R": 51.0,
    "modes": {
-    "election_day": {
-     "votes_D": 95274,
-     "votes_R": 151223,
-     "votes_other": 4619
-    },
     "pre_election_day": {
      "votes_D": 883056,
      "votes_R": 898610,
      "votes_other": 25818
+    },
+    "election_day": {
+     "votes_D": 95274,
+     "votes_R": 151223,
+     "votes_other": 4619
     },
     "provisional": {
      "votes_D": 1686,
@@ -309,7 +309,7 @@
   },
   "04015": {
    "name": "Mohave",
-   "raw_name": "MOHAVE",
+   "raw_name": "Mohave",
    "fips": "04015",
    "is_mappable": true,
    "votes_D": 24072,
@@ -319,15 +319,15 @@
    "pct_D": 21.8,
    "pct_R": 77.4,
    "modes": {
-    "election_day": {
-     "votes_D": 3587,
-     "votes_R": 19353,
-     "votes_other": 222
-    },
     "pre_election_day": {
      "votes_D": 20211,
      "votes_R": 64856,
      "votes_other": 699
+    },
+    "election_day": {
+     "votes_D": 3587,
+     "votes_R": 19353,
+     "votes_other": 222
     },
     "provisional": {
      "votes_D": 274,
@@ -343,7 +343,7 @@
   },
   "04017": {
    "name": "Navajo",
-   "raw_name": "NAVAJO",
+   "raw_name": "Navajo",
    "fips": "04017",
    "is_mappable": true,
    "votes_D": 20754,
@@ -353,31 +353,36 @@
    "pct_D": 40.8,
    "pct_R": 58.0,
    "modes": {
+    "pre_election_day": {
+     "votes_D": 10080,
+     "votes_R": 15229,
+     "votes_other": 275
+    },
     "election_day": {
      "votes_D": 7727,
      "votes_R": 9562,
      "votes_other": 214
     },
-    "pre_election_day": {
-     "votes_D": 12723,
-     "votes_R": 19619,
-     "votes_other": 399
+    "late_pre_election_day": {
+     "votes_D": 2643,
+     "votes_R": 4390,
+     "votes_other": 118
     },
     "provisional": {
      "votes_D": 304,
      "votes_R": 299,
-     "votes_other": 0
+     "votes_other": 6
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Navajo County, AZ",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C3",
+   "completeness": "C4",
    "notes": ""
   },
   "04019": {
    "name": "Pima",
-   "raw_name": "PIMA",
+   "raw_name": "Pima",
    "fips": "04019",
    "is_mappable": true,
    "votes_D": 292450,
@@ -387,15 +392,15 @@
    "pct_D": 56.8,
    "pct_R": 41.7,
    "modes": {
-    "election_day": {
-     "votes_D": 29292,
-     "votes_R": 41428,
-     "votes_other": 1336
-    },
     "pre_election_day": {
      "votes_D": 261432,
      "votes_R": 171516,
      "votes_other": 6501
+    },
+    "election_day": {
+     "votes_D": 29292,
+     "votes_R": 41428,
+     "votes_other": 1336
     },
     "provisional": {
      "votes_D": 1726,
@@ -411,7 +416,7 @@
   },
   "04021": {
    "name": "Pinal",
-   "raw_name": "PINAL",
+   "raw_name": "Pinal",
    "fips": "04021",
    "is_mappable": true,
    "votes_D": 80656,
@@ -421,15 +426,15 @@
    "pct_D": 38.4,
    "pct_R": 60.4,
    "modes": {
-    "election_day": {
-     "votes_D": 12801,
-     "votes_R": 30680,
-     "votes_other": 542
-    },
     "pre_election_day": {
      "votes_D": 67436,
      "votes_R": 95461,
      "votes_other": 2036
+    },
+    "election_day": {
+     "votes_D": 12801,
+     "votes_R": 30680,
+     "votes_other": 542
     },
     "provisional": {
      "votes_D": 419,
@@ -445,7 +450,7 @@
   },
   "04023": {
    "name": "Santa Cruz",
-   "raw_name": "SANTA CRUZ",
+   "raw_name": "Santa Cruz",
    "fips": "04023",
    "is_mappable": true,
    "votes_D": 11254,
@@ -455,15 +460,15 @@
    "pct_D": 58.8,
    "pct_R": 40.2,
    "modes": {
-    "election_day": {
-     "votes_D": 2265,
-     "votes_R": 2374,
-     "votes_other": 54
-    },
     "pre_election_day": {
      "votes_D": 8921,
      "votes_R": 5255,
      "votes_other": 148
+    },
+    "election_day": {
+     "votes_D": 2265,
+     "votes_R": 2374,
+     "votes_other": 54
     },
     "provisional": {
      "votes_D": 68,
@@ -479,7 +484,7 @@
   },
   "04025": {
    "name": "Yavapai",
-   "raw_name": "YAVAPAI",
+   "raw_name": "Yavapai",
    "fips": "04025",
    "is_mappable": true,
    "votes_D": 48717,
@@ -489,15 +494,15 @@
    "pct_D": 32.6,
    "pct_R": 66.5,
    "modes": {
-    "election_day": {
-     "votes_D": 3663,
-     "votes_R": 14803,
-     "votes_other": 203
-    },
     "pre_election_day": {
      "votes_D": 44986,
      "votes_R": 84292,
      "votes_other": 1159
+    },
+    "election_day": {
+     "votes_D": 3663,
+     "votes_R": 14803,
+     "votes_other": 203
     },
     "provisional": {
      "votes_D": 68,
@@ -505,7 +510,7 @@
      "votes_other": 3
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Yavapai County, AZ",
    "official_results": true,
    "pct_off_official": 0.0067,
    "completeness": "C3",
@@ -513,7 +518,7 @@
   },
   "04027": {
    "name": "Yuma",
-   "raw_name": "YUMA",
+   "raw_name": "Yuma",
    "fips": "04027",
    "is_mappable": true,
    "votes_D": 26823,
@@ -523,15 +528,15 @@
    "pct_D": 39.3,
    "pct_R": 59.7,
    "modes": {
-    "election_day": {
-     "votes_D": 3438,
-     "votes_R": 6865,
-     "votes_other": 72
-    },
     "pre_election_day": {
      "votes_D": 22467,
      "votes_R": 32472,
      "votes_other": 523
+    },
+    "election_day": {
+     "votes_D": 3438,
+     "votes_R": 6865,
+     "votes_other": 72
     },
     "late_pre_election_day": {
      "votes_D": 690,

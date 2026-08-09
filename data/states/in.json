@@ -6,15 +6,16 @@
  "completeness_breakdown": {
   "C3": 63,
   "U": 24,
-  "C2": 4,
-  "C4": 1
+  "C2": 3,
+  "C4": 1,
+  "C5": 1
  },
- "votes_D": 1163580,
- "votes_R": 1720386,
- "votes_other": 57908,
- "total_votes": 2941874,
- "pct_D": 39.6,
- "pct_R": 58.5,
+ "votes_D": 1163668,
+ "votes_R": 1720330,
+ "votes_other": 59849,
+ "total_votes": 2943847,
+ "pct_D": 39.5,
+ "pct_R": 58.4,
  "unit_count": 92,
  "state_profile": {
   "voting_summary": "Indiana votes about evenly across election day and 28 days of in-person absentee (early) voting, with mail requiring an excuse (5%). Polls close at 6 p.m. Eastern in most of the state (7 p.m. in the Central-time corners) (the first closures in the nation) and early/absentee votes are released first, with election day precincts following quickly; results are largely complete by late evening. Early voting ran R+24 and election day R+35, so the earliest numbers understate the final Republican margin slightly.",
@@ -26,18 +27,19 @@
    "Fast count"
   ],
   "mode_split": {
-   "total": 35.6,
+   "total": 35.7,
    "early_in_person": 29.6,
    "election_day": 29.2,
-   "mail": 4.8,
-   "pre_election_day": 0.8,
+   "mail": 4.0,
+   "pre_election_day": 1.6,
+   "overseas": 0.0,
    "provisional": 0.0
   }
  },
  "units": {
   "18001": {
    "name": "Adams",
-   "raw_name": "ADAMS",
+   "raw_name": "Adams",
    "fips": "18001",
    "is_mappable": true,
    "votes_D": 3179,
@@ -47,31 +49,31 @@
    "pct_D": 22.7,
    "pct_R": 75.3,
    "modes": {
-    "election_day": {
-     "votes_D": 1057,
-     "votes_R": 4523,
-     "votes_other": 154
+    "mail": {
+     "votes_D": 177,
+     "votes_R": 210,
+     "votes_other": 11
     },
     "early_in_person": {
      "votes_D": 1945,
      "votes_R": 5795,
      "votes_other": 114
     },
-    "mail": {
-     "votes_D": 177,
-     "votes_R": 210,
-     "votes_other": 11
+    "election_day": {
+     "votes_D": 1057,
+     "votes_R": 4523,
+     "votes_other": 154
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18003": {
    "name": "Allen",
-   "raw_name": "ALLEN",
+   "raw_name": "Allen",
    "fips": "18003",
    "is_mappable": true,
    "votes_D": 69960,
@@ -86,18 +88,18 @@
      "votes_R": 51008,
      "votes_other": 2405
     },
-    "early_in_person": {
-     "votes_D": 29471,
-     "votes_R": 33945,
-     "votes_other": 792
-    },
     "mail": {
      "votes_D": 6707,
      "votes_R": 5330,
      "votes_other": 210
+    },
+    "early_in_person": {
+     "votes_D": 29471,
+     "votes_R": 33945,
+     "votes_other": 792
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Allen County, IN",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -105,7 +107,7 @@
   },
   "18005": {
    "name": "Bartholomew",
-   "raw_name": "BARTHOLOMEW",
+   "raw_name": "Bartholomew",
    "fips": "18005",
    "is_mappable": true,
    "votes_D": 12525,
@@ -115,54 +117,54 @@
    "pct_D": 35.2,
    "pct_R": 62.4,
    "modes": {
-    "election_day": {
-     "votes_D": 3314,
-     "votes_R": 8493,
-     "votes_other": 400
+    "mail": {
+     "votes_D": 1188,
+     "votes_R": 961,
+     "votes_other": 53
     },
     "early_in_person": {
      "votes_D": 8023,
      "votes_R": 12766,
      "votes_other": 390
     },
-    "mail": {
-     "votes_D": 1188,
-     "votes_R": 961,
-     "votes_other": 53
+    "election_day": {
+     "votes_D": 3314,
+     "votes_R": 8493,
+     "votes_other": 400
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18007": {
    "name": "Benton",
-   "raw_name": "BENTON",
+   "raw_name": "Benton",
    "fips": "18007",
    "is_mappable": true,
    "votes_D": 1010,
    "votes_R": 2872,
-   "votes_other": 75,
-   "total_votes": 3957,
-   "pct_D": 25.5,
-   "pct_R": 72.6,
+   "votes_other": 66,
+   "total_votes": 3948,
+   "pct_D": 25.6,
+   "pct_R": 72.7,
    "modes": {
-    "election_day": {
-     "votes_D": 477,
-     "votes_R": 1690,
-     "votes_other": 49
+    "mail": {
+     "votes_D": 63,
+     "votes_R": 60,
+     "votes_other": 4
     },
     "early_in_person": {
      "votes_D": 470,
      "votes_R": 1122,
-     "votes_other": 17
+     "votes_other": 16
     },
-    "mail": {
-     "votes_D": 63,
-     "votes_R": 60,
-     "votes_other": 9
+    "election_day": {
+     "votes_D": 477,
+     "votes_R": 1690,
+     "votes_other": 46
     }
    },
    "data_source": "OpenElections",
@@ -173,7 +175,7 @@
   },
   "18009": {
    "name": "Blackford",
-   "raw_name": "BLACKFORD",
+   "raw_name": "Blackford",
    "fips": "18009",
    "is_mappable": true,
    "votes_D": 1227,
@@ -183,31 +185,31 @@
    "pct_D": 23.9,
    "pct_R": 74.1,
    "modes": {
-    "election_day": {
-     "votes_D": 375,
-     "votes_R": 1624,
-     "votes_other": 47
+    "mail": {
+     "votes_D": 124,
+     "votes_R": 128,
+     "votes_other": 6
     },
     "early_in_person": {
      "votes_D": 728,
      "votes_R": 2059,
      "votes_other": 50
     },
-    "mail": {
-     "votes_D": 124,
-     "votes_R": 128,
-     "votes_other": 6
+    "election_day": {
+     "votes_D": 375,
+     "votes_R": 1624,
+     "votes_other": 47
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.001,
    "completeness": "C3",
    "notes": ""
   },
   "18011": {
    "name": "Boone",
-   "raw_name": "BOONE",
+   "raw_name": "Boone",
    "fips": "18011",
    "is_mappable": true,
    "votes_D": 16426,
@@ -217,55 +219,55 @@
    "pct_D": 40.8,
    "pct_R": 56.7,
    "modes": {
-    "election_day": {
-     "votes_D": 3690,
-     "votes_R": 7097,
-     "votes_other": 405
+    "mail": {
+     "votes_D": 1714,
+     "votes_R": 1257,
+     "votes_other": 56
     },
     "early_in_person": {
      "votes_D": 11022,
      "votes_R": 14486,
      "votes_other": 556
     },
-    "mail": {
-     "votes_D": 1714,
-     "votes_R": 1257,
-     "votes_other": 56
+    "election_day": {
+     "votes_D": 3690,
+     "votes_R": 7097,
+     "votes_other": 405
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18013": {
    "name": "Brown",
-   "raw_name": "BROWN",
+   "raw_name": "Brown",
    "fips": "18013",
    "is_mappable": true,
    "votes_D": 2832,
    "votes_R": 5647,
-   "votes_other": 179,
-   "total_votes": 8658,
-   "pct_D": 32.7,
-   "pct_R": 65.2,
+   "votes_other": 148,
+   "total_votes": 8627,
+   "pct_D": 32.8,
+   "pct_R": 65.5,
    "modes": {
     "total": {
      "votes_D": 2832,
      "votes_R": 5647,
-     "votes_other": 179
+     "votes_other": 148
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0036,
    "completeness": "U",
    "notes": ""
   },
   "18015": {
    "name": "Carroll",
-   "raw_name": "CARROLL",
+   "raw_name": "Carroll",
    "fips": "18015",
    "is_mappable": true,
    "votes_D": 2120,
@@ -275,89 +277,94 @@
    "pct_D": 23.0,
    "pct_R": 74.9,
    "modes": {
+    "pre_election_day": {
+     "votes_D": 1382,
+     "votes_R": 3787,
+     "votes_other": 83
+    },
     "election_day": {
      "votes_D": 738,
      "votes_R": 3115,
      "votes_other": 107
-    },
-    "mail": {
-     "votes_D": 1382,
-     "votes_R": 3787,
-     "votes_other": 83
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.003,
    "completeness": "C2",
    "notes": ""
   },
   "18017": {
    "name": "Cass",
-   "raw_name": "CASS",
+   "raw_name": "Cass",
    "fips": "18017",
    "is_mappable": true,
    "votes_D": 3722,
    "votes_R": 10285,
-   "votes_other": 206,
-   "total_votes": 14213,
+   "votes_other": 209,
+   "total_votes": 14216,
    "pct_D": 26.2,
-   "pct_R": 72.4,
+   "pct_R": 72.3,
    "modes": {
-    "election_day": {
-     "votes_D": 1040,
-     "votes_R": 3368,
-     "votes_other": 85
+    "mail": {
+     "votes_D": 673,
+     "votes_R": 1401,
+     "votes_other": 36
     },
     "early_in_person": {
      "votes_D": 2009,
      "votes_R": 5516,
      "votes_other": 88
     },
-    "mail": {
-     "votes_D": 673,
-     "votes_R": 1401,
-     "votes_other": 33
+    "election_day": {
+     "votes_D": 1040,
+     "votes_R": 3368,
+     "votes_other": 85
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18019": {
    "name": "Clark",
-   "raw_name": "CLARK",
+   "raw_name": "Clark",
    "fips": "18019",
    "is_mappable": true,
-   "votes_D": 22800,
-   "votes_R": 34719,
+   "votes_D": 22810,
+   "votes_R": 34734,
    "votes_other": 1260,
-   "total_votes": 58779,
+   "total_votes": 58804,
    "pct_D": 38.8,
    "pct_R": 59.1,
    "modes": {
+    "pre_election_day": {
+     "votes_D": 9888,
+     "votes_R": 12182,
+     "votes_other": 320
+    },
     "election_day": {
      "votes_D": 12912,
      "votes_R": 22537,
      "votes_other": 940
     },
-    "pre_election_day": {
-     "votes_D": 9888,
-     "votes_R": 12182,
-     "votes_other": 320
+    "provisional": {
+     "votes_D": 10,
+     "votes_R": 15,
+     "votes_other": 0
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C2",
+   "completeness": "C3",
    "notes": ""
   },
   "18021": {
    "name": "Clay",
-   "raw_name": "CLAY",
+   "raw_name": "Clay",
    "fips": "18021",
    "is_mappable": true,
    "votes_D": 2495,
@@ -367,31 +374,31 @@
    "pct_D": 20.7,
    "pct_R": 77.5,
    "modes": {
-    "election_day": {
-     "votes_D": 1092,
-     "votes_R": 5149,
-     "votes_other": 156
+    "mail": {
+     "votes_D": 206,
+     "votes_R": 238,
+     "votes_other": 7
     },
     "early_in_person": {
      "votes_D": 1197,
      "votes_R": 3967,
      "votes_other": 61
     },
-    "mail": {
-     "votes_D": 206,
-     "votes_R": 238,
-     "votes_other": 7
+    "election_day": {
+     "votes_D": 1092,
+     "votes_R": 5149,
+     "votes_other": 156
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18023": {
    "name": "Clinton",
-   "raw_name": "CLINTON",
+   "raw_name": "Clinton",
    "fips": "18023",
    "is_mappable": true,
    "votes_D": 3135,
@@ -401,31 +408,31 @@
    "pct_D": 25.1,
    "pct_R": 73.1,
    "modes": {
-    "election_day": {
-     "votes_D": 1108,
-     "votes_R": 3861,
-     "votes_other": 121
+    "mail": {
+     "votes_D": 256,
+     "votes_R": 283,
+     "votes_other": 10
     },
     "early_in_person": {
      "votes_D": 1771,
      "votes_R": 4964,
      "votes_other": 93
     },
-    "mail": {
-     "votes_D": 256,
-     "votes_R": 283,
-     "votes_other": 10
+    "election_day": {
+     "votes_D": 1108,
+     "votes_R": 3861,
+     "votes_other": 121
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0014,
    "completeness": "C3",
    "notes": ""
   },
   "18025": {
    "name": "Crawford",
-   "raw_name": "CRAWFORD",
+   "raw_name": "Crawford",
    "fips": "18025",
    "is_mappable": true,
    "votes_D": 1235,
@@ -441,15 +448,15 @@
      "votes_other": 108
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
    "notes": ""
   },
   "18027": {
    "name": "Daviess",
-   "raw_name": "DAVIESS",
+   "raw_name": "Daviess",
    "fips": "18027",
    "is_mappable": true,
    "votes_D": 1963,
@@ -459,31 +466,65 @@
    "pct_D": 17.1,
    "pct_R": 81.3,
    "modes": {
-    "election_day": {
-     "votes_D": 619,
-     "votes_R": 3596,
-     "votes_other": 83
+    "mail": {
+     "votes_D": 209,
+     "votes_R": 334,
+     "votes_other": 10
     },
     "early_in_person": {
      "votes_D": 1135,
      "votes_R": 5392,
      "votes_other": 84
     },
-    "mail": {
-     "votes_D": 209,
-     "votes_R": 334,
-     "votes_other": 10
+    "election_day": {
+     "votes_D": 619,
+     "votes_R": 3596,
+     "votes_other": 83
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0011,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "18033": {
+   "name": "DeKalb",
+   "raw_name": "DeKalb",
+   "fips": "18033",
+   "is_mappable": true,
+   "votes_D": 5064,
+   "votes_R": 14377,
+   "votes_other": 390,
+   "total_votes": 19831,
+   "pct_D": 25.5,
+   "pct_R": 72.5,
+   "modes": {
+    "mail": {
+     "votes_D": 463,
+     "votes_R": 473,
+     "votes_other": 13
+    },
+    "early_in_person": {
+     "votes_D": 2877,
+     "votes_R": 8064,
+     "votes_other": 173
+    },
+    "election_day": {
+     "votes_D": 1724,
+     "votes_R": 5840,
+     "votes_other": 204
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18029": {
    "name": "Dearborn",
-   "raw_name": "DEARBORN",
+   "raw_name": "Dearborn",
    "fips": "18029",
    "is_mappable": true,
    "votes_D": 5335,
@@ -493,15 +534,15 @@
    "pct_D": 20.0,
    "pct_R": 78.1,
    "modes": {
+    "pre_election_day": {
+     "votes_D": 2710,
+     "votes_R": 8947,
+     "votes_other": 167
+    },
     "election_day": {
      "votes_D": 2625,
      "votes_R": 11896,
      "votes_other": 335
-    },
-    "mail": {
-     "votes_D": 2710,
-     "votes_R": 8947,
-     "votes_other": 167
     }
    },
    "data_source": "OpenElections",
@@ -512,7 +553,7 @@
   },
   "18031": {
    "name": "Decatur",
-   "raw_name": "DECATUR",
+   "raw_name": "Decatur",
    "fips": "18031",
    "is_mappable": true,
    "votes_D": 2406,
@@ -522,65 +563,31 @@
    "pct_D": 19.8,
    "pct_R": 78.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1039,
-     "votes_R": 5302,
-     "votes_other": 150
+    "mail": {
+     "votes_D": 226,
+     "votes_R": 328,
+     "votes_other": 7
     },
     "early_in_person": {
      "votes_D": 1141,
      "votes_R": 3861,
      "votes_other": 81
     },
-    "mail": {
-     "votes_D": 226,
-     "votes_R": 328,
-     "votes_other": 7
-    }
-   },
-   "data_source": "OpenElections",
-   "official_results": false,
-   "pct_off_official": 0.0,
-   "completeness": "C3",
-   "notes": ""
-  },
-  "18033": {
-   "name": "DeKalb",
-   "raw_name": "DEKALB",
-   "fips": "18033",
-   "is_mappable": true,
-   "votes_D": 5064,
-   "votes_R": 14377,
-   "votes_other": 390,
-   "total_votes": 19831,
-   "pct_D": 25.5,
-   "pct_R": 72.5,
-   "modes": {
     "election_day": {
-     "votes_D": 1724,
-     "votes_R": 5840,
-     "votes_other": 204
-    },
-    "early_in_person": {
-     "votes_D": 2877,
-     "votes_R": 8064,
-     "votes_other": 173
-    },
-    "mail": {
-     "votes_D": 463,
-     "votes_R": 473,
-     "votes_other": 13
+     "votes_D": 1039,
+     "votes_R": 5302,
+     "votes_other": 150
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18035": {
    "name": "Delaware",
-   "raw_name": "DELAWARE",
+   "raw_name": "Delaware",
    "fips": "18035",
    "is_mappable": true,
    "votes_D": 18848,
@@ -590,31 +597,31 @@
    "pct_D": 41.1,
    "pct_R": 56.8,
    "modes": {
-    "election_day": {
-     "votes_D": 10487,
-     "votes_R": 17274,
-     "votes_other": 760
+    "mail": {
+     "votes_D": 1911,
+     "votes_R": 1231,
+     "votes_other": 43
     },
     "early_in_person": {
      "votes_D": 6450,
      "votes_R": 7562,
      "votes_other": 163
     },
-    "mail": {
-     "votes_D": 1911,
-     "votes_R": 1231,
-     "votes_other": 43
+    "election_day": {
+     "votes_D": 10487,
+     "votes_R": 17274,
+     "votes_other": 760
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18037": {
    "name": "Dubois",
-   "raw_name": "DUBOIS",
+   "raw_name": "Dubois",
    "fips": "18037",
    "is_mappable": true,
    "votes_D": 5945,
@@ -624,20 +631,20 @@
    "pct_D": 27.7,
    "pct_R": 69.8,
    "modes": {
-    "election_day": {
-     "votes_D": 1720,
-     "votes_R": 5317,
-     "votes_other": 253
+    "mail": {
+     "votes_D": 396,
+     "votes_R": 385,
+     "votes_other": 11
     },
     "early_in_person": {
      "votes_D": 3829,
      "votes_R": 9281,
      "votes_other": 273
     },
-    "mail": {
-     "votes_D": 396,
-     "votes_R": 385,
-     "votes_other": 11
+    "election_day": {
+     "votes_D": 1720,
+     "votes_R": 5317,
+     "votes_other": 253
     }
    },
    "data_source": "OpenElections",
@@ -648,31 +655,31 @@
   },
   "18039": {
    "name": "Elkhart",
-   "raw_name": "ELKHART",
+   "raw_name": "Elkhart",
    "fips": "18039",
    "is_mappable": true,
    "votes_D": 23082,
    "votes_R": 45652,
-   "votes_other": 1031,
-   "total_votes": 69765,
-   "pct_D": 33.1,
-   "pct_R": 65.4,
+   "votes_other": 1359,
+   "total_votes": 70093,
+   "pct_D": 32.9,
+   "pct_R": 65.1,
    "modes": {
     "total": {
      "votes_D": 23082,
      "votes_R": 45652,
-     "votes_other": 1031
+     "votes_other": 1359
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0047,
    "completeness": "U",
    "notes": ""
   },
   "18041": {
    "name": "Fayette",
-   "raw_name": "FAYETTE",
+   "raw_name": "Fayette",
    "fips": "18041",
    "is_mappable": true,
    "votes_D": 2084,
@@ -687,18 +694,18 @@
      "votes_R": 3429,
      "votes_other": 100
     },
-    "early_in_person": {
-     "votes_D": 1162,
-     "votes_R": 3932,
-     "votes_other": 49
-    },
     "mail": {
      "votes_D": 184,
      "votes_R": 264,
      "votes_other": 4
+    },
+    "early_in_person": {
+     "votes_D": 1162,
+     "votes_R": 3932,
+     "votes_other": 49
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Fayette County, IN",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -706,67 +713,72 @@
   },
   "18043": {
    "name": "Floyd",
-   "raw_name": "FLOYD",
+   "raw_name": "Floyd",
    "fips": "18043",
    "is_mappable": true,
-   "votes_D": 17024,
-   "votes_R": 23404,
+   "votes_D": 17025,
+   "votes_R": 23408,
    "votes_other": 748,
-   "total_votes": 41176,
+   "total_votes": 41181,
    "pct_D": 41.3,
    "pct_R": 56.8,
    "modes": {
-    "election_day": {
-     "votes_D": 5003,
-     "votes_R": 8023,
-     "votes_other": 360
+    "mail": {
+     "votes_D": 1334,
+     "votes_R": 887,
+     "votes_other": 26
     },
     "early_in_person": {
      "votes_D": 10687,
      "votes_R": 14494,
      "votes_other": 362
     },
-    "mail": {
-     "votes_D": 1334,
-     "votes_R": 887,
-     "votes_other": 26
+    "election_day": {
+     "votes_D": 5003,
+     "votes_R": 8023,
+     "votes_other": 360
+    },
+    "provisional": {
+     "votes_D": 1,
+     "votes_R": 4,
+     "votes_other": 0
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C3",
+   "completeness": "C4",
    "notes": ""
   },
   "18045": {
    "name": "Fountain",
-   "raw_name": "FOUNTAIN",
+   "raw_name": "Fountain",
    "fips": "18045",
    "is_mappable": true,
    "votes_D": 1526,
    "votes_R": 6311,
-   "votes_other": 144,
-   "total_votes": 7981,
+   "votes_other": 147,
+   "total_votes": 7984,
    "pct_D": 19.1,
-   "pct_R": 79.1,
+   "pct_R": 79.0,
    "modes": {
-    "election_day": {
-     "votes_D": 769,
-     "votes_R": 3969,
-     "votes_other": 108
-    },
     "early_in_person": {
      "votes_D": 403,
      "votes_R": 1405,
      "votes_other": 20
     },
+    "election_day": {
+     "votes_D": 769,
+     "votes_R": 3969,
+     "votes_other": 110
+    },
     "mail": {
      "votes_D": 354,
      "votes_R": 937,
-     "votes_other": 16
+     "votes_other": 17
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "OpenElections",
    "official_results": true,
    "pct_off_official": 0.0001,
    "completeness": "C3",
@@ -774,7 +786,7 @@
   },
   "18047": {
    "name": "Franklin",
-   "raw_name": "FRANKLIN",
+   "raw_name": "Franklin",
    "fips": "18047",
    "is_mappable": true,
    "votes_D": 2061,
@@ -790,7 +802,7 @@
      "votes_other": 163
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -798,7 +810,7 @@
   },
   "18049": {
    "name": "Fulton",
-   "raw_name": "FULTON",
+   "raw_name": "Fulton",
    "fips": "18049",
    "is_mappable": true,
    "votes_D": 2097,
@@ -808,65 +820,65 @@
    "pct_D": 23.9,
    "pct_R": 75.6,
    "modes": {
-    "election_day": {
-     "votes_D": 603,
-     "votes_R": 2723,
-     "votes_other": 33
+    "mail": {
+     "votes_D": 214,
+     "votes_R": 235,
+     "votes_other": 0
     },
     "early_in_person": {
      "votes_D": 1280,
      "votes_R": 3675,
      "votes_other": 15
     },
-    "mail": {
-     "votes_D": 214,
-     "votes_R": 235,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 603,
+     "votes_R": 2723,
+     "votes_other": 33
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.011,
    "completeness": "C3",
    "notes": ""
   },
   "18051": {
    "name": "Gibson",
-   "raw_name": "GIBSON",
+   "raw_name": "Gibson",
    "fips": "18051",
    "is_mappable": true,
    "votes_D": 3722,
    "votes_R": 11896,
-   "votes_other": 282,
-   "total_votes": 15900,
+   "votes_other": 283,
+   "total_votes": 15901,
    "pct_D": 23.4,
    "pct_R": 74.8,
    "modes": {
-    "election_day": {
-     "votes_D": 1896,
-     "votes_R": 7168,
-     "votes_other": 194
+    "mail": {
+     "votes_D": 767,
+     "votes_R": 1625,
+     "votes_other": 34
     },
     "early_in_person": {
      "votes_D": 1059,
      "votes_R": 3103,
      "votes_other": 54
     },
-    "mail": {
-     "votes_D": 767,
-     "votes_R": 1625,
-     "votes_other": 34
+    "election_day": {
+     "votes_D": 1896,
+     "votes_R": 7168,
+     "votes_other": 195
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0001,
    "completeness": "C3",
    "notes": ""
   },
   "18053": {
    "name": "Grant",
-   "raw_name": "GRANT",
+   "raw_name": "Grant",
    "fips": "18053",
    "is_mappable": true,
    "votes_D": 7083,
@@ -876,31 +888,31 @@
    "pct_D": 28.1,
    "pct_R": 69.7,
    "modes": {
-    "election_day": {
-     "votes_D": 3491,
-     "votes_R": 9953,
-     "votes_other": 407
+    "mail": {
+     "votes_D": 929,
+     "votes_R": 1064,
+     "votes_other": 29
     },
     "early_in_person": {
      "votes_D": 2663,
      "votes_R": 6563,
      "votes_other": 127
     },
-    "mail": {
-     "votes_D": 929,
-     "votes_R": 1064,
-     "votes_other": 29
+    "election_day": {
+     "votes_D": 3491,
+     "votes_R": 9953,
+     "votes_other": 407
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18055": {
    "name": "Greene",
-   "raw_name": "GREENE",
+   "raw_name": "Greene",
    "fips": "18055",
    "is_mappable": true,
    "votes_D": 3270,
@@ -910,31 +922,31 @@
    "pct_D": 22.3,
    "pct_R": 76.0,
    "modes": {
-    "election_day": {
-     "votes_D": 1389,
-     "votes_R": 6188,
-     "votes_other": 146
+    "mail": {
+     "votes_D": 401,
+     "votes_R": 495,
+     "votes_other": 15
     },
     "early_in_person": {
      "votes_D": 1480,
      "votes_R": 4449,
      "votes_other": 90
     },
-    "mail": {
-     "votes_D": 401,
-     "votes_R": 495,
-     "votes_other": 15
+    "election_day": {
+     "votes_D": 1389,
+     "votes_R": 6188,
+     "votes_other": 146
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18057": {
    "name": "Hamilton",
-   "raw_name": "HAMILTON",
+   "raw_name": "Hamilton",
    "fips": "18057",
    "is_mappable": true,
    "votes_D": 90394,
@@ -949,18 +961,18 @@
      "votes_R": 45656,
      "votes_other": 3027
     },
-    "early_in_person": {
-     "votes_D": 47444,
-     "votes_R": 48267,
-     "votes_other": 1598
-    },
     "mail": {
      "votes_D": 11128,
      "votes_R": 8395,
      "votes_other": 430
+    },
+    "early_in_person": {
+     "votes_D": 47444,
+     "votes_R": 48267,
+     "votes_other": 1598
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Hamilton County, IN",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -968,7 +980,7 @@
   },
   "18059": {
    "name": "Hancock",
-   "raw_name": "HANCOCK",
+   "raw_name": "Hancock",
    "fips": "18059",
    "is_mappable": true,
    "votes_D": 14312,
@@ -983,60 +995,65 @@
      "votes_R": 8516,
      "votes_other": 382
     },
-    "early_in_person": {
-     "votes_D": 9580,
-     "votes_R": 19483,
-     "votes_other": 554
-    },
     "mail": {
-     "votes_D": 1306,
-     "votes_R": 1274,
-     "votes_other": 46
+     "votes_D": 1201,
+     "votes_R": 1153,
+     "votes_other": 40
+    },
+    "overseas": {
+     "votes_D": 105,
+     "votes_R": 121,
+     "votes_other": 6
     },
     "provisional": {
      "votes_D": 24,
      "votes_R": 15,
      "votes_other": 2
+    },
+    "early_in_person": {
+     "votes_D": 9580,
+     "votes_R": 19483,
+     "votes_other": 554
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Hancock County, IN",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C4",
+   "completeness": "C5",
    "notes": ""
   },
   "18061": {
    "name": "Harrison",
-   "raw_name": "HARRISON",
+   "raw_name": "Harrison",
    "fips": "18061",
    "is_mappable": true,
    "votes_D": 5233,
    "votes_R": 14830,
-   "votes_other": 385,
-   "total_votes": 20448,
+   "votes_other": 390,
+   "total_votes": 20453,
    "pct_D": 25.6,
    "pct_R": 72.5,
    "modes": {
+    "pre_election_day": {
+     "votes_D": 2506,
+     "votes_R": 5212,
+     "votes_other": 87
+    },
     "election_day": {
      "votes_D": 2727,
      "votes_R": 9618,
-     "votes_other": 301
-    },
-    "mail": {
-     "votes_D": 2506,
-     "votes_R": 5212,
-     "votes_other": 84
+     "votes_other": 303
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
    "notes": ""
   },
   "18063": {
    "name": "Hendricks",
-   "raw_name": "HENDRICKS",
+   "raw_name": "Hendricks",
    "fips": "18063",
    "is_mappable": true,
    "votes_D": 31917,
@@ -1046,55 +1063,55 @@
    "pct_D": 38.6,
    "pct_R": 60.2,
    "modes": {
-    "election_day": {
-     "votes_D": 11406,
-     "votes_R": 20966,
-     "votes_other": 529
+    "mail": {
+     "votes_D": 3441,
+     "votes_R": 3115,
+     "votes_other": 82
     },
     "early_in_person": {
      "votes_D": 17070,
      "votes_R": 25702,
      "votes_other": 411
     },
-    "mail": {
-     "votes_D": 3441,
-     "votes_R": 3115,
-     "votes_other": 82
+    "election_day": {
+     "votes_D": 11406,
+     "votes_R": 20966,
+     "votes_other": 529
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0088,
    "completeness": "C3",
    "notes": ""
   },
   "18065": {
    "name": "Henry",
-   "raw_name": "HENRY",
+   "raw_name": "Henry",
    "fips": "18065",
    "is_mappable": true,
    "votes_D": 5208,
    "votes_R": 15033,
-   "votes_other": 363,
-   "total_votes": 20604,
-   "pct_D": 25.3,
-   "pct_R": 73.0,
+   "votes_other": 419,
+   "total_votes": 20660,
+   "pct_D": 25.2,
+   "pct_R": 72.8,
    "modes": {
     "total": {
      "votes_D": 5208,
      "votes_R": 15033,
-     "votes_other": 363
+     "votes_other": 419
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0027,
    "completeness": "U",
    "notes": ""
   },
   "18067": {
    "name": "Howard",
-   "raw_name": "HOWARD",
+   "raw_name": "Howard",
    "fips": "18067",
    "is_mappable": true,
    "votes_D": 12197,
@@ -1110,15 +1127,15 @@
      "votes_other": 829
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
    "notes": ""
   },
   "18069": {
    "name": "Huntington",
-   "raw_name": "HUNTINGTON",
+   "raw_name": "Huntington",
    "fips": "18069",
    "is_mappable": true,
    "votes_D": 4416,
@@ -1128,31 +1145,31 @@
    "pct_D": 24.8,
    "pct_R": 73.0,
    "modes": {
-    "election_day": {
-     "votes_D": 1284,
-     "votes_R": 4492,
-     "votes_other": 191
+    "mail": {
+     "votes_D": 391,
+     "votes_R": 435,
+     "votes_other": 12
     },
     "early_in_person": {
      "votes_D": 2741,
      "votes_R": 8063,
      "votes_other": 174
     },
-    "mail": {
-     "votes_D": 391,
-     "votes_R": 435,
-     "votes_other": 12
+    "election_day": {
+     "votes_D": 1284,
+     "votes_R": 4492,
+     "votes_other": 191
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18071": {
    "name": "Jackson",
-   "raw_name": "JACKSON",
+   "raw_name": "Jackson",
    "fips": "18071",
    "is_mappable": true,
    "votes_D": 4015,
@@ -1168,15 +1185,15 @@
      "votes_other": 316
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
    "notes": ""
   },
   "18073": {
    "name": "Jasper",
-   "raw_name": "JASPER",
+   "raw_name": "Jasper",
    "fips": "18073",
    "is_mappable": true,
    "votes_D": 3489,
@@ -1186,31 +1203,31 @@
    "pct_D": 22.0,
    "pct_R": 76.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1460,
-     "votes_R": 6032,
-     "votes_other": 164
+    "mail": {
+     "votes_D": 377,
+     "votes_R": 465,
+     "votes_other": 14
     },
     "early_in_person": {
      "votes_D": 1652,
      "votes_R": 5585,
      "votes_other": 97
     },
-    "mail": {
-     "votes_D": 377,
-     "votes_R": 465,
-     "votes_other": 14
+    "election_day": {
+     "votes_D": 1460,
+     "votes_R": 6032,
+     "votes_other": 164
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18075": {
    "name": "Jay",
-   "raw_name": "JAY",
+   "raw_name": "Jay",
    "fips": "18075",
    "is_mappable": true,
    "votes_D": 1747,
@@ -1220,31 +1237,31 @@
    "pct_D": 21.5,
    "pct_R": 76.6,
    "modes": {
-    "election_day": {
-     "votes_D": 703,
-     "votes_R": 3036,
-     "votes_other": 89
+    "mail": {
+     "votes_D": 105,
+     "votes_R": 158,
+     "votes_other": 3
     },
     "early_in_person": {
      "votes_D": 939,
      "votes_R": 3023,
      "votes_other": 59
     },
-    "mail": {
-     "votes_D": 105,
-     "votes_R": 158,
-     "votes_other": 3
+    "election_day": {
+     "votes_D": 703,
+     "votes_R": 3036,
+     "votes_other": 89
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18077": {
    "name": "Jefferson",
-   "raw_name": "JEFFERSON",
+   "raw_name": "Jefferson",
    "fips": "18077",
    "is_mappable": true,
    "votes_D": 4442,
@@ -1254,15 +1271,15 @@
    "pct_D": 30.9,
    "pct_R": 67.0,
    "modes": {
-    "election_day": {
-     "votes_D": 2029,
-     "votes_R": 5768,
-     "votes_other": 185
-    },
     "early_in_person": {
      "votes_D": 1937,
      "votes_R": 3489,
      "votes_other": 94
+    },
+    "election_day": {
+     "votes_D": 2029,
+     "votes_R": 5768,
+     "votes_other": 185
     },
     "mail": {
      "votes_D": 476,
@@ -1270,7 +1287,7 @@
      "votes_other": 20
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "OpenElections",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -1278,7 +1295,7 @@
   },
   "18079": {
    "name": "Jennings",
-   "raw_name": "JENNINGS",
+   "raw_name": "Jennings",
    "fips": "18079",
    "is_mappable": true,
    "votes_D": 2328,
@@ -1294,15 +1311,15 @@
      "votes_other": 208
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
    "notes": ""
   },
   "18081": {
    "name": "Johnson",
-   "raw_name": "JOHNSON",
+   "raw_name": "Johnson",
    "fips": "18081",
    "is_mappable": true,
    "votes_D": 24880,
@@ -1312,31 +1329,31 @@
    "pct_D": 31.9,
    "pct_R": 66.1,
    "modes": {
-    "election_day": {
-     "votes_D": 6350,
-     "votes_R": 15639,
-     "votes_other": 664
+    "mail": {
+     "votes_D": 2423,
+     "votes_R": 2564,
+     "votes_other": 85
     },
     "early_in_person": {
      "votes_D": 16107,
      "votes_R": 33385,
      "votes_other": 842
     },
-    "mail": {
-     "votes_D": 2423,
-     "votes_R": 2564,
-     "votes_other": 85
+    "election_day": {
+     "votes_D": 6350,
+     "votes_R": 15639,
+     "votes_other": 664
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18083": {
    "name": "Knox",
-   "raw_name": "KNOX",
+   "raw_name": "Knox",
    "fips": "18083",
    "is_mappable": true,
    "votes_D": 3625,
@@ -1346,31 +1363,31 @@
    "pct_D": 24.0,
    "pct_R": 74.3,
    "modes": {
-    "election_day": {
-     "votes_D": 1391,
-     "votes_R": 5571,
-     "votes_other": 138
+    "mail": {
+     "votes_D": 358,
+     "votes_R": 424,
+     "votes_other": 29
     },
     "early_in_person": {
      "votes_D": 1876,
      "votes_R": 5241,
      "votes_other": 95
     },
-    "mail": {
-     "votes_D": 358,
-     "votes_R": 424,
-     "votes_other": 29
+    "election_day": {
+     "votes_D": 1391,
+     "votes_R": 5571,
+     "votes_other": 138
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18085": {
    "name": "Kosciusko",
-   "raw_name": "KOSCIUSKO",
+   "raw_name": "Kosciusko",
    "fips": "18085",
    "is_mappable": true,
    "votes_D": 7995,
@@ -1380,20 +1397,20 @@
    "pct_D": 22.8,
    "pct_R": 74.9,
    "modes": {
-    "election_day": {
-     "votes_D": 3880,
-     "votes_R": 15172,
-     "votes_other": 590
+    "mail": {
+     "votes_D": 783,
+     "votes_R": 983,
+     "votes_other": 37
     },
     "early_in_person": {
      "votes_D": 3332,
      "votes_R": 10057,
      "votes_other": 171
     },
-    "mail": {
-     "votes_D": 783,
-     "votes_R": 983,
-     "votes_other": 37
+    "election_day": {
+     "votes_D": 3880,
+     "votes_R": 15172,
+     "votes_other": 590
     }
    },
    "data_source": "OpenElections",
@@ -1404,7 +1421,7 @@
   },
   "18087": {
    "name": "LaGrange",
-   "raw_name": "LAGRANGE",
+   "raw_name": "LaGrange",
    "fips": "18087",
    "is_mappable": true,
    "votes_D": 2162,
@@ -1419,60 +1436,26 @@
      "votes_R": 5356,
      "votes_other": 148
     },
-    "early_in_person": {
-     "votes_D": 795,
-     "votes_R": 2441,
-     "votes_other": 43
-    },
     "mail": {
      "votes_D": 217,
      "votes_R": 276,
      "votes_other": 13
-    }
-   },
-   "data_source": "County-PDF",
-   "official_results": true,
-   "pct_off_official": 0.0,
-   "completeness": "C3",
-   "notes": ""
-  },
-  "18089": {
-   "name": "Lake",
-   "raw_name": "LAKE",
-   "fips": "18089",
-   "is_mappable": true,
-   "votes_D": 109086,
-   "votes_R": 97270,
-   "votes_other": 3746,
-   "total_votes": 210102,
-   "pct_D": 51.9,
-   "pct_R": 46.3,
-   "modes": {
-    "election_day": {
-     "votes_D": 54038,
-     "votes_R": 53176,
-     "votes_other": 2668
     },
     "early_in_person": {
-     "votes_D": 47072,
-     "votes_R": 41056,
-     "votes_other": 947
-    },
-    "mail": {
-     "votes_D": 7976,
-     "votes_R": 3038,
-     "votes_other": 131
+     "votes_D": 795,
+     "votes_R": 2441,
+     "votes_other": 43
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "LaGrange County, IN",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18091": {
    "name": "LaPorte",
-   "raw_name": "LAPORTE",
+   "raw_name": "LaPorte",
    "fips": "18091",
    "is_mappable": true,
    "votes_D": 20077,
@@ -1482,20 +1465,20 @@
    "pct_D": 42.1,
    "pct_R": 56.0,
    "modes": {
-    "election_day": {
-     "votes_D": 7990,
-     "votes_R": 13545,
-     "votes_other": 570
+    "mail": {
+     "votes_D": 1514,
+     "votes_R": 801,
+     "votes_other": 34
     },
     "early_in_person": {
      "votes_D": 10573,
      "votes_R": 12380,
      "votes_other": 310
     },
-    "mail": {
-     "votes_D": 1514,
-     "votes_R": 801,
-     "votes_other": 34
+    "election_day": {
+     "votes_D": 7990,
+     "votes_R": 13545,
+     "votes_other": 570
     }
    },
    "data_source": "OpenElections",
@@ -1504,9 +1487,43 @@
    "completeness": "C3",
    "notes": ""
   },
+  "18089": {
+   "name": "Lake",
+   "raw_name": "Lake",
+   "fips": "18089",
+   "is_mappable": true,
+   "votes_D": 109086,
+   "votes_R": 97270,
+   "votes_other": 3746,
+   "total_votes": 210102,
+   "pct_D": 51.9,
+   "pct_R": 46.3,
+   "modes": {
+    "mail": {
+     "votes_D": 7976,
+     "votes_R": 3038,
+     "votes_other": 131
+    },
+    "early_in_person": {
+     "votes_D": 47072,
+     "votes_R": 41056,
+     "votes_other": 947
+    },
+    "election_day": {
+     "votes_D": 54038,
+     "votes_R": 53176,
+     "votes_other": 2668
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
   "18093": {
    "name": "Lawrence",
-   "raw_name": "LAWRENCE",
+   "raw_name": "Lawrence",
    "fips": "18093",
    "is_mappable": true,
    "votes_D": 5010,
@@ -1516,31 +1533,31 @@
    "pct_D": 23.6,
    "pct_R": 74.5,
    "modes": {
-    "election_day": {
-     "votes_D": 1531,
-     "votes_R": 5826,
-     "votes_other": 187
+    "mail": {
+     "votes_D": 643,
+     "votes_R": 1004,
+     "votes_other": 29
     },
     "early_in_person": {
      "votes_D": 2836,
      "votes_R": 9000,
      "votes_other": 193
     },
-    "mail": {
-     "votes_D": 643,
-     "votes_R": 1004,
-     "votes_other": 29
+    "election_day": {
+     "votes_D": 1531,
+     "votes_R": 5826,
+     "votes_other": 187
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0014,
    "completeness": "C3",
    "notes": ""
   },
   "18095": {
    "name": "Madison",
-   "raw_name": "MADISON",
+   "raw_name": "Madison",
    "fips": "18095",
    "is_mappable": true,
    "votes_D": 19824,
@@ -1556,39 +1573,39 @@
      "votes_other": 1211
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
    "notes": ""
   },
   "18097": {
    "name": "Marion",
-   "raw_name": "MARION",
+   "raw_name": "Marion",
    "fips": "18097",
    "is_mappable": true,
    "votes_D": 221719,
    "votes_R": 124327,
-   "votes_other": 6494,
-   "total_votes": 352540,
-   "pct_D": 62.9,
-   "pct_R": 35.3,
+   "votes_other": 8322,
+   "total_votes": 354368,
+   "pct_D": 62.6,
+   "pct_R": 35.1,
    "modes": {
     "total": {
      "votes_D": 221719,
      "votes_R": 124327,
-     "votes_other": 6494
+     "votes_other": 8322
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0052,
    "completeness": "U",
    "notes": ""
   },
   "18099": {
    "name": "Marshall",
-   "raw_name": "MARSHALL",
+   "raw_name": "Marshall",
    "fips": "18099",
    "is_mappable": true,
    "votes_D": 5356,
@@ -1598,31 +1615,31 @@
    "pct_D": 27.3,
    "pct_R": 70.5,
    "modes": {
-    "election_day": {
-     "votes_D": 2381,
-     "votes_R": 7733,
-     "votes_other": 293
+    "mail": {
+     "votes_D": 649,
+     "votes_R": 658,
+     "votes_other": 26
     },
     "early_in_person": {
      "votes_D": 2326,
      "votes_R": 5446,
      "votes_other": 104
     },
-    "mail": {
-     "votes_D": 649,
-     "votes_R": 658,
-     "votes_other": 26
+    "election_day": {
+     "votes_D": 2381,
+     "votes_R": 7733,
+     "votes_other": 293
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18101": {
    "name": "Martin",
-   "raw_name": "MARTIN",
+   "raw_name": "Martin",
    "fips": "18101",
    "is_mappable": true,
    "votes_D": 933,
@@ -1638,15 +1655,15 @@
      "votes_other": 98
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
    "notes": ""
   },
   "18103": {
    "name": "Miami",
-   "raw_name": "MIAMI",
+   "raw_name": "Miami",
    "fips": "18103",
    "is_mappable": true,
    "votes_D": 3046,
@@ -1656,31 +1673,31 @@
    "pct_D": 21.8,
    "pct_R": 76.2,
    "modes": {
-    "election_day": {
-     "votes_D": 908,
-     "votes_R": 3573,
-     "votes_other": 122
+    "mail": {
+     "votes_D": 252,
+     "votes_R": 339,
+     "votes_other": 18
     },
     "early_in_person": {
      "votes_D": 1886,
      "votes_R": 6758,
      "votes_other": 142
     },
-    "mail": {
-     "votes_D": 252,
-     "votes_R": 339,
-     "votes_other": 18
+    "election_day": {
+     "votes_D": 908,
+     "votes_R": 3573,
+     "votes_other": 122
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18105": {
    "name": "Monroe",
-   "raw_name": "MONROE",
+   "raw_name": "Monroe",
    "fips": "18105",
    "is_mappable": true,
    "votes_D": 37213,
@@ -1696,7 +1713,7 @@
      "votes_other": 1385
     }
    },
-   "data_source": "Ballotpedia",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1704,31 +1721,31 @@
   },
   "18107": {
    "name": "Montgomery",
-   "raw_name": "MONTGOMERY",
+   "raw_name": "Montgomery",
    "fips": "18107",
    "is_mappable": true,
    "votes_D": 4134,
    "votes_R": 12122,
-   "votes_other": 325,
-   "total_votes": 16581,
+   "votes_other": 371,
+   "total_votes": 16627,
    "pct_D": 24.9,
-   "pct_R": 73.1,
+   "pct_R": 72.9,
    "modes": {
     "total": {
      "votes_D": 4134,
      "votes_R": 12122,
-     "votes_other": 325
+     "votes_other": 371
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0028,
    "completeness": "U",
    "notes": ""
   },
   "18109": {
    "name": "Morgan",
-   "raw_name": "MORGAN",
+   "raw_name": "Morgan",
    "fips": "18109",
    "is_mappable": true,
    "votes_D": 7764,
@@ -1738,20 +1755,20 @@
    "pct_D": 21.9,
    "pct_R": 76.1,
    "modes": {
-    "election_day": {
-     "votes_D": 2027,
-     "votes_R": 9665,
-     "votes_other": 315
+    "mail": {
+     "votes_D": 876,
+     "votes_R": 1122,
+     "votes_other": 30
     },
     "early_in_person": {
      "votes_D": 4861,
      "votes_R": 16176,
      "votes_other": 348
     },
-    "mail": {
-     "votes_D": 876,
-     "votes_R": 1122,
-     "votes_other": 30
+    "election_day": {
+     "votes_D": 2027,
+     "votes_R": 9665,
+     "votes_other": 315
     }
    },
    "data_source": "OpenElections",
@@ -1762,7 +1779,7 @@
   },
   "18111": {
    "name": "Newton",
-   "raw_name": "NEWTON",
+   "raw_name": "Newton",
    "fips": "18111",
    "is_mappable": true,
    "votes_D": 1368,
@@ -1772,15 +1789,15 @@
    "pct_D": 20.7,
    "pct_R": 77.8,
    "modes": {
-    "election_day": {
-     "votes_D": 935,
-     "votes_R": 4008,
-     "votes_other": 82
-    },
     "early_in_person": {
      "votes_D": 303,
      "votes_R": 952,
      "votes_other": 14
+    },
+    "election_day": {
+     "votes_D": 935,
+     "votes_R": 4008,
+     "votes_other": 82
     },
     "mail": {
      "votes_D": 130,
@@ -1788,15 +1805,15 @@
      "votes_other": 4
     }
    },
-   "data_source": "County-PDF",
-   "official_results": true,
+   "data_source": "Newton County, IN",
+   "official_results": false,
    "pct_off_official": 0.0003,
    "completeness": "C3",
    "notes": ""
   },
   "18113": {
    "name": "Noble",
-   "raw_name": "NOBLE",
+   "raw_name": "Noble",
    "fips": "18113",
    "is_mappable": true,
    "votes_D": 4462,
@@ -1806,31 +1823,31 @@
    "pct_D": 23.5,
    "pct_R": 74.8,
    "modes": {
-    "election_day": {
-     "votes_D": 1945,
-     "votes_R": 7132,
-     "votes_other": 190
+    "mail": {
+     "votes_D": 430,
+     "votes_R": 451,
+     "votes_other": 23
     },
     "early_in_person": {
      "votes_D": 2087,
      "votes_R": 6626,
      "votes_other": 108
     },
-    "mail": {
-     "votes_D": 430,
-     "votes_R": 451,
-     "votes_other": 23
+    "election_day": {
+     "votes_D": 1945,
+     "votes_R": 7132,
+     "votes_other": 190
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18115": {
    "name": "Ohio",
-   "raw_name": "OHIO",
+   "raw_name": "Ohio",
    "fips": "18115",
    "is_mappable": true,
    "votes_D": 666,
@@ -1846,15 +1863,15 @@
      "votes_other": 44
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
    "notes": ""
   },
   "18117": {
    "name": "Orange",
-   "raw_name": "ORANGE",
+   "raw_name": "Orange",
    "fips": "18117",
    "is_mappable": true,
    "votes_D": 1988,
@@ -1864,31 +1881,31 @@
    "pct_D": 23.1,
    "pct_R": 75.1,
    "modes": {
-    "election_day": {
-     "votes_D": 1136,
-     "votes_R": 4487,
-     "votes_other": 121
+    "mail": {
+     "votes_D": 214,
+     "votes_R": 264,
+     "votes_other": 5
     },
     "early_in_person": {
      "votes_D": 638,
      "votes_R": 1716,
      "votes_other": 31
     },
-    "mail": {
-     "votes_D": 214,
-     "votes_R": 264,
-     "votes_other": 5
+    "election_day": {
+     "votes_D": 1136,
+     "votes_R": 4487,
+     "votes_other": 121
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.002,
    "completeness": "C3",
    "notes": ""
   },
   "18119": {
    "name": "Owen",
-   "raw_name": "OWEN",
+   "raw_name": "Owen",
    "fips": "18119",
    "is_mappable": true,
    "votes_D": 2354,
@@ -1898,31 +1915,31 @@
    "pct_D": 23.8,
    "pct_R": 74.4,
    "modes": {
-    "election_day": {
-     "votes_D": 813,
-     "votes_R": 3570,
-     "votes_other": 85
+    "mail": {
+     "votes_D": 182,
+     "votes_R": 257,
+     "votes_other": 8
     },
     "early_in_person": {
      "votes_D": 1359,
      "votes_R": 3533,
      "votes_other": 87
     },
-    "mail": {
-     "votes_D": 182,
-     "votes_R": 257,
-     "votes_other": 8
+    "election_day": {
+     "votes_D": 813,
+     "votes_R": 3570,
+     "votes_other": 85
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0018,
    "completeness": "C3",
    "notes": ""
   },
   "18121": {
    "name": "Parke",
-   "raw_name": "PARKE",
+   "raw_name": "Parke",
    "fips": "18121",
    "is_mappable": true,
    "votes_D": 1371,
@@ -1938,15 +1955,15 @@
      "votes_other": 125
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
    "notes": ""
   },
   "18123": {
    "name": "Perry",
-   "raw_name": "PERRY",
+   "raw_name": "Perry",
    "fips": "18123",
    "is_mappable": true,
    "votes_D": 2971,
@@ -1956,20 +1973,20 @@
    "pct_D": 34.2,
    "pct_R": 63.9,
    "modes": {
-    "election_day": {
-     "votes_D": 1010,
-     "votes_R": 2575,
-     "votes_other": 88
+    "mail": {
+     "votes_D": 246,
+     "votes_R": 209,
+     "votes_other": 6
     },
     "early_in_person": {
      "votes_D": 1715,
      "votes_R": 2766,
      "votes_other": 70
     },
-    "mail": {
-     "votes_D": 246,
-     "votes_R": 209,
-     "votes_other": 6
+    "election_day": {
+     "votes_D": 1010,
+     "votes_R": 2575,
+     "votes_other": 88
     }
    },
    "data_source": "OpenElections",
@@ -1980,89 +1997,89 @@
   },
   "18125": {
    "name": "Pike",
-   "raw_name": "PIKE",
+   "raw_name": "Pike",
    "fips": "18125",
    "is_mappable": true,
    "votes_D": 1314,
    "votes_R": 4610,
-   "votes_other": 87,
-   "total_votes": 6011,
+   "votes_other": 89,
+   "total_votes": 6013,
    "pct_D": 21.9,
    "pct_R": 76.7,
    "modes": {
-    "election_day": {
-     "votes_D": 475,
-     "votes_R": 2171,
-     "votes_other": 47
-    },
-    "early_in_person": {
-     "votes_D": 669,
-     "votes_R": 2271,
-     "votes_other": 36
-    },
     "mail": {
      "votes_D": 170,
      "votes_R": 168,
      "votes_other": 4
+    },
+    "early_in_person": {
+     "votes_D": 669,
+     "votes_R": 2271,
+     "votes_other": 37
+    },
+    "election_day": {
+     "votes_D": 475,
+     "votes_R": 2171,
+     "votes_other": 48
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0003,
    "completeness": "C3",
    "notes": ""
   },
   "18127": {
    "name": "Porter",
-   "raw_name": "PORTER",
+   "raw_name": "Porter",
    "fips": "18127",
    "is_mappable": true,
-   "votes_D": 37197,
-   "votes_R": 46074,
-   "votes_other": 2076,
-   "total_votes": 85347,
-   "pct_D": 43.6,
-   "pct_R": 54.0,
+   "votes_D": 37213,
+   "votes_R": 46109,
+   "votes_other": 1647,
+   "total_votes": 84969,
+   "pct_D": 43.8,
+   "pct_R": 54.3,
    "modes": {
     "total": {
-     "votes_D": 37197,
-     "votes_R": 46074,
-     "votes_other": 2076
+     "votes_D": 37213,
+     "votes_R": 46109,
+     "votes_other": 1647
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0044,
    "completeness": "U",
    "notes": ""
   },
   "18129": {
    "name": "Posey",
-   "raw_name": "POSEY",
+   "raw_name": "Posey",
    "fips": "18129",
    "is_mappable": true,
    "votes_D": 3572,
    "votes_R": 9206,
-   "votes_other": 200,
-   "total_votes": 12978,
+   "votes_other": 201,
+   "total_votes": 12979,
    "pct_D": 27.5,
    "pct_R": 70.9,
    "modes": {
     "total": {
      "votes_D": 3572,
      "votes_R": 9206,
-     "votes_other": 200
+     "votes_other": 201
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0001,
    "completeness": "U",
    "notes": ""
   },
   "18131": {
    "name": "Pulaski",
-   "raw_name": "PULASKI",
+   "raw_name": "Pulaski",
    "fips": "18131",
    "is_mappable": true,
    "votes_D": 1280,
@@ -2072,20 +2089,20 @@
    "pct_D": 22.2,
    "pct_R": 75.8,
    "modes": {
-    "election_day": {
-     "votes_D": 450,
-     "votes_R": 2088,
-     "votes_other": 60
+    "mail": {
+     "votes_D": 119,
+     "votes_R": 177,
+     "votes_other": 8
     },
     "early_in_person": {
      "votes_D": 711,
      "votes_R": 2103,
      "votes_other": 48
     },
-    "mail": {
-     "votes_D": 119,
-     "votes_R": 177,
-     "votes_other": 8
+    "election_day": {
+     "votes_D": 450,
+     "votes_R": 2088,
+     "votes_other": 60
     }
    },
    "data_source": "OpenElections",
@@ -2096,7 +2113,7 @@
   },
   "18133": {
    "name": "Putnam",
-   "raw_name": "PUTNAM",
+   "raw_name": "Putnam",
    "fips": "18133",
    "is_mappable": true,
    "votes_D": 3871,
@@ -2112,15 +2129,15 @@
      "votes_other": 329
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
    "notes": ""
   },
   "18135": {
    "name": "Randolph",
-   "raw_name": "RANDOLPH",
+   "raw_name": "Randolph",
    "fips": "18135",
    "is_mappable": true,
    "votes_D": 2348,
@@ -2130,20 +2147,20 @@
    "pct_D": 22.2,
    "pct_R": 75.8,
    "modes": {
-    "election_day": {
-     "votes_D": 1118,
-     "votes_R": 4698,
-     "votes_other": 140
+    "mail": {
+     "votes_D": 232,
+     "votes_R": 283,
+     "votes_other": 11
     },
     "early_in_person": {
      "votes_D": 998,
      "votes_R": 3027,
      "votes_other": 57
     },
-    "mail": {
-     "votes_D": 232,
-     "votes_R": 283,
-     "votes_other": 11
+    "election_day": {
+     "votes_D": 1118,
+     "votes_R": 4698,
+     "votes_other": 140
     }
    },
    "data_source": "OpenElections",
@@ -2154,33 +2171,33 @@
   },
   "18137": {
    "name": "Ripley",
-   "raw_name": "RIPLEY",
+   "raw_name": "Ripley",
    "fips": "18137",
    "is_mappable": true,
    "votes_D": 2682,
    "votes_R": 11526,
-   "votes_other": 176,
-   "total_votes": 14384,
+   "votes_other": 197,
+   "total_votes": 14405,
    "pct_D": 18.6,
-   "pct_R": 80.1,
+   "pct_R": 80.0,
    "modes": {
-    "election_day": {
-     "votes_D": 1425,
-     "votes_R": 7265,
-     "votes_other": 113
-    },
     "early_in_person": {
      "votes_D": 989,
      "votes_R": 3838,
-     "votes_other": 48
+     "votes_other": 50
+    },
+    "election_day": {
+     "votes_D": 1425,
+     "votes_R": 7265,
+     "votes_other": 130
     },
     "mail": {
      "votes_D": 268,
      "votes_R": 423,
-     "votes_other": 15
+     "votes_other": 17
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "OpenElections",
    "official_results": true,
    "pct_off_official": 0.0015,
    "completeness": "C3",
@@ -2188,7 +2205,7 @@
   },
   "18139": {
    "name": "Rush",
-   "raw_name": "RUSH",
+   "raw_name": "Rush",
    "fips": "18139",
    "is_mappable": true,
    "votes_D": 1675,
@@ -2198,31 +2215,31 @@
    "pct_D": 21.8,
    "pct_R": 75.8,
    "modes": {
-    "election_day": {
-     "votes_D": 873,
-     "votes_R": 3619,
-     "votes_other": 125
+    "mail": {
+     "votes_D": 145,
+     "votes_R": 222,
+     "votes_other": 10
     },
     "early_in_person": {
      "votes_D": 657,
      "votes_R": 1971,
      "votes_other": 44
     },
-    "mail": {
-     "votes_D": 145,
-     "votes_R": 222,
-     "votes_other": 10
+    "election_day": {
+     "votes_D": 873,
+     "votes_R": 3619,
+     "votes_other": 125
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0013,
    "completeness": "C3",
    "notes": ""
   },
   "18143": {
    "name": "Scott",
-   "raw_name": "SCOTT",
+   "raw_name": "Scott",
    "fips": "18143",
    "is_mappable": true,
    "votes_D": 2389,
@@ -2232,31 +2249,31 @@
    "pct_D": 23.4,
    "pct_R": 74.8,
    "modes": {
-    "election_day": {
-     "votes_D": 982,
-     "votes_R": 4139,
-     "votes_other": 113
+    "mail": {
+     "votes_D": 465,
+     "votes_R": 510,
+     "votes_other": 13
     },
     "early_in_person": {
      "votes_D": 942,
      "votes_R": 2984,
      "votes_other": 61
     },
-    "mail": {
-     "votes_D": 465,
-     "votes_R": 510,
-     "votes_other": 13
+    "election_day": {
+     "votes_D": 982,
+     "votes_R": 4139,
+     "votes_other": 113
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0022,
    "completeness": "C3",
    "notes": ""
   },
   "18145": {
    "name": "Shelby",
-   "raw_name": "SHELBY",
+   "raw_name": "Shelby",
    "fips": "18145",
    "is_mappable": true,
    "votes_D": 4955,
@@ -2266,31 +2283,31 @@
    "pct_D": 25.0,
    "pct_R": 73.0,
    "modes": {
-    "election_day": {
-     "votes_D": 1948,
-     "votes_R": 6998,
-     "votes_other": 222
+    "mail": {
+     "votes_D": 413,
+     "votes_R": 430,
+     "votes_other": 27
     },
     "early_in_person": {
      "votes_D": 2594,
      "votes_R": 7010,
      "votes_other": 145
     },
-    "mail": {
-     "votes_D": 413,
-     "votes_R": 430,
-     "votes_other": 27
+    "election_day": {
+     "votes_D": 1948,
+     "votes_R": 6998,
+     "votes_other": 222
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0017,
    "completeness": "C3",
    "notes": ""
   },
   "18147": {
    "name": "Spencer",
-   "raw_name": "SPENCER",
+   "raw_name": "Spencer",
    "fips": "18147",
    "is_mappable": true,
    "votes_D": 2853,
@@ -2306,39 +2323,39 @@
      "votes_other": 225
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
    "notes": ""
   },
   "18141": {
    "name": "St. Joseph",
-   "raw_name": "ST JOSEPH",
+   "raw_name": "St. Joseph",
    "fips": "18141",
    "is_mappable": true,
    "votes_D": 55215,
    "votes_R": 53585,
-   "votes_other": 2023,
-   "total_votes": 110823,
+   "votes_other": 2024,
+   "total_votes": 110824,
    "pct_D": 49.8,
    "pct_R": 48.4,
    "modes": {
     "total": {
      "votes_D": 55215,
      "votes_R": 53585,
-     "votes_other": 2023
+     "votes_other": 2024
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
    "notes": ""
   },
   "18149": {
    "name": "Starke",
-   "raw_name": "STARKE",
+   "raw_name": "Starke",
    "fips": "18149",
    "is_mappable": true,
    "votes_D": 2436,
@@ -2348,31 +2365,31 @@
    "pct_D": 23.2,
    "pct_R": 75.2,
    "modes": {
-    "election_day": {
-     "votes_D": 972,
-     "votes_R": 3950,
-     "votes_other": 109
+    "mail": {
+     "votes_D": 233,
+     "votes_R": 271,
+     "votes_other": 5
     },
     "early_in_person": {
      "votes_D": 1231,
      "votes_R": 3668,
      "votes_other": 49
     },
-    "mail": {
-     "votes_D": 233,
-     "votes_R": 271,
-     "votes_other": 5
+    "election_day": {
+     "votes_D": 972,
+     "votes_R": 3950,
+     "votes_other": 109
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.001,
    "completeness": "C3",
    "notes": ""
   },
   "18151": {
    "name": "Steuben",
-   "raw_name": "STEUBEN",
+   "raw_name": "Steuben",
    "fips": "18151",
    "is_mappable": true,
    "votes_D": 4597,
@@ -2382,20 +2399,20 @@
    "pct_D": 28.0,
    "pct_R": 70.0,
    "modes": {
-    "election_day": {
-     "votes_D": 1759,
-     "votes_R": 5459,
-     "votes_other": 182
+    "mail": {
+     "votes_D": 480,
+     "votes_R": 486,
+     "votes_other": 15
     },
     "early_in_person": {
      "votes_D": 2358,
      "votes_R": 5539,
      "votes_other": 127
     },
-    "mail": {
-     "votes_D": 480,
-     "votes_R": 486,
-     "votes_other": 15
+    "election_day": {
+     "votes_D": 1759,
+     "votes_R": 5459,
+     "votes_other": 182
     }
    },
    "data_source": "OpenElections",
@@ -2406,7 +2423,7 @@
   },
   "18153": {
    "name": "Sullivan",
-   "raw_name": "SULLIVAN",
+   "raw_name": "Sullivan",
    "fips": "18153",
    "is_mappable": true,
    "votes_D": 2006,
@@ -2422,7 +2439,7 @@
      "votes_other": 150
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2430,7 +2447,7 @@
   },
   "18155": {
    "name": "Switzerland",
-   "raw_name": "SWITZERLAND",
+   "raw_name": "Switzerland",
    "fips": "18155",
    "is_mappable": true,
    "votes_D": 873,
@@ -2440,31 +2457,31 @@
    "pct_D": 20.5,
    "pct_R": 78.0,
    "modes": {
-    "election_day": {
-     "votes_D": 221,
-     "votes_R": 1068,
-     "votes_other": 17
+    "mail": {
+     "votes_D": 72,
+     "votes_R": 109,
+     "votes_other": 3
     },
     "early_in_person": {
      "votes_D": 580,
      "votes_R": 2142,
      "votes_other": 45
     },
-    "mail": {
-     "votes_D": 72,
-     "votes_R": 109,
-     "votes_other": 3
+    "election_day": {
+     "votes_D": 221,
+     "votes_R": 1068,
+     "votes_other": 17
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0002,
    "completeness": "C3",
    "notes": ""
   },
   "18157": {
    "name": "Tippecanoe",
-   "raw_name": "TIPPECANOE",
+   "raw_name": "Tippecanoe",
    "fips": "18157",
    "is_mappable": true,
    "votes_D": 32683,
@@ -2474,31 +2491,31 @@
    "pct_D": 48.6,
    "pct_R": 48.8,
    "modes": {
-    "election_day": {
-     "votes_D": 9484,
-     "votes_R": 12803,
-     "votes_other": 873
+    "mail": {
+     "votes_D": 2614,
+     "votes_R": 1387,
+     "votes_other": 112
     },
     "early_in_person": {
      "votes_D": 20585,
      "votes_R": 18593,
      "votes_other": 743
     },
-    "mail": {
-     "votes_D": 2614,
-     "votes_R": 1387,
-     "votes_other": 112
+    "election_day": {
+     "votes_D": 9484,
+     "votes_R": 12803,
+     "votes_other": 873
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18159": {
    "name": "Tipton",
-   "raw_name": "TIPTON",
+   "raw_name": "Tipton",
    "fips": "18159",
    "is_mappable": true,
    "votes_D": 1893,
@@ -2508,55 +2525,55 @@
    "pct_D": 23.7,
    "pct_R": 74.3,
    "modes": {
-    "election_day": {
-     "votes_D": 770,
-     "votes_R": 2965,
-     "votes_other": 102
+    "mail": {
+     "votes_D": 199,
+     "votes_R": 266,
+     "votes_other": 8
     },
     "early_in_person": {
      "votes_D": 924,
      "votes_R": 2715,
      "votes_other": 49
     },
-    "mail": {
-     "votes_D": 199,
-     "votes_R": 266,
-     "votes_other": 8
+    "election_day": {
+     "votes_D": 770,
+     "votes_R": 2965,
+     "votes_other": 102
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18161": {
    "name": "Union",
-   "raw_name": "UNION",
+   "raw_name": "Union",
    "fips": "18161",
    "is_mappable": true,
-   "votes_D": 744,
+   "votes_D": 746,
    "votes_R": 2698,
-   "votes_other": 56,
-   "total_votes": 3498,
-   "pct_D": 21.3,
-   "pct_R": 77.1,
+   "votes_other": 50,
+   "total_votes": 3494,
+   "pct_D": 21.4,
+   "pct_R": 77.2,
    "modes": {
     "total": {
-     "votes_D": 744,
+     "votes_D": 746,
      "votes_R": 2698,
-     "votes_other": 56
+     "votes_other": 50
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0011,
    "completeness": "U",
    "notes": ""
   },
   "18163": {
    "name": "Vanderburgh",
-   "raw_name": "VANDERBURGH",
+   "raw_name": "Vanderburgh",
    "fips": "18163",
    "is_mappable": true,
    "votes_D": 31727,
@@ -2572,15 +2589,15 @@
      "votes_other": 1049
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
    "notes": ""
   },
   "18165": {
    "name": "Vermillion",
-   "raw_name": "VERMILLION",
+   "raw_name": "Vermillion",
    "fips": "18165",
    "is_mappable": true,
    "votes_D": 1928,
@@ -2590,55 +2607,55 @@
    "pct_D": 26.5,
    "pct_R": 71.2,
    "modes": {
-    "election_day": {
-     "votes_D": 987,
-     "votes_R": 3283,
-     "votes_other": 119
+    "mail": {
+     "votes_D": 128,
+     "votes_R": 113,
+     "votes_other": 4
     },
     "early_in_person": {
      "votes_D": 813,
      "votes_R": 1778,
      "votes_other": 41
     },
-    "mail": {
-     "votes_D": 128,
-     "votes_R": 113,
-     "votes_other": 4
+    "election_day": {
+     "votes_D": 987,
+     "votes_R": 3283,
+     "votes_other": 119
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18167": {
    "name": "Vigo",
-   "raw_name": "VIGO",
+   "raw_name": "Vigo",
    "fips": "18167",
    "is_mappable": true,
    "votes_D": 16338,
    "votes_R": 23738,
-   "votes_other": 838,
-   "total_votes": 40914,
-   "pct_D": 39.9,
-   "pct_R": 58.0,
+   "votes_other": 947,
+   "total_votes": 41023,
+   "pct_D": 39.8,
+   "pct_R": 57.9,
    "modes": {
     "total": {
      "votes_D": 16338,
      "votes_R": 23738,
-     "votes_other": 838
+     "votes_other": 947
     }
    },
-   "data_source": "OpenElections",
-   "official_results": false,
+   "data_source": "Wikipedia",
+   "official_results": true,
    "pct_off_official": 0.0027,
    "completeness": "U",
    "notes": ""
   },
   "18169": {
    "name": "Wabash",
-   "raw_name": "WABASH",
+   "raw_name": "Wabash",
    "fips": "18169",
    "is_mappable": true,
    "votes_D": 3335,
@@ -2648,31 +2665,31 @@
    "pct_D": 23.9,
    "pct_R": 74.6,
    "modes": {
-    "election_day": {
-     "votes_D": 1236,
-     "votes_R": 4485,
-     "votes_other": 131
+    "mail": {
+     "votes_D": 368,
+     "votes_R": 417,
+     "votes_other": 10
     },
     "early_in_person": {
      "votes_D": 1731,
      "votes_R": 5523,
      "votes_other": 79
     },
-    "mail": {
-     "votes_D": 368,
-     "votes_R": 417,
-     "votes_other": 10
+    "election_day": {
+     "votes_D": 1236,
+     "votes_R": 4485,
+     "votes_other": 131
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18171": {
    "name": "Warren",
-   "raw_name": "WARREN",
+   "raw_name": "Warren",
    "fips": "18171",
    "is_mappable": true,
    "votes_D": 898,
@@ -2682,20 +2699,20 @@
    "pct_D": 20.6,
    "pct_R": 77.8,
    "modes": {
-    "election_day": {
-     "votes_D": 475,
-     "votes_R": 2152,
-     "votes_other": 50
+    "mail": {
+     "votes_D": 67,
+     "votes_R": 69,
+     "votes_other": 4
     },
     "early_in_person": {
      "votes_D": 356,
      "votes_R": 1177,
      "votes_other": 16
     },
-    "mail": {
-     "votes_D": 67,
-     "votes_R": 69,
-     "votes_other": 4
+    "election_day": {
+     "votes_D": 475,
+     "votes_R": 2152,
+     "votes_other": 50
     }
    },
    "data_source": "OpenElections",
@@ -2706,33 +2723,33 @@
   },
   "18173": {
    "name": "Warrick",
-   "raw_name": "WARRICK",
+   "raw_name": "Warrick",
    "fips": "18173",
    "is_mappable": true,
-   "votes_D": 11231,
-   "votes_R": 21388,
-   "votes_other": 612,
-   "total_votes": 33231,
-   "pct_D": 33.8,
-   "pct_R": 64.4,
+   "votes_D": 11290,
+   "votes_R": 21278,
+   "votes_other": 624,
+   "total_votes": 33192,
+   "pct_D": 34.0,
+   "pct_R": 64.1,
    "modes": {
     "election_day": {
-     "votes_D": 3679,
-     "votes_R": 8191,
-     "votes_other": 292
-    },
-    "early_in_person": {
-     "votes_D": 6516,
-     "votes_R": 12229,
-     "votes_other": 287
+     "votes_D": 3626,
+     "votes_R": 8189,
+     "votes_other": 352
     },
     "mail": {
-     "votes_D": 1036,
-     "votes_R": 968,
+     "votes_D": 1115,
+     "votes_R": 860,
      "votes_other": 33
+    },
+    "early_in_person": {
+     "votes_D": 6549,
+     "votes_R": 12229,
+     "votes_other": 239
     }
    },
-   "data_source": "OpenElections",
+   "data_source": "Warrick County, IN",
    "official_results": false,
    "pct_off_official": 0.0013,
    "completeness": "C3",
@@ -2740,7 +2757,7 @@
   },
   "18175": {
    "name": "Washington",
-   "raw_name": "WASHINGTON",
+   "raw_name": "Washington",
    "fips": "18175",
    "is_mappable": true,
    "votes_D": 2764,
@@ -2750,31 +2767,31 @@
    "pct_D": 21.7,
    "pct_R": 76.5,
    "modes": {
-    "election_day": {
-     "votes_D": 1492,
-     "votes_R": 6457,
-     "votes_other": 174
+    "mail": {
+     "votes_D": 284,
+     "votes_R": 364,
+     "votes_other": 7
     },
     "early_in_person": {
      "votes_D": 988,
      "votes_R": 2918,
      "votes_other": 39
     },
-    "mail": {
-     "votes_D": 284,
-     "votes_R": 364,
-     "votes_other": 7
+    "election_day": {
+     "votes_D": 1492,
+     "votes_R": 6457,
+     "votes_other": 174
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18177": {
    "name": "Wayne",
-   "raw_name": "WAYNE",
+   "raw_name": "Wayne",
    "fips": "18177",
    "is_mappable": true,
    "votes_D": 8828,
@@ -2784,31 +2801,31 @@
    "pct_D": 32.9,
    "pct_R": 65.3,
    "modes": {
-    "election_day": {
-     "votes_D": 2700,
-     "votes_R": 6435,
-     "votes_other": 230
+    "mail": {
+     "votes_D": 831,
+     "votes_R": 692,
+     "votes_other": 24
     },
     "early_in_person": {
      "votes_D": 5297,
      "votes_R": 10399,
      "votes_other": 219
     },
-    "mail": {
-     "votes_D": 831,
-     "votes_R": 692,
-     "votes_other": 24
+    "election_day": {
+     "votes_D": 2700,
+     "votes_R": 6435,
+     "votes_other": 230
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18179": {
    "name": "Wells",
-   "raw_name": "WELLS",
+   "raw_name": "Wells",
    "fips": "18179",
    "is_mappable": true,
    "votes_D": 2850,
@@ -2818,31 +2835,31 @@
    "pct_D": 20.2,
    "pct_R": 77.9,
    "modes": {
-    "election_day": {
-     "votes_D": 984,
-     "votes_R": 4459,
-     "votes_other": 151
+    "mail": {
+     "votes_D": 218,
+     "votes_R": 323,
+     "votes_other": 10
     },
     "early_in_person": {
      "votes_D": 1648,
      "votes_R": 6224,
      "votes_other": 119
     },
-    "mail": {
-     "votes_D": 218,
-     "votes_R": 323,
-     "votes_other": 10
+    "election_day": {
+     "votes_D": 984,
+     "votes_R": 4459,
+     "votes_other": 151
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18181": {
    "name": "White",
-   "raw_name": "WHITE",
+   "raw_name": "White",
    "fips": "18181",
    "is_mappable": true,
    "votes_D": 2945,
@@ -2852,31 +2869,31 @@
    "pct_D": 26.4,
    "pct_R": 71.3,
    "modes": {
-    "election_day": {
-     "votes_D": 898,
-     "votes_R": 3388,
-     "votes_other": 123
+    "mail": {
+     "votes_D": 278,
+     "votes_R": 250,
+     "votes_other": 17
     },
     "early_in_person": {
      "votes_D": 1769,
      "votes_R": 4331,
      "votes_other": 122
     },
-    "mail": {
-     "votes_D": 278,
-     "votes_R": 250,
-     "votes_other": 17
+    "election_day": {
+     "votes_D": 898,
+     "votes_R": 3388,
+     "votes_other": 123
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""
   },
   "18183": {
    "name": "Whitley",
-   "raw_name": "WHITLEY",
+   "raw_name": "Whitley",
    "fips": "18183",
    "is_mappable": true,
    "votes_D": 4275,
@@ -2886,24 +2903,24 @@
    "pct_D": 24.1,
    "pct_R": 73.8,
    "modes": {
-    "election_day": {
-     "votes_D": 1829,
-     "votes_R": 6575,
-     "votes_other": 237
+    "mail": {
+     "votes_D": 391,
+     "votes_R": 411,
+     "votes_other": 12
     },
     "early_in_person": {
      "votes_D": 2055,
      "votes_R": 6136,
      "votes_other": 128
     },
-    "mail": {
-     "votes_D": 391,
-     "votes_R": 411,
-     "votes_other": 12
+    "election_day": {
+     "votes_D": 1829,
+     "votes_R": 6575,
+     "votes_other": 237
     }
    },
    "data_source": "OpenElections",
-   "official_results": false,
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
    "notes": ""

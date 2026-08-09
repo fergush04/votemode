@@ -4,13 +4,14 @@
  "unit_type": "county",
  "avg_completeness": "C3",
  "completeness_breakdown": {
-  "C3": 11,
-  "U": 6
+  "C3": 10,
+  "U": 6,
+  "C4": 1
  },
- "votes_D": 704804,
- "votes_R": 750499,
- "votes_other": 28415,
- "total_votes": 1483718,
+ "votes_D": 704661,
+ "votes_R": 750349,
+ "votes_other": 28402,
+ "total_votes": 1483412,
  "pct_D": 47.5,
  "pct_R": 50.6,
  "unit_count": 17,
@@ -27,31 +28,32 @@
    "mail": 43.2,
    "early_in_person": 36.5,
    "election_day": 17.3,
-   "total": 3.0
+   "total": 3.0,
+   "provisional": 0.0
   }
  },
  "units": {
   "32510": {
    "name": "Carson City",
-   "raw_name": "CARSON CITY",
+   "raw_name": "Carson City",
    "fips": "32510",
    "is_mappable": true,
-   "votes_D": 13378,
-   "votes_R": 16876,
-   "votes_other": 820,
-   "total_votes": 31074,
+   "votes_D": 13193,
+   "votes_R": 16624,
+   "votes_other": 806,
+   "total_votes": 30623,
    "pct_D": 43.1,
    "pct_R": 54.3,
    "modes": {
-    "election_day": {
-     "votes_D": 1142,
-     "votes_R": 1888,
-     "votes_other": 101
-    },
     "early_in_person": {
      "votes_D": 3589,
      "votes_R": 7852,
      "votes_other": 207
+    },
+    "election_day": {
+     "votes_D": 957,
+     "votes_R": 1636,
+     "votes_other": 87
     },
     "mail": {
      "votes_D": 8647,
@@ -59,15 +61,15 @@
      "votes_other": 512
     }
    },
-   "data_source": "County-Web",
-   "official_results": true,
+   "data_source": "Carson City, NV",
+   "official_results": false,
    "pct_off_official": 0.0005,
    "completeness": "C3",
    "notes": ""
   },
   "32001": {
    "name": "Churchill",
-   "raw_name": "CHURCHILL",
+   "raw_name": "Churchill",
    "fips": "32001",
    "is_mappable": true,
    "votes_D": 3179,
@@ -77,15 +79,15 @@
    "pct_D": 23.5,
    "pct_R": 73.8,
    "modes": {
-    "election_day": {
-     "votes_D": 483,
-     "votes_R": 1817,
-     "votes_other": 81
-    },
     "early_in_person": {
      "votes_D": 869,
      "votes_R": 5443,
      "votes_other": 97
+    },
+    "election_day": {
+     "votes_D": 483,
+     "votes_R": 1817,
+     "votes_other": 81
     },
     "mail": {
      "votes_D": 1827,
@@ -93,7 +95,7 @@
      "votes_other": 184
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Churchill County, NV",
    "official_results": true,
    "pct_off_official": 0.0001,
    "completeness": "C3",
@@ -101,7 +103,7 @@
   },
   "32003": {
    "name": "Clark",
-   "raw_name": "CLARK",
+   "raw_name": "Clark",
    "fips": "32003",
    "is_mappable": true,
    "votes_D": 519991,
@@ -111,15 +113,15 @@
    "pct_D": 50.5,
    "pct_R": 47.8,
    "modes": {
-    "election_day": {
-     "votes_D": 91831,
-     "votes_R": 97662,
-     "votes_other": 4097
-    },
     "early_in_person": {
      "votes_D": 156705,
      "votes_R": 234231,
      "votes_other": 4092
+    },
+    "election_day": {
+     "votes_D": 91831,
+     "votes_R": 97662,
+     "votes_other": 4097
     },
     "mail": {
      "votes_D": 271455,
@@ -127,31 +129,31 @@
      "votes_other": 9779
     }
    },
-   "data_source": "County-Web",
-   "official_results": true,
+   "data_source": "Clark County, NV",
+   "official_results": false,
    "pct_off_official": 0.0004,
    "completeness": "C3",
    "notes": ""
   },
   "32005": {
    "name": "Douglas",
-   "raw_name": "DOUGLAS",
+   "raw_name": "Douglas",
    "fips": "32005",
    "is_mappable": true,
-   "votes_D": 11552,
-   "votes_R": 23233,
+   "votes_D": 11553,
+   "votes_R": 23237,
    "votes_other": 766,
-   "total_votes": 35551,
+   "total_votes": 35556,
    "pct_D": 32.5,
    "pct_R": 65.4,
    "modes": {
     "total": {
-     "votes_D": 11552,
-     "votes_R": 23233,
+     "votes_D": 11553,
+     "votes_R": 23237,
      "votes_other": 766
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "NV-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -159,7 +161,7 @@
   },
   "32007": {
    "name": "Elko",
-   "raw_name": "ELKO",
+   "raw_name": "Elko",
    "fips": "32007",
    "is_mappable": true,
    "votes_D": 4632,
@@ -169,15 +171,15 @@
    "pct_D": 20.6,
    "pct_R": 77.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1036,
-     "votes_R": 3826,
-     "votes_other": 97
-    },
     "early_in_person": {
      "votes_D": 1158,
      "votes_R": 8335,
      "votes_other": 112
+    },
+    "election_day": {
+     "votes_D": 1036,
+     "votes_R": 3826,
+     "votes_other": 97
     },
     "mail": {
      "votes_D": 2438,
@@ -185,7 +187,7 @@
      "votes_other": 272
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Elko County, NV",
    "official_results": true,
    "pct_off_official": 0.0005,
    "completeness": "C3",
@@ -193,23 +195,23 @@
   },
   "32009": {
    "name": "Esmeralda",
-   "raw_name": "ESMERALDA",
+   "raw_name": "Esmeralda",
    "fips": "32009",
    "is_mappable": true,
    "votes_D": 73,
-   "votes_R": 375,
+   "votes_R": 376,
    "votes_other": 12,
-   "total_votes": 460,
-   "pct_D": 15.9,
-   "pct_R": 81.5,
+   "total_votes": 461,
+   "pct_D": 15.8,
+   "pct_R": 81.6,
    "modes": {
     "total": {
      "votes_D": 73,
-     "votes_R": 375,
+     "votes_R": 376,
      "votes_other": 12
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "NV-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -217,23 +219,23 @@
   },
   "32011": {
    "name": "Eureka",
-   "raw_name": "EUREKA",
+   "raw_name": "Eureka",
    "fips": "32011",
    "is_mappable": true,
-   "votes_D": 103,
-   "votes_R": 904,
+   "votes_D": 104,
+   "votes_R": 910,
    "votes_other": 22,
-   "total_votes": 1029,
+   "total_votes": 1036,
    "pct_D": 10.0,
-   "pct_R": 87.9,
+   "pct_R": 87.8,
    "modes": {
     "total": {
-     "votes_D": 103,
-     "votes_R": 904,
+     "votes_D": 104,
+     "votes_R": 910,
      "votes_other": 22
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "NV-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -241,7 +243,7 @@
   },
   "32013": {
    "name": "Humboldt",
-   "raw_name": "HUMBOLDT",
+   "raw_name": "Humboldt",
    "fips": "32013",
    "is_mappable": true,
    "votes_D": 1711,
@@ -251,15 +253,15 @@
    "pct_D": 21.3,
    "pct_R": 76.5,
    "modes": {
-    "election_day": {
-     "votes_D": 321,
-     "votes_R": 1294,
-     "votes_other": 31
-    },
     "early_in_person": {
      "votes_D": 477,
      "votes_R": 2942,
      "votes_other": 46
+    },
+    "election_day": {
+     "votes_D": 321,
+     "votes_R": 1294,
+     "votes_other": 31
     },
     "mail": {
      "votes_D": 913,
@@ -267,7 +269,7 @@
      "votes_other": 101
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Humboldt County, NV",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -275,7 +277,7 @@
   },
   "32015": {
    "name": "Lander",
-   "raw_name": "LANDER",
+   "raw_name": "Lander",
    "fips": "32015",
    "is_mappable": true,
    "votes_D": 482,
@@ -285,14 +287,14 @@
    "pct_D": 17.7,
    "pct_R": 80.0,
    "modes": {
-    "election_day": {
-     "votes_D": 72,
-     "votes_R": 392,
-     "votes_other": 21
-    },
     "early_in_person": {
      "votes_D": 177,
      "votes_R": 1196,
+     "votes_other": 21
+    },
+    "election_day": {
+     "votes_D": 72,
+     "votes_R": 392,
      "votes_other": 21
     },
     "mail": {
@@ -301,7 +303,7 @@
      "votes_other": 21
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Lander County, NV",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -309,23 +311,23 @@
   },
   "32017": {
    "name": "Lincoln",
-   "raw_name": "LINCOLN",
+   "raw_name": "Lincoln",
    "fips": "32017",
    "is_mappable": true,
    "votes_D": 314,
-   "votes_R": 2106,
+   "votes_R": 2108,
    "votes_other": 50,
-   "total_votes": 2470,
+   "total_votes": 2472,
    "pct_D": 12.7,
    "pct_R": 85.3,
    "modes": {
     "total": {
      "votes_D": 314,
-     "votes_R": 2106,
+     "votes_R": 2108,
      "votes_other": 50
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "NV-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -333,7 +335,7 @@
   },
   "32019": {
    "name": "Lyon",
-   "raw_name": "LYON",
+   "raw_name": "Lyon",
    "fips": "32019",
    "is_mappable": true,
    "votes_D": 8954,
@@ -343,15 +345,15 @@
    "pct_D": 26.7,
    "pct_R": 71.1,
    "modes": {
-    "election_day": {
-     "votes_D": 1197,
-     "votes_R": 4121,
-     "votes_other": 132
-    },
     "early_in_person": {
      "votes_D": 1677,
      "votes_R": 9102,
      "votes_other": 115
+    },
+    "election_day": {
+     "votes_D": 1197,
+     "votes_R": 4121,
+     "votes_other": 132
     },
     "mail": {
      "votes_D": 6080,
@@ -359,7 +361,7 @@
      "votes_other": 479
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Lyon County, NV",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -367,23 +369,23 @@
   },
   "32021": {
    "name": "Mineral",
-   "raw_name": "MINERAL",
+   "raw_name": "Mineral",
    "fips": "32021",
    "is_mappable": true,
-   "votes_D": 708,
-   "votes_R": 1524,
+   "votes_D": 711,
+   "votes_R": 1528,
    "votes_other": 56,
-   "total_votes": 2288,
-   "pct_D": 30.9,
+   "total_votes": 2295,
+   "pct_D": 31.0,
    "pct_R": 66.6,
    "modes": {
     "total": {
-     "votes_D": 708,
-     "votes_R": 1524,
+     "votes_D": 711,
+     "votes_R": 1528,
      "votes_other": 56
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "NV-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -391,7 +393,7 @@
   },
   "32023": {
    "name": "Nye",
-   "raw_name": "NYE",
+   "raw_name": "Nye",
    "fips": "32023",
    "is_mappable": true,
    "votes_D": 7559,
@@ -401,15 +403,15 @@
    "pct_D": 28.0,
    "pct_R": 70.2,
    "modes": {
-    "election_day": {
-     "votes_D": 725,
-     "votes_R": 2732,
-     "votes_other": 81
-    },
     "early_in_person": {
      "votes_D": 1134,
      "votes_R": 6523,
      "votes_other": 69
+    },
+    "election_day": {
+     "votes_D": 725,
+     "votes_R": 2732,
+     "votes_other": 81
     },
     "mail": {
      "votes_D": 5700,
@@ -417,7 +419,7 @@
      "votes_other": 342
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Nye County, NV",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C3",
@@ -425,7 +427,7 @@
   },
   "32027": {
    "name": "Pershing",
-   "raw_name": "PERSHING",
+   "raw_name": "Pershing",
    "fips": "32027",
    "is_mappable": true,
    "votes_D": 496,
@@ -441,7 +443,7 @@
      "votes_other": 48
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "NV-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -449,7 +451,7 @@
   },
   "32029": {
    "name": "Storey",
-   "raw_name": "STOREY",
+   "raw_name": "Storey",
    "fips": "32029",
    "is_mappable": true,
    "votes_D": 913,
@@ -459,15 +461,15 @@
    "pct_D": 29.7,
    "pct_R": 68.6,
    "modes": {
-    "election_day": {
-     "votes_D": 221,
-     "votes_R": 628,
-     "votes_other": 16
-    },
     "early_in_person": {
      "votes_D": 228,
      "votes_R": 864,
      "votes_other": 13
+    },
+    "election_day": {
+     "votes_D": 221,
+     "votes_R": 628,
+     "votes_other": 16
     },
     "mail": {
      "votes_D": 464,
@@ -475,7 +477,7 @@
      "votes_other": 25
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Storey County, NV",
    "official_results": true,
    "pct_off_official": 0.0026,
    "completeness": "C3",
@@ -483,41 +485,41 @@
   },
   "32031": {
    "name": "Washoe",
-   "raw_name": "WASHOE",
+   "raw_name": "Washoe",
    "fips": "32031",
    "is_mappable": true,
-   "votes_D": 129876,
-   "votes_R": 127086,
-   "votes_other": 6213,
-   "total_votes": 263175,
+   "votes_D": 129913,
+   "votes_R": 127171,
+   "votes_other": 6214,
+   "total_votes": 263298,
    "pct_D": 49.3,
    "pct_R": 48.3,
    "modes": {
-    "election_day": {
-     "votes_D": 17226,
-     "votes_R": 21643,
-     "votes_other": 1184
-    },
     "early_in_person": {
      "votes_D": 38079,
      "votes_R": 53441,
      "votes_other": 1272
     },
+    "election_day": {
+     "votes_D": 17254,
+     "votes_R": 21721,
+     "votes_other": 1185
+    },
     "mail": {
-     "votes_D": 74571,
-     "votes_R": 52002,
+     "votes_D": 74580,
+     "votes_R": 52009,
      "votes_other": 3757
     }
    },
-   "data_source": "County-Web",
-   "official_results": true,
+   "data_source": "Washoe County, NV",
+   "official_results": false,
    "pct_off_official": 0.0015,
    "completeness": "C3",
    "notes": ""
   },
   "32033": {
    "name": "White Pine",
-   "raw_name": "WHITE PINE",
+   "raw_name": "White Pine",
    "fips": "32033",
    "is_mappable": true,
    "votes_D": 883,
@@ -527,26 +529,31 @@
    "pct_D": 20.3,
    "pct_R": 77.3,
    "modes": {
-    "election_day": {
-     "votes_D": 180,
-     "votes_R": 902,
-     "votes_other": 28
-    },
     "early_in_person": {
-     "votes_D": 186,
-     "votes_R": 1229,
+     "votes_D": 182,
+     "votes_R": 1192,
      "votes_other": 10
+    },
+    "election_day": {
+     "votes_D": 172,
+     "votes_R": 852,
+     "votes_other": 27
     },
     "mail": {
      "votes_D": 517,
      "votes_R": 1233,
      "votes_other": 66
+    },
+    "provisional": {
+     "votes_D": 12,
+     "votes_R": 87,
+     "votes_other": 1
     }
    },
-   "data_source": "County-Web",
+   "data_source": "White Pine County, NV",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C3",
+   "completeness": "C4",
    "notes": ""
   }
  }

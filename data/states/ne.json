@@ -4,16 +4,16 @@
  "unit_type": "county",
  "avg_completeness": "U",
  "completeness_breakdown": {
-  "C3": 35,
-  "C2": 20,
-  "U": 38
+  "C3": 21,
+  "C2": 35,
+  "U": 37
  },
- "votes_D": 369802,
- "votes_R": 564256,
- "votes_other": 14933,
- "total_votes": 948991,
- "pct_D": 39.0,
- "pct_R": 59.5,
+ "votes_D": 369805,
+ "votes_R": 564281,
+ "votes_other": 17359,
+ "total_votes": 951445,
+ "pct_D": 38.9,
+ "pct_R": 59.3,
  "unit_count": 93,
  "state_profile": {
   "voting_summary": "Nebraska splits between election day voting, no-excuse early/mail voting, and all-mail rural counties; about half of published results carry a method breakdown. Polls close at 9 p.m. Eastern (10 p.m. in the Panhandle); early and mail ballots are released first, then election day precincts report overnight, with the Omaha-based 2nd district's electoral vote the perennial focus. Early voting ran R+3 against R+39 on election day, so Nebraska's first numbers read much bluer than its finish.",
@@ -24,16 +24,16 @@
    "Split electoral votes"
   ],
   "mode_split": {
-   "total": 45.1,
-   "election_day": 35.7,
-   "pre_election_day": 18.6,
+   "total": 44.8,
+   "election_day": 36.0,
+   "pre_election_day": 18.7,
    "provisional": 0.5
   }
  },
  "units": {
   "31001": {
    "name": "Adams",
-   "raw_name": "ADAMS",
+   "raw_name": "Adams",
    "fips": "31001",
    "is_mappable": true,
    "votes_D": 4100,
@@ -43,15 +43,15 @@
    "pct_D": 28.4,
    "pct_R": 69.9,
    "modes": {
-    "election_day": {
-     "votes_D": 2129,
-     "votes_R": 7196,
-     "votes_other": 159
-    },
     "pre_election_day": {
      "votes_D": 1941,
      "votes_R": 2786,
      "votes_other": 76
+    },
+    "election_day": {
+     "votes_D": 2129,
+     "votes_R": 7196,
+     "votes_other": 159
     },
     "provisional": {
      "votes_D": 30,
@@ -59,15 +59,15 @@
      "votes_other": 0
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Adams County, NE",
+   "official_results": true,
    "pct_off_official": 0.0033,
    "completeness": "C3",
    "notes": ""
   },
   "31003": {
    "name": "Antelope",
-   "raw_name": "ANTELOPE",
+   "raw_name": "Antelope",
    "fips": "31003",
    "is_mappable": true,
    "votes_D": 396,
@@ -77,18 +77,18 @@
    "pct_D": 11.5,
    "pct_R": 87.6,
    "modes": {
-    "election_day": {
-     "votes_D": 277,
-     "votes_R": 2455,
-     "votes_other": 25
-    },
     "pre_election_day": {
      "votes_D": 119,
      "votes_R": 562,
      "votes_other": 5
+    },
+    "election_day": {
+     "votes_D": 277,
+     "votes_R": 2455,
+     "votes_other": 25
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Antelope County, NE",
    "official_results": false,
    "pct_off_official": 0.0012,
    "completeness": "C2",
@@ -96,23 +96,23 @@
   },
   "31005": {
    "name": "Arthur",
-   "raw_name": "ARTHUR",
+   "raw_name": "Arthur",
    "fips": "31005",
    "is_mappable": true,
    "votes_D": 17,
    "votes_R": 264,
-   "votes_other": 1,
-   "total_votes": 282,
+   "votes_other": 2,
+   "total_votes": 283,
    "pct_D": 6.0,
-   "pct_R": 93.6,
+   "pct_R": 93.3,
    "modes": {
     "total": {
      "votes_D": 17,
      "votes_R": 264,
-     "votes_other": 1
+     "votes_other": 2
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -120,23 +120,23 @@
   },
   "31007": {
    "name": "Banner",
-   "raw_name": "BANNER",
+   "raw_name": "Banner",
    "fips": "31007",
    "is_mappable": true,
    "votes_D": 34,
    "votes_R": 348,
-   "votes_other": 4,
-   "total_votes": 386,
-   "pct_D": 8.8,
-   "pct_R": 90.2,
+   "votes_other": 8,
+   "total_votes": 390,
+   "pct_D": 8.7,
+   "pct_R": 89.2,
    "modes": {
     "total": {
      "votes_D": 34,
      "votes_R": 348,
-     "votes_other": 4
+     "votes_other": 8
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -144,7 +144,7 @@
   },
   "31009": {
    "name": "Blaine",
-   "raw_name": "BLAINE",
+   "raw_name": "Blaine",
    "fips": "31009",
    "is_mappable": true,
    "votes_D": 37,
@@ -154,47 +154,42 @@
    "pct_D": 12.7,
    "pct_R": 85.9,
    "modes": {
-    "election_day": {
-     "votes_D": 18,
-     "votes_R": 164,
-     "votes_other": 3
-    },
     "pre_election_day": {
      "votes_D": 19,
      "votes_R": 86,
      "votes_other": 1
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 18,
+     "votes_R": 164,
+     "votes_other": 3
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Blaine County, NE",
    "official_results": false,
    "pct_off_official": 0.0,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31011": {
    "name": "Boone",
-   "raw_name": "BOONE",
+   "raw_name": "Boone",
    "fips": "31011",
    "is_mappable": true,
    "votes_D": 496,
    "votes_R": 2499,
-   "votes_other": 36,
-   "total_votes": 3031,
-   "pct_D": 16.4,
-   "pct_R": 82.4,
+   "votes_other": 45,
+   "total_votes": 3040,
+   "pct_D": 16.3,
+   "pct_R": 82.2,
    "modes": {
     "total": {
      "votes_D": 496,
      "votes_R": 2499,
-     "votes_other": 36
+     "votes_other": 45
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -202,23 +197,23 @@
   },
   "31013": {
    "name": "Box Butte",
-   "raw_name": "BOX BUTTE",
+   "raw_name": "Box Butte",
    "fips": "31013",
    "is_mappable": true,
    "votes_D": 1043,
    "votes_R": 3827,
-   "votes_other": 61,
-   "total_votes": 4931,
-   "pct_D": 21.2,
-   "pct_R": 77.6,
+   "votes_other": 67,
+   "total_votes": 4937,
+   "pct_D": 21.1,
+   "pct_R": 77.5,
    "modes": {
     "total": {
      "votes_D": 1043,
      "votes_R": 3827,
-     "votes_other": 61
+     "votes_other": 67
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -226,7 +221,7 @@
   },
   "31015": {
    "name": "Boyd",
-   "raw_name": "BOYD",
+   "raw_name": "Boyd",
    "fips": "31015",
    "is_mappable": true,
    "votes_D": 132,
@@ -236,47 +231,42 @@
    "pct_D": 12.3,
    "pct_R": 87.2,
    "modes": {
-    "election_day": {
-     "votes_D": 85,
-     "votes_R": 784,
-     "votes_other": 6
-    },
     "pre_election_day": {
      "votes_D": 47,
      "votes_R": 154,
      "votes_other": 0
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 85,
+     "votes_R": 784,
+     "votes_other": 6
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Boyd County, NE",
+   "official_results": true,
    "pct_off_official": 0.0009,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31017": {
    "name": "Brown",
-   "raw_name": "BROWN",
+   "raw_name": "Brown",
    "fips": "31017",
    "is_mappable": true,
    "votes_D": 201,
    "votes_R": 1428,
-   "votes_other": 13,
-   "total_votes": 1642,
+   "votes_other": 19,
+   "total_votes": 1648,
    "pct_D": 12.2,
-   "pct_R": 87.0,
+   "pct_R": 86.7,
    "modes": {
     "total": {
      "votes_D": 201,
      "votes_R": 1428,
-     "votes_other": 13
+     "votes_other": 19
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -284,7 +274,7 @@
   },
   "31019": {
    "name": "Buffalo",
-   "raw_name": "BUFFALO",
+   "raw_name": "Buffalo",
    "fips": "31019",
    "is_mappable": true,
    "votes_D": 6386,
@@ -294,15 +284,15 @@
    "pct_D": 26.7,
    "pct_R": 71.5,
    "modes": {
-    "election_day": {
-     "votes_D": 3907,
-     "votes_R": 12417,
-     "votes_other": 321
-    },
     "pre_election_day": {
      "votes_D": 2424,
      "votes_R": 4469,
      "votes_other": 101
+    },
+    "election_day": {
+     "votes_D": 3907,
+     "votes_R": 12417,
+     "votes_other": 321
     },
     "provisional": {
      "votes_D": 55,
@@ -310,15 +300,15 @@
      "votes_other": 5
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Buffalo County, NE",
+   "official_results": true,
    "pct_off_official": 0.005,
    "completeness": "C3",
    "notes": ""
   },
   "31021": {
    "name": "Burt",
-   "raw_name": "BURT",
+   "raw_name": "Burt",
    "fips": "31021",
    "is_mappable": true,
    "votes_D": 983,
@@ -328,15 +318,15 @@
    "pct_D": 26.8,
    "pct_R": 71.8,
    "modes": {
-    "election_day": {
-     "votes_D": 705,
-     "votes_R": 2175,
-     "votes_other": 39
-    },
     "pre_election_day": {
      "votes_D": 277,
      "votes_R": 443,
      "votes_other": 11
+    },
+    "election_day": {
+     "votes_D": 705,
+     "votes_R": 2175,
+     "votes_other": 39
     },
     "provisional": {
      "votes_D": 1,
@@ -344,15 +334,15 @@
      "votes_other": 0
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Burt County, NE",
+   "official_results": true,
    "pct_off_official": 0.0025,
    "completeness": "C3",
    "notes": ""
   },
   "31023": {
    "name": "Butler",
-   "raw_name": "BUTLER",
+   "raw_name": "Butler",
    "fips": "31023",
    "is_mappable": true,
    "votes_D": 904,
@@ -362,18 +352,18 @@
    "pct_D": 19.7,
    "pct_R": 79.0,
    "modes": {
-    "election_day": {
-     "votes_D": 634,
-     "votes_R": 3049,
-     "votes_other": 46
-    },
     "pre_election_day": {
      "votes_D": 270,
      "votes_R": 574,
      "votes_other": 13
+    },
+    "election_day": {
+     "votes_D": 634,
+     "votes_R": 3049,
+     "votes_other": 46
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Butler County, NE",
    "official_results": false,
    "pct_off_official": 0.0002,
    "completeness": "C2",
@@ -381,7 +371,7 @@
   },
   "31025": {
    "name": "Cass",
-   "raw_name": "CASS",
+   "raw_name": "Cass",
    "fips": "31025",
    "is_mappable": true,
    "votes_D": 4824,
@@ -391,15 +381,15 @@
    "pct_D": 30.5,
    "pct_R": 67.5,
    "modes": {
-    "election_day": {
-     "votes_D": 2821,
-     "votes_R": 7937,
-     "votes_other": 230
-    },
     "pre_election_day": {
      "votes_D": 1985,
      "votes_R": 2684,
      "votes_other": 91
+    },
+    "election_day": {
+     "votes_D": 2821,
+     "votes_R": 7937,
+     "votes_other": 230
     },
     "provisional": {
      "votes_D": 18,
@@ -407,31 +397,31 @@
      "votes_other": 0
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Cass County, NE",
+   "official_results": true,
    "pct_off_official": 0.0048,
    "completeness": "C3",
    "notes": ""
   },
   "31027": {
    "name": "Cedar",
-   "raw_name": "CEDAR",
+   "raw_name": "Cedar",
    "fips": "31027",
    "is_mappable": true,
    "votes_D": 702,
    "votes_R": 4141,
-   "votes_other": 69,
-   "total_votes": 4912,
-   "pct_D": 14.3,
-   "pct_R": 84.3,
+   "votes_other": 95,
+   "total_votes": 4938,
+   "pct_D": 14.2,
+   "pct_R": 83.9,
    "modes": {
     "total": {
      "votes_D": 702,
      "votes_R": 4141,
-     "votes_other": 69
+     "votes_other": 95
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -439,23 +429,23 @@
   },
   "31029": {
    "name": "Chase",
-   "raw_name": "CHASE",
+   "raw_name": "Chase",
    "fips": "31029",
    "is_mappable": true,
    "votes_D": 204,
    "votes_R": 1648,
-   "votes_other": 14,
-   "total_votes": 1866,
+   "votes_other": 16,
+   "total_votes": 1868,
    "pct_D": 10.9,
-   "pct_R": 88.3,
+   "pct_R": 88.2,
    "modes": {
     "total": {
      "votes_D": 204,
      "votes_R": 1648,
-     "votes_other": 14
+     "votes_other": 16
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -463,23 +453,23 @@
   },
   "31031": {
    "name": "Cherry",
-   "raw_name": "CHERRY",
+   "raw_name": "Cherry",
    "fips": "31031",
    "is_mappable": true,
    "votes_D": 349,
    "votes_R": 2687,
-   "votes_other": 33,
-   "total_votes": 3069,
-   "pct_D": 11.4,
-   "pct_R": 87.6,
+   "votes_other": 42,
+   "total_votes": 3078,
+   "pct_D": 11.3,
+   "pct_R": 87.3,
    "modes": {
     "total": {
      "votes_D": 349,
      "votes_R": 2687,
-     "votes_other": 33
+     "votes_other": 42
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -487,23 +477,23 @@
   },
   "31033": {
    "name": "Cheyenne",
-   "raw_name": "CHEYENNE",
+   "raw_name": "Cheyenne",
    "fips": "31033",
    "is_mappable": true,
    "votes_D": 787,
    "votes_R": 3692,
-   "votes_other": 51,
-   "total_votes": 4530,
-   "pct_D": 17.4,
-   "pct_R": 81.5,
+   "votes_other": 73,
+   "total_votes": 4552,
+   "pct_D": 17.3,
+   "pct_R": 81.1,
    "modes": {
     "total": {
      "votes_D": 787,
      "votes_R": 3692,
-     "votes_other": 51
+     "votes_other": 73
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -511,23 +501,23 @@
   },
   "31035": {
    "name": "Clay",
-   "raw_name": "CLAY",
+   "raw_name": "Clay",
    "fips": "31035",
    "is_mappable": true,
    "votes_D": 577,
    "votes_R": 2677,
-   "votes_other": 56,
-   "total_votes": 3310,
+   "votes_other": 65,
+   "total_votes": 3319,
    "pct_D": 17.4,
-   "pct_R": 80.9,
+   "pct_R": 80.7,
    "modes": {
     "total": {
      "votes_D": 577,
      "votes_R": 2677,
-     "votes_other": 56
+     "votes_other": 65
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -535,7 +525,7 @@
   },
   "31037": {
    "name": "Colfax",
-   "raw_name": "COLFAX",
+   "raw_name": "Colfax",
    "fips": "31037",
    "is_mappable": true,
    "votes_D": 842,
@@ -545,18 +535,18 @@
    "pct_D": 24.0,
    "pct_R": 75.0,
    "modes": {
-    "election_day": {
-     "votes_D": 604,
-     "votes_R": 2140,
-     "votes_other": 31
-    },
     "pre_election_day": {
      "votes_D": 238,
      "votes_R": 494,
      "votes_other": 7
+    },
+    "election_day": {
+     "votes_D": 604,
+     "votes_R": 2140,
+     "votes_other": 31
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Colfax County, NE",
    "official_results": false,
    "pct_off_official": 0.0006,
    "completeness": "C2",
@@ -564,31 +554,41 @@
   },
   "31039": {
    "name": "Cuming",
-   "raw_name": "CUMING",
+   "raw_name": "Cuming",
    "fips": "31039",
    "is_mappable": true,
    "votes_D": 867,
    "votes_R": 3536,
-   "votes_other": 42,
-   "total_votes": 4445,
+   "votes_other": 54,
+   "total_votes": 4457,
    "pct_D": 19.5,
-   "pct_R": 79.6,
+   "pct_R": 79.3,
    "modes": {
-    "total": {
-     "votes_D": 867,
-     "votes_R": 3536,
-     "votes_other": 42
+    "pre_election_day": {
+     "votes_D": 326,
+     "votes_R": 765,
+     "votes_other": 15
+    },
+    "election_day": {
+     "votes_D": 532,
+     "votes_R": 2738,
+     "votes_other": 39
+    },
+    "provisional": {
+     "votes_D": 9,
+     "votes_R": 33,
+     "votes_other": 0
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Cuming County, NE",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "U",
+   "completeness": "C3",
    "notes": ""
   },
   "31041": {
    "name": "Custer",
-   "raw_name": "CUSTER",
+   "raw_name": "Custer",
    "fips": "31041",
    "is_mappable": true,
    "votes_D": 783,
@@ -598,18 +598,18 @@
    "pct_D": 13.4,
    "pct_R": 85.3,
    "modes": {
-    "election_day": {
-     "votes_D": 491,
-     "votes_R": 4062,
-     "votes_other": 59
-    },
     "pre_election_day": {
      "votes_D": 292,
      "votes_R": 934,
      "votes_other": 22
+    },
+    "election_day": {
+     "votes_D": 491,
+     "votes_R": 4062,
+     "votes_other": 59
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Custer County, NE",
    "official_results": false,
    "pct_off_official": 0.0044,
    "completeness": "C2",
@@ -617,7 +617,7 @@
   },
   "31043": {
    "name": "Dakota",
-   "raw_name": "DAKOTA",
+   "raw_name": "Dakota",
    "fips": "31043",
    "is_mappable": true,
    "votes_D": 2105,
@@ -627,15 +627,15 @@
    "pct_D": 34.3,
    "pct_R": 64.1,
    "modes": {
-    "election_day": {
-     "votes_D": 1428,
-     "votes_R": 3014,
-     "votes_other": 75
-    },
     "pre_election_day": {
      "votes_D": 646,
      "votes_R": 877,
      "votes_other": 19
+    },
+    "election_day": {
+     "votes_D": 1428,
+     "votes_R": 3014,
+     "votes_other": 75
     },
     "provisional": {
      "votes_D": 31,
@@ -643,7 +643,7 @@
      "votes_other": 1
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Dakota County, NE",
    "official_results": false,
    "pct_off_official": 0.0018,
    "completeness": "C3",
@@ -651,23 +651,23 @@
   },
   "31045": {
    "name": "Dawes",
-   "raw_name": "DAWES",
+   "raw_name": "Dawes",
    "fips": "31045",
    "is_mappable": true,
    "votes_D": 992,
    "votes_R": 2812,
-   "votes_other": 64,
-   "total_votes": 3868,
-   "pct_D": 25.6,
-   "pct_R": 72.7,
+   "votes_other": 85,
+   "total_votes": 3889,
+   "pct_D": 25.5,
+   "pct_R": 72.3,
    "modes": {
     "total": {
      "votes_D": 992,
      "votes_R": 2812,
-     "votes_other": 64
+     "votes_other": 85
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -675,7 +675,7 @@
   },
   "31047": {
    "name": "Dawson",
-   "raw_name": "DAWSON",
+   "raw_name": "Dawson",
    "fips": "31047",
    "is_mappable": true,
    "votes_D": 2090,
@@ -685,47 +685,42 @@
    "pct_D": 24.7,
    "pct_R": 74.0,
    "modes": {
-    "election_day": {
-     "votes_D": 1461,
-     "votes_R": 5163,
-     "votes_other": 88
-    },
     "pre_election_day": {
      "votes_D": 629,
      "votes_R": 1095,
      "votes_other": 21
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 1461,
+     "votes_R": 5163,
+     "votes_other": 88
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Dawson County, NE",
    "official_results": false,
    "pct_off_official": 0.004,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31049": {
    "name": "Deuel",
-   "raw_name": "DEUEL",
+   "raw_name": "Deuel",
    "fips": "31049",
    "is_mappable": true,
    "votes_D": 151,
    "votes_R": 843,
-   "votes_other": 18,
-   "total_votes": 1012,
+   "votes_other": 20,
+   "total_votes": 1014,
    "pct_D": 14.9,
-   "pct_R": 83.3,
+   "pct_R": 83.1,
    "modes": {
     "total": {
      "votes_D": 151,
      "votes_R": 843,
-     "votes_other": 18
+     "votes_other": 20
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -733,23 +728,23 @@
   },
   "31051": {
    "name": "Dixon",
-   "raw_name": "DIXON",
+   "raw_name": "Dixon",
    "fips": "31051",
    "is_mappable": true,
    "votes_D": 573,
    "votes_R": 2271,
-   "votes_other": 51,
-   "total_votes": 2895,
-   "pct_D": 19.8,
-   "pct_R": 78.4,
+   "votes_other": 60,
+   "total_votes": 2904,
+   "pct_D": 19.7,
+   "pct_R": 78.2,
    "modes": {
     "total": {
      "votes_D": 573,
      "votes_R": 2271,
-     "votes_other": 51
+     "votes_other": 60
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -757,23 +752,23 @@
   },
   "31053": {
    "name": "Dodge",
-   "raw_name": "DODGE",
+   "raw_name": "Dodge",
    "fips": "31053",
    "is_mappable": true,
    "votes_D": 5434,
    "votes_R": 10795,
-   "votes_other": 214,
-   "total_votes": 16443,
-   "pct_D": 33.0,
-   "pct_R": 65.7,
+   "votes_other": 279,
+   "total_votes": 16508,
+   "pct_D": 32.9,
+   "pct_R": 65.4,
    "modes": {
     "total": {
      "votes_D": 5434,
      "votes_R": 10795,
-     "votes_other": 214
+     "votes_other": 279
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -781,23 +776,23 @@
   },
   "31055": {
    "name": "Douglas",
-   "raw_name": "DOUGLAS",
+   "raw_name": "Douglas",
    "fips": "31055",
    "is_mappable": true,
    "votes_D": 148733,
    "votes_R": 120919,
-   "votes_other": 3751,
-   "total_votes": 273403,
-   "pct_D": 54.4,
-   "pct_R": 44.2,
+   "votes_other": 5493,
+   "total_votes": 275145,
+   "pct_D": 54.1,
+   "pct_R": 43.9,
    "modes": {
     "total": {
      "votes_D": 148733,
      "votes_R": 120919,
-     "votes_other": 3751
+     "votes_other": 5493
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -805,7 +800,7 @@
   },
   "31057": {
    "name": "Dundy",
-   "raw_name": "DUNDY",
+   "raw_name": "Dundy",
    "fips": "31057",
    "is_mappable": true,
    "votes_D": 96,
@@ -815,18 +810,18 @@
    "pct_D": 10.3,
    "pct_R": 89.0,
    "modes": {
-    "election_day": {
-     "votes_D": 66,
-     "votes_R": 650,
-     "votes_other": 3
-    },
     "pre_election_day": {
      "votes_D": 30,
      "votes_R": 178,
      "votes_other": 3
+    },
+    "election_day": {
+     "votes_D": 66,
+     "votes_R": 650,
+     "votes_other": 3
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Dundy County, NE",
    "official_results": false,
    "pct_off_official": 0.0011,
    "completeness": "C2",
@@ -834,7 +829,7 @@
   },
   "31059": {
    "name": "Fillmore",
-   "raw_name": "FILLMORE",
+   "raw_name": "Fillmore",
    "fips": "31059",
    "is_mappable": true,
    "votes_D": 658,
@@ -844,47 +839,42 @@
    "pct_D": 22.0,
    "pct_R": 76.5,
    "modes": {
-    "election_day": {
-     "votes_D": 403,
-     "votes_R": 1826,
-     "votes_other": 30
-    },
     "pre_election_day": {
      "votes_D": 255,
      "votes_R": 466,
      "votes_other": 17
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 403,
+     "votes_R": 1826,
+     "votes_other": 30
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Fillmore County, NE",
    "official_results": false,
    "pct_off_official": 0.0053,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31061": {
    "name": "Franklin",
-   "raw_name": "FRANKLIN",
+   "raw_name": "Franklin",
    "fips": "31061",
    "is_mappable": true,
    "votes_D": 236,
    "votes_R": 1351,
-   "votes_other": 13,
-   "total_votes": 1600,
-   "pct_D": 14.8,
-   "pct_R": 84.4,
+   "votes_other": 18,
+   "total_votes": 1605,
+   "pct_D": 14.7,
+   "pct_R": 84.2,
    "modes": {
     "total": {
      "votes_D": 236,
      "votes_R": 1351,
-     "votes_other": 13
+     "votes_other": 18
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -892,23 +882,23 @@
   },
   "31063": {
    "name": "Frontier",
-   "raw_name": "FRONTIER",
+   "raw_name": "Frontier",
    "fips": "31063",
    "is_mappable": true,
    "votes_D": 185,
    "votes_R": 1213,
-   "votes_other": 12,
-   "total_votes": 1410,
+   "votes_other": 15,
+   "total_votes": 1413,
    "pct_D": 13.1,
-   "pct_R": 86.0,
+   "pct_R": 85.8,
    "modes": {
     "total": {
      "votes_D": 185,
      "votes_R": 1213,
-     "votes_other": 12
+     "votes_other": 15
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -916,23 +906,23 @@
   },
   "31065": {
    "name": "Furnas",
-   "raw_name": "FURNAS",
+   "raw_name": "Furnas",
    "fips": "31065",
    "is_mappable": true,
    "votes_D": 358,
    "votes_R": 2043,
-   "votes_other": 12,
-   "total_votes": 2413,
+   "votes_other": 18,
+   "total_votes": 2419,
    "pct_D": 14.8,
-   "pct_R": 84.7,
+   "pct_R": 84.5,
    "modes": {
     "total": {
      "votes_D": 358,
      "votes_R": 2043,
-     "votes_other": 12
+     "votes_other": 18
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -940,7 +930,7 @@
   },
   "31067": {
    "name": "Gage",
-   "raw_name": "GAGE",
+   "raw_name": "Gage",
    "fips": "31067",
    "is_mappable": true,
    "votes_D": 3232,
@@ -950,18 +940,18 @@
    "pct_D": 29.6,
    "pct_R": 68.6,
    "modes": {
-    "election_day": {
-     "votes_D": 1170,
-     "votes_R": 4536,
-     "votes_other": 84
-    },
     "pre_election_day": {
      "votes_D": 2062,
      "votes_R": 2952,
      "votes_other": 114
+    },
+    "election_day": {
+     "votes_D": 1170,
+     "votes_R": 4536,
+     "votes_other": 84
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Gage County, NE",
    "official_results": false,
    "pct_off_official": 0.0002,
    "completeness": "C2",
@@ -969,23 +959,23 @@
   },
   "31069": {
    "name": "Garden",
-   "raw_name": "GARDEN",
+   "raw_name": "Garden",
    "fips": "31069",
    "is_mappable": true,
    "votes_D": 162,
    "votes_R": 949,
-   "votes_other": 6,
-   "total_votes": 1117,
+   "votes_other": 9,
+   "total_votes": 1120,
    "pct_D": 14.5,
-   "pct_R": 85.0,
+   "pct_R": 84.7,
    "modes": {
     "total": {
      "votes_D": 162,
      "votes_R": 949,
-     "votes_other": 6
+     "votes_other": 9
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -993,7 +983,7 @@
   },
   "31071": {
    "name": "Garfield",
-   "raw_name": "GARFIELD",
+   "raw_name": "Garfield",
    "fips": "31071",
    "is_mappable": true,
    "votes_D": 115,
@@ -1003,31 +993,26 @@
    "pct_D": 11.3,
    "pct_R": 87.9,
    "modes": {
-    "election_day": {
-     "votes_D": 78,
-     "votes_R": 699,
-     "votes_other": 7
-    },
     "pre_election_day": {
      "votes_D": 37,
      "votes_R": 192,
      "votes_other": 1
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 78,
+     "votes_R": 699,
+     "votes_other": 7
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Garfield County, NE",
    "official_results": false,
    "pct_off_official": 0.001,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31073": {
    "name": "Gosper",
-   "raw_name": "GOSPER",
+   "raw_name": "Gosper",
    "fips": "31073",
    "is_mappable": true,
    "votes_D": 203,
@@ -1037,18 +1022,18 @@
    "pct_D": 18.1,
    "pct_R": 80.7,
    "modes": {
-    "election_day": {
-     "votes_D": 92,
-     "votes_R": 643,
-     "votes_other": 7
-    },
     "pre_election_day": {
      "votes_D": 111,
      "votes_R": 261,
      "votes_other": 6
+    },
+    "election_day": {
+     "votes_D": 92,
+     "votes_R": 643,
+     "votes_other": 7
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Gosper County, NE",
    "official_results": false,
    "pct_off_official": 0.0018,
    "completeness": "C2",
@@ -1056,7 +1041,7 @@
   },
   "31075": {
    "name": "Grant",
-   "raw_name": "GRANT",
+   "raw_name": "Grant",
    "fips": "31075",
    "is_mappable": true,
    "votes_D": 15,
@@ -1072,7 +1057,7 @@
      "votes_other": 0
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1080,7 +1065,7 @@
   },
   "31077": {
    "name": "Greeley",
-   "raw_name": "GREELEY",
+   "raw_name": "Greeley",
    "fips": "31077",
    "is_mappable": true,
    "votes_D": 192,
@@ -1090,47 +1075,42 @@
    "pct_D": 15.5,
    "pct_R": 83.4,
    "modes": {
-    "election_day": {
-     "votes_D": 154,
-     "votes_R": 876,
-     "votes_other": 11
-    },
     "pre_election_day": {
      "votes_D": 38,
      "votes_R": 154,
      "votes_other": 2
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 154,
+     "votes_R": 876,
+     "votes_other": 11
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Greeley County, NE",
+   "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31079": {
    "name": "Hall",
-   "raw_name": "HALL",
+   "raw_name": "Hall",
    "fips": "31079",
    "is_mappable": true,
    "votes_D": 6956,
    "votes_R": 15566,
-   "votes_other": 282,
-   "total_votes": 22804,
-   "pct_D": 30.5,
-   "pct_R": 68.3,
+   "votes_other": 379,
+   "total_votes": 22901,
+   "pct_D": 30.4,
+   "pct_R": 68.0,
    "modes": {
     "total": {
      "votes_D": 6956,
      "votes_R": 15566,
-     "votes_other": 282
+     "votes_other": 379
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1138,52 +1118,57 @@
   },
   "31081": {
    "name": "Hamilton",
-   "raw_name": "HAMILTON",
+   "raw_name": "Hamilton",
    "fips": "31081",
    "is_mappable": true,
-   "votes_D": 1065,
-   "votes_R": 4391,
-   "votes_other": 39,
-   "total_votes": 5495,
-   "pct_D": 19.4,
-   "pct_R": 79.9,
+   "votes_D": 1067,
+   "votes_R": 4416,
+   "votes_other": 90,
+   "total_votes": 5573,
+   "pct_D": 19.1,
+   "pct_R": 79.2,
    "modes": {
+    "pre_election_day": {
+     "votes_D": 670,
+     "votes_R": 2639,
+     "votes_other": 44
+    },
     "election_day": {
      "votes_D": 396,
-     "votes_R": 1755,
-     "votes_other": 35
+     "votes_R": 1756,
+     "votes_other": 46
     },
-    "pre_election_day": {
-     "votes_D": 669,
-     "votes_R": 2636,
-     "votes_other": 4
+    "provisional": {
+     "votes_D": 1,
+     "votes_R": 21,
+     "votes_other": 0
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Hamilton County, NE",
+   "official_results": true,
    "pct_off_official": 0.0094,
-   "completeness": "C2",
+   "completeness": "C3",
    "notes": ""
   },
   "31083": {
    "name": "Harlan",
-   "raw_name": "HARLAN",
+   "raw_name": "Harlan",
    "fips": "31083",
    "is_mappable": true,
    "votes_D": 280,
    "votes_R": 1506,
-   "votes_other": 16,
-   "total_votes": 1802,
+   "votes_other": 19,
+   "total_votes": 1805,
    "pct_D": 15.5,
-   "pct_R": 83.6,
+   "pct_R": 83.4,
    "modes": {
     "total": {
      "votes_D": 280,
      "votes_R": 1506,
-     "votes_other": 16
+     "votes_other": 19
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1191,7 +1176,7 @@
   },
   "31085": {
    "name": "Hayes",
-   "raw_name": "HAYES",
+   "raw_name": "Hayes",
    "fips": "31085",
    "is_mappable": true,
    "votes_D": 19,
@@ -1201,18 +1186,18 @@
    "pct_D": 3.9,
    "pct_R": 95.5,
    "modes": {
-    "election_day": {
-     "votes_D": 9,
-     "votes_R": 324,
-     "votes_other": 3
-    },
     "pre_election_day": {
      "votes_D": 10,
      "votes_R": 147,
      "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 9,
+     "votes_R": 324,
+     "votes_other": 3
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Hayes County, NE",
    "official_results": false,
    "pct_off_official": 0.002,
    "completeness": "C2",
@@ -1220,7 +1205,7 @@
   },
   "31087": {
    "name": "Hitchcock",
-   "raw_name": "HITCHCOCK",
+   "raw_name": "Hitchcock",
    "fips": "31087",
    "is_mappable": true,
    "votes_D": 152,
@@ -1230,18 +1215,18 @@
    "pct_D": 10.6,
    "pct_R": 88.1,
    "modes": {
-    "election_day": {
-     "votes_D": 97,
-     "votes_R": 965,
-     "votes_other": 14
-    },
     "pre_election_day": {
      "votes_D": 55,
      "votes_R": 299,
      "votes_other": 4
+    },
+    "election_day": {
+     "votes_D": 97,
+     "votes_R": 965,
+     "votes_other": 14
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Hitchcock County, NE",
    "official_results": false,
    "pct_off_official": 0.0007,
    "completeness": "C2",
@@ -1249,7 +1234,7 @@
   },
   "31089": {
    "name": "Holt",
-   "raw_name": "HOLT",
+   "raw_name": "Holt",
    "fips": "31089",
    "is_mappable": true,
    "votes_D": 676,
@@ -1259,18 +1244,18 @@
    "pct_D": 12.5,
    "pct_R": 86.2,
    "modes": {
-    "election_day": {
-     "votes_D": 405,
-     "votes_R": 3576,
-     "votes_other": 51
-    },
     "pre_election_day": {
      "votes_D": 271,
      "votes_R": 1094,
      "votes_other": 18
+    },
+    "election_day": {
+     "votes_D": 405,
+     "votes_R": 3576,
+     "votes_other": 51
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Holt County, NE",
    "official_results": false,
    "pct_off_official": 0.005,
    "completeness": "C2",
@@ -1278,7 +1263,7 @@
   },
   "31091": {
    "name": "Hooker",
-   "raw_name": "HOOKER",
+   "raw_name": "Hooker",
    "fips": "31091",
    "is_mappable": true,
    "votes_D": 55,
@@ -1294,7 +1279,7 @@
      "votes_other": 3
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1302,7 +1287,7 @@
   },
   "31093": {
    "name": "Howard",
-   "raw_name": "HOWARD",
+   "raw_name": "Howard",
    "fips": "31093",
    "is_mappable": true,
    "votes_D": 642,
@@ -1312,31 +1297,26 @@
    "pct_D": 18.0,
    "pct_R": 80.4,
    "modes": {
-    "election_day": {
-     "votes_D": 392,
-     "votes_R": 2170,
-     "votes_other": 44
-    },
     "pre_election_day": {
      "votes_D": 250,
      "votes_R": 698,
      "votes_other": 12
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 392,
+     "votes_R": 2170,
+     "votes_other": 44
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Howard County, NE",
+   "official_results": true,
    "pct_off_official": 0.0045,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31095": {
    "name": "Jefferson",
-   "raw_name": "JEFFERSON",
+   "raw_name": "Jefferson",
    "fips": "31095",
    "is_mappable": true,
    "votes_D": 965,
@@ -1346,18 +1326,18 @@
    "pct_D": 26.7,
    "pct_R": 71.7,
    "modes": {
-    "election_day": {
-     "votes_D": 708,
-     "votes_R": 2129,
-     "votes_other": 47
-    },
     "pre_election_day": {
      "votes_D": 257,
      "votes_R": 465,
      "votes_other": 10
+    },
+    "election_day": {
+     "votes_D": 708,
+     "votes_R": 2129,
+     "votes_other": 47
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Jefferson County, NE",
    "official_results": false,
    "pct_off_official": 0.0041,
    "completeness": "C2",
@@ -1365,7 +1345,7 @@
   },
   "31097": {
    "name": "Johnson",
-   "raw_name": "JOHNSON",
+   "raw_name": "Johnson",
    "fips": "31097",
    "is_mappable": true,
    "votes_D": 625,
@@ -1375,31 +1355,26 @@
    "pct_D": 28.9,
    "pct_R": 69.1,
    "modes": {
-    "election_day": {
-     "votes_D": 450,
-     "votes_R": 1271,
-     "votes_other": 32
-    },
     "pre_election_day": {
      "votes_D": 175,
      "votes_R": 223,
      "votes_other": 10
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 450,
+     "votes_R": 1271,
+     "votes_other": 32
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Johnson County, NE",
    "official_results": false,
    "pct_off_official": 0.0042,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31099": {
    "name": "Kearney",
-   "raw_name": "KEARNEY",
+   "raw_name": "Kearney",
    "fips": "31099",
    "is_mappable": true,
    "votes_D": 734,
@@ -1409,31 +1384,26 @@
    "pct_D": 20.4,
    "pct_R": 78.2,
    "modes": {
-    "election_day": {
-     "votes_D": 474,
-     "votes_R": 2339,
-     "votes_other": 42
-    },
     "pre_election_day": {
      "votes_D": 260,
      "votes_R": 481,
      "votes_other": 9
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 474,
+     "votes_R": 2339,
+     "votes_other": 42
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Kearney County, NE",
    "official_results": false,
    "pct_off_official": 0.0003,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31101": {
    "name": "Keith",
-   "raw_name": "KEITH",
+   "raw_name": "Keith",
    "fips": "31101",
    "is_mappable": true,
    "votes_D": 731,
@@ -1443,15 +1413,15 @@
    "pct_D": 17.4,
    "pct_R": 81.2,
    "modes": {
-    "election_day": {
-     "votes_D": 439,
-     "votes_R": 2509,
-     "votes_other": 40
-    },
     "pre_election_day": {
      "votes_D": 283,
      "votes_R": 879,
      "votes_other": 22
+    },
+    "election_day": {
+     "votes_D": 439,
+     "votes_R": 2509,
+     "votes_other": 40
     },
     "provisional": {
      "votes_D": 9,
@@ -1459,31 +1429,31 @@
      "votes_other": 0
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Keith County, NE",
+   "official_results": true,
    "pct_off_official": 0.0024,
    "completeness": "C3",
    "notes": ""
   },
   "31103": {
    "name": "Keya Paha",
-   "raw_name": "KEYA PAHA",
+   "raw_name": "Keya Paha",
    "fips": "31103",
    "is_mappable": true,
    "votes_D": 44,
    "votes_R": 500,
-   "votes_other": 0,
-   "total_votes": 544,
+   "votes_other": 1,
+   "total_votes": 545,
    "pct_D": 8.1,
-   "pct_R": 91.9,
+   "pct_R": 91.7,
    "modes": {
     "total": {
      "votes_D": 44,
      "votes_R": 500,
-     "votes_other": 0
+     "votes_other": 1
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1491,7 +1461,7 @@
   },
   "31105": {
    "name": "Kimball",
-   "raw_name": "KIMBALL",
+   "raw_name": "Kimball",
    "fips": "31105",
    "is_mappable": true,
    "votes_D": 271,
@@ -1501,47 +1471,42 @@
    "pct_D": 15.9,
    "pct_R": 82.6,
    "modes": {
-    "election_day": {
-     "votes_D": 167,
-     "votes_R": 986,
-     "votes_other": 18
-    },
     "pre_election_day": {
-     "votes_D": 104,
+     "votes_D": 107,
      "votes_R": 424,
      "votes_other": 8
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 164,
+     "votes_R": 986,
+     "votes_other": 18
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Kimball County, NE",
    "official_results": false,
    "pct_off_official": 0.0076,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31107": {
    "name": "Knox",
-   "raw_name": "KNOX",
+   "raw_name": "Knox",
    "fips": "31107",
    "is_mappable": true,
    "votes_D": 786,
    "votes_R": 3593,
-   "votes_other": 57,
-   "total_votes": 4436,
+   "votes_other": 69,
+   "total_votes": 4448,
    "pct_D": 17.7,
-   "pct_R": 81.0,
+   "pct_R": 80.8,
    "modes": {
     "total": {
      "votes_D": 786,
      "votes_R": 3593,
-     "votes_other": 57
+     "votes_other": 69
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1549,7 +1514,7 @@
   },
   "31109": {
    "name": "Lancaster",
-   "raw_name": "LANCASTER",
+   "raw_name": "Lancaster",
    "fips": "31109",
    "is_mappable": true,
    "votes_D": 81012,
@@ -1559,15 +1524,15 @@
    "pct_D": 51.0,
    "pct_R": 46.8,
    "modes": {
-    "election_day": {
-     "votes_D": 40724,
-     "votes_R": 51059,
-     "votes_other": 2262
-    },
     "pre_election_day": {
      "votes_D": 38762,
      "votes_R": 21754,
      "votes_other": 1162
+    },
+    "election_day": {
+     "votes_D": 40724,
+     "votes_R": 51059,
+     "votes_other": 2262
     },
     "provisional": {
      "votes_D": 1526,
@@ -1575,15 +1540,15 @@
      "votes_other": 83
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Lancaster County, NE",
+   "official_results": true,
    "pct_off_official": 0.007,
    "completeness": "C3",
    "notes": ""
   },
   "31111": {
    "name": "Lincoln",
-   "raw_name": "LINCOLN",
+   "raw_name": "Lincoln",
    "fips": "31111",
    "is_mappable": true,
    "votes_D": 3586,
@@ -1593,15 +1558,15 @@
    "pct_D": 21.7,
    "pct_R": 76.7,
    "modes": {
-    "election_day": {
-     "votes_D": 1695,
-     "votes_R": 8462,
-     "votes_other": 174
-    },
     "pre_election_day": {
      "votes_D": 1854,
      "votes_R": 4056,
      "votes_other": 91
+    },
+    "election_day": {
+     "votes_D": 1695,
+     "votes_R": 8462,
+     "votes_other": 174
     },
     "provisional": {
      "votes_D": 37,
@@ -1609,15 +1574,15 @@
      "votes_other": 5
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Lincoln County, NE",
+   "official_results": true,
    "pct_off_official": 0.004,
    "completeness": "C3",
    "notes": ""
   },
   "31113": {
    "name": "Logan",
-   "raw_name": "LOGAN",
+   "raw_name": "Logan",
    "fips": "31113",
    "is_mappable": true,
    "votes_D": 25,
@@ -1627,18 +1592,18 @@
    "pct_D": 5.7,
    "pct_R": 92.5,
    "modes": {
-    "election_day": {
-     "votes_D": 16,
-     "votes_R": 332,
-     "votes_other": 6
-    },
     "pre_election_day": {
      "votes_D": 9,
      "votes_R": 76,
      "votes_other": 2
+    },
+    "election_day": {
+     "votes_D": 16,
+     "votes_R": 332,
+     "votes_other": 6
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Logan County, NE",
    "official_results": false,
    "pct_off_official": 0.0023,
    "completeness": "C2",
@@ -1646,7 +1611,7 @@
   },
   "31115": {
    "name": "Loup",
-   "raw_name": "LOUP",
+   "raw_name": "Loup",
    "fips": "31115",
    "is_mappable": true,
    "votes_D": 73,
@@ -1656,31 +1621,26 @@
    "pct_D": 17.1,
    "pct_R": 82.7,
    "modes": {
-    "election_day": {
-     "votes_D": 39,
-     "votes_R": 270,
-     "votes_other": 1
-    },
     "pre_election_day": {
      "votes_D": 34,
      "votes_R": 84,
      "votes_other": 0
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 39,
+     "votes_R": 270,
+     "votes_other": 1
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Loup County, NE",
+   "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31119": {
    "name": "Madison",
-   "raw_name": "MADISON",
+   "raw_name": "Madison",
    "fips": "31119",
    "is_mappable": true,
    "votes_D": 3301,
@@ -1690,18 +1650,18 @@
    "pct_D": 21.3,
    "pct_R": 77.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1974,
-     "votes_R": 9151,
-     "votes_other": 170
-    },
     "pre_election_day": {
      "votes_D": 1327,
      "votes_R": 2819,
      "votes_other": 61
+    },
+    "election_day": {
+     "votes_D": 1974,
+     "votes_R": 9151,
+     "votes_other": 170
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Madison County, NE",
    "official_results": false,
    "pct_off_official": 0.012,
    "completeness": "C2",
@@ -1709,7 +1669,7 @@
   },
   "31117": {
    "name": "McPherson",
-   "raw_name": "MCPHERSON",
+   "raw_name": "McPherson",
    "fips": "31117",
    "is_mappable": true,
    "votes_D": 12,
@@ -1719,47 +1679,42 @@
    "pct_D": 4.2,
    "pct_R": 94.0,
    "modes": {
-    "election_day": {
-     "votes_D": 6,
-     "votes_R": 191,
-     "votes_other": 4
-    },
     "pre_election_day": {
      "votes_D": 6,
      "votes_R": 76,
      "votes_other": 1
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 6,
+     "votes_R": 191,
+     "votes_other": 4
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "McPherson County, NE",
+   "official_results": true,
    "pct_off_official": 0.0035,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31121": {
    "name": "Merrick",
-   "raw_name": "MERRICK",
+   "raw_name": "Merrick",
    "fips": "31121",
    "is_mappable": true,
    "votes_D": 730,
    "votes_R": 3551,
-   "votes_other": 61,
-   "total_votes": 4342,
-   "pct_D": 16.8,
-   "pct_R": 81.8,
+   "votes_other": 87,
+   "total_votes": 4368,
+   "pct_D": 16.7,
+   "pct_R": 81.3,
    "modes": {
     "total": {
      "votes_D": 730,
      "votes_R": 3551,
-     "votes_other": 61
+     "votes_other": 87
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1767,23 +1722,23 @@
   },
   "31123": {
    "name": "Morrill",
-   "raw_name": "MORRILL",
+   "raw_name": "Morrill",
    "fips": "31123",
    "is_mappable": true,
    "votes_D": 366,
    "votes_R": 2026,
-   "votes_other": 34,
-   "total_votes": 2426,
+   "votes_other": 38,
+   "total_votes": 2430,
    "pct_D": 15.1,
-   "pct_R": 83.5,
+   "pct_R": 83.4,
    "modes": {
     "total": {
      "votes_D": 366,
      "votes_R": 2026,
-     "votes_other": 34
+     "votes_other": 38
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1791,7 +1746,7 @@
   },
   "31125": {
    "name": "Nance",
-   "raw_name": "NANCE",
+   "raw_name": "Nance",
    "fips": "31125",
    "is_mappable": true,
    "votes_D": 352,
@@ -1801,15 +1756,15 @@
    "pct_D": 19.1,
    "pct_R": 79.3,
    "modes": {
-    "election_day": {
-     "votes_D": 185,
-     "votes_R": 990,
-     "votes_other": 14
-    },
     "pre_election_day": {
      "votes_D": 166,
      "votes_R": 466,
      "votes_other": 16
+    },
+    "election_day": {
+     "votes_D": 185,
+     "votes_R": 990,
+     "votes_other": 14
     },
     "provisional": {
      "votes_D": 1,
@@ -1817,15 +1772,15 @@
      "votes_other": 0
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Nance County, NE",
+   "official_results": true,
    "pct_off_official": 0.0038,
    "completeness": "C3",
    "notes": ""
   },
   "31127": {
    "name": "Nemaha",
-   "raw_name": "NEMAHA",
+   "raw_name": "Nemaha",
    "fips": "31127",
    "is_mappable": true,
    "votes_D": 907,
@@ -1835,18 +1790,18 @@
    "pct_D": 26.6,
    "pct_R": 71.0,
    "modes": {
-    "election_day": {
-     "votes_D": 538,
-     "votes_R": 1859,
-     "votes_other": 61
-    },
     "pre_election_day": {
      "votes_D": 369,
      "votes_R": 563,
      "votes_other": 20
+    },
+    "election_day": {
+     "votes_D": 538,
+     "votes_R": 1859,
+     "votes_other": 61
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Nemaha County, NE",
    "official_results": false,
    "pct_off_official": 0.0023,
    "completeness": "C2",
@@ -1854,7 +1809,7 @@
   },
   "31129": {
    "name": "Nuckolls",
-   "raw_name": "NUCKOLLS",
+   "raw_name": "Nuckolls",
    "fips": "31129",
    "is_mappable": true,
    "votes_D": 399,
@@ -1864,15 +1819,15 @@
    "pct_D": 17.6,
    "pct_R": 81.2,
    "modes": {
-    "election_day": {
-     "votes_D": 249,
-     "votes_R": 1555,
-     "votes_other": 22
-    },
     "pre_election_day": {
      "votes_D": 150,
      "votes_R": 277,
      "votes_other": 5
+    },
+    "election_day": {
+     "votes_D": 249,
+     "votes_R": 1555,
+     "votes_other": 22
     },
     "provisional": {
      "votes_D": 0,
@@ -1880,15 +1835,15 @@
      "votes_other": 0
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Nuckolls County, NE",
+   "official_results": true,
    "pct_off_official": 0.0018,
    "completeness": "C3",
    "notes": ""
   },
   "31131": {
    "name": "Otoe",
-   "raw_name": "OTOE",
+   "raw_name": "Otoe",
    "fips": "31131",
    "is_mappable": true,
    "votes_D": 2463,
@@ -1898,15 +1853,15 @@
    "pct_D": 29.9,
    "pct_R": 68.7,
    "modes": {
-    "election_day": {
-     "votes_D": 1573,
-     "votes_R": 4346,
-     "votes_other": 92
-    },
     "pre_election_day": {
      "votes_D": 881,
      "votes_R": 1282,
      "votes_other": 19
+    },
+    "election_day": {
+     "votes_D": 1573,
+     "votes_R": 4346,
+     "votes_other": 92
     },
     "provisional": {
      "votes_D": 9,
@@ -1914,15 +1869,15 @@
      "votes_other": 2
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Otoe County, NE",
+   "official_results": true,
    "pct_off_official": 0.0035,
    "completeness": "C3",
    "notes": ""
   },
   "31133": {
    "name": "Pawnee",
-   "raw_name": "PAWNEE",
+   "raw_name": "Pawnee",
    "fips": "31133",
    "is_mappable": true,
    "votes_D": 284,
@@ -1932,31 +1887,26 @@
    "pct_D": 20.5,
    "pct_R": 78.3,
    "modes": {
-    "election_day": {
-     "votes_D": 189,
-     "votes_R": 896,
-     "votes_other": 13
-    },
     "pre_election_day": {
      "votes_D": 95,
      "votes_R": 189,
      "votes_other": 3
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 189,
+     "votes_R": 896,
+     "votes_other": 13
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Pawnee County, NE",
+   "official_results": true,
    "pct_off_official": 0.0044,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31135": {
    "name": "Perkins",
-   "raw_name": "PERKINS",
+   "raw_name": "Perkins",
    "fips": "31135",
    "is_mappable": true,
    "votes_D": 187,
@@ -1966,18 +1916,18 @@
    "pct_D": 13.1,
    "pct_R": 85.5,
    "modes": {
-    "election_day": {
-     "votes_D": 66,
-     "votes_R": 708,
-     "votes_other": 11
-    },
     "pre_election_day": {
      "votes_D": 121,
      "votes_R": 515,
      "votes_other": 10
+    },
+    "election_day": {
+     "votes_D": 66,
+     "votes_R": 708,
+     "votes_other": 11
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Perkins County, NE",
    "official_results": false,
    "pct_off_official": 0.0035,
    "completeness": "C2",
@@ -1985,7 +1935,7 @@
   },
   "31137": {
    "name": "Phelps",
-   "raw_name": "PHELPS",
+   "raw_name": "Phelps",
    "fips": "31137",
    "is_mappable": true,
    "votes_D": 756,
@@ -1995,18 +1945,18 @@
    "pct_D": 15.2,
    "pct_R": 83.4,
    "modes": {
-    "election_day": {
-     "votes_D": 357,
-     "votes_R": 2353,
-     "votes_other": 37
-    },
     "pre_election_day": {
      "votes_D": 399,
      "votes_R": 1791,
      "votes_other": 33
+    },
+    "election_day": {
+     "votes_D": 357,
+     "votes_R": 2353,
+     "votes_other": 37
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Phelps County, NE",
    "official_results": false,
    "pct_off_official": 0.001,
    "completeness": "C2",
@@ -2014,7 +1964,7 @@
   },
   "31139": {
    "name": "Pierce",
-   "raw_name": "PIERCE",
+   "raw_name": "Pierce",
    "fips": "31139",
    "is_mappable": true,
    "votes_D": 446,
@@ -2024,15 +1974,15 @@
    "pct_D": 11.4,
    "pct_R": 87.5,
    "modes": {
-    "election_day": {
-     "votes_D": 297,
-     "votes_R": 2783,
-     "votes_other": 30
-    },
     "pre_election_day": {
      "votes_D": 149,
      "votes_R": 634,
      "votes_other": 14
+    },
+    "election_day": {
+     "votes_D": 297,
+     "votes_R": 2783,
+     "votes_other": 30
     },
     "provisional": {
      "votes_D": 0,
@@ -2040,31 +1990,31 @@
      "votes_other": 0
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Pierce County, NE",
+   "official_results": true,
    "pct_off_official": 0.0033,
    "completeness": "C3",
    "notes": ""
   },
   "31141": {
    "name": "Platte",
-   "raw_name": "PLATTE",
+   "raw_name": "Platte",
    "fips": "31141",
    "is_mappable": true,
    "votes_D": 3191,
    "votes_R": 12326,
-   "votes_other": 141,
-   "total_votes": 15658,
-   "pct_D": 20.4,
-   "pct_R": 78.7,
+   "votes_other": 219,
+   "total_votes": 15736,
+   "pct_D": 20.3,
+   "pct_R": 78.3,
    "modes": {
     "total": {
      "votes_D": 3191,
      "votes_R": 12326,
-     "votes_other": 141
+     "votes_other": 219
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2072,7 +2022,7 @@
   },
   "31143": {
    "name": "Polk",
-   "raw_name": "POLK",
+   "raw_name": "Polk",
    "fips": "31143",
    "is_mappable": true,
    "votes_D": 499,
@@ -2082,31 +2032,26 @@
    "pct_D": 17.7,
    "pct_R": 81.2,
    "modes": {
-    "election_day": {
-     "votes_D": 304,
-     "votes_R": 1809,
-     "votes_other": 26
-    },
     "pre_election_day": {
      "votes_D": 195,
      "votes_R": 477,
      "votes_other": 6
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 304,
+     "votes_R": 1809,
+     "votes_other": 26
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Polk County, NE",
    "official_results": false,
    "pct_off_official": 0.0007,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31145": {
    "name": "Red Willow",
-   "raw_name": "RED WILLOW",
+   "raw_name": "Red Willow",
    "fips": "31145",
    "is_mappable": true,
    "votes_D": 815,
@@ -2116,15 +2061,15 @@
    "pct_D": 15.3,
    "pct_R": 83.5,
    "modes": {
-    "election_day": {
-     "votes_D": 446,
-     "votes_R": 3094,
-     "votes_other": 51
-    },
     "pre_election_day": {
      "votes_D": 360,
      "votes_R": 1325,
      "votes_other": 15
+    },
+    "election_day": {
+     "votes_D": 446,
+     "votes_R": 3094,
+     "votes_other": 51
     },
     "provisional": {
      "votes_D": 9,
@@ -2132,15 +2077,15 @@
      "votes_other": 1
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Red Willow County, NE",
+   "official_results": true,
    "pct_off_official": 0.003,
    "completeness": "C3",
    "notes": ""
   },
   "31147": {
    "name": "Richardson",
-   "raw_name": "RICHARDSON",
+   "raw_name": "Richardson",
    "fips": "31147",
    "is_mappable": true,
    "votes_D": 934,
@@ -2150,15 +2095,15 @@
    "pct_D": 23.6,
    "pct_R": 74.8,
    "modes": {
-    "election_day": {
-     "votes_D": 626,
-     "votes_R": 2349,
-     "votes_other": 57
-    },
     "pre_election_day": {
      "votes_D": 304,
      "votes_R": 591,
      "votes_other": 8
+    },
+    "election_day": {
+     "votes_D": 626,
+     "votes_R": 2349,
+     "votes_other": 57
     },
     "provisional": {
      "votes_D": 4,
@@ -2166,31 +2111,31 @@
      "votes_other": 1
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Richardson County, NE",
+   "official_results": true,
    "pct_off_official": 0.0051,
    "completeness": "C3",
    "notes": ""
   },
   "31149": {
    "name": "Rock",
-   "raw_name": "ROCK",
+   "raw_name": "Rock",
    "fips": "31149",
    "is_mappable": true,
    "votes_D": 85,
    "votes_R": 745,
-   "votes_other": 4,
-   "total_votes": 834,
+   "votes_other": 5,
+   "total_votes": 835,
    "pct_D": 10.2,
-   "pct_R": 89.3,
+   "pct_R": 89.2,
    "modes": {
     "total": {
      "votes_D": 85,
      "votes_R": 745,
-     "votes_other": 4
+     "votes_other": 5
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2198,7 +2143,7 @@
   },
   "31151": {
    "name": "Saline",
-   "raw_name": "SALINE",
+   "raw_name": "Saline",
    "fips": "31151",
    "is_mappable": true,
    "votes_D": 1845,
@@ -2208,18 +2153,18 @@
    "pct_D": 32.7,
    "pct_R": 65.9,
    "modes": {
-    "election_day": {
-     "votes_D": 1321,
-     "votes_R": 3189,
-     "votes_other": 77
-    },
     "pre_election_day": {
      "votes_D": 524,
      "votes_R": 530,
      "votes_other": 5
+    },
+    "election_day": {
+     "votes_D": 1321,
+     "votes_R": 3189,
+     "votes_other": 77
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Saline County, NE",
    "official_results": false,
    "pct_off_official": 0.0016,
    "completeness": "C2",
@@ -2227,7 +2172,7 @@
   },
   "31153": {
    "name": "Sarpy",
-   "raw_name": "SARPY",
+   "raw_name": "Sarpy",
    "fips": "31153",
    "is_mappable": true,
    "votes_D": 43825,
@@ -2237,15 +2182,15 @@
    "pct_D": 43.3,
    "pct_R": 54.9,
    "modes": {
-    "election_day": {
-     "votes_D": 22930,
-     "votes_R": 37486,
-     "votes_other": 1332
-    },
     "pre_election_day": {
      "votes_D": 20573,
      "votes_R": 17662,
      "votes_other": 558
+    },
+    "election_day": {
+     "votes_D": 22930,
+     "votes_R": 37486,
+     "votes_other": 1332
     },
     "provisional": {
      "votes_D": 322,
@@ -2253,15 +2198,15 @@
      "votes_other": 17
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Sarpy County, NE",
+   "official_results": true,
    "pct_off_official": 0.0056,
    "completeness": "C3",
    "notes": ""
   },
   "31155": {
    "name": "Saunders",
-   "raw_name": "SAUNDERS",
+   "raw_name": "Saunders",
    "fips": "31155",
    "is_mappable": true,
    "votes_D": 3558,
@@ -2271,15 +2216,15 @@
    "pct_D": 26.1,
    "pct_R": 72.3,
    "modes": {
-    "election_day": {
-     "votes_D": 2201,
-     "votes_R": 7760,
-     "votes_other": 159
-    },
     "pre_election_day": {
      "votes_D": 1349,
      "votes_R": 2050,
      "votes_other": 51
+    },
+    "election_day": {
+     "votes_D": 2201,
+     "votes_R": 7760,
+     "votes_other": 159
     },
     "provisional": {
      "votes_D": 8,
@@ -2287,15 +2232,15 @@
      "votes_other": 0
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Saunders County, NE",
+   "official_results": true,
    "pct_off_official": 0.0042,
    "completeness": "C3",
    "notes": ""
   },
   "31157": {
    "name": "Scotts Bluff",
-   "raw_name": "SCOTTS BLUFF",
+   "raw_name": "Scotts Bluff",
    "fips": "31157",
    "is_mappable": true,
    "votes_D": 3856,
@@ -2305,15 +2250,15 @@
    "pct_D": 25.5,
    "pct_R": 73.1,
    "modes": {
-    "election_day": {
-     "votes_D": 2149,
-     "votes_R": 7375,
-     "votes_other": 149
-    },
     "pre_election_day": {
      "votes_D": 1666,
      "votes_R": 3531,
      "votes_other": 53
+    },
+    "election_day": {
+     "votes_D": 2149,
+     "votes_R": 7375,
+     "votes_other": 149
     },
     "provisional": {
      "votes_D": 41,
@@ -2321,7 +2266,7 @@
      "votes_other": 4
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Scotts Bluff County, NE",
    "official_results": false,
    "pct_off_official": 0.0038,
    "completeness": "C3",
@@ -2329,23 +2274,23 @@
   },
   "31159": {
    "name": "Seward",
-   "raw_name": "SEWARD",
+   "raw_name": "Seward",
    "fips": "31159",
    "is_mappable": true,
    "votes_D": 2388,
    "votes_R": 6667,
-   "votes_other": 129,
-   "total_votes": 9184,
-   "pct_D": 26.0,
-   "pct_R": 72.6,
+   "votes_other": 185,
+   "total_votes": 9240,
+   "pct_D": 25.8,
+   "pct_R": 72.2,
    "modes": {
     "total": {
      "votes_D": 2388,
      "votes_R": 6667,
-     "votes_other": 129
+     "votes_other": 185
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2353,23 +2298,23 @@
   },
   "31161": {
    "name": "Sheridan",
-   "raw_name": "SHERIDAN",
+   "raw_name": "Sheridan",
    "fips": "31161",
    "is_mappable": true,
    "votes_D": 362,
    "votes_R": 2102,
-   "votes_other": 20,
-   "total_votes": 2484,
-   "pct_D": 14.6,
-   "pct_R": 84.6,
+   "votes_other": 33,
+   "total_votes": 2497,
+   "pct_D": 14.5,
+   "pct_R": 84.2,
    "modes": {
     "total": {
      "votes_D": 362,
      "votes_R": 2102,
-     "votes_other": 20
+     "votes_other": 33
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2377,7 +2322,7 @@
   },
   "31163": {
    "name": "Sherman",
-   "raw_name": "SHERMAN",
+   "raw_name": "Sherman",
    "fips": "31163",
    "is_mappable": true,
    "votes_D": 328,
@@ -2387,15 +2332,15 @@
    "pct_D": 19.4,
    "pct_R": 79.4,
    "modes": {
-    "election_day": {
-     "votes_D": 230,
-     "votes_R": 1077,
-     "votes_other": 16
-    },
     "pre_election_day": {
      "votes_D": 98,
      "votes_R": 260,
      "votes_other": 4
+    },
+    "election_day": {
+     "votes_D": 230,
+     "votes_R": 1077,
+     "votes_other": 16
     },
     "provisional": {
      "votes_D": 0,
@@ -2403,15 +2348,15 @@
      "votes_other": 0
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Sherman County, NE",
+   "official_results": true,
    "pct_off_official": 0.003,
    "completeness": "C3",
    "notes": ""
   },
   "31165": {
    "name": "Sioux",
-   "raw_name": "SIOUX",
+   "raw_name": "Sioux",
    "fips": "31165",
    "is_mappable": true,
    "votes_D": 76,
@@ -2421,47 +2366,42 @@
    "pct_D": 11.2,
    "pct_R": 87.9,
    "modes": {
-    "election_day": {
-     "votes_D": 61,
-     "votes_R": 501,
-     "votes_other": 4
-    },
     "pre_election_day": {
      "votes_D": 15,
      "votes_R": 95,
      "votes_other": 2
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 61,
+     "votes_R": 501,
+     "votes_other": 4
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Sioux County, NE",
    "official_results": false,
    "pct_off_official": 0.0,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31167": {
    "name": "Stanton",
-   "raw_name": "STANTON",
+   "raw_name": "Stanton",
    "fips": "31167",
    "is_mappable": true,
    "votes_D": 492,
    "votes_R": 2536,
-   "votes_other": 36,
-   "total_votes": 3064,
-   "pct_D": 16.1,
-   "pct_R": 82.8,
+   "votes_other": 48,
+   "total_votes": 3076,
+   "pct_D": 16.0,
+   "pct_R": 82.4,
    "modes": {
     "total": {
      "votes_D": 492,
      "votes_R": 2536,
-     "votes_other": 36
+     "votes_other": 48
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2469,23 +2409,23 @@
   },
   "31169": {
    "name": "Thayer",
-   "raw_name": "THAYER",
+   "raw_name": "Thayer",
    "fips": "31169",
    "is_mappable": true,
    "votes_D": 544,
    "votes_R": 2278,
-   "votes_other": 30,
-   "total_votes": 2852,
-   "pct_D": 19.1,
-   "pct_R": 79.9,
+   "votes_other": 41,
+   "total_votes": 2863,
+   "pct_D": 19.0,
+   "pct_R": 79.6,
    "modes": {
     "total": {
      "votes_D": 544,
      "votes_R": 2278,
-     "votes_other": 30
+     "votes_other": 41
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2493,7 +2433,7 @@
   },
   "31171": {
    "name": "Thomas",
-   "raw_name": "THOMAS",
+   "raw_name": "Thomas",
    "fips": "31171",
    "is_mappable": true,
    "votes_D": 44,
@@ -2503,26 +2443,26 @@
    "pct_D": 11.2,
    "pct_R": 88.5,
    "modes": {
-    "election_day": {
-     "votes_D": 26,
-     "votes_R": 235,
-     "votes_other": 1
-    },
     "pre_election_day": {
      "votes_D": 18,
      "votes_R": 113,
      "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 26,
+     "votes_R": 235,
+     "votes_other": 1
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "Thomas County, NE",
+   "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
    "notes": ""
   },
   "31173": {
    "name": "Thurston",
-   "raw_name": "THURSTON",
+   "raw_name": "Thurston",
    "fips": "31173",
    "is_mappable": true,
    "votes_D": 919,
@@ -2532,18 +2472,18 @@
    "pct_D": 44.6,
    "pct_R": 54.2,
    "modes": {
-    "election_day": {
-     "votes_D": 798,
-     "votes_R": 897,
-     "votes_other": 20
-    },
     "pre_election_day": {
      "votes_D": 121,
      "votes_R": 220,
      "votes_other": 3
+    },
+    "election_day": {
+     "votes_D": 798,
+     "votes_R": 897,
+     "votes_other": 20
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Thurston County, NE",
    "official_results": false,
    "pct_off_official": 0.0301,
    "completeness": "C2",
@@ -2551,23 +2491,23 @@
   },
   "31175": {
    "name": "Valley",
-   "raw_name": "VALLEY",
+   "raw_name": "Valley",
    "fips": "31175",
    "is_mappable": true,
    "votes_D": 403,
    "votes_R": 1872,
-   "votes_other": 24,
-   "total_votes": 2299,
+   "votes_other": 26,
+   "total_votes": 2301,
    "pct_D": 17.5,
    "pct_R": 81.4,
    "modes": {
     "total": {
      "votes_D": 403,
      "votes_R": 1872,
-     "votes_other": 24
+     "votes_other": 26
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2575,23 +2515,23 @@
   },
   "31177": {
    "name": "Washington",
-   "raw_name": "WASHINGTON",
+   "raw_name": "Washington",
    "fips": "31177",
    "is_mappable": true,
    "votes_D": 3538,
    "votes_R": 8855,
-   "votes_other": 152,
-   "total_votes": 12545,
-   "pct_D": 28.2,
-   "pct_R": 70.6,
+   "votes_other": 214,
+   "total_votes": 12607,
+   "pct_D": 28.1,
+   "pct_R": 70.2,
    "modes": {
     "total": {
      "votes_D": 3538,
      "votes_R": 8855,
-     "votes_other": 152
+     "votes_other": 214
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2599,23 +2539,23 @@
   },
   "31179": {
    "name": "Wayne",
-   "raw_name": "WAYNE",
+   "raw_name": "Wayne",
    "fips": "31179",
    "is_mappable": true,
    "votes_D": 1006,
    "votes_R": 3011,
-   "votes_other": 56,
-   "total_votes": 4073,
-   "pct_D": 24.7,
-   "pct_R": 73.9,
+   "votes_other": 89,
+   "total_votes": 4106,
+   "pct_D": 24.5,
+   "pct_R": 73.3,
    "modes": {
     "total": {
      "votes_D": 1006,
      "votes_R": 3011,
-     "votes_other": 56
+     "votes_other": 89
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2623,23 +2563,23 @@
   },
   "31181": {
    "name": "Webster",
-   "raw_name": "WEBSTER",
+   "raw_name": "Webster",
    "fips": "31181",
    "is_mappable": true,
    "votes_D": 296,
    "votes_R": 1449,
-   "votes_other": 18,
-   "total_votes": 1763,
+   "votes_other": 20,
+   "total_votes": 1765,
    "pct_D": 16.8,
-   "pct_R": 82.2,
+   "pct_R": 82.1,
    "modes": {
     "total": {
      "votes_D": 296,
      "votes_R": 1449,
-     "votes_other": 18
+     "votes_other": 20
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2647,7 +2587,7 @@
   },
   "31183": {
    "name": "Wheeler",
-   "raw_name": "WHEELER",
+   "raw_name": "Wheeler",
    "fips": "31183",
    "is_mappable": true,
    "votes_D": 57,
@@ -2657,49 +2597,44 @@
    "pct_D": 11.8,
    "pct_R": 87.4,
    "modes": {
-    "election_day": {
-     "votes_D": 29,
-     "votes_R": 314,
-     "votes_other": 2
-    },
     "pre_election_day": {
      "votes_D": 28,
      "votes_R": 110,
      "votes_other": 2
     },
-    "provisional": {
-     "votes_D": 0,
-     "votes_R": 0,
-     "votes_other": 0
+    "election_day": {
+     "votes_D": 29,
+     "votes_R": 314,
+     "votes_other": 2
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Wheeler County, NE",
    "official_results": false,
    "pct_off_official": 0.0021,
-   "completeness": "C3",
+   "completeness": "C2",
    "notes": ""
   },
   "31185": {
    "name": "York",
-   "raw_name": "YORK",
+   "raw_name": "York",
    "fips": "31185",
    "is_mappable": true,
-   "votes_D": 1647,
+   "votes_D": 1648,
    "votes_R": 5234,
    "votes_other": 138,
-   "total_votes": 7019,
+   "total_votes": 7020,
    "pct_D": 23.5,
    "pct_R": 74.6,
    "modes": {
+    "pre_election_day": {
+     "votes_D": 676,
+     "votes_R": 1577,
+     "votes_other": 40
+    },
     "election_day": {
      "votes_D": 962,
      "votes_R": 3621,
      "votes_other": 98
-    },
-    "pre_election_day": {
-     "votes_D": 675,
-     "votes_R": 1577,
-     "votes_other": 40
     },
     "provisional": {
      "votes_D": 10,
@@ -2707,8 +2642,8 @@
      "votes_other": 0
     }
    },
-   "data_source": "County-PDF",
-   "official_results": false,
+   "data_source": "York County, NE",
+   "official_results": true,
    "pct_off_official": 0.005,
    "completeness": "C3",
    "notes": ""

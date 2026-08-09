@@ -34,7 +34,7 @@
  "units": {
   "district_01": {
    "name": "District 01",
-   "raw_name": "DISTRICT 01",
+   "raw_name": "District 01",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3367,
@@ -44,20 +44,20 @@
    "pct_D": 39.2,
    "pct_R": 56.6,
    "modes": {
-    "election_day": {
-     "votes_D": 1876,
-     "votes_R": 2945,
-     "votes_other": 230
+    "mail": {
+     "votes_D": 1311,
+     "votes_R": 1608,
+     "votes_other": 99
     },
     "early_in_person": {
      "votes_D": 13,
      "votes_R": 7,
      "votes_other": 0
     },
-    "mail": {
-     "votes_D": 1311,
-     "votes_R": 1608,
-     "votes_other": 99
+    "election_day": {
+     "votes_D": 1876,
+     "votes_R": 2945,
+     "votes_other": 230
     },
     "provisional": {
      "votes_D": 167,
@@ -73,7 +73,7 @@
   },
   "district_02": {
    "name": "District 02",
-   "raw_name": "DISTRICT 02",
+   "raw_name": "District 02",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4571,
@@ -83,20 +83,20 @@
    "pct_D": 47.8,
    "pct_R": 47.4,
    "modes": {
-    "election_day": {
-     "votes_D": 1978,
-     "votes_R": 2331,
-     "votes_other": 287
+    "mail": {
+     "votes_D": 2455,
+     "votes_R": 2026,
+     "votes_other": 146
     },
     "early_in_person": {
      "votes_D": 40,
      "votes_R": 30,
      "votes_other": 5
     },
-    "mail": {
-     "votes_D": 2455,
-     "votes_R": 2026,
-     "votes_other": 146
+    "election_day": {
+     "votes_D": 1978,
+     "votes_R": 2331,
+     "votes_other": 287
     },
     "provisional": {
      "votes_D": 98,
@@ -112,7 +112,7 @@
   },
   "district_03": {
    "name": "District 03",
-   "raw_name": "DISTRICT 03",
+   "raw_name": "District 03",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6130,
@@ -122,20 +122,20 @@
    "pct_D": 55.2,
    "pct_R": 40.5,
    "modes": {
-    "election_day": {
-     "votes_D": 2223,
-     "votes_R": 2108,
-     "votes_other": 253
+    "mail": {
+     "votes_D": 1726,
+     "votes_R": 846,
+     "votes_other": 103
     },
     "early_in_person": {
      "votes_D": 2043,
      "votes_R": 1403,
      "votes_other": 98
     },
-    "mail": {
-     "votes_D": 1726,
-     "votes_R": 846,
-     "votes_other": 103
+    "election_day": {
+     "votes_D": 2223,
+     "votes_R": 2108,
+     "votes_other": 253
     },
     "provisional": {
      "votes_D": 138,
@@ -151,7 +151,7 @@
   },
   "district_04": {
    "name": "District 04",
-   "raw_name": "DISTRICT 04",
+   "raw_name": "District 04",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6161,
@@ -161,20 +161,20 @@
    "pct_D": 66.5,
    "pct_R": 29.0,
    "modes": {
-    "election_day": {
-     "votes_D": 2072,
-     "votes_R": 1115,
-     "votes_other": 174
+    "mail": {
+     "votes_D": 1241,
+     "votes_R": 352,
+     "votes_other": 65
     },
     "early_in_person": {
      "votes_D": 2656,
      "votes_R": 1033,
      "votes_other": 143
     },
-    "mail": {
-     "votes_D": 1241,
-     "votes_R": 352,
-     "votes_other": 65
+    "election_day": {
+     "votes_D": 2072,
+     "votes_R": 1115,
+     "votes_other": 174
     },
     "provisional": {
      "votes_D": 192,
@@ -190,7 +190,7 @@
   },
   "district_05": {
    "name": "District 05",
-   "raw_name": "DISTRICT 05",
+   "raw_name": "District 05",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3328,
@@ -200,20 +200,20 @@
    "pct_D": 41.5,
    "pct_R": 54.3,
    "modes": {
-    "election_day": {
-     "votes_D": 1731,
-     "votes_R": 2573,
-     "votes_other": 187
+    "mail": {
+     "votes_D": 1476,
+     "votes_R": 1490,
+     "votes_other": 138
     },
     "early_in_person": {
      "votes_D": 27,
      "votes_R": 34,
      "votes_other": 1
     },
-    "mail": {
-     "votes_D": 1476,
-     "votes_R": 1490,
-     "votes_other": 138
+    "election_day": {
+     "votes_D": 1731,
+     "votes_R": 2573,
+     "votes_other": 187
     },
     "provisional": {
      "votes_D": 94,
@@ -229,7 +229,7 @@
   },
   "district_06": {
    "name": "District 06",
-   "raw_name": "DISTRICT 06",
+   "raw_name": "District 06",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4773,
@@ -239,20 +239,20 @@
    "pct_D": 39.8,
    "pct_R": 55.9,
    "modes": {
-    "election_day": {
-     "votes_D": 1711,
-     "votes_R": 3382,
-     "votes_other": 272
+    "mail": {
+     "votes_D": 1195,
+     "votes_R": 1081,
+     "votes_other": 92
     },
     "early_in_person": {
      "votes_D": 1778,
      "votes_R": 2007,
      "votes_other": 143
     },
-    "mail": {
-     "votes_D": 1195,
-     "votes_R": 1081,
-     "votes_other": 92
+    "election_day": {
+     "votes_D": 1711,
+     "votes_R": 3382,
+     "votes_other": 272
     },
     "provisional": {
      "votes_D": 89,
@@ -268,7 +268,7 @@
   },
   "district_07": {
    "name": "District 07",
-   "raw_name": "DISTRICT 07",
+   "raw_name": "District 07",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2513,
@@ -278,20 +278,20 @@
    "pct_D": 26.2,
    "pct_R": 70.5,
    "modes": {
-    "election_day": {
-     "votes_D": 1250,
-     "votes_R": 3683,
-     "votes_other": 201
+    "mail": {
+     "votes_D": 566,
+     "votes_R": 1078,
+     "votes_other": 52
     },
     "early_in_person": {
      "votes_D": 651,
      "votes_R": 1781,
      "votes_other": 53
     },
-    "mail": {
-     "votes_D": 566,
-     "votes_R": 1078,
-     "votes_other": 52
+    "election_day": {
+     "votes_D": 1250,
+     "votes_R": 3683,
+     "votes_other": 201
     },
     "provisional": {
      "votes_D": 46,
@@ -307,7 +307,7 @@
   },
   "district_08": {
    "name": "District 08",
-   "raw_name": "DISTRICT 08",
+   "raw_name": "District 08",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2576,
@@ -317,20 +317,20 @@
    "pct_D": 23.8,
    "pct_R": 73.6,
    "modes": {
-    "election_day": {
-     "votes_D": 1222,
-     "votes_R": 4486,
-     "votes_other": 181
+    "mail": {
+     "votes_D": 787,
+     "votes_R": 1412,
+     "votes_other": 53
     },
     "early_in_person": {
      "votes_D": 543,
      "votes_R": 1887,
      "votes_other": 38
     },
-    "mail": {
-     "votes_D": 787,
-     "votes_R": 1412,
-     "votes_other": 53
+    "election_day": {
+     "votes_D": 1222,
+     "votes_R": 4486,
+     "votes_other": 181
     },
     "provisional": {
      "votes_D": 24,
@@ -346,7 +346,7 @@
   },
   "district_09": {
    "name": "District 09",
-   "raw_name": "DISTRICT 09",
+   "raw_name": "District 09",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5849,
@@ -356,20 +356,20 @@
    "pct_D": 49.4,
    "pct_R": 47.2,
    "modes": {
-    "election_day": {
-     "votes_D": 2750,
-     "votes_R": 3159,
-     "votes_other": 254
+    "mail": {
+     "votes_D": 1970,
+     "votes_R": 1202,
+     "votes_other": 96
     },
     "early_in_person": {
      "votes_D": 1032,
      "votes_R": 1082,
      "votes_other": 39
     },
-    "mail": {
-     "votes_D": 1970,
-     "votes_R": 1202,
-     "votes_other": 96
+    "election_day": {
+     "votes_D": 2750,
+     "votes_R": 3159,
+     "votes_other": 254
     },
     "provisional": {
      "votes_D": 97,
@@ -385,7 +385,7 @@
   },
   "district_10": {
    "name": "District 10",
-   "raw_name": "DISTRICT 10",
+   "raw_name": "District 10",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4070,
@@ -395,20 +395,20 @@
    "pct_D": 46.4,
    "pct_R": 49.7,
    "modes": {
-    "election_day": {
-     "votes_D": 2107,
-     "votes_R": 2690,
-     "votes_other": 216
+    "mail": {
+     "votes_D": 1155,
+     "votes_R": 724,
+     "votes_other": 67
     },
     "early_in_person": {
      "votes_D": 710,
      "votes_R": 808,
      "votes_other": 33
     },
-    "mail": {
-     "votes_D": 1155,
-     "votes_R": 724,
-     "votes_other": 67
+    "election_day": {
+     "votes_D": 2107,
+     "votes_R": 2690,
+     "votes_other": 216
     },
     "provisional": {
      "votes_D": 98,
@@ -424,7 +424,7 @@
   },
   "district_11": {
    "name": "District 11",
-   "raw_name": "DISTRICT 11",
+   "raw_name": "District 11",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4633,
@@ -434,20 +434,20 @@
    "pct_D": 47.1,
    "pct_R": 49.4,
    "modes": {
-    "election_day": {
-     "votes_D": 2200,
-     "votes_R": 2880,
-     "votes_other": 224
+    "mail": {
+     "votes_D": 1522,
+     "votes_R": 926,
+     "votes_other": 78
     },
     "early_in_person": {
      "votes_D": 822,
      "votes_R": 917,
      "votes_other": 34
     },
-    "mail": {
-     "votes_D": 1522,
-     "votes_R": 926,
-     "votes_other": 78
+    "election_day": {
+     "votes_D": 2200,
+     "votes_R": 2880,
+     "votes_other": 224
     },
     "provisional": {
      "votes_D": 89,
@@ -463,7 +463,7 @@
   },
   "district_12": {
    "name": "District 12",
-   "raw_name": "DISTRICT 12",
+   "raw_name": "District 12",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4169,
@@ -473,20 +473,20 @@
    "pct_D": 49.0,
    "pct_R": 47.7,
    "modes": {
-    "election_day": {
-     "votes_D": 2027,
-     "votes_R": 2494,
-     "votes_other": 192
+    "mail": {
+     "votes_D": 1237,
+     "votes_R": 676,
+     "votes_other": 57
     },
     "early_in_person": {
      "votes_D": 812,
      "votes_R": 761,
      "votes_other": 24
     },
-    "mail": {
-     "votes_D": 1237,
-     "votes_R": 676,
-     "votes_other": 57
+    "election_day": {
+     "votes_D": 2027,
+     "votes_R": 2494,
+     "votes_other": 192
     },
     "provisional": {
      "votes_D": 93,
@@ -502,7 +502,7 @@
   },
   "district_13": {
    "name": "District 13",
-   "raw_name": "DISTRICT 13",
+   "raw_name": "District 13",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3682,
@@ -512,20 +512,20 @@
    "pct_D": 48.6,
    "pct_R": 47.4,
    "modes": {
-    "election_day": {
-     "votes_D": 1873,
-     "votes_R": 2153,
-     "votes_other": 179
+    "mail": {
+     "votes_D": 1043,
+     "votes_R": 543,
+     "votes_other": 64
     },
     "early_in_person": {
      "votes_D": 636,
      "votes_R": 702,
      "votes_other": 45
     },
-    "mail": {
-     "votes_D": 1043,
-     "votes_R": 543,
-     "votes_other": 64
+    "election_day": {
+     "votes_D": 1873,
+     "votes_R": 2153,
+     "votes_other": 179
     },
     "provisional": {
      "votes_D": 130,
@@ -541,7 +541,7 @@
   },
   "district_14": {
    "name": "District 14",
-   "raw_name": "DISTRICT 14",
+   "raw_name": "District 14",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4346,
@@ -551,20 +551,20 @@
    "pct_D": 58.5,
    "pct_R": 37.3,
    "modes": {
-    "election_day": {
-     "votes_D": 1895,
-     "votes_R": 1475,
-     "votes_other": 165
+    "mail": {
+     "votes_D": 1289,
+     "votes_R": 474,
+     "votes_other": 82
     },
     "early_in_person": {
      "votes_D": 966,
      "votes_R": 609,
      "votes_other": 48
     },
-    "mail": {
-     "votes_D": 1289,
-     "votes_R": 474,
-     "votes_other": 82
+    "election_day": {
+     "votes_D": 1895,
+     "votes_R": 1475,
+     "votes_other": 165
     },
     "provisional": {
      "votes_D": 196,
@@ -580,7 +580,7 @@
   },
   "district_15": {
    "name": "District 15",
-   "raw_name": "DISTRICT 15",
+   "raw_name": "District 15",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4364,
@@ -590,20 +590,20 @@
    "pct_D": 47.0,
    "pct_R": 49.4,
    "modes": {
-    "election_day": {
-     "votes_D": 2208,
-     "votes_R": 2732,
-     "votes_other": 213
+    "mail": {
+     "votes_D": 1243,
+     "votes_R": 809,
+     "votes_other": 74
     },
     "early_in_person": {
      "votes_D": 810,
      "votes_R": 893,
      "votes_other": 34
     },
-    "mail": {
-     "votes_D": 1243,
-     "votes_R": 809,
-     "votes_other": 74
+    "election_day": {
+     "votes_D": 2208,
+     "votes_R": 2732,
+     "votes_other": 213
     },
     "provisional": {
      "votes_D": 103,
@@ -619,7 +619,7 @@
   },
   "district_16": {
    "name": "District 16",
-   "raw_name": "DISTRICT 16",
+   "raw_name": "District 16",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5344,
@@ -629,20 +629,20 @@
    "pct_D": 55.3,
    "pct_R": 40.6,
    "modes": {
-    "election_day": {
-     "votes_D": 2673,
-     "votes_R": 2390,
-     "votes_other": 241
+    "mail": {
+     "votes_D": 1497,
+     "votes_R": 664,
+     "votes_other": 84
     },
     "early_in_person": {
      "votes_D": 1062,
      "votes_R": 712,
      "votes_other": 48
     },
-    "mail": {
-     "votes_D": 1497,
-     "votes_R": 664,
-     "votes_other": 84
+    "election_day": {
+     "votes_D": 2673,
+     "votes_R": 2390,
+     "votes_other": 241
     },
     "provisional": {
      "votes_D": 112,
@@ -658,7 +658,7 @@
   },
   "district_17": {
    "name": "District 17",
-   "raw_name": "DISTRICT 17",
+   "raw_name": "District 17",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4990,
@@ -668,20 +668,20 @@
    "pct_D": 64.7,
    "pct_R": 31.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1793,
-     "votes_R": 1046,
-     "votes_other": 154
+    "mail": {
+     "votes_D": 1591,
+     "votes_R": 578,
+     "votes_other": 82
     },
     "early_in_person": {
      "votes_D": 1414,
      "votes_R": 621,
      "votes_other": 56
     },
-    "mail": {
-     "votes_D": 1591,
-     "votes_R": 578,
-     "votes_other": 82
+    "election_day": {
+     "votes_D": 1793,
+     "votes_R": 1046,
+     "votes_other": 154
     },
     "provisional": {
      "votes_D": 192,
@@ -697,7 +697,7 @@
   },
   "district_18": {
    "name": "District 18",
-   "raw_name": "DISTRICT 18",
+   "raw_name": "District 18",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1928,
@@ -707,20 +707,20 @@
    "pct_D": 40.0,
    "pct_R": 55.8,
    "modes": {
-    "election_day": {
-     "votes_D": 725,
-     "votes_R": 1087,
-     "votes_other": 105
+    "mail": {
+     "votes_D": 733,
+     "votes_R": 786,
+     "votes_other": 44
     },
     "early_in_person": {
      "votes_D": 256,
      "votes_R": 232,
      "votes_other": 19
     },
-    "mail": {
-     "votes_D": 733,
-     "votes_R": 786,
-     "votes_other": 44
+    "election_day": {
+     "votes_D": 725,
+     "votes_R": 1087,
+     "votes_other": 105
     },
     "provisional": {
      "votes_D": 214,
@@ -736,7 +736,7 @@
   },
   "district_19": {
    "name": "District 19",
-   "raw_name": "DISTRICT 19",
+   "raw_name": "District 19",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2825,
@@ -746,20 +746,20 @@
    "pct_D": 56.2,
    "pct_R": 39.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1358,
-     "votes_R": 1200,
-     "votes_other": 119
+    "mail": {
+     "votes_D": 774,
+     "votes_R": 308,
+     "votes_other": 49
     },
     "early_in_person": {
      "votes_D": 515,
      "votes_R": 277,
      "votes_other": 35
     },
-    "mail": {
-     "votes_D": 774,
-     "votes_R": 308,
-     "votes_other": 49
+    "election_day": {
+     "votes_D": 1358,
+     "votes_R": 1200,
+     "votes_other": 119
     },
     "provisional": {
      "votes_D": 178,
@@ -775,7 +775,7 @@
   },
   "district_20": {
    "name": "District 20",
-   "raw_name": "DISTRICT 20",
+   "raw_name": "District 20",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3924,
@@ -785,20 +785,20 @@
    "pct_D": 54.0,
    "pct_R": 41.8,
    "modes": {
-    "election_day": {
-     "votes_D": 1925,
-     "votes_R": 1697,
-     "votes_other": 188
+    "mail": {
+     "votes_D": 1150,
+     "votes_R": 591,
+     "votes_other": 56
     },
     "early_in_person": {
      "votes_D": 685,
      "votes_R": 570,
      "votes_other": 39
     },
-    "mail": {
-     "votes_D": 1150,
-     "votes_R": 591,
-     "votes_other": 56
+    "election_day": {
+     "votes_D": 1925,
+     "votes_R": 1697,
+     "votes_other": 188
     },
     "provisional": {
      "votes_D": 164,
@@ -814,7 +814,7 @@
   },
   "district_21": {
    "name": "District 21",
-   "raw_name": "DISTRICT 21",
+   "raw_name": "District 21",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4711,
@@ -824,20 +824,20 @@
    "pct_D": 52.1,
    "pct_R": 44.1,
    "modes": {
-    "election_day": {
-     "votes_D": 2177,
-     "votes_R": 2291,
-     "votes_other": 190
+    "mail": {
+     "votes_D": 1567,
+     "votes_R": 798,
+     "votes_other": 99
     },
     "early_in_person": {
      "votes_D": 796,
      "votes_R": 697,
      "votes_other": 39
     },
-    "mail": {
-     "votes_D": 1567,
-     "votes_R": 798,
-     "votes_other": 99
+    "election_day": {
+     "votes_D": 2177,
+     "votes_R": 2291,
+     "votes_other": 190
     },
     "provisional": {
      "votes_D": 171,
@@ -853,7 +853,7 @@
   },
   "district_22": {
    "name": "District 22",
-   "raw_name": "DISTRICT 22",
+   "raw_name": "District 22",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2660,
@@ -863,20 +863,20 @@
    "pct_D": 48.7,
    "pct_R": 47.5,
    "modes": {
-    "election_day": {
-     "votes_D": 1396,
-     "votes_R": 1504,
-     "votes_other": 127
+    "mail": {
+     "votes_D": 703,
+     "votes_R": 462,
+     "votes_other": 47
     },
     "early_in_person": {
      "votes_D": 447,
      "votes_R": 447,
      "votes_other": 23
     },
-    "mail": {
-     "votes_D": 703,
-     "votes_R": 462,
-     "votes_other": 47
+    "election_day": {
+     "votes_D": 1396,
+     "votes_R": 1504,
+     "votes_other": 127
     },
     "provisional": {
      "votes_D": 114,
@@ -892,7 +892,7 @@
   },
   "district_23": {
    "name": "District 23",
-   "raw_name": "DISTRICT 23",
+   "raw_name": "District 23",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4116,
@@ -902,20 +902,20 @@
    "pct_D": 38.5,
    "pct_R": 57.1,
    "modes": {
-    "election_day": {
-     "votes_D": 1457,
-     "votes_R": 2434,
-     "votes_other": 245
+    "mail": {
+     "votes_D": 1344,
+     "votes_R": 1275,
+     "votes_other": 103
     },
     "early_in_person": {
      "votes_D": 1222,
      "votes_R": 2186,
      "votes_other": 96
     },
-    "mail": {
-     "votes_D": 1344,
-     "votes_R": 1275,
-     "votes_other": 103
+    "election_day": {
+     "votes_D": 1457,
+     "votes_R": 2434,
+     "votes_other": 245
     },
     "provisional": {
      "votes_D": 93,
@@ -931,7 +931,7 @@
   },
   "district_24": {
    "name": "District 24",
-   "raw_name": "DISTRICT 24",
+   "raw_name": "District 24",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3234,
@@ -941,20 +941,20 @@
    "pct_D": 32.0,
    "pct_R": 64.1,
    "modes": {
-    "election_day": {
-     "votes_D": 1299,
-     "votes_R": 2995,
-     "votes_other": 214
+    "mail": {
+     "votes_D": 874,
+     "votes_R": 1076,
+     "votes_other": 85
     },
     "early_in_person": {
      "votes_D": 974,
      "votes_R": 2192,
      "votes_other": 78
     },
-    "mail": {
-     "votes_D": 874,
-     "votes_R": 1076,
-     "votes_other": 85
+    "election_day": {
+     "votes_D": 1299,
+     "votes_R": 2995,
+     "votes_other": 214
     },
     "provisional": {
      "votes_D": 87,
@@ -970,7 +970,7 @@
   },
   "district_25": {
    "name": "District 25",
-   "raw_name": "DISTRICT 25",
+   "raw_name": "District 25",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3172,
@@ -980,20 +980,20 @@
    "pct_D": 30.3,
    "pct_R": 65.9,
    "modes": {
-    "election_day": {
-     "votes_D": 1306,
-     "votes_R": 3495,
-     "votes_other": 232
+    "mail": {
+     "votes_D": 653,
+     "votes_R": 863,
+     "votes_other": 63
     },
     "early_in_person": {
      "votes_D": 1122,
      "votes_R": 2210,
      "votes_other": 83
     },
-    "mail": {
-     "votes_D": 653,
-     "votes_R": 863,
-     "votes_other": 63
+    "election_day": {
+     "votes_D": 1306,
+     "votes_R": 3495,
+     "votes_other": 232
     },
     "provisional": {
      "votes_D": 91,
@@ -1009,7 +1009,7 @@
   },
   "district_26": {
    "name": "District 26",
-   "raw_name": "DISTRICT 26",
+   "raw_name": "District 26",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2013,
@@ -1019,20 +1019,20 @@
    "pct_D": 21.3,
    "pct_R": 75.6,
    "modes": {
-    "election_day": {
-     "votes_D": 967,
-     "votes_R": 3794,
-     "votes_other": 198
+    "mail": {
+     "votes_D": 450,
+     "votes_R": 898,
+     "votes_other": 30
     },
     "early_in_person": {
      "votes_D": 521,
      "votes_R": 2123,
      "votes_other": 44
     },
-    "mail": {
-     "votes_D": 450,
-     "votes_R": 898,
-     "votes_other": 30
+    "election_day": {
+     "votes_D": 967,
+     "votes_R": 3794,
+     "votes_other": 198
     },
     "provisional": {
      "votes_D": 75,
@@ -1048,7 +1048,7 @@
   },
   "district_27": {
    "name": "District 27",
-   "raw_name": "DISTRICT 27",
+   "raw_name": "District 27",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1807,
@@ -1058,20 +1058,20 @@
    "pct_D": 20.4,
    "pct_R": 76.6,
    "modes": {
-    "election_day": {
-     "votes_D": 772,
-     "votes_R": 3400,
-     "votes_other": 158
+    "mail": {
+     "votes_D": 401,
+     "votes_R": 867,
+     "votes_other": 37
     },
     "early_in_person": {
      "votes_D": 562,
      "votes_R": 2116,
      "votes_other": 54
     },
-    "mail": {
-     "votes_D": 401,
-     "votes_R": 867,
-     "votes_other": 37
+    "election_day": {
+     "votes_D": 772,
+     "votes_R": 3400,
+     "votes_other": 158
     },
     "provisional": {
      "votes_D": 72,
@@ -1087,7 +1087,7 @@
   },
   "district_28": {
    "name": "District 28",
-   "raw_name": "DISTRICT 28",
+   "raw_name": "District 28",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2213,
@@ -1097,20 +1097,20 @@
    "pct_D": 23.8,
    "pct_R": 72.3,
    "modes": {
-    "election_day": {
-     "votes_D": 971,
-     "votes_R": 3241,
-     "votes_other": 212
+    "mail": {
+     "votes_D": 478,
+     "votes_R": 869,
+     "votes_other": 42
     },
     "early_in_person": {
      "votes_D": 692,
      "votes_R": 2266,
      "votes_other": 74
     },
-    "mail": {
-     "votes_D": 478,
-     "votes_R": 869,
-     "votes_other": 42
+    "election_day": {
+     "votes_D": 971,
+     "votes_R": 3241,
+     "votes_other": 212
     },
     "provisional": {
      "votes_D": 72,
@@ -1126,7 +1126,7 @@
   },
   "district_29": {
    "name": "District 29",
-   "raw_name": "DISTRICT 29",
+   "raw_name": "District 29",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2708,
@@ -1136,20 +1136,20 @@
    "pct_D": 25.8,
    "pct_R": 70.6,
    "modes": {
-    "election_day": {
-     "votes_D": 1256,
-     "votes_R": 3853,
-     "votes_other": 205
+    "mail": {
+     "votes_D": 754,
+     "votes_R": 1170,
+     "votes_other": 85
     },
     "early_in_person": {
      "votes_D": 616,
      "votes_R": 2110,
      "votes_other": 71
     },
-    "mail": {
-     "votes_D": 754,
-     "votes_R": 1170,
-     "votes_other": 85
+    "election_day": {
+     "votes_D": 1256,
+     "votes_R": 3853,
+     "votes_other": 205
     },
     "provisional": {
      "votes_D": 82,
@@ -1165,7 +1165,7 @@
   },
   "district_30": {
    "name": "District 30",
-   "raw_name": "DISTRICT 30",
+   "raw_name": "District 30",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2701,
@@ -1175,20 +1175,20 @@
    "pct_D": 26.2,
    "pct_R": 70.9,
    "modes": {
-    "election_day": {
-     "votes_D": 1234,
-     "votes_R": 4020,
-     "votes_other": 172
+    "mail": {
+     "votes_D": 1168,
+     "votes_R": 2061,
+     "votes_other": 87
     },
     "early_in_person": {
      "votes_D": 223,
      "votes_R": 922,
      "votes_other": 21
     },
-    "mail": {
-     "votes_D": 1168,
-     "votes_R": 2061,
-     "votes_other": 87
+    "election_day": {
+     "votes_D": 1234,
+     "votes_R": 4020,
+     "votes_other": 172
     },
     "provisional": {
      "votes_D": 76,
@@ -1204,7 +1204,7 @@
   },
   "district_31": {
    "name": "District 31",
-   "raw_name": "DISTRICT 31",
+   "raw_name": "District 31",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3240,
@@ -1214,20 +1214,20 @@
    "pct_D": 46.3,
    "pct_R": 49.6,
    "modes": {
-    "election_day": {
-     "votes_D": 1577,
-     "votes_R": 1839,
-     "votes_other": 170
+    "mail": {
+     "votes_D": 574,
+     "votes_R": 534,
+     "votes_other": 43
     },
     "early_in_person": {
      "votes_D": 964,
      "votes_R": 915,
      "votes_other": 64
     },
-    "mail": {
-     "votes_D": 574,
-     "votes_R": 534,
-     "votes_other": 43
+    "election_day": {
+     "votes_D": 1577,
+     "votes_R": 1839,
+     "votes_other": 170
     },
     "provisional": {
      "votes_D": 125,
@@ -1243,7 +1243,7 @@
   },
   "district_32": {
    "name": "District 32",
-   "raw_name": "DISTRICT 32",
+   "raw_name": "District 32",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1883,
@@ -1253,20 +1253,20 @@
    "pct_D": 32.1,
    "pct_R": 63.8,
    "modes": {
-    "election_day": {
-     "votes_D": 918,
-     "votes_R": 1868,
-     "votes_other": 146
+    "mail": {
+     "votes_D": 415,
+     "votes_R": 557,
+     "votes_other": 35
     },
     "early_in_person": {
      "votes_D": 395,
      "votes_R": 663,
      "votes_other": 30
     },
-    "mail": {
-     "votes_D": 415,
-     "votes_R": 557,
-     "votes_other": 35
+    "election_day": {
+     "votes_D": 918,
+     "votes_R": 1868,
+     "votes_other": 146
     },
     "provisional": {
      "votes_D": 155,
@@ -1282,7 +1282,7 @@
   },
   "district_33": {
    "name": "District 33",
-   "raw_name": "DISTRICT 33",
+   "raw_name": "District 33",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2016,
@@ -1292,20 +1292,20 @@
    "pct_D": 22.8,
    "pct_R": 73.9,
    "modes": {
-    "election_day": {
-     "votes_D": 1053,
-     "votes_R": 4374,
-     "votes_other": 182
+    "mail": {
+     "votes_D": 472,
+     "votes_R": 738,
+     "votes_other": 51
     },
     "early_in_person": {
      "votes_D": 430,
      "votes_R": 1210,
      "votes_other": 47
     },
-    "mail": {
-     "votes_D": 472,
-     "votes_R": 738,
-     "votes_other": 51
+    "election_day": {
+     "votes_D": 1053,
+     "votes_R": 4374,
+     "votes_other": 182
     },
     "provisional": {
      "votes_D": 61,
@@ -1321,7 +1321,7 @@
   },
   "district_34": {
    "name": "District 34",
-   "raw_name": "DISTRICT 34",
+   "raw_name": "District 34",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3759,
@@ -1331,20 +1331,20 @@
    "pct_D": 37.5,
    "pct_R": 58.3,
    "modes": {
-    "election_day": {
-     "votes_D": 1738,
-     "votes_R": 3262,
-     "votes_other": 252
+    "mail": {
+     "votes_D": 748,
+     "votes_R": 734,
+     "votes_other": 67
     },
     "early_in_person": {
      "votes_D": 1099,
      "votes_R": 1360,
      "votes_other": 73
     },
-    "mail": {
-     "votes_D": 748,
-     "votes_R": 734,
-     "votes_other": 67
+    "election_day": {
+     "votes_D": 1738,
+     "votes_R": 3262,
+     "votes_other": 252
     },
     "provisional": {
      "votes_D": 174,
@@ -1360,7 +1360,7 @@
   },
   "district_35": {
    "name": "District 35",
-   "raw_name": "DISTRICT 35",
+   "raw_name": "District 35",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4885,
@@ -1370,20 +1370,20 @@
    "pct_D": 50.2,
    "pct_R": 45.2,
    "modes": {
-    "election_day": {
-     "votes_D": 2475,
-     "votes_R": 2609,
-     "votes_other": 253
+    "mail": {
+     "votes_D": 813,
+     "votes_R": 527,
+     "votes_other": 72
     },
     "early_in_person": {
      "votes_D": 1482,
      "votes_R": 1069,
      "votes_other": 107
     },
-    "mail": {
-     "votes_D": 813,
-     "votes_R": 527,
-     "votes_other": 72
+    "election_day": {
+     "votes_D": 2475,
+     "votes_R": 2609,
+     "votes_other": 253
     },
     "provisional": {
      "votes_D": 115,
@@ -1399,7 +1399,7 @@
   },
   "district_36": {
    "name": "District 36",
-   "raw_name": "DISTRICT 36",
+   "raw_name": "District 36",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3538,
@@ -1409,20 +1409,20 @@
    "pct_D": 36.9,
    "pct_R": 58.7,
    "modes": {
-    "election_day": {
-     "votes_D": 2129,
-     "votes_R": 3733,
-     "votes_other": 286
+    "mail": {
+     "votes_D": 872,
+     "votes_R": 1391,
+     "votes_other": 88
     },
     "early_in_person": {
      "votes_D": 431,
      "votes_R": 254,
      "votes_other": 38
     },
-    "mail": {
-     "votes_D": 872,
-     "votes_R": 1391,
-     "votes_other": 88
+    "election_day": {
+     "votes_D": 2129,
+     "votes_R": 3733,
+     "votes_other": 286
     },
     "provisional": {
      "votes_D": 106,
@@ -1438,7 +1438,7 @@
   },
   "district_37": {
    "name": "District 37",
-   "raw_name": "DISTRICT 37",
+   "raw_name": "District 37",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1921,
@@ -1448,20 +1448,20 @@
    "pct_D": 44.2,
    "pct_R": 50.8,
    "modes": {
-    "election_day": {
-     "votes_D": 1262,
-     "votes_R": 1495,
-     "votes_other": 171
+    "mail": {
+     "votes_D": 560,
+     "votes_R": 539,
+     "votes_other": 40
     },
     "early_in_person": {
      "votes_D": 48,
      "votes_R": 48,
      "votes_other": 5
     },
-    "mail": {
-     "votes_D": 560,
-     "votes_R": 539,
-     "votes_other": 40
+    "election_day": {
+     "votes_D": 1262,
+     "votes_R": 1495,
+     "votes_other": 171
     },
     "provisional": {
      "votes_D": 51,
@@ -1477,7 +1477,7 @@
   },
   "district_38": {
    "name": "District 38",
-   "raw_name": "DISTRICT 38",
+   "raw_name": "District 38",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2028,
@@ -1487,20 +1487,20 @@
    "pct_D": 50.8,
    "pct_R": 39.0,
    "modes": {
-    "election_day": {
-     "votes_D": 1584,
-     "votes_R": 1227,
-     "votes_other": 362
+    "mail": {
+     "votes_D": 331,
+     "votes_R": 168,
+     "votes_other": 30
     },
     "early_in_person": {
      "votes_D": 19,
      "votes_R": 10,
      "votes_other": 1
     },
-    "mail": {
-     "votes_D": 331,
-     "votes_R": 168,
-     "votes_other": 30
+    "election_day": {
+     "votes_D": 1584,
+     "votes_R": 1227,
+     "votes_other": 362
     },
     "provisional": {
      "votes_D": 94,
@@ -1516,7 +1516,7 @@
   },
   "district_39": {
    "name": "District 39",
-   "raw_name": "DISTRICT 39",
+   "raw_name": "District 39",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2180,
@@ -1526,20 +1526,20 @@
    "pct_D": 51.8,
    "pct_R": 40.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1715,
-     "votes_R": 1306,
-     "votes_other": 294
+    "mail": {
+     "votes_D": 275,
+     "votes_R": 204,
+     "votes_other": 24
     },
     "early_in_person": {
      "votes_D": 135,
      "votes_R": 76,
      "votes_other": 9
     },
-    "mail": {
-     "votes_D": 275,
-     "votes_R": 204,
-     "votes_other": 24
+    "election_day": {
+     "votes_D": 1715,
+     "votes_R": 1306,
+     "votes_other": 294
     },
     "provisional": {
      "votes_D": 55,
@@ -1555,7 +1555,7 @@
   },
   "district_40": {
    "name": "District 40",
-   "raw_name": "DISTRICT 40",
+   "raw_name": "District 40",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1362,
@@ -1565,20 +1565,20 @@
    "pct_D": 41.4,
    "pct_R": 51.3,
    "modes": {
-    "election_day": {
-     "votes_D": 1030,
-     "votes_R": 1329,
-     "votes_other": 199
+    "mail": {
+     "votes_D": 228,
+     "votes_R": 190,
+     "votes_other": 25
     },
     "early_in_person": {
      "votes_D": 24,
      "votes_R": 17,
      "votes_other": 3
     },
-    "mail": {
-     "votes_D": 228,
-     "votes_R": 190,
-     "votes_other": 25
+    "election_day": {
+     "votes_D": 1030,
+     "votes_R": 1329,
+     "votes_other": 199
     },
     "provisional": {
      "votes_D": 80,
@@ -1594,7 +1594,7 @@
   },
   "hd99_fed_overseas_absentee": {
    "name": "HD99 FED OVERSEAS ABSENTEE",
-   "raw_name": "HD99 FED OVERSEAS ABSENTEE",
+   "raw_name": "District 99 (Federal Overseas)",
    "fips": null,
    "is_mappable": false,
    "votes_D": 336,

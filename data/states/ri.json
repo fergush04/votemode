@@ -33,7 +33,7 @@
  "units": {
   "barrington": {
    "name": "BARRINGTON",
-   "raw_name": "BARRINGTON",
+   "raw_name": "Barrington",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7389,
@@ -67,7 +67,7 @@
   },
   "bristol": {
    "name": "BRISTOL",
-   "raw_name": "BRISTOL",
+   "raw_name": "Bristol",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6590,
@@ -101,7 +101,7 @@
   },
   "burrillville": {
    "name": "BURRILLVILLE",
-   "raw_name": "BURRILLVILLE",
+   "raw_name": "Burrillville",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3158,
@@ -135,7 +135,7 @@
   },
   "central_falls": {
    "name": "CENTRAL FALLS",
-   "raw_name": "CENTRAL FALLS",
+   "raw_name": "Central Falls",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2335,
@@ -169,7 +169,7 @@
   },
   "charlestown": {
    "name": "CHARLESTOWN",
-   "raw_name": "CHARLESTOWN",
+   "raw_name": "Charlestown",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2867,
@@ -203,7 +203,7 @@
   },
   "coventry": {
    "name": "COVENTRY",
-   "raw_name": "COVENTRY",
+   "raw_name": "Coventry",
    "fips": null,
    "is_mappable": true,
    "votes_D": 8624,
@@ -237,7 +237,7 @@
   },
   "cranston": {
    "name": "CRANSTON",
-   "raw_name": "CRANSTON",
+   "raw_name": "Cranston",
    "fips": null,
    "is_mappable": true,
    "votes_D": 21168,
@@ -271,7 +271,7 @@
   },
   "cumberland": {
    "name": "CUMBERLAND",
-   "raw_name": "CUMBERLAND",
+   "raw_name": "Cumberland",
    "fips": null,
    "is_mappable": true,
    "votes_D": 10101,
@@ -305,7 +305,7 @@
   },
   "east_greenwich": {
    "name": "EAST GREENWICH",
-   "raw_name": "EAST GREENWICH",
+   "raw_name": "East Greenwich",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5089,
@@ -339,7 +339,7 @@
   },
   "east_providence": {
    "name": "EAST PROVIDENCE",
-   "raw_name": "EAST PROVIDENCE",
+   "raw_name": "East Providence",
    "fips": null,
    "is_mappable": true,
    "votes_D": 13750,
@@ -373,7 +373,7 @@
   },
   "exeter": {
    "name": "EXETER",
-   "raw_name": "EXETER",
+   "raw_name": "Exeter",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1870,
@@ -407,7 +407,7 @@
   },
   "federal": {
    "name": "FEDERAL",
-   "raw_name": "FEDERAL",
+   "raw_name": "Federal",
    "fips": null,
    "is_mappable": false,
    "votes_D": 1406,
@@ -431,7 +431,7 @@
   },
   "foster": {
    "name": "FOSTER",
-   "raw_name": "FOSTER",
+   "raw_name": "Foster",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1113,
@@ -465,7 +465,7 @@
   },
   "glocester": {
    "name": "GLOCESTER",
-   "raw_name": "GLOCESTER",
+   "raw_name": "Glocester",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2470,
@@ -499,7 +499,7 @@
   },
   "hopkinton": {
    "name": "HOPKINTON",
-   "raw_name": "HOPKINTON",
+   "raw_name": "Hopkinton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2262,
@@ -533,7 +533,7 @@
   },
   "jamestown": {
    "name": "JAMESTOWN",
-   "raw_name": "JAMESTOWN",
+   "raw_name": "Jamestown",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2657,
@@ -567,7 +567,7 @@
   },
   "johnston": {
    "name": "JOHNSTON",
-   "raw_name": "JOHNSTON",
+   "raw_name": "Johnston",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6205,
@@ -601,7 +601,7 @@
   },
   "lincoln": {
    "name": "LINCOLN",
-   "raw_name": "LINCOLN",
+   "raw_name": "Lincoln",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6268,
@@ -635,7 +635,7 @@
   },
   "little_compton": {
    "name": "LITTLE COMPTON",
-   "raw_name": "LITTLE COMPTON",
+   "raw_name": "Little Compton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1518,
@@ -669,7 +669,7 @@
   },
   "middletown": {
    "name": "MIDDLETOWN",
-   "raw_name": "MIDDLETOWN",
+   "raw_name": "Middletown",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4968,
@@ -703,7 +703,7 @@
   },
   "narragansett": {
    "name": "NARRAGANSETT",
-   "raw_name": "NARRAGANSETT",
+   "raw_name": "Narragansett",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5051,
@@ -737,7 +737,7 @@
   },
   "new_shoreham": {
    "name": "NEW SHOREHAM",
-   "raw_name": "NEW SHOREHAM",
+   "raw_name": "New Shoreham",
    "fips": null,
    "is_mappable": true,
    "votes_D": 661,
@@ -771,7 +771,7 @@
   },
   "newport": {
    "name": "NEWPORT",
-   "raw_name": "NEWPORT",
+   "raw_name": "Newport",
    "fips": null,
    "is_mappable": true,
    "votes_D": 7102,
@@ -805,7 +805,7 @@
   },
   "north_kingstown": {
    "name": "NORTH KINGSTOWN",
-   "raw_name": "NORTH KINGSTOWN",
+   "raw_name": "North Kingstown",
    "fips": null,
    "is_mappable": true,
    "votes_D": 10145,
@@ -839,7 +839,7 @@
   },
   "north_providence": {
    "name": "NORTH PROVIDENCE",
-   "raw_name": "NORTH PROVIDENCE",
+   "raw_name": "North Providence",
    "fips": null,
    "is_mappable": true,
    "votes_D": 8550,
@@ -873,7 +873,7 @@
   },
   "north_smithfield": {
    "name": "NORTH SMITHFIELD",
-   "raw_name": "NORTH SMITHFIELD",
+   "raw_name": "North Smithfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3343,
@@ -907,7 +907,7 @@
   },
   "pawtucket": {
    "name": "PAWTUCKET",
-   "raw_name": "PAWTUCKET",
+   "raw_name": "Pawtucket",
    "fips": null,
    "is_mappable": true,
    "votes_D": 15934,
@@ -941,7 +941,7 @@
   },
   "portsmouth": {
    "name": "PORTSMOUTH",
-   "raw_name": "PORTSMOUTH",
+   "raw_name": "Portsmouth",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6347,
@@ -975,7 +975,7 @@
   },
   "providence": {
    "name": "PROVIDENCE",
-   "raw_name": "PROVIDENCE",
+   "raw_name": "Providence",
    "fips": null,
    "is_mappable": true,
    "votes_D": 41481,
@@ -1009,7 +1009,7 @@
   },
   "richmond": {
    "name": "RICHMOND",
-   "raw_name": "RICHMOND",
+   "raw_name": "Richmond",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2331,
@@ -1043,7 +1043,7 @@
   },
   "scituate": {
    "name": "SCITUATE",
-   "raw_name": "SCITUATE",
+   "raw_name": "Scituate",
    "fips": null,
    "is_mappable": true,
    "votes_D": 2538,
@@ -1077,7 +1077,7 @@
   },
   "smithfield": {
    "name": "SMITHFIELD",
-   "raw_name": "SMITHFIELD",
+   "raw_name": "Smithfield",
    "fips": null,
    "is_mappable": true,
    "votes_D": 5254,
@@ -1111,7 +1111,7 @@
   },
   "south_kingstown": {
    "name": "SOUTH KINGSTOWN",
-   "raw_name": "SOUTH KINGSTOWN",
+   "raw_name": "South Kingstown",
    "fips": null,
    "is_mappable": true,
    "votes_D": 10749,
@@ -1145,7 +1145,7 @@
   },
   "tiverton": {
    "name": "TIVERTON",
-   "raw_name": "TIVERTON",
+   "raw_name": "Tiverton",
    "fips": null,
    "is_mappable": true,
    "votes_D": 4740,
@@ -1179,7 +1179,7 @@
   },
   "warren": {
    "name": "WARREN",
-   "raw_name": "WARREN",
+   "raw_name": "Warren",
    "fips": null,
    "is_mappable": true,
    "votes_D": 3479,
@@ -1213,7 +1213,7 @@
   },
   "warwick": {
    "name": "WARWICK",
-   "raw_name": "WARWICK",
+   "raw_name": "Warwick",
    "fips": null,
    "is_mappable": true,
    "votes_D": 24186,
@@ -1247,7 +1247,7 @@
   },
   "west_greenwich": {
    "name": "WEST GREENWICH",
-   "raw_name": "WEST GREENWICH",
+   "raw_name": "West Greenwich",
    "fips": null,
    "is_mappable": true,
    "votes_D": 1573,
@@ -1281,7 +1281,7 @@
   },
   "west_warwick": {
    "name": "WEST WARWICK",
-   "raw_name": "WEST WARWICK",
+   "raw_name": "West Warwick",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6797,
@@ -1315,7 +1315,7 @@
   },
   "westerly": {
    "name": "WESTERLY",
-   "raw_name": "WESTERLY",
+   "raw_name": "Westerly",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6653,
@@ -1349,7 +1349,7 @@
   },
   "woonsocket": {
    "name": "WOONSOCKET",
-   "raw_name": "WOONSOCKET",
+   "raw_name": "Woonsocket",
    "fips": null,
    "is_mappable": true,
    "votes_D": 6434,

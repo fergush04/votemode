@@ -4,13 +4,14 @@
  "unit_type": "county",
  "avg_completeness": "U",
  "completeness_breakdown": {
-  "U": 55,
+  "U": 54,
+  "C3": 1,
   "C2": 1
  },
- "votes_D": 231853,
- "votes_R": 351983,
- "votes_other": 18992,
- "total_votes": 602828,
+ "votes_D": 231903,
+ "votes_R": 352061,
+ "votes_other": 19005,
+ "total_votes": 602969,
  "pct_D": 38.5,
  "pct_R": 58.4,
  "unit_count": 56,
@@ -24,15 +25,16 @@
    "Totals only"
   ],
   "mode_split": {
-   "total": 99.0,
-   "pre_election_day": 0.7,
-   "election_day": 0.3
+   "total": 97.1,
+   "mail": 2.2,
+   "election_day": 0.7,
+   "provisional": 0.0
   }
  },
  "units": {
   "30001": {
    "name": "Beaverhead",
-   "raw_name": "BEAVERHEAD",
+   "raw_name": "Beaverhead",
    "fips": "30001",
    "is_mappable": true,
    "votes_D": 1543,
@@ -48,7 +50,7 @@
      "votes_other": 193
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -56,7 +58,7 @@
   },
   "30003": {
    "name": "Big Horn",
-   "raw_name": "BIG HORN",
+   "raw_name": "Big Horn",
    "fips": "30003",
    "is_mappable": true,
    "votes_D": 2112,
@@ -72,7 +74,7 @@
      "votes_other": 170
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -80,7 +82,7 @@
   },
   "30005": {
    "name": "Blaine",
-   "raw_name": "BLAINE",
+   "raw_name": "Blaine",
    "fips": "30005",
    "is_mappable": true,
    "votes_D": 1348,
@@ -96,7 +98,7 @@
      "votes_other": 145
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -104,7 +106,7 @@
   },
   "30007": {
    "name": "Broadwater",
-   "raw_name": "BROADWATER",
+   "raw_name": "Broadwater",
    "fips": "30007",
    "is_mappable": true,
    "votes_D": 885,
@@ -120,7 +122,7 @@
      "votes_other": 155
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -128,7 +130,7 @@
   },
   "30009": {
    "name": "Carbon",
-   "raw_name": "CARBON",
+   "raw_name": "Carbon",
    "fips": "30009",
    "is_mappable": true,
    "votes_D": 2353,
@@ -144,7 +146,7 @@
      "votes_other": 225
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -152,7 +154,7 @@
   },
   "30011": {
    "name": "Carter",
-   "raw_name": "CARTER",
+   "raw_name": "Carter",
    "fips": "30011",
    "is_mappable": true,
    "votes_D": 75,
@@ -168,7 +170,7 @@
      "votes_other": 19
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -176,23 +178,23 @@
   },
   "30013": {
    "name": "Cascade",
-   "raw_name": "CASCADE",
+   "raw_name": "Cascade",
    "fips": "30013",
    "is_mappable": true,
-   "votes_D": 13971,
-   "votes_R": 22341,
-   "votes_other": 1140,
-   "total_votes": 37452,
+   "votes_D": 14021,
+   "votes_R": 22419,
+   "votes_other": 1143,
+   "total_votes": 37583,
    "pct_D": 37.3,
    "pct_R": 59.7,
    "modes": {
     "total": {
-     "votes_D": 13971,
-     "votes_R": 22341,
-     "votes_other": 1140
+     "votes_D": 14021,
+     "votes_R": 22419,
+     "votes_other": 1143
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -200,7 +202,7 @@
   },
   "30015": {
    "name": "Chouteau",
-   "raw_name": "CHOUTEAU",
+   "raw_name": "Chouteau",
    "fips": "30015",
    "is_mappable": true,
    "votes_D": 940,
@@ -216,7 +218,7 @@
      "votes_other": 109
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -224,23 +226,23 @@
   },
   "30017": {
    "name": "Custer",
-   "raw_name": "CUSTER",
+   "raw_name": "Custer",
    "fips": "30017",
    "is_mappable": true,
    "votes_D": 1385,
    "votes_R": 4208,
-   "votes_other": 204,
-   "total_votes": 5797,
+   "votes_other": 214,
+   "total_votes": 5807,
    "pct_D": 23.9,
-   "pct_R": 72.6,
+   "pct_R": 72.5,
    "modes": {
     "total": {
      "votes_D": 1385,
      "votes_R": 4208,
-     "votes_other": 204
+     "votes_other": 214
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -248,7 +250,7 @@
   },
   "30019": {
    "name": "Daniels",
-   "raw_name": "DANIELS",
+   "raw_name": "Daniels",
    "fips": "30019",
    "is_mappable": true,
    "votes_D": 154,
@@ -264,7 +266,7 @@
      "votes_other": 19
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -272,7 +274,7 @@
   },
   "30021": {
    "name": "Dawson",
-   "raw_name": "DAWSON",
+   "raw_name": "Dawson",
    "fips": "30021",
    "is_mappable": true,
    "votes_D": 894,
@@ -288,7 +290,7 @@
      "votes_other": 117
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -296,7 +298,7 @@
   },
   "30023": {
    "name": "Deer Lodge",
-   "raw_name": "DEER LODGE",
+   "raw_name": "Deer Lodge",
    "fips": "30023",
    "is_mappable": true,
    "votes_D": 2376,
@@ -312,7 +314,7 @@
      "votes_other": 165
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -320,7 +322,7 @@
   },
   "30025": {
    "name": "Fallon",
-   "raw_name": "FALLON",
+   "raw_name": "Fallon",
    "fips": "30025",
    "is_mappable": true,
    "votes_D": 163,
@@ -336,7 +338,7 @@
      "votes_other": 41
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -344,7 +346,7 @@
   },
   "30027": {
    "name": "Fergus",
-   "raw_name": "FERGUS",
+   "raw_name": "Fergus",
    "fips": "30027",
    "is_mappable": true,
    "votes_D": 1522,
@@ -360,7 +362,7 @@
      "votes_other": 225
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -368,23 +370,23 @@
   },
   "30029": {
    "name": "Flathead",
-   "raw_name": "FLATHEAD",
+   "raw_name": "Flathead",
    "fips": "30029",
    "is_mappable": true,
    "votes_D": 20062,
    "votes_R": 41390,
-   "votes_other": 1688,
-   "total_votes": 63140,
+   "votes_other": 1689,
+   "total_votes": 63141,
    "pct_D": 31.8,
    "pct_R": 65.6,
    "modes": {
     "total": {
      "votes_D": 20062,
      "votes_R": 41390,
-     "votes_other": 1688
+     "votes_other": 1689
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -392,23 +394,23 @@
   },
   "30031": {
    "name": "Gallatin",
-   "raw_name": "GALLATIN",
+   "raw_name": "Gallatin",
    "fips": "30031",
    "is_mappable": true,
    "votes_D": 34938,
    "votes_R": 32695,
-   "votes_other": 2264,
-   "total_votes": 69897,
+   "votes_other": 2267,
+   "total_votes": 69900,
    "pct_D": 50.0,
    "pct_R": 46.8,
    "modes": {
     "total": {
      "votes_D": 34938,
      "votes_R": 32695,
-     "votes_other": 2264
+     "votes_other": 2267
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -416,7 +418,7 @@
   },
   "30033": {
    "name": "Garfield",
-   "raw_name": "GARFIELD",
+   "raw_name": "Garfield",
    "fips": "30033",
    "is_mappable": true,
    "votes_D": 39,
@@ -432,7 +434,7 @@
      "votes_other": 5
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -440,7 +442,7 @@
   },
   "30035": {
    "name": "Glacier",
-   "raw_name": "GLACIER",
+   "raw_name": "Glacier",
    "fips": "30035",
    "is_mappable": true,
    "votes_D": 2933,
@@ -456,7 +458,7 @@
      "votes_other": 206
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -464,7 +466,7 @@
   },
   "30037": {
    "name": "Golden Valley",
-   "raw_name": "GOLDEN VALLEY",
+   "raw_name": "Golden Valley",
    "fips": "30037",
    "is_mappable": true,
    "votes_D": 67,
@@ -480,7 +482,7 @@
      "votes_other": 8
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -488,7 +490,7 @@
   },
   "30039": {
    "name": "Granite",
-   "raw_name": "GRANITE",
+   "raw_name": "Granite",
    "fips": "30039",
    "is_mappable": true,
    "votes_D": 579,
@@ -504,7 +506,7 @@
      "votes_other": 60
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -512,7 +514,7 @@
   },
   "30041": {
    "name": "Hill",
-   "raw_name": "HILL",
+   "raw_name": "Hill",
    "fips": "30041",
    "is_mappable": true,
    "votes_D": 2634,
@@ -528,7 +530,7 @@
      "votes_other": 299
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -536,23 +538,23 @@
   },
   "30043": {
    "name": "Jefferson",
-   "raw_name": "JEFFERSON",
+   "raw_name": "Jefferson",
    "fips": "30043",
    "is_mappable": true,
    "votes_D": 2516,
    "votes_R": 5544,
-   "votes_other": 231,
-   "total_votes": 8291,
+   "votes_other": 233,
+   "total_votes": 8293,
    "pct_D": 30.3,
    "pct_R": 66.9,
    "modes": {
     "total": {
      "votes_D": 2516,
      "votes_R": 5544,
-     "votes_other": 231
+     "votes_other": 233
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -560,7 +562,7 @@
   },
   "30045": {
    "name": "Judith Basin",
-   "raw_name": "JUDITH BASIN",
+   "raw_name": "Judith Basin",
    "fips": "30045",
    "is_mappable": true,
    "votes_D": 265,
@@ -576,7 +578,7 @@
      "votes_other": 37
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -584,23 +586,23 @@
   },
   "30047": {
    "name": "Lake",
-   "raw_name": "LAKE",
+   "raw_name": "Lake",
    "fips": "30047",
    "is_mappable": true,
    "votes_D": 6510,
    "votes_R": 9880,
-   "votes_other": 520,
-   "total_votes": 16910,
+   "votes_other": 521,
+   "total_votes": 16911,
    "pct_D": 38.5,
    "pct_R": 58.4,
    "modes": {
     "total": {
      "votes_D": 6510,
      "votes_R": 9880,
-     "votes_other": 520
+     "votes_other": 521
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -608,23 +610,23 @@
   },
   "30049": {
    "name": "Lewis and Clark",
-   "raw_name": "LEWIS AND CLARK",
+   "raw_name": "Lewis and Clark",
    "fips": "30049",
    "is_mappable": true,
    "votes_D": 19085,
    "votes_R": 21479,
-   "votes_other": 1459,
-   "total_votes": 42023,
+   "votes_other": 1461,
+   "total_votes": 42025,
    "pct_D": 45.4,
    "pct_R": 51.1,
    "modes": {
     "total": {
      "votes_D": 19085,
      "votes_R": 21479,
-     "votes_other": 1459
+     "votes_other": 1461
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -632,7 +634,7 @@
   },
   "30051": {
    "name": "Liberty",
-   "raw_name": "LIBERTY",
+   "raw_name": "Liberty",
    "fips": "30051",
    "is_mappable": true,
    "votes_D": 214,
@@ -648,7 +650,7 @@
      "votes_other": 22
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -656,7 +658,7 @@
   },
   "30053": {
    "name": "Lincoln",
-   "raw_name": "LINCOLN",
+   "raw_name": "Lincoln",
    "fips": "30053",
    "is_mappable": true,
    "votes_D": 2615,
@@ -672,7 +674,7 @@
      "votes_other": 265
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -680,23 +682,23 @@
   },
   "30057": {
    "name": "Madison",
-   "raw_name": "MADISON",
+   "raw_name": "Madison",
    "fips": "30057",
    "is_mappable": true,
    "votes_D": 1689,
    "votes_R": 4615,
-   "votes_other": 157,
-   "total_votes": 6461,
+   "votes_other": 158,
+   "total_votes": 6462,
    "pct_D": 26.1,
    "pct_R": 71.4,
    "modes": {
     "total": {
      "votes_D": 1689,
      "votes_R": 4615,
-     "votes_other": 157
+     "votes_other": 158
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -704,7 +706,7 @@
   },
   "30055": {
    "name": "McCone",
-   "raw_name": "MCCONE",
+   "raw_name": "McCone",
    "fips": "30055",
    "is_mappable": true,
    "votes_D": 129,
@@ -720,7 +722,7 @@
      "votes_other": 22
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -728,7 +730,7 @@
   },
   "30059": {
    "name": "Meagher",
-   "raw_name": "MEAGHER",
+   "raw_name": "Meagher",
    "fips": "30059",
    "is_mappable": true,
    "votes_D": 256,
@@ -744,7 +746,7 @@
      "votes_other": 28
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -752,7 +754,7 @@
   },
   "30061": {
    "name": "Mineral",
-   "raw_name": "MINERAL",
+   "raw_name": "Mineral",
    "fips": "30061",
    "is_mappable": true,
    "votes_D": 689,
@@ -768,7 +770,7 @@
      "votes_other": 95
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -776,7 +778,7 @@
   },
   "30063": {
    "name": "Missoula",
-   "raw_name": "MISSOULA",
+   "raw_name": "Missoula",
    "fips": "30063",
    "is_mappable": true,
    "votes_D": 42903,
@@ -792,7 +794,7 @@
      "votes_other": 2564
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -800,7 +802,7 @@
   },
   "30065": {
    "name": "Musselshell",
-   "raw_name": "MUSSELSHELL",
+   "raw_name": "Musselshell",
    "fips": "30065",
    "is_mappable": true,
    "votes_D": 396,
@@ -816,7 +818,7 @@
      "votes_other": 66
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -824,7 +826,7 @@
   },
   "30067": {
    "name": "Park",
-   "raw_name": "PARK",
+   "raw_name": "Park",
    "fips": "30067",
    "is_mappable": true,
    "votes_D": 5224,
@@ -834,21 +836,31 @@
    "pct_D": 44.6,
    "pct_R": 52.3,
    "modes": {
-    "total": {
-     "votes_D": 5224,
-     "votes_R": 6128,
-     "votes_other": 365
+    "mail": {
+     "votes_D": 4354,
+     "votes_R": 4321,
+     "votes_other": 280
+    },
+    "election_day": {
+     "votes_D": 783,
+     "votes_R": 1670,
+     "votes_other": 71
+    },
+    "provisional": {
+     "votes_D": 87,
+     "votes_R": 137,
+     "votes_other": 14
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Park County, MT",
    "official_results": true,
    "pct_off_official": 0.0,
-   "completeness": "U",
+   "completeness": "C3",
    "notes": ""
   },
   "30069": {
    "name": "Petroleum",
-   "raw_name": "PETROLEUM",
+   "raw_name": "Petroleum",
    "fips": "30069",
    "is_mappable": true,
    "votes_D": 37,
@@ -864,7 +876,7 @@
      "votes_other": 3
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -872,7 +884,7 @@
   },
   "30071": {
    "name": "Phillips",
-   "raw_name": "PHILLIPS",
+   "raw_name": "Phillips",
    "fips": "30071",
    "is_mappable": true,
    "votes_D": 385,
@@ -888,7 +900,7 @@
      "votes_other": 51
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -896,7 +908,7 @@
   },
   "30073": {
    "name": "Pondera",
-   "raw_name": "PONDERA",
+   "raw_name": "Pondera",
    "fips": "30073",
    "is_mappable": true,
    "votes_D": 782,
@@ -912,7 +924,7 @@
      "votes_other": 98
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -920,7 +932,7 @@
   },
   "30075": {
    "name": "Powder River",
-   "raw_name": "POWDER RIVER",
+   "raw_name": "Powder River",
    "fips": "30075",
    "is_mappable": true,
    "votes_D": 131,
@@ -936,7 +948,7 @@
      "votes_other": 12
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -944,7 +956,7 @@
   },
   "30077": {
    "name": "Powell",
-   "raw_name": "POWELL",
+   "raw_name": "Powell",
    "fips": "30077",
    "is_mappable": true,
    "votes_D": 710,
@@ -960,7 +972,7 @@
      "votes_other": 106
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -968,23 +980,23 @@
   },
   "30079": {
    "name": "Prairie",
-   "raw_name": "PRAIRIE",
+   "raw_name": "Prairie",
    "fips": "30079",
    "is_mappable": true,
    "votes_D": 122,
    "votes_R": 546,
-   "votes_other": 20,
-   "total_votes": 688,
+   "votes_other": 21,
+   "total_votes": 689,
    "pct_D": 17.7,
-   "pct_R": 79.4,
+   "pct_R": 79.2,
    "modes": {
     "total": {
      "votes_D": 122,
      "votes_R": 546,
-     "votes_other": 20
+     "votes_other": 21
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -992,23 +1004,23 @@
   },
   "30081": {
    "name": "Ravalli",
-   "raw_name": "RAVALLI",
+   "raw_name": "Ravalli",
    "fips": "30081",
    "is_mappable": true,
    "votes_D": 8485,
    "votes_R": 20617,
-   "votes_other": 802,
-   "total_votes": 29904,
+   "votes_other": 803,
+   "total_votes": 29905,
    "pct_D": 28.4,
    "pct_R": 68.9,
    "modes": {
     "total": {
      "votes_D": 8485,
      "votes_R": 20617,
-     "votes_other": 802
+     "votes_other": 803
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1016,7 +1028,7 @@
   },
   "30083": {
    "name": "Richland",
-   "raw_name": "RICHLAND",
+   "raw_name": "Richland",
    "fips": "30083",
    "is_mappable": true,
    "votes_D": 778,
@@ -1032,7 +1044,7 @@
      "votes_other": 144
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1040,7 +1052,7 @@
   },
   "30085": {
    "name": "Roosevelt",
-   "raw_name": "ROOSEVELT",
+   "raw_name": "Roosevelt",
    "fips": "30085",
    "is_mappable": true,
    "votes_D": 1680,
@@ -1056,7 +1068,7 @@
      "votes_other": 179
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1064,7 +1076,7 @@
   },
   "30087": {
    "name": "Rosebud",
-   "raw_name": "ROSEBUD",
+   "raw_name": "Rosebud",
    "fips": "30087",
    "is_mappable": true,
    "votes_D": 1095,
@@ -1080,7 +1092,7 @@
      "votes_other": 132
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1088,23 +1100,23 @@
   },
   "30089": {
    "name": "Sanders",
-   "raw_name": "SANDERS",
+   "raw_name": "Sanders",
    "fips": "30089",
    "is_mappable": true,
    "votes_D": 1705,
    "votes_R": 6150,
-   "votes_other": 214,
-   "total_votes": 8069,
+   "votes_other": 217,
+   "total_votes": 8072,
    "pct_D": 21.1,
    "pct_R": 76.2,
    "modes": {
     "total": {
      "votes_D": 1705,
      "votes_R": 6150,
-     "votes_other": 214
+     "votes_other": 217
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1112,7 +1124,7 @@
   },
   "30091": {
    "name": "Sheridan",
-   "raw_name": "SHERIDAN",
+   "raw_name": "Sheridan",
    "fips": "30091",
    "is_mappable": true,
    "votes_D": 509,
@@ -1128,7 +1140,7 @@
      "votes_other": 82
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1136,7 +1148,7 @@
   },
   "30093": {
    "name": "Silver Bow",
-   "raw_name": "SILVER BOW",
+   "raw_name": "Silver Bow",
    "fips": "30093",
    "is_mappable": true,
    "votes_D": 9386,
@@ -1152,7 +1164,7 @@
      "votes_other": 730
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1160,28 +1172,28 @@
   },
   "30095": {
    "name": "Stillwater",
-   "raw_name": "STILLWATER",
+   "raw_name": "Stillwater",
    "fips": "30095",
    "is_mappable": true,
    "votes_D": 1053,
    "votes_R": 4681,
-   "votes_other": 168,
-   "total_votes": 5902,
-   "pct_D": 17.8,
-   "pct_R": 79.3,
+   "votes_other": 151,
+   "total_votes": 5885,
+   "pct_D": 17.9,
+   "pct_R": 79.5,
    "modes": {
+    "mail": {
+     "votes_D": 846,
+     "votes_R": 3135,
+     "votes_other": 113
+    },
     "election_day": {
      "votes_D": 207,
      "votes_R": 1546,
-     "votes_other": 40
-    },
-    "pre_election_day": {
-     "votes_D": 846,
-     "votes_R": 3135,
-     "votes_other": 128
+     "votes_other": 38
     }
    },
-   "data_source": "County-Web",
+   "data_source": "Stillwater County, MT",
    "official_results": false,
    "pct_off_official": 0.0007,
    "completeness": "C2",
@@ -1189,7 +1201,7 @@
   },
   "30097": {
    "name": "Sweet Grass",
-   "raw_name": "SWEET GRASS",
+   "raw_name": "Sweet Grass",
    "fips": "30097",
    "is_mappable": true,
    "votes_D": 525,
@@ -1205,7 +1217,7 @@
      "votes_other": 67
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1213,7 +1225,7 @@
   },
   "30099": {
    "name": "Teton",
-   "raw_name": "TETON",
+   "raw_name": "Teton",
    "fips": "30099",
    "is_mappable": true,
    "votes_D": 927,
@@ -1229,7 +1241,7 @@
      "votes_other": 108
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1237,7 +1249,7 @@
   },
   "30101": {
    "name": "Toole",
-   "raw_name": "TOOLE",
+   "raw_name": "Toole",
    "fips": "30101",
    "is_mappable": true,
    "votes_D": 415,
@@ -1253,7 +1265,7 @@
      "votes_other": 60
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1261,7 +1273,7 @@
   },
   "30103": {
    "name": "Treasure",
-   "raw_name": "TREASURE",
+   "raw_name": "Treasure",
    "fips": "30103",
    "is_mappable": true,
    "votes_D": 57,
@@ -1277,7 +1289,7 @@
      "votes_other": 18
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1285,7 +1297,7 @@
   },
   "30105": {
    "name": "Valley",
-   "raw_name": "VALLEY",
+   "raw_name": "Valley",
    "fips": "30105",
    "is_mappable": true,
    "votes_D": 935,
@@ -1301,7 +1313,7 @@
      "votes_other": 125
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1309,7 +1321,7 @@
   },
   "30107": {
    "name": "Wheatland",
-   "raw_name": "WHEATLAND",
+   "raw_name": "Wheatland",
    "fips": "30107",
    "is_mappable": true,
    "votes_D": 209,
@@ -1325,7 +1337,7 @@
      "votes_other": 34
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1333,7 +1345,7 @@
   },
   "30109": {
    "name": "Wibaux",
-   "raw_name": "WIBAUX",
+   "raw_name": "Wibaux",
    "fips": "30109",
    "is_mappable": true,
    "votes_D": 71,
@@ -1349,7 +1361,7 @@
      "votes_other": 12
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1357,23 +1369,23 @@
   },
   "30111": {
    "name": "Yellowstone",
-   "raw_name": "YELLOWSTONE",
+   "raw_name": "Yellowstone",
    "fips": "30111",
    "is_mappable": true,
    "votes_D": 28392,
    "votes_R": 50460,
-   "votes_other": 2539,
-   "total_votes": 81391,
+   "votes_other": 2541,
+   "total_votes": 81393,
    "pct_D": 34.9,
    "pct_R": 62.0,
    "modes": {
     "total": {
      "votes_D": 28392,
      "votes_R": 50460,
-     "votes_other": 2539
+     "votes_other": 2541
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "Wikipedia",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",

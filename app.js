@@ -40,6 +40,7 @@ const MODE_LABELS = {
   pre_election_day: 'Pre-election day',
   late_pre_election_day: 'Late pre-election day',
   late_mail: 'Late mail',
+  election_day_and_mail: 'Election day and mail',
   provisional: 'Provisional',
   overseas: 'Overseas',
   affidavit: 'Affidavit',

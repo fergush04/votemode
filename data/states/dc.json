@@ -27,7 +27,7 @@
  "units": {
   "ward_1": {
    "name": "Ward 1",
-   "raw_name": "WARD 1",
+   "raw_name": "Ward 1",
    "fips": null,
    "is_mappable": true,
    "votes_D": 36882,
@@ -43,7 +43,7 @@
      "votes_other": 1525
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "DC-BOE",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -51,7 +51,7 @@
   },
   "ward_2": {
    "name": "Ward 2",
-   "raw_name": "WARD 2",
+   "raw_name": "Ward 2",
    "fips": null,
    "is_mappable": true,
    "votes_D": 33571,
@@ -67,7 +67,7 @@
      "votes_other": 1406
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "DC-BOE",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -75,7 +75,7 @@
   },
   "ward_3": {
    "name": "Ward 3",
-   "raw_name": "WARD 3",
+   "raw_name": "Ward 3",
    "fips": null,
    "is_mappable": true,
    "votes_D": 39521,
@@ -91,7 +91,7 @@
      "votes_other": 1519
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "DC-BOE",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -99,7 +99,7 @@
   },
   "ward_4": {
    "name": "Ward 4",
-   "raw_name": "WARD 4",
+   "raw_name": "Ward 4",
    "fips": null,
    "is_mappable": true,
    "votes_D": 38628,
@@ -115,7 +115,7 @@
      "votes_other": 1264
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "DC-BOE",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -123,7 +123,7 @@
   },
   "ward_5": {
    "name": "Ward 5",
-   "raw_name": "WARD 5",
+   "raw_name": "Ward 5",
    "fips": null,
    "is_mappable": true,
    "votes_D": 41413,
@@ -139,7 +139,7 @@
      "votes_other": 1392
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "DC-BOE",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -147,7 +147,7 @@
   },
   "ward_6": {
    "name": "Ward 6",
-   "raw_name": "WARD 6",
+   "raw_name": "Ward 6",
    "fips": null,
    "is_mappable": true,
    "votes_D": 43262,
@@ -163,7 +163,7 @@
      "votes_other": 1778
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "DC-BOE",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -171,7 +171,7 @@
   },
   "ward_7": {
    "name": "Ward 7",
-   "raw_name": "WARD 7",
+   "raw_name": "Ward 7",
    "fips": null,
    "is_mappable": true,
    "votes_D": 33972,
@@ -187,7 +187,7 @@
      "votes_other": 973
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "DC-BOE",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -195,7 +195,7 @@
   },
   "ward_8": {
    "name": "Ward 8",
-   "raw_name": "WARD 8",
+   "raw_name": "Ward 8",
    "fips": null,
    "is_mappable": true,
    "votes_D": 26936,
@@ -211,7 +211,7 @@
      "votes_other": 751
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "DC-BOE",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",

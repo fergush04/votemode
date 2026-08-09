@@ -6,11 +6,11 @@
  "completeness_breakdown": {
   "U": 36
  },
- "votes_D": 1240316,
- "votes_R": 919841,
- "votes_other": 84894,
- "total_votes": 2245051,
- "pct_D": 55.2,
+ "votes_D": 1240600,
+ "votes_R": 919480,
+ "votes_other": 84413,
+ "total_votes": 2244493,
+ "pct_D": 55.3,
  "pct_R": 41.0,
  "unit_count": 36,
  "state_profile": {
@@ -28,7 +28,7 @@
  "units": {
   "41001": {
    "name": "Baker",
-   "raw_name": "BAKER",
+   "raw_name": "Baker",
    "fips": "41001",
    "is_mappable": true,
    "votes_D": 2343,
@@ -44,7 +44,7 @@
      "votes_other": 291
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -52,23 +52,23 @@
   },
   "41003": {
    "name": "Benton",
-   "raw_name": "BENTON",
+   "raw_name": "Benton",
    "fips": "41003",
    "is_mappable": true,
    "votes_D": 33909,
    "votes_R": 14187,
-   "votes_other": 2124,
-   "total_votes": 50220,
+   "votes_other": 2136,
+   "total_votes": 50232,
    "pct_D": 67.5,
    "pct_R": 28.2,
    "modes": {
     "total": {
      "votes_D": 33909,
      "votes_R": 14187,
-     "votes_other": 2124
+     "votes_other": 2136
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -76,7 +76,7 @@
   },
   "41005": {
    "name": "Clackamas",
-   "raw_name": "CLACKAMAS",
+   "raw_name": "Clackamas",
    "fips": "41005",
    "is_mappable": true,
    "votes_D": 130580,
@@ -92,7 +92,7 @@
      "votes_other": 9273
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -100,7 +100,7 @@
   },
   "41007": {
    "name": "Clatsop",
-   "raw_name": "CLATSOP",
+   "raw_name": "Clatsop",
    "fips": "41007",
    "is_mappable": true,
    "votes_D": 12533,
@@ -116,7 +116,7 @@
      "votes_other": 844
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -124,7 +124,7 @@
   },
   "41009": {
    "name": "Columbia",
-   "raw_name": "COLUMBIA",
+   "raw_name": "Columbia",
    "fips": "41009",
    "is_mappable": true,
    "votes_D": 12895,
@@ -140,7 +140,7 @@
      "votes_other": 1212
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -148,23 +148,23 @@
   },
   "41011": {
    "name": "Coos",
-   "raw_name": "COOS",
+   "raw_name": "Coos",
    "fips": "41011",
    "is_mappable": true,
-   "votes_D": 13603,
-   "votes_R": 20631,
-   "votes_other": 1154,
-   "total_votes": 35388,
+   "votes_D": 13731,
+   "votes_R": 20849,
+   "votes_other": 1155,
+   "total_votes": 35735,
    "pct_D": 38.4,
    "pct_R": 58.3,
    "modes": {
     "total": {
-     "votes_D": 13603,
-     "votes_R": 20631,
-     "votes_other": 1154
+     "votes_D": 13731,
+     "votes_R": 20849,
+     "votes_other": 1155
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -172,7 +172,7 @@
   },
   "41013": {
    "name": "Crook",
-   "raw_name": "CROOK",
+   "raw_name": "Crook",
    "fips": "41013",
    "is_mappable": true,
    "votes_D": 3836,
@@ -188,7 +188,7 @@
      "votes_other": 449
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -196,23 +196,23 @@
   },
   "41015": {
    "name": "Curry",
-   "raw_name": "CURRY",
+   "raw_name": "Curry",
    "fips": "41015",
    "is_mappable": true,
-   "votes_D": 5761,
+   "votes_D": 5737,
    "votes_R": 8000,
-   "votes_other": 466,
-   "total_votes": 14227,
-   "pct_D": 40.5,
-   "pct_R": 56.2,
+   "votes_other": 463,
+   "total_votes": 14200,
+   "pct_D": 40.4,
+   "pct_R": 56.3,
    "modes": {
     "total": {
-     "votes_D": 5761,
+     "votes_D": 5737,
      "votes_R": 8000,
-     "votes_other": 466
+     "votes_other": 463
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -220,23 +220,23 @@
   },
   "41017": {
    "name": "Deschutes",
-   "raw_name": "DESCHUTES",
+   "raw_name": "Deschutes",
    "fips": "41017",
    "is_mappable": true,
-   "votes_D": 67928,
-   "votes_R": 55430,
-   "votes_other": 4418,
-   "total_votes": 127776,
-   "pct_D": 53.2,
-   "pct_R": 43.4,
+   "votes_D": 68108,
+   "votes_R": 54850,
+   "votes_other": 4417,
+   "total_votes": 127375,
+   "pct_D": 53.5,
+   "pct_R": 43.1,
    "modes": {
     "total": {
-     "votes_D": 67928,
-     "votes_R": 55430,
-     "votes_other": 4418
+     "votes_D": 68108,
+     "votes_R": 54850,
+     "votes_other": 4417
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -244,7 +244,7 @@
   },
   "41019": {
    "name": "Douglas",
-   "raw_name": "DOUGLAS",
+   "raw_name": "Douglas",
    "fips": "41019",
    "is_mappable": true,
    "votes_D": 18386,
@@ -260,7 +260,7 @@
      "votes_other": 1860
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -268,23 +268,23 @@
   },
   "41021": {
    "name": "Gilliam",
-   "raw_name": "GILLIAM",
+   "raw_name": "Gilliam",
    "fips": "41021",
    "is_mappable": true,
    "votes_D": 291,
    "votes_R": 805,
-   "votes_other": 345,
-   "total_votes": 1441,
-   "pct_D": 20.2,
-   "pct_R": 55.9,
+   "votes_other": 38,
+   "total_votes": 1134,
+   "pct_D": 25.7,
+   "pct_R": 71.0,
    "modes": {
     "total": {
      "votes_D": 291,
      "votes_R": 805,
-     "votes_other": 345
+     "votes_other": 38
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -292,7 +292,7 @@
   },
   "41023": {
    "name": "Grant",
-   "raw_name": "GRANT",
+   "raw_name": "Grant",
    "fips": "41023",
    "is_mappable": true,
    "votes_D": 816,
@@ -308,7 +308,7 @@
      "votes_other": 150
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -316,7 +316,7 @@
   },
   "41025": {
    "name": "Harney",
-   "raw_name": "HARNEY",
+   "raw_name": "Harney",
    "fips": "41025",
    "is_mappable": true,
    "votes_D": 797,
@@ -332,7 +332,7 @@
      "votes_other": 151
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -340,7 +340,7 @@
   },
   "41027": {
    "name": "Hood River",
-   "raw_name": "HOOD RIVER",
+   "raw_name": "Hood River",
    "fips": "41027",
    "is_mappable": true,
    "votes_D": 8364,
@@ -356,7 +356,7 @@
      "votes_other": 489
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -364,7 +364,7 @@
   },
   "41029": {
    "name": "Jackson",
-   "raw_name": "JACKSON",
+   "raw_name": "Jackson",
    "fips": "41029",
    "is_mappable": true,
    "votes_D": 54065,
@@ -380,7 +380,7 @@
      "votes_other": 3764
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -388,7 +388,7 @@
   },
   "41031": {
    "name": "Jefferson",
-   "raw_name": "JEFFERSON",
+   "raw_name": "Jefferson",
    "fips": "41031",
    "is_mappable": true,
    "votes_D": 3941,
@@ -404,7 +404,7 @@
      "votes_other": 355
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -412,7 +412,7 @@
   },
   "41033": {
    "name": "Josephine",
-   "raw_name": "JOSEPHINE",
+   "raw_name": "Josephine",
    "fips": "41033",
    "is_mappable": true,
    "votes_D": 16928,
@@ -428,7 +428,7 @@
      "votes_other": 1571
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -436,23 +436,23 @@
   },
   "41035": {
    "name": "Klamath",
-   "raw_name": "KLAMATH",
+   "raw_name": "Klamath",
    "fips": "41035",
    "is_mappable": true,
    "votes_D": 9856,
-   "votes_R": 24674,
+   "votes_R": 24675,
    "votes_other": 984,
-   "total_votes": 35514,
+   "total_votes": 35515,
    "pct_D": 27.8,
    "pct_R": 69.5,
    "modes": {
     "total": {
      "votes_D": 9856,
-     "votes_R": 24674,
+     "votes_R": 24675,
      "votes_other": 984
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -460,23 +460,23 @@
   },
   "41037": {
    "name": "Lake",
-   "raw_name": "LAKE",
+   "raw_name": "Lake",
    "fips": "41037",
    "is_mappable": true,
    "votes_D": 681,
    "votes_R": 3421,
-   "votes_other": 291,
-   "total_votes": 4393,
-   "pct_D": 15.5,
-   "pct_R": 77.9,
+   "votes_other": 111,
+   "total_votes": 4213,
+   "pct_D": 16.2,
+   "pct_R": 81.2,
    "modes": {
     "total": {
      "votes_D": 681,
      "votes_R": 3421,
-     "votes_other": 291
+     "votes_other": 111
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -484,7 +484,7 @@
   },
   "41039": {
    "name": "Lane",
-   "raw_name": "LANE",
+   "raw_name": "Lane",
    "fips": "41039",
    "is_mappable": true,
    "votes_D": 125775,
@@ -500,7 +500,7 @@
      "votes_other": 8134
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -508,7 +508,7 @@
   },
   "41041": {
    "name": "Lincoln",
-   "raw_name": "LINCOLN",
+   "raw_name": "Lincoln",
    "fips": "41041",
    "is_mappable": true,
    "votes_D": 17112,
@@ -524,7 +524,7 @@
      "votes_other": 1047
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -532,7 +532,7 @@
   },
   "41043": {
    "name": "Linn",
-   "raw_name": "LINN",
+   "raw_name": "Linn",
    "fips": "41043",
    "is_mappable": true,
    "votes_D": 25749,
@@ -548,7 +548,7 @@
      "votes_other": 2602
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -556,7 +556,7 @@
   },
   "41045": {
    "name": "Malheur",
-   "raw_name": "MALHEUR",
+   "raw_name": "Malheur",
    "fips": "41045",
    "is_mappable": true,
    "votes_D": 2884,
@@ -572,7 +572,7 @@
      "votes_other": 351
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -580,7 +580,7 @@
   },
   "41047": {
    "name": "Marion",
-   "raw_name": "MARION",
+   "raw_name": "Marion",
    "fips": "41047",
    "is_mappable": true,
    "votes_D": 73970,
@@ -596,7 +596,7 @@
      "votes_other": 5632
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -604,7 +604,7 @@
   },
   "41049": {
    "name": "Morrow",
-   "raw_name": "MORROW",
+   "raw_name": "Morrow",
    "fips": "41049",
    "is_mappable": true,
    "votes_D": 1138,
@@ -620,7 +620,7 @@
      "votes_other": 186
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -628,7 +628,7 @@
   },
   "41051": {
    "name": "Multnomah",
-   "raw_name": "MULTNOMAH",
+   "raw_name": "Multnomah",
    "fips": "41051",
    "is_mappable": true,
    "votes_D": 325927,
@@ -644,7 +644,7 @@
      "votes_other": 17564
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -652,7 +652,7 @@
   },
   "41053": {
    "name": "Polk",
-   "raw_name": "POLK",
+   "raw_name": "Polk",
    "fips": "41053",
    "is_mappable": true,
    "votes_D": 22034,
@@ -668,7 +668,7 @@
      "votes_other": 1791
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -676,23 +676,23 @@
   },
   "41055": {
    "name": "Sherman",
-   "raw_name": "SHERMAN",
+   "raw_name": "Sherman",
    "fips": "41055",
    "is_mappable": true,
    "votes_D": 233,
    "votes_R": 890,
-   "votes_other": 43,
-   "total_votes": 1166,
+   "votes_other": 40,
+   "total_votes": 1163,
    "pct_D": 20.0,
-   "pct_R": 76.3,
+   "pct_R": 76.5,
    "modes": {
     "total": {
      "votes_D": 233,
      "votes_R": 890,
-     "votes_other": 43
+     "votes_other": 40
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -700,7 +700,7 @@
   },
   "41057": {
    "name": "Tillamook",
-   "raw_name": "TILLAMOOK",
+   "raw_name": "Tillamook",
    "fips": "41057",
    "is_mappable": true,
    "votes_D": 7747,
@@ -716,7 +716,7 @@
      "votes_other": 534
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -724,7 +724,7 @@
   },
   "41059": {
    "name": "Umatilla",
-   "raw_name": "UMATILLA",
+   "raw_name": "Umatilla",
    "fips": "41059",
    "is_mappable": true,
    "votes_D": 9251,
@@ -740,7 +740,7 @@
      "votes_other": 1001
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -748,7 +748,7 @@
   },
   "41061": {
    "name": "Union",
-   "raw_name": "UNION",
+   "raw_name": "Union",
    "fips": "41061",
    "is_mappable": true,
    "votes_D": 4107,
@@ -764,7 +764,7 @@
      "votes_other": 525
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -772,7 +772,7 @@
   },
   "41063": {
    "name": "Wallowa",
-   "raw_name": "WALLOWA",
+   "raw_name": "Wallowa",
    "fips": "41063",
    "is_mappable": true,
    "votes_D": 1573,
@@ -788,7 +788,7 @@
      "votes_other": 169
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -796,7 +796,7 @@
   },
   "41065": {
    "name": "Wasco",
-   "raw_name": "WASCO",
+   "raw_name": "Wasco",
    "fips": "41065",
    "is_mappable": true,
    "votes_D": 6069,
@@ -812,7 +812,7 @@
      "votes_other": 485
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -820,7 +820,7 @@
   },
   "41067": {
    "name": "Washington",
-   "raw_name": "WASHINGTON",
+   "raw_name": "Washington",
    "fips": "41067",
    "is_mappable": true,
    "votes_D": 193013,
@@ -836,7 +836,7 @@
      "votes_other": 12346
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -844,7 +844,7 @@
   },
   "41069": {
    "name": "Wheeler",
-   "raw_name": "WHEELER",
+   "raw_name": "Wheeler",
    "fips": "41069",
    "is_mappable": true,
    "votes_D": 210,
@@ -860,7 +860,7 @@
      "votes_other": 40
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -868,7 +868,7 @@
   },
   "41071": {
    "name": "Yamhill",
-   "raw_name": "YAMHILL",
+   "raw_name": "Yamhill",
    "fips": "41071",
    "is_mappable": true,
    "votes_D": 26011,
@@ -884,7 +884,7 @@
      "votes_other": 2253
     }
    },
-   "data_source": "MEDSL",
+   "data_source": "OR-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",

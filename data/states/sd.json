@@ -25,14 +25,14 @@
   ],
   "mode_split": {
    "total": 78.1,
-   "election_day": 15.4,
-   "pre_election_day": 6.5
+   "election_day": 15.3,
+   "mail": 6.6
   }
  },
  "units": {
   "46003": {
    "name": "Aurora",
-   "raw_name": "AURORA",
+   "raw_name": "Aurora",
    "fips": "46003",
    "is_mappable": true,
    "votes_D": 302,
@@ -56,7 +56,7 @@
   },
   "46005": {
    "name": "Beadle",
-   "raw_name": "BEADLE",
+   "raw_name": "Beadle",
    "fips": "46005",
    "is_mappable": true,
    "votes_D": 2017,
@@ -80,7 +80,7 @@
   },
   "46007": {
    "name": "Bennett",
-   "raw_name": "BENNETT",
+   "raw_name": "Bennett",
    "fips": "46007",
    "is_mappable": true,
    "votes_D": 389,
@@ -104,7 +104,7 @@
   },
   "46009": {
    "name": "Bon Homme",
-   "raw_name": "BON HOMME",
+   "raw_name": "Bon Homme",
    "fips": "46009",
    "is_mappable": true,
    "votes_D": 697,
@@ -128,7 +128,7 @@
   },
   "46011": {
    "name": "Brookings",
-   "raw_name": "BROOKINGS",
+   "raw_name": "Brookings",
    "fips": "46011",
    "is_mappable": true,
    "votes_D": 5978,
@@ -152,7 +152,7 @@
   },
   "46013": {
    "name": "Brown",
-   "raw_name": "BROWN",
+   "raw_name": "Brown",
    "fips": "46013",
    "is_mappable": true,
    "votes_D": 6075,
@@ -176,7 +176,7 @@
   },
   "46015": {
    "name": "Brule",
-   "raw_name": "BRULE",
+   "raw_name": "Brule",
    "fips": "46015",
    "is_mappable": true,
    "votes_D": 666,
@@ -200,7 +200,7 @@
   },
   "46017": {
    "name": "Buffalo",
-   "raw_name": "BUFFALO",
+   "raw_name": "Buffalo",
    "fips": "46017",
    "is_mappable": true,
    "votes_D": 291,
@@ -224,7 +224,7 @@
   },
   "46019": {
    "name": "Butte",
-   "raw_name": "BUTTE",
+   "raw_name": "Butte",
    "fips": "46019",
    "is_mappable": true,
    "votes_D": 942,
@@ -248,7 +248,7 @@
   },
   "46021": {
    "name": "Campbell",
-   "raw_name": "CAMPBELL",
+   "raw_name": "Campbell",
    "fips": "46021",
    "is_mappable": true,
    "votes_D": 120,
@@ -272,7 +272,7 @@
   },
   "46023": {
    "name": "Charles Mix",
-   "raw_name": "CHARLES MIX",
+   "raw_name": "Charles Mix",
    "fips": "46023",
    "is_mappable": true,
    "votes_D": 1000,
@@ -296,7 +296,7 @@
   },
   "46025": {
    "name": "Clark",
-   "raw_name": "CLARK",
+   "raw_name": "Clark",
    "fips": "46025",
    "is_mappable": true,
    "votes_D": 415,
@@ -320,7 +320,7 @@
   },
   "46027": {
    "name": "Clay",
-   "raw_name": "CLAY",
+   "raw_name": "Clay",
    "fips": "46027",
    "is_mappable": true,
    "votes_D": 2944,
@@ -344,7 +344,7 @@
   },
   "46029": {
    "name": "Codington",
-   "raw_name": "CODINGTON",
+   "raw_name": "Codington",
    "fips": "46029",
    "is_mappable": true,
    "votes_D": 3840,
@@ -368,7 +368,7 @@
   },
   "46031": {
    "name": "Corson",
-   "raw_name": "CORSON",
+   "raw_name": "Corson",
    "fips": "46031",
    "is_mappable": true,
    "votes_D": 495,
@@ -392,7 +392,7 @@
   },
   "46033": {
    "name": "Custer",
-   "raw_name": "CUSTER",
+   "raw_name": "Custer",
    "fips": "46033",
    "is_mappable": true,
    "votes_D": 1567,
@@ -416,7 +416,7 @@
   },
   "46035": {
    "name": "Davison",
-   "raw_name": "DAVISON",
+   "raw_name": "Davison",
    "fips": "46035",
    "is_mappable": true,
    "votes_D": 2743,
@@ -440,7 +440,7 @@
   },
   "46037": {
    "name": "Day",
-   "raw_name": "DAY",
+   "raw_name": "Day",
    "fips": "46037",
    "is_mappable": true,
    "votes_D": 1000,
@@ -464,7 +464,7 @@
   },
   "46039": {
    "name": "Deuel",
-   "raw_name": "DEUEL",
+   "raw_name": "Deuel",
    "fips": "46039",
    "is_mappable": true,
    "votes_D": 528,
@@ -488,7 +488,7 @@
   },
   "46041": {
    "name": "Dewey",
-   "raw_name": "DEWEY",
+   "raw_name": "Dewey",
    "fips": "46041",
    "is_mappable": true,
    "votes_D": 1032,
@@ -512,7 +512,7 @@
   },
   "46043": {
    "name": "Douglas",
-   "raw_name": "DOUGLAS",
+   "raw_name": "Douglas",
    "fips": "46043",
    "is_mappable": true,
    "votes_D": 219,
@@ -536,7 +536,7 @@
   },
   "46045": {
    "name": "Edmunds",
-   "raw_name": "EDMUNDS",
+   "raw_name": "Edmunds",
    "fips": "46045",
    "is_mappable": true,
    "votes_D": 384,
@@ -560,7 +560,7 @@
   },
   "46047": {
    "name": "Fall River",
-   "raw_name": "FALL RIVER",
+   "raw_name": "Fall River",
    "fips": "46047",
    "is_mappable": true,
    "votes_D": 1030,
@@ -584,7 +584,7 @@
   },
   "46049": {
    "name": "Faulk",
-   "raw_name": "FAULK",
+   "raw_name": "Faulk",
    "fips": "46049",
    "is_mappable": true,
    "votes_D": 183,
@@ -608,7 +608,7 @@
   },
   "46051": {
    "name": "Grant",
-   "raw_name": "GRANT",
+   "raw_name": "Grant",
    "fips": "46051",
    "is_mappable": true,
    "votes_D": 946,
@@ -632,7 +632,7 @@
   },
   "46053": {
    "name": "Gregory",
-   "raw_name": "GREGORY",
+   "raw_name": "Gregory",
    "fips": "46053",
    "is_mappable": true,
    "votes_D": 426,
@@ -656,7 +656,7 @@
   },
   "46055": {
    "name": "Haakon",
-   "raw_name": "HAAKON",
+   "raw_name": "Haakon",
    "fips": "46055",
    "is_mappable": true,
    "votes_D": 105,
@@ -680,7 +680,7 @@
   },
   "46057": {
    "name": "Hamlin",
-   "raw_name": "HAMLIN",
+   "raw_name": "Hamlin",
    "fips": "46057",
    "is_mappable": true,
    "votes_D": 610,
@@ -704,7 +704,7 @@
   },
   "46059": {
    "name": "Hand",
-   "raw_name": "HAND",
+   "raw_name": "Hand",
    "fips": "46059",
    "is_mappable": true,
    "votes_D": 365,
@@ -728,7 +728,7 @@
   },
   "46061": {
    "name": "Hanson",
-   "raw_name": "HANSON",
+   "raw_name": "Hanson",
    "fips": "46061",
    "is_mappable": true,
    "votes_D": 399,
@@ -752,7 +752,7 @@
   },
   "46063": {
    "name": "Harding",
-   "raw_name": "HARDING",
+   "raw_name": "Harding",
    "fips": "46063",
    "is_mappable": true,
    "votes_D": 48,
@@ -776,7 +776,7 @@
   },
   "46065": {
    "name": "Hughes",
-   "raw_name": "HUGHES",
+   "raw_name": "Hughes",
    "fips": "46065",
    "is_mappable": true,
    "votes_D": 2838,
@@ -800,7 +800,7 @@
   },
   "46067": {
    "name": "Hutchinson",
-   "raw_name": "HUTCHINSON",
+   "raw_name": "Hutchinson",
    "fips": "46067",
    "is_mappable": true,
    "votes_D": 755,
@@ -824,7 +824,7 @@
   },
   "46069": {
    "name": "Hyde",
-   "raw_name": "HYDE",
+   "raw_name": "Hyde",
    "fips": "46069",
    "is_mappable": true,
    "votes_D": 148,
@@ -848,7 +848,7 @@
   },
   "46071": {
    "name": "Jackson",
-   "raw_name": "JACKSON",
+   "raw_name": "Jackson",
    "fips": "46071",
    "is_mappable": true,
    "votes_D": 357,
@@ -872,7 +872,7 @@
   },
   "46073": {
    "name": "Jerauld",
-   "raw_name": "JERAULD",
+   "raw_name": "Jerauld",
    "fips": "46073",
    "is_mappable": true,
    "votes_D": 276,
@@ -896,7 +896,7 @@
   },
   "46075": {
    "name": "Jones",
-   "raw_name": "JONES",
+   "raw_name": "Jones",
    "fips": "46075",
    "is_mappable": true,
    "votes_D": 60,
@@ -920,7 +920,7 @@
   },
   "46077": {
    "name": "Kingsbury",
-   "raw_name": "KINGSBURY",
+   "raw_name": "Kingsbury",
    "fips": "46077",
    "is_mappable": true,
    "votes_D": 760,
@@ -944,7 +944,7 @@
   },
   "46079": {
    "name": "Lake",
-   "raw_name": "LAKE",
+   "raw_name": "Lake",
    "fips": "46079",
    "is_mappable": true,
    "votes_D": 1978,
@@ -968,7 +968,7 @@
   },
   "46081": {
    "name": "Lawrence",
-   "raw_name": "LAWRENCE",
+   "raw_name": "Lawrence",
    "fips": "46081",
    "is_mappable": true,
    "votes_D": 5074,
@@ -992,7 +992,7 @@
   },
   "46083": {
    "name": "Lincoln",
-   "raw_name": "LINCOLN",
+   "raw_name": "Lincoln",
    "fips": "46083",
    "is_mappable": true,
    "votes_D": 12981,
@@ -1016,7 +1016,7 @@
   },
   "46085": {
    "name": "Lyman",
-   "raw_name": "LYMAN",
+   "raw_name": "Lyman",
    "fips": "46085",
    "is_mappable": true,
    "votes_D": 422,
@@ -1040,7 +1040,7 @@
   },
   "46091": {
    "name": "Marshall",
-   "raw_name": "MARSHALL",
+   "raw_name": "Marshall",
    "fips": "46091",
    "is_mappable": true,
    "votes_D": 782,
@@ -1064,7 +1064,7 @@
   },
   "46087": {
    "name": "McCook",
-   "raw_name": "MCCOOK",
+   "raw_name": "McCook",
    "fips": "46087",
    "is_mappable": true,
    "votes_D": 733,
@@ -1088,7 +1088,7 @@
   },
   "46089": {
    "name": "McPherson",
-   "raw_name": "MCPHERSON",
+   "raw_name": "McPherson",
    "fips": "46089",
    "is_mappable": true,
    "votes_D": 188,
@@ -1112,7 +1112,7 @@
   },
   "46093": {
    "name": "Meade",
-   "raw_name": "MEADE",
+   "raw_name": "Meade",
    "fips": "46093",
    "is_mappable": true,
    "votes_D": 3421,
@@ -1136,7 +1136,7 @@
   },
   "46095": {
    "name": "Mellette",
-   "raw_name": "MELLETTE",
+   "raw_name": "Mellette",
    "fips": "46095",
    "is_mappable": true,
    "votes_D": 285,
@@ -1160,7 +1160,7 @@
   },
   "46097": {
    "name": "Miner",
-   "raw_name": "MINER",
+   "raw_name": "Miner",
    "fips": "46097",
    "is_mappable": true,
    "votes_D": 293,
@@ -1184,7 +1184,7 @@
   },
   "46099": {
    "name": "Minnehaha",
-   "raw_name": "MINNEHAHA",
+   "raw_name": "Minnehaha",
    "fips": "46099",
    "is_mappable": true,
    "votes_D": 39923,
@@ -1194,18 +1194,18 @@
    "pct_D": 42.5,
    "pct_R": 55.2,
    "modes": {
+    "mail": {
+     "votes_D": 14049,
+     "votes_R": 13764,
+     "votes_other": 453
+    },
     "election_day": {
      "votes_D": 25874,
      "votes_R": 38078,
-     "votes_other": 2221
-    },
-    "pre_election_day": {
-     "votes_D": 14049,
-     "votes_R": 13764,
-     "votes_other": 0
+     "votes_other": 1768
     }
    },
-   "data_source": "County-PDF",
+   "data_source": "Minnehaha County, SD",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1213,7 +1213,7 @@
   },
   "46101": {
    "name": "Moody",
-   "raw_name": "MOODY",
+   "raw_name": "Moody",
    "fips": "46101",
    "is_mappable": true,
    "votes_D": 1052,
@@ -1237,8 +1237,8 @@
   },
   "46102": {
    "name": "OGLALA LAKOTA",
-   "raw_name": "OGLALA LAKOTA",
-   "fips": "46113",
+   "raw_name": "Oglala Lakota",
+   "fips": "46102",
    "is_mappable": true,
    "votes_D": 2567,
    "votes_R": 406,
@@ -1261,7 +1261,7 @@
   },
   "46103": {
    "name": "Pennington",
-   "raw_name": "PENNINGTON",
+   "raw_name": "Pennington",
    "fips": "46103",
    "is_mappable": true,
    "votes_D": 20051,
@@ -1285,7 +1285,7 @@
   },
   "46105": {
    "name": "Perkins",
-   "raw_name": "PERKINS",
+   "raw_name": "Perkins",
    "fips": "46105",
    "is_mappable": true,
    "votes_D": 228,
@@ -1309,7 +1309,7 @@
   },
   "46107": {
    "name": "Potter",
-   "raw_name": "POTTER",
+   "raw_name": "Potter",
    "fips": "46107",
    "is_mappable": true,
    "votes_D": 214,
@@ -1333,7 +1333,7 @@
   },
   "46109": {
    "name": "Roberts",
-   "raw_name": "ROBERTS",
+   "raw_name": "Roberts",
    "fips": "46109",
    "is_mappable": true,
    "votes_D": 1560,
@@ -1357,7 +1357,7 @@
   },
   "46111": {
    "name": "Sanborn",
-   "raw_name": "SANBORN",
+   "raw_name": "Sanborn",
    "fips": "46111",
    "is_mappable": true,
    "votes_D": 259,
@@ -1381,7 +1381,7 @@
   },
   "46115": {
    "name": "Spink",
-   "raw_name": "SPINK",
+   "raw_name": "Spink",
    "fips": "46115",
    "is_mappable": true,
    "votes_D": 921,
@@ -1405,7 +1405,7 @@
   },
   "46117": {
    "name": "Stanley",
-   "raw_name": "STANLEY",
+   "raw_name": "Stanley",
    "fips": "46117",
    "is_mappable": true,
    "votes_D": 447,
@@ -1429,7 +1429,7 @@
   },
   "46119": {
    "name": "Sully",
-   "raw_name": "SULLY",
+   "raw_name": "Sully",
    "fips": "46119",
    "is_mappable": true,
    "votes_D": 168,
@@ -1453,7 +1453,7 @@
   },
   "46121": {
    "name": "Todd",
-   "raw_name": "TODD",
+   "raw_name": "Todd",
    "fips": "46121",
    "is_mappable": true,
    "votes_D": 1570,
@@ -1477,7 +1477,7 @@
   },
   "46123": {
    "name": "Tripp",
-   "raw_name": "TRIPP",
+   "raw_name": "Tripp",
    "fips": "46123",
    "is_mappable": true,
    "votes_D": 470,
@@ -1501,7 +1501,7 @@
   },
   "46125": {
    "name": "Turner",
-   "raw_name": "TURNER",
+   "raw_name": "Turner",
    "fips": "46125",
    "is_mappable": true,
    "votes_D": 1044,
@@ -1525,7 +1525,7 @@
   },
   "46127": {
    "name": "Union",
-   "raw_name": "UNION",
+   "raw_name": "Union",
    "fips": "46127",
    "is_mappable": true,
    "votes_D": 2548,
@@ -1549,7 +1549,7 @@
   },
   "46129": {
    "name": "Walworth",
-   "raw_name": "WALWORTH",
+   "raw_name": "Walworth",
    "fips": "46129",
    "is_mappable": true,
    "votes_D": 481,
@@ -1573,7 +1573,7 @@
   },
   "46135": {
    "name": "Yankton",
-   "raw_name": "YANKTON",
+   "raw_name": "Yankton",
    "fips": "46135",
    "is_mappable": true,
    "votes_D": 3883,
@@ -1597,7 +1597,7 @@
   },
   "46137": {
    "name": "Ziebach",
-   "raw_name": "ZIEBACH",
+   "raw_name": "Ziebach",
    "fips": "46137",
    "is_mappable": true,
    "votes_D": 366,

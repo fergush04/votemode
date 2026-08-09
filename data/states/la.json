@@ -29,7 +29,7 @@
  "units": {
   "22001": {
    "name": "Acadia",
-   "raw_name": "ACADIA",
+   "raw_name": "Acadia",
    "fips": "22001",
    "is_mappable": true,
    "votes_D": 4695,
@@ -39,18 +39,18 @@
    "pct_D": 17.6,
    "pct_R": 81.5,
    "modes": {
-    "election_day": {
-     "votes_D": 3128,
-     "votes_R": 13713,
-     "votes_other": 157
-    },
     "pre_election_day": {
      "votes_D": 1567,
      "votes_R": 8070,
      "votes_other": 85
+    },
+    "election_day": {
+     "votes_D": 3128,
+     "votes_R": 13713,
+     "votes_other": 157
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -58,7 +58,7 @@
   },
   "22003": {
    "name": "Allen",
-   "raw_name": "ALLEN",
+   "raw_name": "Allen",
    "fips": "22003",
    "is_mappable": true,
    "votes_D": 1661,
@@ -68,18 +68,18 @@
    "pct_D": 19.0,
    "pct_R": 80.0,
    "modes": {
-    "election_day": {
-     "votes_D": 1040,
-     "votes_R": 4569,
-     "votes_other": 56
-    },
     "pre_election_day": {
      "votes_D": 621,
      "votes_R": 2434,
      "votes_other": 31
+    },
+    "election_day": {
+     "votes_D": 1040,
+     "votes_R": 4569,
+     "votes_other": 56
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -87,7 +87,7 @@
   },
   "22005": {
    "name": "Ascension",
-   "raw_name": "ASCENSION",
+   "raw_name": "Ascension",
    "fips": "22005",
    "is_mappable": true,
    "votes_D": 20113,
@@ -97,18 +97,18 @@
    "pct_D": 32.2,
    "pct_R": 66.1,
    "modes": {
-    "election_day": {
-     "votes_D": 9045,
-     "votes_R": 17826,
-     "votes_other": 588
-    },
     "pre_election_day": {
      "votes_D": 11068,
      "votes_R": 23493,
      "votes_other": 453
+    },
+    "election_day": {
+     "votes_D": 9045,
+     "votes_R": 17826,
+     "votes_other": 588
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -116,7 +116,7 @@
   },
   "22007": {
    "name": "Assumption",
-   "raw_name": "ASSUMPTION",
+   "raw_name": "Assumption",
    "fips": "22007",
    "is_mappable": true,
    "votes_D": 3273,
@@ -126,18 +126,18 @@
    "pct_D": 31.6,
    "pct_R": 67.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1949,
-     "votes_R": 4598,
-     "votes_other": 87
-    },
     "pre_election_day": {
      "votes_D": 1324,
      "votes_R": 2365,
      "votes_other": 44
+    },
+    "election_day": {
+     "votes_D": 1949,
+     "votes_R": 4598,
+     "votes_other": 87
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -145,7 +145,7 @@
   },
   "22009": {
    "name": "Avoyelles",
-   "raw_name": "AVOYELLES",
+   "raw_name": "Avoyelles",
    "fips": "22009",
    "is_mappable": true,
    "votes_D": 4460,
@@ -155,18 +155,18 @@
    "pct_D": 27.8,
    "pct_R": 71.0,
    "modes": {
-    "election_day": {
-     "votes_D": 2974,
-     "votes_R": 7789,
-     "votes_other": 146
-    },
     "pre_election_day": {
      "votes_D": 1486,
      "votes_R": 3590,
      "votes_other": 52
+    },
+    "election_day": {
+     "votes_D": 2974,
+     "votes_R": 7789,
+     "votes_other": 146
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -174,7 +174,7 @@
   },
   "22011": {
    "name": "Beauregard",
-   "raw_name": "BEAUREGARD",
+   "raw_name": "Beauregard",
    "fips": "22011",
    "is_mappable": true,
    "votes_D": 2192,
@@ -184,18 +184,18 @@
    "pct_D": 13.8,
    "pct_R": 85.1,
    "modes": {
-    "election_day": {
-     "votes_D": 934,
-     "votes_R": 7830,
-     "votes_other": 111
-    },
     "pre_election_day": {
      "votes_D": 1258,
      "votes_R": 5674,
      "votes_other": 67
+    },
+    "election_day": {
+     "votes_D": 934,
+     "votes_R": 7830,
+     "votes_other": 111
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -203,7 +203,7 @@
   },
   "22013": {
    "name": "Bienville",
-   "raw_name": "BIENVILLE",
+   "raw_name": "Bienville",
    "fips": "22013",
    "is_mappable": true,
    "votes_D": 2531,
@@ -213,18 +213,18 @@
    "pct_D": 40.5,
    "pct_R": 58.5,
    "modes": {
-    "election_day": {
-     "votes_D": 1564,
-     "votes_R": 2557,
-     "votes_other": 53
-    },
     "pre_election_day": {
      "votes_D": 967,
      "votes_R": 1103,
      "votes_other": 12
+    },
+    "election_day": {
+     "votes_D": 1564,
+     "votes_R": 2557,
+     "votes_other": 53
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -232,7 +232,7 @@
   },
   "22015": {
    "name": "Bossier",
-   "raw_name": "BOSSIER",
+   "raw_name": "Bossier",
    "fips": "22015",
    "is_mappable": true,
    "votes_D": 14467,
@@ -242,18 +242,18 @@
    "pct_D": 27.7,
    "pct_R": 71.0,
    "modes": {
-    "election_day": {
-     "votes_D": 7537,
-     "votes_R": 16938,
-     "votes_other": 440
-    },
     "pre_election_day": {
      "votes_D": 6930,
      "votes_R": 20167,
      "votes_other": 220
+    },
+    "election_day": {
+     "votes_D": 7537,
+     "votes_R": 16938,
+     "votes_other": 440
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -261,7 +261,7 @@
   },
   "22017": {
    "name": "Caddo",
-   "raw_name": "CADDO",
+   "raw_name": "Caddo",
    "fips": "22017",
    "is_mappable": true,
    "votes_D": 48864,
@@ -271,18 +271,18 @@
    "pct_D": 51.6,
    "pct_R": 47.0,
    "modes": {
-    "election_day": {
-     "votes_D": 28813,
-     "votes_R": 24561,
-     "votes_other": 1000
-    },
     "pre_election_day": {
      "votes_D": 20051,
      "votes_R": 19910,
      "votes_other": 364
+    },
+    "election_day": {
+     "votes_D": 28813,
+     "votes_R": 24561,
+     "votes_other": 1000
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -290,7 +290,7 @@
   },
   "22019": {
    "name": "Calcasieu",
-   "raw_name": "CALCASIEU",
+   "raw_name": "Calcasieu",
    "fips": "22019",
    "is_mappable": true,
    "votes_D": 23918,
@@ -300,18 +300,18 @@
    "pct_D": 29.5,
    "pct_R": 69.0,
    "modes": {
-    "election_day": {
-     "votes_D": 13321,
-     "votes_R": 28651,
-     "votes_other": 807
-    },
     "pre_election_day": {
      "votes_D": 10597,
      "votes_R": 27413,
      "votes_other": 412
+    },
+    "election_day": {
+     "votes_D": 13321,
+     "votes_R": 28651,
+     "votes_other": 807
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -319,7 +319,7 @@
   },
   "22021": {
    "name": "Caldwell",
-   "raw_name": "CALDWELL",
+   "raw_name": "Caldwell",
    "fips": "22021",
    "is_mappable": true,
    "votes_D": 580,
@@ -329,18 +329,18 @@
    "pct_D": 13.4,
    "pct_R": 85.9,
    "modes": {
-    "election_day": {
-     "votes_D": 343,
-     "votes_R": 1902,
-     "votes_other": 19
-    },
     "pre_election_day": {
      "votes_D": 237,
      "votes_R": 1822,
      "votes_other": 11
+    },
+    "election_day": {
+     "votes_D": 343,
+     "votes_R": 1902,
+     "votes_other": 19
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -348,7 +348,7 @@
   },
   "22023": {
    "name": "Cameron",
-   "raw_name": "CAMERON",
+   "raw_name": "Cameron",
    "fips": "22023",
    "is_mappable": true,
    "votes_D": 219,
@@ -358,18 +358,18 @@
    "pct_D": 6.5,
    "pct_R": 92.8,
    "modes": {
-    "election_day": {
-     "votes_D": 113,
-     "votes_R": 1693,
-     "votes_other": 13
-    },
     "pre_election_day": {
      "votes_D": 106,
      "votes_R": 1427,
      "votes_other": 10
+    },
+    "election_day": {
+     "votes_D": 113,
+     "votes_R": 1693,
+     "votes_other": 13
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -377,7 +377,7 @@
   },
   "22025": {
    "name": "Catahoula",
-   "raw_name": "CATAHOULA",
+   "raw_name": "Catahoula",
    "fips": "22025",
    "is_mappable": true,
    "votes_D": 1060,
@@ -387,18 +387,18 @@
    "pct_D": 24.4,
    "pct_R": 74.9,
    "modes": {
-    "election_day": {
-     "votes_D": 744,
-     "votes_R": 1838,
-     "votes_other": 23
-    },
     "pre_election_day": {
      "votes_D": 316,
      "votes_R": 1420,
      "votes_other": 7
+    },
+    "election_day": {
+     "votes_D": 744,
+     "votes_R": 1838,
+     "votes_other": 23
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -406,7 +406,7 @@
   },
   "22027": {
    "name": "Claiborne",
-   "raw_name": "CLAIBORNE",
+   "raw_name": "Claiborne",
    "fips": "22027",
    "is_mappable": true,
    "votes_D": 2239,
@@ -416,18 +416,18 @@
    "pct_D": 38.5,
    "pct_R": 60.6,
    "modes": {
-    "election_day": {
-     "votes_D": 1210,
-     "votes_R": 1541,
-     "votes_other": 29
-    },
     "pre_election_day": {
      "votes_D": 1029,
      "votes_R": 1981,
      "votes_other": 26
+    },
+    "election_day": {
+     "votes_D": 1210,
+     "votes_R": 1541,
+     "votes_other": 29
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -435,7 +435,7 @@
   },
   "22029": {
    "name": "Concordia",
-   "raw_name": "CONCORDIA",
+   "raw_name": "Concordia",
    "fips": "22029",
    "is_mappable": true,
    "votes_D": 2698,
@@ -445,18 +445,18 @@
    "pct_D": 34.8,
    "pct_R": 64.1,
    "modes": {
-    "election_day": {
-     "votes_D": 1801,
-     "votes_R": 2530,
-     "votes_other": 60
-    },
     "pre_election_day": {
      "votes_D": 897,
      "votes_R": 2444,
      "votes_other": 23
+    },
+    "election_day": {
+     "votes_D": 1801,
+     "votes_R": 2530,
+     "votes_other": 60
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -464,7 +464,7 @@
   },
   "22031": {
    "name": "De Soto",
-   "raw_name": "DE SOTO",
+   "raw_name": "DeSoto",
    "fips": "22031",
    "is_mappable": true,
    "votes_D": 4426,
@@ -474,18 +474,18 @@
    "pct_D": 31.8,
    "pct_R": 67.3,
    "modes": {
-    "election_day": {
-     "votes_D": 2138,
-     "votes_R": 4051,
-     "votes_other": 81
-    },
     "pre_election_day": {
      "votes_D": 2288,
      "votes_R": 5308,
      "votes_other": 47
+    },
+    "election_day": {
+     "votes_D": 2138,
+     "votes_R": 4051,
+     "votes_other": 81
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -493,7 +493,7 @@
   },
   "22033": {
    "name": "East Baton Rouge",
-   "raw_name": "EAST BATON ROUGE",
+   "raw_name": "East Baton Rouge",
    "fips": "22033",
    "is_mappable": true,
    "votes_D": 103820,
@@ -503,18 +503,18 @@
    "pct_D": 54.5,
    "pct_R": 43.4,
    "modes": {
-    "election_day": {
-     "votes_D": 54207,
-     "votes_R": 39755,
-     "votes_other": 2741
-    },
     "pre_election_day": {
      "votes_D": 49613,
      "votes_R": 42965,
      "votes_other": 1362
+    },
+    "election_day": {
+     "votes_D": 54207,
+     "votes_R": 39755,
+     "votes_other": 2741
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -522,7 +522,7 @@
   },
   "22035": {
    "name": "East Carroll",
-   "raw_name": "EAST CARROLL",
+   "raw_name": "East Carroll",
    "fips": "22035",
    "is_mappable": true,
    "votes_D": 1338,
@@ -532,18 +532,18 @@
    "pct_D": 58.0,
    "pct_R": 40.4,
    "modes": {
-    "election_day": {
-     "votes_D": 837,
-     "votes_R": 428,
-     "votes_other": 30
-    },
     "pre_election_day": {
      "votes_D": 501,
      "votes_R": 503,
      "votes_other": 7
+    },
+    "election_day": {
+     "votes_D": 837,
+     "votes_R": 428,
+     "votes_other": 30
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -551,7 +551,7 @@
   },
   "22037": {
    "name": "East Feliciana",
-   "raw_name": "EAST FELICIANA",
+   "raw_name": "East Feliciana",
    "fips": "22037",
    "is_mappable": true,
    "votes_D": 3809,
@@ -561,18 +561,18 @@
    "pct_D": 38.3,
    "pct_R": 60.5,
    "modes": {
-    "election_day": {
-     "votes_D": 1799,
-     "votes_R": 2932,
-     "votes_other": 70
-    },
     "pre_election_day": {
      "votes_D": 2010,
      "votes_R": 3088,
      "votes_other": 48
+    },
+    "election_day": {
+     "votes_D": 1799,
+     "votes_R": 2932,
+     "votes_other": 70
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -580,7 +580,7 @@
   },
   "22039": {
    "name": "Evangeline",
-   "raw_name": "EVANGELINE",
+   "raw_name": "Evangeline",
    "fips": "22039",
    "is_mappable": true,
    "votes_D": 3526,
@@ -590,18 +590,18 @@
    "pct_D": 24.9,
    "pct_R": 73.9,
    "modes": {
-    "election_day": {
-     "votes_D": 2437,
-     "votes_R": 6990,
-     "votes_other": 129
-    },
     "pre_election_day": {
      "votes_D": 1089,
      "votes_R": 3493,
      "votes_other": 38
+    },
+    "election_day": {
+     "votes_D": 2437,
+     "votes_R": 6990,
+     "votes_other": 129
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -609,7 +609,7 @@
   },
   "22041": {
    "name": "Franklin",
-   "raw_name": "FRANKLIN",
+   "raw_name": "Franklin",
    "fips": "22041",
    "is_mappable": true,
    "votes_D": 2196,
@@ -619,18 +619,18 @@
    "pct_D": 25.0,
    "pct_R": 74.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1371,
-     "votes_R": 2868,
-     "votes_other": 46
-    },
     "pre_election_day": {
      "votes_D": 825,
      "votes_R": 3656,
      "votes_other": 32
+    },
+    "election_day": {
+     "votes_D": 1371,
+     "votes_R": 2868,
+     "votes_other": 46
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -638,7 +638,7 @@
   },
   "22043": {
    "name": "Grant",
-   "raw_name": "GRANT",
+   "raw_name": "Grant",
    "fips": "22043",
    "is_mappable": true,
    "votes_D": 996,
@@ -648,18 +648,18 @@
    "pct_D": 11.0,
    "pct_R": 87.9,
    "modes": {
-    "election_day": {
-     "votes_D": 585,
-     "votes_R": 5504,
-     "votes_other": 75
-    },
     "pre_election_day": {
      "votes_D": 411,
      "votes_R": 2421,
      "votes_other": 22
+    },
+    "election_day": {
+     "votes_D": 585,
+     "votes_R": 5504,
+     "votes_other": 75
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -667,7 +667,7 @@
   },
   "22045": {
    "name": "Iberia",
-   "raw_name": "IBERIA",
+   "raw_name": "Iberia",
    "fips": "22045",
    "is_mappable": true,
    "votes_D": 9504,
@@ -677,18 +677,18 @@
    "pct_D": 32.4,
    "pct_R": 66.5,
    "modes": {
-    "election_day": {
-     "votes_D": 5311,
-     "votes_R": 10006,
-     "votes_other": 199
-    },
     "pre_election_day": {
      "votes_D": 4193,
      "votes_R": 9505,
      "votes_other": 117
+    },
+    "election_day": {
+     "votes_D": 5311,
+     "votes_R": 10006,
+     "votes_other": 199
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -696,7 +696,7 @@
   },
   "22047": {
    "name": "Iberville",
-   "raw_name": "IBERVILLE",
+   "raw_name": "Iberville",
    "fips": "22047",
    "is_mappable": true,
    "votes_D": 7503,
@@ -706,18 +706,18 @@
    "pct_D": 48.9,
    "pct_R": 49.6,
    "modes": {
-    "election_day": {
-     "votes_D": 5259,
-     "votes_R": 4584,
-     "votes_other": 171
-    },
     "pre_election_day": {
      "votes_D": 2244,
      "votes_R": 3032,
      "votes_other": 64
+    },
+    "election_day": {
+     "votes_D": 5259,
+     "votes_R": 4584,
+     "votes_other": 171
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -725,7 +725,7 @@
   },
   "22049": {
    "name": "Jackson",
-   "raw_name": "JACKSON",
+   "raw_name": "Jackson",
    "fips": "22049",
    "is_mappable": true,
    "votes_D": 1852,
@@ -735,18 +735,18 @@
    "pct_D": 25.6,
    "pct_R": 73.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1110,
-     "votes_R": 2822,
-     "votes_other": 55
-    },
     "pre_election_day": {
      "votes_D": 742,
      "votes_R": 2469,
      "votes_other": 28
+    },
+    "election_day": {
+     "votes_D": 1110,
+     "votes_R": 2822,
+     "votes_other": 55
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -754,7 +754,7 @@
   },
   "22051": {
    "name": "Jefferson",
-   "raw_name": "JEFFERSON",
+   "raw_name": "Jefferson",
    "fips": "22051",
    "is_mappable": true,
    "votes_D": 75731,
@@ -764,18 +764,18 @@
    "pct_D": 42.5,
    "pct_R": 55.4,
    "modes": {
-    "election_day": {
-     "votes_D": 35958,
-     "votes_R": 50144,
-     "votes_other": 2409
-    },
     "pre_election_day": {
      "votes_D": 39773,
      "votes_R": 48666,
      "votes_other": 1255
+    },
+    "election_day": {
+     "votes_D": 35958,
+     "votes_R": 50144,
+     "votes_other": 2409
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -783,7 +783,7 @@
   },
   "22053": {
    "name": "Jefferson Davis",
-   "raw_name": "JEFFERSON DAVIS",
+   "raw_name": "Jefferson Davis",
    "fips": "22053",
    "is_mappable": true,
    "votes_D": 2699,
@@ -793,76 +793,18 @@
    "pct_D": 18.8,
    "pct_R": 79.9,
    "modes": {
-    "election_day": {
-     "votes_D": 1387,
-     "votes_R": 5797,
-     "votes_other": 104
-    },
     "pre_election_day": {
      "votes_D": 1312,
      "votes_R": 5681,
      "votes_other": 77
-    }
-   },
-   "data_source": "SOS-Web",
-   "official_results": true,
-   "pct_off_official": 0.0,
-   "completeness": "C2",
-   "notes": ""
-  },
-  "22055": {
-   "name": "Lafayette",
-   "raw_name": "LAFAYETTE",
-   "fips": "22055",
-   "is_mappable": true,
-   "votes_D": 37170,
-   "votes_R": 72007,
-   "votes_other": 1909,
-   "total_votes": 111086,
-   "pct_D": 33.5,
-   "pct_R": 64.8,
-   "modes": {
-    "election_day": {
-     "votes_D": 19590,
-     "votes_R": 35020,
-     "votes_other": 1249
     },
-    "pre_election_day": {
-     "votes_D": 17580,
-     "votes_R": 36987,
-     "votes_other": 660
-    }
-   },
-   "data_source": "SOS-Web",
-   "official_results": true,
-   "pct_off_official": 0.0,
-   "completeness": "C2",
-   "notes": ""
-  },
-  "22057": {
-   "name": "Lafourche",
-   "raw_name": "LAFOURCHE",
-   "fips": "22057",
-   "is_mappable": true,
-   "votes_D": 7864,
-   "votes_R": 34461,
-   "votes_other": 520,
-   "total_votes": 42845,
-   "pct_D": 18.4,
-   "pct_R": 80.4,
-   "modes": {
     "election_day": {
-     "votes_D": 4467,
-     "votes_R": 17641,
-     "votes_other": 307
-    },
-    "pre_election_day": {
-     "votes_D": 3397,
-     "votes_R": 16820,
-     "votes_other": 213
+     "votes_D": 1387,
+     "votes_R": 5797,
+     "votes_other": 104
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -870,7 +812,7 @@
   },
   "22059": {
    "name": "LaSalle",
-   "raw_name": "LASALLE",
+   "raw_name": "LaSalle",
    "fips": "22059",
    "is_mappable": true,
    "votes_D": 546,
@@ -880,18 +822,76 @@
    "pct_D": 8.2,
    "pct_R": 91.0,
    "modes": {
-    "election_day": {
-     "votes_D": 302,
-     "votes_R": 3102,
-     "votes_other": 33
-    },
     "pre_election_day": {
      "votes_D": 244,
      "votes_R": 2921,
      "votes_other": 18
+    },
+    "election_day": {
+     "votes_D": 302,
+     "votes_R": 3102,
+     "votes_other": 33
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "22055": {
+   "name": "Lafayette",
+   "raw_name": "Lafayette",
+   "fips": "22055",
+   "is_mappable": true,
+   "votes_D": 37170,
+   "votes_R": 72007,
+   "votes_other": 1909,
+   "total_votes": 111086,
+   "pct_D": 33.5,
+   "pct_R": 64.8,
+   "modes": {
+    "pre_election_day": {
+     "votes_D": 17580,
+     "votes_R": 36987,
+     "votes_other": 660
+    },
+    "election_day": {
+     "votes_D": 19590,
+     "votes_R": 35020,
+     "votes_other": 1249
+    }
+   },
+   "data_source": "LA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "22057": {
+   "name": "Lafourche",
+   "raw_name": "Lafourche",
+   "fips": "22057",
+   "is_mappable": true,
+   "votes_D": 7864,
+   "votes_R": 34461,
+   "votes_other": 520,
+   "total_votes": 42845,
+   "pct_D": 18.4,
+   "pct_R": 80.4,
+   "modes": {
+    "pre_election_day": {
+     "votes_D": 3397,
+     "votes_R": 16820,
+     "votes_other": 213
+    },
+    "election_day": {
+     "votes_D": 4467,
+     "votes_R": 17641,
+     "votes_other": 307
+    }
+   },
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -899,7 +899,7 @@
   },
   "22061": {
    "name": "Lincoln",
-   "raw_name": "LINCOLN",
+   "raw_name": "Lincoln",
    "fips": "22061",
    "is_mappable": true,
    "votes_D": 6627,
@@ -909,18 +909,18 @@
    "pct_D": 36.5,
    "pct_R": 61.9,
    "modes": {
-    "election_day": {
-     "votes_D": 3423,
-     "votes_R": 5818,
-     "votes_other": 185
-    },
     "pre_election_day": {
      "votes_D": 3204,
      "votes_R": 5430,
      "votes_other": 97
+    },
+    "election_day": {
+     "votes_D": 3423,
+     "votes_R": 5818,
+     "votes_other": 185
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -928,7 +928,7 @@
   },
   "22063": {
    "name": "Livingston",
-   "raw_name": "LIVINGSTON",
+   "raw_name": "Livingston",
    "fips": "22063",
    "is_mappable": true,
    "votes_D": 9965,
@@ -938,18 +938,18 @@
    "pct_D": 15.1,
    "pct_R": 83.6,
    "modes": {
-    "election_day": {
-     "votes_D": 5091,
-     "votes_R": 27627,
-     "votes_other": 534
-    },
     "pre_election_day": {
      "votes_D": 4874,
      "votes_R": 27474,
      "votes_other": 306
+    },
+    "election_day": {
+     "votes_D": 5091,
+     "votes_R": 27627,
+     "votes_other": 534
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -957,7 +957,7 @@
   },
   "22065": {
    "name": "Madison",
-   "raw_name": "MADISON",
+   "raw_name": "Madison",
    "fips": "22065",
    "is_mappable": true,
    "votes_D": 2094,
@@ -967,18 +967,18 @@
    "pct_D": 52.5,
    "pct_R": 46.2,
    "modes": {
-    "election_day": {
-     "votes_D": 1243,
-     "votes_R": 1046,
-     "votes_other": 33
-    },
     "pre_election_day": {
      "votes_D": 851,
      "votes_R": 800,
      "votes_other": 19
+    },
+    "election_day": {
+     "votes_D": 1243,
+     "votes_R": 1046,
+     "votes_other": 33
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -986,7 +986,7 @@
   },
   "22067": {
    "name": "Morehouse",
-   "raw_name": "MOREHOUSE",
+   "raw_name": "Morehouse",
    "fips": "22067",
    "is_mappable": true,
    "votes_D": 4008,
@@ -996,18 +996,18 @@
    "pct_D": 39.7,
    "pct_R": 59.0,
    "modes": {
-    "election_day": {
-     "votes_D": 1792,
-     "votes_R": 2001,
-     "votes_other": 79
-    },
     "pre_election_day": {
      "votes_D": 2216,
      "votes_R": 3960,
      "votes_other": 49
+    },
+    "election_day": {
+     "votes_D": 1792,
+     "votes_R": 2001,
+     "votes_other": 79
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1015,7 +1015,7 @@
   },
   "22069": {
    "name": "Natchitoches",
-   "raw_name": "NATCHITOCHES",
+   "raw_name": "Natchitoches",
    "fips": "22069",
    "is_mappable": true,
    "votes_D": 5740,
@@ -1025,18 +1025,18 @@
    "pct_D": 38.2,
    "pct_R": 60.5,
    "modes": {
-    "election_day": {
-     "votes_D": 3070,
-     "votes_R": 5075,
-     "votes_other": 137
-    },
     "pre_election_day": {
      "votes_D": 2670,
      "votes_R": 4025,
      "votes_other": 63
+    },
+    "election_day": {
+     "votes_D": 3070,
+     "votes_R": 5075,
+     "votes_other": 137
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1044,7 +1044,7 @@
   },
   "22071": {
    "name": "Orleans",
-   "raw_name": "ORLEANS",
+   "raw_name": "Orleans",
    "fips": "22071",
    "is_mappable": true,
    "votes_D": 130749,
@@ -1054,18 +1054,18 @@
    "pct_D": 82.2,
    "pct_R": 15.2,
    "modes": {
-    "election_day": {
-     "votes_D": 63584,
-     "votes_R": 13583,
-     "votes_other": 2806
-    },
     "pre_election_day": {
      "votes_D": 67165,
      "votes_R": 10536,
      "votes_other": 1456
+    },
+    "election_day": {
+     "votes_D": 63584,
+     "votes_R": 13583,
+     "votes_other": 2806
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1073,7 +1073,7 @@
   },
   "22073": {
    "name": "Ouachita",
-   "raw_name": "OUACHITA",
+   "raw_name": "Ouachita",
    "fips": "22073",
    "is_mappable": true,
    "votes_D": 22845,
@@ -1083,18 +1083,18 @@
    "pct_D": 35.5,
    "pct_R": 63.3,
    "modes": {
-    "election_day": {
-     "votes_D": 11521,
-     "votes_R": 17911,
-     "votes_other": 518
-    },
     "pre_election_day": {
      "votes_D": 11324,
      "votes_R": 22897,
      "votes_other": 265
+    },
+    "election_day": {
+     "votes_D": 11521,
+     "votes_R": 17911,
+     "votes_other": 518
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1102,7 +1102,7 @@
   },
   "22075": {
    "name": "Plaquemines",
-   "raw_name": "PLAQUEMINES",
+   "raw_name": "Plaquemines",
    "fips": "22075",
    "is_mappable": true,
    "votes_D": 3023,
@@ -1112,18 +1112,18 @@
    "pct_D": 30.4,
    "pct_R": 68.4,
    "modes": {
-    "election_day": {
-     "votes_D": 1501,
-     "votes_R": 2462,
-     "votes_other": 65
-    },
     "pre_election_day": {
      "votes_D": 1522,
      "votes_R": 4341,
      "votes_other": 54
+    },
+    "election_day": {
+     "votes_D": 1501,
+     "votes_R": 2462,
+     "votes_other": 65
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1131,7 +1131,7 @@
   },
   "22077": {
    "name": "Pointe Coupee",
-   "raw_name": "POINTE COUPEE",
+   "raw_name": "Pointe Coupee",
    "fips": "22077",
    "is_mappable": true,
    "votes_D": 4132,
@@ -1141,18 +1141,18 @@
    "pct_D": 35.7,
    "pct_R": 63.3,
    "modes": {
-    "election_day": {
-     "votes_D": 2248,
-     "votes_R": 4146,
-     "votes_other": 82
-    },
     "pre_election_day": {
      "votes_D": 1884,
      "votes_R": 3173,
      "votes_other": 37
+    },
+    "election_day": {
+     "votes_D": 2248,
+     "votes_R": 4146,
+     "votes_other": 82
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1160,7 +1160,7 @@
   },
   "22079": {
    "name": "Rapides",
-   "raw_name": "RAPIDES",
+   "raw_name": "Rapides",
    "fips": "22079",
    "is_mappable": true,
    "votes_D": 16537,
@@ -1170,18 +1170,18 @@
    "pct_D": 31.0,
    "pct_R": 67.7,
    "modes": {
-    "election_day": {
-     "votes_D": 9121,
-     "votes_R": 21165,
-     "votes_other": 467
-    },
     "pre_election_day": {
      "votes_D": 7416,
      "votes_R": 15006,
      "votes_other": 220
+    },
+    "election_day": {
+     "votes_D": 9121,
+     "votes_R": 21165,
+     "votes_other": 467
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1189,7 +1189,7 @@
   },
   "22081": {
    "name": "Red River",
-   "raw_name": "RED RIVER",
+   "raw_name": "Red River",
    "fips": "22081",
    "is_mappable": true,
    "votes_D": 1321,
@@ -1199,18 +1199,18 @@
    "pct_D": 35.5,
    "pct_R": 62.7,
    "modes": {
-    "election_day": {
-     "votes_D": 769,
-     "votes_R": 1392,
-     "votes_other": 38
-    },
     "pre_election_day": {
      "votes_D": 552,
      "votes_R": 945,
      "votes_other": 29
+    },
+    "election_day": {
+     "votes_D": 769,
+     "votes_R": 1392,
+     "votes_other": 38
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1218,7 +1218,7 @@
   },
   "22083": {
    "name": "Richland",
-   "raw_name": "RICHLAND",
+   "raw_name": "Richland",
    "fips": "22083",
    "is_mappable": true,
    "votes_D": 2732,
@@ -1228,18 +1228,18 @@
    "pct_D": 29.7,
    "pct_R": 69.1,
    "modes": {
-    "election_day": {
-     "votes_D": 1706,
-     "votes_R": 3286,
-     "votes_other": 68
-    },
     "pre_election_day": {
      "votes_D": 1026,
      "votes_R": 3068,
      "votes_other": 39
+    },
+    "election_day": {
+     "votes_D": 1706,
+     "votes_R": 3286,
+     "votes_other": 68
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1247,7 +1247,7 @@
   },
   "22085": {
    "name": "Sabine",
-   "raw_name": "SABINE",
+   "raw_name": "Sabine",
    "fips": "22085",
    "is_mappable": true,
    "votes_D": 1488,
@@ -1257,18 +1257,18 @@
    "pct_D": 14.6,
    "pct_R": 84.7,
    "modes": {
-    "election_day": {
-     "votes_D": 1019,
-     "votes_R": 5173,
-     "votes_other": 48
-    },
     "pre_election_day": {
      "votes_D": 469,
      "votes_R": 3440,
      "votes_other": 21
+    },
+    "election_day": {
+     "votes_D": 1019,
+     "votes_R": 5173,
+     "votes_other": 48
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1276,7 +1276,7 @@
   },
   "22087": {
    "name": "St. Bernard",
-   "raw_name": "ST. BERNARD",
+   "raw_name": "St. Bernard",
    "fips": "22087",
    "is_mappable": true,
    "votes_D": 5967,
@@ -1286,18 +1286,18 @@
    "pct_D": 34.5,
    "pct_R": 63.8,
    "modes": {
-    "election_day": {
-     "votes_D": 3178,
-     "votes_R": 5584,
-     "votes_other": 207
-    },
     "pre_election_day": {
      "votes_D": 2789,
      "votes_R": 5449,
      "votes_other": 85
+    },
+    "election_day": {
+     "votes_D": 3178,
+     "votes_R": 5584,
+     "votes_other": 207
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1305,7 +1305,7 @@
   },
   "22089": {
    "name": "St. Charles",
-   "raw_name": "ST. CHARLES",
+   "raw_name": "St. Charles",
    "fips": "22089",
    "is_mappable": true,
    "votes_D": 8812,
@@ -1315,18 +1315,18 @@
    "pct_D": 33.0,
    "pct_R": 65.4,
    "modes": {
-    "election_day": {
-     "votes_D": 4658,
-     "votes_R": 8913,
-     "votes_other": 276
-    },
     "pre_election_day": {
      "votes_D": 4154,
      "votes_R": 8530,
      "votes_other": 154
+    },
+    "election_day": {
+     "votes_D": 4658,
+     "votes_R": 8913,
+     "votes_other": 276
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1334,7 +1334,7 @@
   },
   "22091": {
    "name": "St. Helena",
-   "raw_name": "ST. HELENA",
+   "raw_name": "St. Helena",
    "fips": "22091",
    "is_mappable": true,
    "votes_D": 2848,
@@ -1344,18 +1344,18 @@
    "pct_D": 49.6,
    "pct_R": 48.8,
    "modes": {
-    "election_day": {
-     "votes_D": 1646,
-     "votes_R": 1577,
-     "votes_other": 69
-    },
     "pre_election_day": {
      "votes_D": 1202,
      "votes_R": 1227,
      "votes_other": 24
+    },
+    "election_day": {
+     "votes_D": 1646,
+     "votes_R": 1577,
+     "votes_other": 69
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1363,7 +1363,7 @@
   },
   "22093": {
    "name": "St. James",
-   "raw_name": "ST. JAMES",
+   "raw_name": "St. James",
    "fips": "22093",
    "is_mappable": true,
    "votes_D": 5792,
@@ -1373,18 +1373,18 @@
    "pct_D": 49.1,
    "pct_R": 50.1,
    "modes": {
-    "election_day": {
-     "votes_D": 3220,
-     "votes_R": 2634,
-     "votes_other": 66
-    },
     "pre_election_day": {
      "votes_D": 2572,
      "votes_R": 3268,
      "votes_other": 29
+    },
+    "election_day": {
+     "votes_D": 3220,
+     "votes_R": 2634,
+     "votes_other": 66
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1392,7 +1392,7 @@
   },
   "22095": {
    "name": "St. John the Baptist",
-   "raw_name": "ST. JOHN THE BAPTIST",
+   "raw_name": "St. John the Baptist",
    "fips": "22095",
    "is_mappable": true,
    "votes_D": 12043,
@@ -1402,18 +1402,18 @@
    "pct_D": 64.0,
    "pct_R": 34.8,
    "modes": {
-    "election_day": {
-     "votes_D": 5584,
-     "votes_R": 3107,
-     "votes_other": 145
-    },
     "pre_election_day": {
      "votes_D": 6459,
      "votes_R": 3450,
      "votes_other": 82
+    },
+    "election_day": {
+     "votes_D": 5584,
+     "votes_R": 3107,
+     "votes_other": 145
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1421,7 +1421,7 @@
   },
   "22097": {
    "name": "St. Landry",
-   "raw_name": "ST. LANDRY",
+   "raw_name": "St. Landry",
    "fips": "22097",
    "is_mappable": true,
    "votes_D": 14833,
@@ -1431,18 +1431,18 @@
    "pct_D": 40.0,
    "pct_R": 58.9,
    "modes": {
-    "election_day": {
-     "votes_D": 8628,
-     "votes_R": 13220,
-     "votes_other": 283
-    },
     "pre_election_day": {
      "votes_D": 6205,
      "votes_R": 8592,
      "votes_other": 115
+    },
+    "election_day": {
+     "votes_D": 8628,
+     "votes_R": 13220,
+     "votes_other": 283
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1450,7 +1450,7 @@
   },
   "22099": {
    "name": "St. Martin",
-   "raw_name": "ST. MARTIN",
+   "raw_name": "St. Martin",
    "fips": "22099",
    "is_mappable": true,
    "votes_D": 7284,
@@ -1460,18 +1460,18 @@
    "pct_D": 29.1,
    "pct_R": 69.8,
    "modes": {
-    "election_day": {
-     "votes_D": 4126,
-     "votes_R": 7947,
-     "votes_other": 162
-    },
     "pre_election_day": {
      "votes_D": 3158,
      "votes_R": 9519,
      "votes_other": 94
+    },
+    "election_day": {
+     "votes_D": 4126,
+     "votes_R": 7947,
+     "votes_other": 162
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1479,7 +1479,7 @@
   },
   "22101": {
    "name": "St. Mary",
-   "raw_name": "ST. MARY",
+   "raw_name": "St. Mary",
    "fips": "22101",
    "is_mappable": true,
    "votes_D": 7011,
@@ -1489,18 +1489,18 @@
    "pct_D": 33.6,
    "pct_R": 65.4,
    "modes": {
-    "election_day": {
-     "votes_D": 4183,
-     "votes_R": 7124,
-     "votes_other": 152
-    },
     "pre_election_day": {
      "votes_D": 2828,
      "votes_R": 6547,
      "votes_other": 63
+    },
+    "election_day": {
+     "votes_D": 4183,
+     "votes_R": 7124,
+     "votes_other": 152
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1508,7 +1508,7 @@
   },
   "22103": {
    "name": "St. Tammany",
-   "raw_name": "ST. TAMMANY",
+   "raw_name": "St. Tammany",
    "fips": "22103",
    "is_mappable": true,
    "votes_D": 37777,
@@ -1518,18 +1518,18 @@
    "pct_D": 27.3,
    "pct_R": 71.1,
    "modes": {
-    "election_day": {
-     "votes_D": 15583,
-     "votes_R": 41704,
-     "votes_other": 1301
-    },
     "pre_election_day": {
      "votes_D": 22194,
      "votes_R": 56673,
      "votes_other": 929
+    },
+    "election_day": {
+     "votes_D": 15583,
+     "votes_R": 41704,
+     "votes_other": 1301
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1537,7 +1537,7 @@
   },
   "22105": {
    "name": "Tangipahoa",
-   "raw_name": "TANGIPAHOA",
+   "raw_name": "Tangipahoa",
    "fips": "22105",
    "is_mappable": true,
    "votes_D": 16886,
@@ -1547,18 +1547,18 @@
    "pct_D": 30.6,
    "pct_R": 68.1,
    "modes": {
-    "election_day": {
-     "votes_D": 10272,
-     "votes_R": 21709,
-     "votes_other": 479
-    },
     "pre_election_day": {
      "votes_D": 6614,
      "votes_R": 15791,
      "votes_other": 239
+    },
+    "election_day": {
+     "votes_D": 10272,
+     "votes_R": 21709,
+     "votes_other": 479
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1566,7 +1566,7 @@
   },
   "22107": {
    "name": "Tensas",
-   "raw_name": "TENSAS",
+   "raw_name": "Tensas",
    "fips": "22107",
    "is_mappable": true,
    "votes_D": 1002,
@@ -1576,18 +1576,18 @@
    "pct_D": 47.1,
    "pct_R": 51.4,
    "modes": {
-    "election_day": {
-     "votes_D": 528,
-     "votes_R": 461,
-     "votes_other": 23
-    },
     "pre_election_day": {
      "votes_D": 474,
      "votes_R": 632,
      "votes_other": 10
+    },
+    "election_day": {
+     "votes_D": 528,
+     "votes_R": 461,
+     "votes_other": 23
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1595,7 +1595,7 @@
   },
   "22109": {
    "name": "Terrebonne",
-   "raw_name": "TERREBONNE",
+   "raw_name": "Terrebonne",
    "fips": "22109",
    "is_mappable": true,
    "votes_D": 9702,
@@ -1605,18 +1605,18 @@
    "pct_D": 23.5,
    "pct_R": 75.3,
    "modes": {
-    "election_day": {
-     "votes_D": 5826,
-     "votes_R": 17439,
-     "votes_other": 355
-    },
     "pre_election_day": {
      "votes_D": 3876,
      "votes_R": 13676,
      "votes_other": 155
+    },
+    "election_day": {
+     "votes_D": 5826,
+     "votes_R": 17439,
+     "votes_other": 355
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1624,7 +1624,7 @@
   },
   "22111": {
    "name": "Union",
-   "raw_name": "UNION",
+   "raw_name": "Union",
    "fips": "22111",
    "is_mappable": true,
    "votes_D": 2206,
@@ -1634,18 +1634,18 @@
    "pct_D": 21.1,
    "pct_R": 78.1,
    "modes": {
-    "election_day": {
-     "votes_D": 1313,
-     "votes_R": 4458,
-     "votes_other": 65
-    },
     "pre_election_day": {
      "votes_D": 893,
      "votes_R": 3718,
      "votes_other": 28
+    },
+    "election_day": {
+     "votes_D": 1313,
+     "votes_R": 4458,
+     "votes_other": 65
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1653,7 +1653,7 @@
   },
   "22113": {
    "name": "Vermilion",
-   "raw_name": "VERMILION",
+   "raw_name": "Vermilion",
    "fips": "22113",
    "is_mappable": true,
    "votes_D": 4637,
@@ -1663,18 +1663,18 @@
    "pct_D": 17.5,
    "pct_R": 81.4,
    "modes": {
-    "election_day": {
-     "votes_D": 2862,
-     "votes_R": 12578,
-     "votes_other": 203
-    },
     "pre_election_day": {
      "votes_D": 1775,
      "votes_R": 8932,
      "votes_other": 79
+    },
+    "election_day": {
+     "votes_D": 2862,
+     "votes_R": 12578,
+     "votes_other": 203
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1682,7 +1682,7 @@
   },
   "22115": {
    "name": "Vernon",
-   "raw_name": "VERNON",
+   "raw_name": "Vernon",
    "fips": "22115",
    "is_mappable": true,
    "votes_D": 2513,
@@ -1692,18 +1692,18 @@
    "pct_D": 15.6,
    "pct_R": 83.4,
    "modes": {
-    "election_day": {
-     "votes_D": 1169,
-     "votes_R": 7870,
-     "votes_other": 108
-    },
     "pre_election_day": {
      "votes_D": 1344,
      "votes_R": 5604,
      "votes_other": 54
+    },
+    "election_day": {
+     "votes_D": 1169,
+     "votes_R": 7870,
+     "votes_other": 108
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1711,7 +1711,7 @@
   },
   "22117": {
    "name": "Washington",
-   "raw_name": "WASHINGTON",
+   "raw_name": "Washington",
    "fips": "22117",
    "is_mappable": true,
    "votes_D": 5411,
@@ -1721,18 +1721,18 @@
    "pct_D": 29.3,
    "pct_R": 69.6,
    "modes": {
-    "election_day": {
-     "votes_D": 2926,
-     "votes_R": 6691,
-     "votes_other": 132
-    },
     "pre_election_day": {
      "votes_D": 2485,
      "votes_R": 6155,
      "votes_other": 66
+    },
+    "election_day": {
+     "votes_D": 2926,
+     "votes_R": 6691,
+     "votes_other": 132
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1740,7 +1740,7 @@
   },
   "22119": {
    "name": "Webster",
-   "raw_name": "WEBSTER",
+   "raw_name": "Webster",
    "fips": "22119",
    "is_mappable": true,
    "votes_D": 5053,
@@ -1750,18 +1750,18 @@
    "pct_D": 31.2,
    "pct_R": 67.7,
    "modes": {
-    "election_day": {
-     "votes_D": 2698,
-     "votes_R": 5594,
-     "votes_other": 102
-    },
     "pre_election_day": {
      "votes_D": 2355,
      "votes_R": 5371,
      "votes_other": 85
+    },
+    "election_day": {
+     "votes_D": 2698,
+     "votes_R": 5594,
+     "votes_other": 102
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1769,7 +1769,7 @@
   },
   "22121": {
    "name": "West Baton Rouge",
-   "raw_name": "WEST BATON ROUGE",
+   "raw_name": "West Baton Rouge",
    "fips": "22121",
    "is_mappable": true,
    "votes_D": 6008,
@@ -1779,18 +1779,18 @@
    "pct_D": 43.4,
    "pct_R": 55.1,
    "modes": {
-    "election_day": {
-     "votes_D": 2930,
-     "votes_R": 3090,
-     "votes_other": 109
-    },
     "pre_election_day": {
      "votes_D": 3078,
      "votes_R": 4537,
      "votes_other": 92
+    },
+    "election_day": {
+     "votes_D": 2930,
+     "votes_R": 3090,
+     "votes_other": 109
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1798,7 +1798,7 @@
   },
   "22123": {
    "name": "West Carroll",
-   "raw_name": "WEST CARROLL",
+   "raw_name": "West Carroll",
    "fips": "22123",
    "is_mappable": true,
    "votes_D": 578,
@@ -1808,18 +1808,18 @@
    "pct_D": 12.6,
    "pct_R": 86.6,
    "modes": {
-    "election_day": {
-     "votes_D": 354,
-     "votes_R": 1700,
-     "votes_other": 20
-    },
     "pre_election_day": {
      "votes_D": 224,
      "votes_R": 2286,
      "votes_other": 19
+    },
+    "election_day": {
+     "votes_D": 354,
+     "votes_R": 1700,
+     "votes_other": 20
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1827,7 +1827,7 @@
   },
   "22125": {
    "name": "West Feliciana",
-   "raw_name": "WEST FELICIANA",
+   "raw_name": "West Feliciana",
    "fips": "22125",
    "is_mappable": true,
    "votes_D": 2004,
@@ -1837,18 +1837,18 @@
    "pct_D": 33.4,
    "pct_R": 65.3,
    "modes": {
-    "election_day": {
-     "votes_D": 924,
-     "votes_R": 1635,
-     "votes_other": 45
-    },
     "pre_election_day": {
      "votes_D": 1080,
      "votes_R": 2288,
      "votes_other": 36
+    },
+    "election_day": {
+     "votes_D": 924,
+     "votes_R": 1635,
+     "votes_other": 45
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",
@@ -1856,7 +1856,7 @@
   },
   "22127": {
    "name": "Winn",
-   "raw_name": "WINN",
+   "raw_name": "Winn",
    "fips": "22127",
    "is_mappable": true,
    "votes_D": 1292,
@@ -1866,18 +1866,18 @@
    "pct_D": 22.3,
    "pct_R": 76.8,
    "modes": {
-    "election_day": {
-     "votes_D": 803,
-     "votes_R": 2205,
-     "votes_other": 32
-    },
     "pre_election_day": {
      "votes_D": 489,
      "votes_R": 2232,
      "votes_other": 20
+    },
+    "election_day": {
+     "votes_D": 803,
+     "votes_R": 2205,
+     "votes_other": 32
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "LA-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "C2",

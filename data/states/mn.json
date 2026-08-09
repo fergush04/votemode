@@ -29,7 +29,7 @@
  "units": {
   "27001": {
    "name": "Aitkin",
-   "raw_name": "AITKIN",
+   "raw_name": "Aitkin",
    "fips": "27001",
    "is_mappable": true,
    "votes_D": 3524,
@@ -45,7 +45,7 @@
      "votes_other": 181
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -53,7 +53,7 @@
   },
   "27003": {
    "name": "Anoka",
-   "raw_name": "ANOKA",
+   "raw_name": "Anoka",
    "fips": "27003",
    "is_mappable": true,
    "votes_D": 97667,
@@ -69,7 +69,7 @@
      "votes_other": 5840
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -77,7 +77,7 @@
   },
   "27005": {
    "name": "Becker",
-   "raw_name": "BECKER",
+   "raw_name": "Becker",
    "fips": "27005",
    "is_mappable": true,
    "votes_D": 6435,
@@ -93,7 +93,7 @@
      "votes_other": 343
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -101,7 +101,7 @@
   },
   "27007": {
    "name": "Beltrami",
-   "raw_name": "BELTRAMI",
+   "raw_name": "Beltrami",
    "fips": "27007",
    "is_mappable": true,
    "votes_D": 11493,
@@ -117,7 +117,7 @@
      "votes_other": 483
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -125,7 +125,7 @@
   },
   "27009": {
    "name": "Benton",
-   "raw_name": "BENTON",
+   "raw_name": "Benton",
    "fips": "27009",
    "is_mappable": true,
    "votes_D": 7084,
@@ -141,7 +141,7 @@
      "votes_other": 480
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -149,7 +149,7 @@
   },
   "27011": {
    "name": "Big Stone",
-   "raw_name": "BIG STONE",
+   "raw_name": "Big Stone",
    "fips": "27011",
    "is_mappable": true,
    "votes_D": 964,
@@ -165,7 +165,7 @@
      "votes_other": 64
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -173,7 +173,7 @@
   },
   "27013": {
    "name": "Blue Earth",
-   "raw_name": "BLUE EARTH",
+   "raw_name": "Blue Earth",
    "fips": "27013",
    "is_mappable": true,
    "votes_D": 17558,
@@ -189,7 +189,7 @@
      "votes_other": 883
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -197,7 +197,7 @@
   },
   "27015": {
    "name": "Brown",
-   "raw_name": "BROWN",
+   "raw_name": "Brown",
    "fips": "27015",
    "is_mappable": true,
    "votes_D": 4576,
@@ -213,7 +213,7 @@
      "votes_other": 330
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -221,7 +221,7 @@
   },
   "27017": {
    "name": "Carlton",
-   "raw_name": "CARLTON",
+   "raw_name": "Carlton",
    "fips": "27017",
    "is_mappable": true,
    "votes_D": 9905,
@@ -237,7 +237,7 @@
      "votes_other": 475
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -245,7 +245,7 @@
   },
   "27019": {
    "name": "Carver",
-   "raw_name": "CARVER",
+   "raw_name": "Carver",
    "fips": "27019",
    "is_mappable": true,
    "votes_D": 31869,
@@ -261,7 +261,7 @@
      "votes_other": 1705
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -269,7 +269,7 @@
   },
   "27021": {
    "name": "Cass",
-   "raw_name": "CASS",
+   "raw_name": "Cass",
    "fips": "27021",
    "is_mappable": true,
    "votes_D": 6300,
@@ -285,7 +285,7 @@
      "votes_other": 304
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -293,7 +293,7 @@
   },
   "27023": {
    "name": "Chippewa",
-   "raw_name": "CHIPPEWA",
+   "raw_name": "Chippewa",
    "fips": "27023",
    "is_mappable": true,
    "votes_D": 2026,
@@ -309,7 +309,7 @@
      "votes_other": 117
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -317,7 +317,7 @@
   },
   "27025": {
    "name": "Chisago",
-   "raw_name": "CHISAGO",
+   "raw_name": "Chisago",
    "fips": "27025",
    "is_mappable": true,
    "votes_D": 11894,
@@ -333,7 +333,7 @@
      "votes_other": 660
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -341,7 +341,7 @@
   },
   "27027": {
    "name": "Clay",
-   "raw_name": "CLAY",
+   "raw_name": "Clay",
    "fips": "27027",
    "is_mappable": true,
    "votes_D": 16121,
@@ -357,7 +357,7 @@
      "votes_other": 788
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -365,7 +365,7 @@
   },
   "27029": {
    "name": "Clearwater",
-   "raw_name": "CLEARWATER",
+   "raw_name": "Clearwater",
    "fips": "27029",
    "is_mappable": true,
    "votes_D": 1169,
@@ -381,7 +381,7 @@
      "votes_other": 70
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -389,7 +389,7 @@
   },
   "27031": {
    "name": "Cook",
-   "raw_name": "COOK",
+   "raw_name": "Cook",
    "fips": "27031",
    "is_mappable": true,
    "votes_D": 2416,
@@ -405,7 +405,7 @@
      "votes_other": 102
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -413,7 +413,7 @@
   },
   "27033": {
    "name": "Cottonwood",
-   "raw_name": "COTTONWOOD",
+   "raw_name": "Cottonwood",
    "fips": "27033",
    "is_mappable": true,
    "votes_D": 1705,
@@ -429,7 +429,7 @@
      "votes_other": 126
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -437,7 +437,7 @@
   },
   "27035": {
    "name": "Crow Wing",
-   "raw_name": "CROW WING",
+   "raw_name": "Crow Wing",
    "fips": "27035",
    "is_mappable": true,
    "votes_D": 14173,
@@ -453,7 +453,7 @@
      "votes_other": 770
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -461,7 +461,7 @@
   },
   "27037": {
    "name": "Dakota",
-   "raw_name": "DAKOTA",
+   "raw_name": "Dakota",
    "fips": "27037",
    "is_mappable": true,
    "votes_D": 143267,
@@ -477,7 +477,7 @@
      "votes_other": 6543
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -485,7 +485,7 @@
   },
   "27039": {
    "name": "Dodge",
-   "raw_name": "DODGE",
+   "raw_name": "Dodge",
    "fips": "27039",
    "is_mappable": true,
    "votes_D": 4108,
@@ -501,7 +501,7 @@
      "votes_other": 281
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -509,7 +509,7 @@
   },
   "27041": {
    "name": "Douglas",
-   "raw_name": "DOUGLAS",
+   "raw_name": "Douglas",
    "fips": "27041",
    "is_mappable": true,
    "votes_D": 7938,
@@ -525,7 +525,7 @@
      "votes_other": 442
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -533,7 +533,7 @@
   },
   "27043": {
    "name": "Faribault",
-   "raw_name": "FARIBAULT",
+   "raw_name": "Faribault",
    "fips": "27043",
    "is_mappable": true,
    "votes_D": 2352,
@@ -549,7 +549,7 @@
      "votes_other": 162
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -557,7 +557,7 @@
   },
   "27045": {
    "name": "Fillmore",
-   "raw_name": "FILLMORE",
+   "raw_name": "Fillmore",
    "fips": "27045",
    "is_mappable": true,
    "votes_D": 4491,
@@ -573,7 +573,7 @@
      "votes_other": 256
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -581,7 +581,7 @@
   },
   "27047": {
    "name": "Freeborn",
-   "raw_name": "FREEBORN",
+   "raw_name": "Freeborn",
    "fips": "27047",
    "is_mappable": true,
    "votes_D": 6448,
@@ -597,7 +597,7 @@
      "votes_other": 253
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -605,7 +605,7 @@
   },
   "27049": {
    "name": "Goodhue",
-   "raw_name": "GOODHUE",
+   "raw_name": "Goodhue",
    "fips": "27049",
    "is_mappable": true,
    "votes_D": 11731,
@@ -621,7 +621,7 @@
      "votes_other": 625
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -629,7 +629,7 @@
   },
   "27051": {
    "name": "Grant",
-   "raw_name": "GRANT",
+   "raw_name": "Grant",
    "fips": "27051",
    "is_mappable": true,
    "votes_D": 1187,
@@ -645,7 +645,7 @@
      "votes_other": 90
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -653,7 +653,7 @@
   },
   "27053": {
    "name": "Hennepin",
-   "raw_name": "HENNEPIN",
+   "raw_name": "Hennepin",
    "fips": "27053",
    "is_mappable": true,
    "votes_D": 502710,
@@ -669,7 +669,7 @@
      "votes_other": 20219
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -677,7 +677,7 @@
   },
   "27055": {
    "name": "Houston",
-   "raw_name": "HOUSTON",
+   "raw_name": "Houston",
    "fips": "27055",
    "is_mappable": true,
    "votes_D": 4667,
@@ -693,7 +693,7 @@
      "votes_other": 214
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -701,7 +701,7 @@
   },
   "27057": {
    "name": "Hubbard",
-   "raw_name": "HUBBARD",
+   "raw_name": "Hubbard",
    "fips": "27057",
    "is_mappable": true,
    "votes_D": 4536,
@@ -717,7 +717,7 @@
      "votes_other": 272
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -725,7 +725,7 @@
   },
   "27059": {
    "name": "Isanti",
-   "raw_name": "ISANTI",
+   "raw_name": "Isanti",
    "fips": "27059",
    "is_mappable": true,
    "votes_D": 7384,
@@ -741,7 +741,7 @@
      "votes_other": 507
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -749,7 +749,7 @@
   },
   "27061": {
    "name": "Itasca",
-   "raw_name": "ITASCA",
+   "raw_name": "Itasca",
    "fips": "27061",
    "is_mappable": true,
    "votes_D": 10467,
@@ -765,7 +765,7 @@
      "votes_other": 510
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -773,7 +773,7 @@
   },
   "27063": {
    "name": "Jackson",
-   "raw_name": "JACKSON",
+   "raw_name": "Jackson",
    "fips": "27063",
    "is_mappable": true,
    "votes_D": 1581,
@@ -789,7 +789,7 @@
      "votes_other": 114
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -797,7 +797,7 @@
   },
   "27065": {
    "name": "Kanabec",
-   "raw_name": "KANABEC",
+   "raw_name": "Kanabec",
    "fips": "27065",
    "is_mappable": true,
    "votes_D": 2718,
@@ -813,7 +813,7 @@
      "votes_other": 167
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -821,7 +821,7 @@
   },
   "27067": {
    "name": "Kandiyohi",
-   "raw_name": "KANDIYOHI",
+   "raw_name": "Kandiyohi",
    "fips": "27067",
    "is_mappable": true,
    "votes_D": 7814,
@@ -837,7 +837,7 @@
      "votes_other": 455
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -845,7 +845,7 @@
   },
   "27069": {
    "name": "Kittson",
-   "raw_name": "KITTSON",
+   "raw_name": "Kittson",
    "fips": "27069",
    "is_mappable": true,
    "votes_D": 911,
@@ -861,7 +861,7 @@
      "votes_other": 54
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -869,7 +869,7 @@
   },
   "27071": {
    "name": "Koochiching",
-   "raw_name": "KOOCHICHING",
+   "raw_name": "Koochiching",
    "fips": "27071",
    "is_mappable": true,
    "votes_D": 2465,
@@ -885,7 +885,7 @@
      "votes_other": 120
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -893,7 +893,7 @@
   },
   "27073": {
    "name": "Lac qui Parle",
-   "raw_name": "LAC QUI PARLE",
+   "raw_name": "Lac qui Parle",
    "fips": "27073",
    "is_mappable": true,
    "votes_D": 1314,
@@ -909,7 +909,7 @@
      "votes_other": 82
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -917,7 +917,7 @@
   },
   "27075": {
    "name": "Lake",
-   "raw_name": "LAKE",
+   "raw_name": "Lake",
    "fips": "27075",
    "is_mappable": true,
    "votes_D": 3534,
@@ -933,7 +933,7 @@
      "votes_other": 155
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -941,7 +941,7 @@
   },
   "27077": {
    "name": "Lake of the Woods",
-   "raw_name": "LAKE OF THE WOODS",
+   "raw_name": "Lake of the Woods",
    "fips": "27077",
    "is_mappable": true,
    "votes_D": 604,
@@ -957,7 +957,7 @@
      "votes_other": 33
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -965,7 +965,7 @@
   },
   "27079": {
    "name": "Le Sueur",
-   "raw_name": "LE SUEUR",
+   "raw_name": "Le Sueur",
    "fips": "27079",
    "is_mappable": true,
    "votes_D": 5636,
@@ -981,7 +981,7 @@
      "votes_other": 330
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -989,7 +989,7 @@
   },
   "27081": {
    "name": "Lincoln",
-   "raw_name": "LINCOLN",
+   "raw_name": "Lincoln",
    "fips": "27081",
    "is_mappable": true,
    "votes_D": 972,
@@ -1005,7 +1005,7 @@
      "votes_other": 73
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1013,7 +1013,7 @@
   },
   "27083": {
    "name": "Lyon",
-   "raw_name": "LYON",
+   "raw_name": "Lyon",
    "fips": "27083",
    "is_mappable": true,
    "votes_D": 4284,
@@ -1029,7 +1029,7 @@
      "votes_other": 306
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1037,7 +1037,7 @@
   },
   "27087": {
    "name": "Mahnomen",
-   "raw_name": "MAHNOMEN",
+   "raw_name": "Mahnomen",
    "fips": "27087",
    "is_mappable": true,
    "votes_D": 975,
@@ -1053,7 +1053,7 @@
      "votes_other": 43
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1061,7 +1061,7 @@
   },
   "27089": {
    "name": "Marshall",
-   "raw_name": "MARSHALL",
+   "raw_name": "Marshall",
    "fips": "27089",
    "is_mappable": true,
    "votes_D": 1177,
@@ -1077,7 +1077,7 @@
      "votes_other": 80
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1085,7 +1085,7 @@
   },
   "27091": {
    "name": "Martin",
-   "raw_name": "MARTIN",
+   "raw_name": "Martin",
    "fips": "27091",
    "is_mappable": true,
    "votes_D": 3171,
@@ -1101,7 +1101,7 @@
      "votes_other": 183
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1109,7 +1109,7 @@
   },
   "27085": {
    "name": "McLeod",
-   "raw_name": "MCLEOD",
+   "raw_name": "McLeod",
    "fips": "27085",
    "is_mappable": true,
    "votes_D": 6374,
@@ -1125,7 +1125,7 @@
      "votes_other": 431
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1133,7 +1133,7 @@
   },
   "27093": {
    "name": "Meeker",
-   "raw_name": "MEEKER",
+   "raw_name": "Meeker",
    "fips": "27093",
    "is_mappable": true,
    "votes_D": 3802,
@@ -1149,7 +1149,7 @@
      "votes_other": 247
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1157,7 +1157,7 @@
   },
   "27095": {
    "name": "Mille Lacs",
-   "raw_name": "MILLE LACS",
+   "raw_name": "Mille Lacs",
    "fips": "27095",
    "is_mappable": true,
    "votes_D": 4374,
@@ -1173,7 +1173,7 @@
      "votes_other": 246
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1181,7 +1181,7 @@
   },
   "27097": {
    "name": "Morrison",
-   "raw_name": "MORRISON",
+   "raw_name": "Morrison",
    "fips": "27097",
    "is_mappable": true,
    "votes_D": 4306,
@@ -1197,7 +1197,7 @@
      "votes_other": 341
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1205,7 +1205,7 @@
   },
   "27099": {
    "name": "Mower",
-   "raw_name": "MOWER",
+   "raw_name": "Mower",
    "fips": "27099",
    "is_mappable": true,
    "votes_D": 8312,
@@ -1221,7 +1221,7 @@
      "votes_other": 360
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1229,7 +1229,7 @@
   },
   "27101": {
    "name": "Murray",
-   "raw_name": "MURRAY",
+   "raw_name": "Murray",
    "fips": "27101",
    "is_mappable": true,
    "votes_D": 1329,
@@ -1245,7 +1245,7 @@
      "votes_other": 94
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1253,7 +1253,7 @@
   },
   "27103": {
    "name": "Nicollet",
-   "raw_name": "NICOLLET",
+   "raw_name": "Nicollet",
    "fips": "27103",
    "is_mappable": true,
    "votes_D": 9441,
@@ -1269,7 +1269,7 @@
      "votes_other": 436
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1277,7 +1277,7 @@
   },
   "27105": {
    "name": "Nobles",
-   "raw_name": "NOBLES",
+   "raw_name": "Nobles",
    "fips": "27105",
    "is_mappable": true,
    "votes_D": 2599,
@@ -1293,7 +1293,7 @@
      "votes_other": 135
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1301,7 +1301,7 @@
   },
   "27107": {
    "name": "Norman",
-   "raw_name": "NORMAN",
+   "raw_name": "Norman",
    "fips": "27107",
    "is_mappable": true,
    "votes_D": 1233,
@@ -1317,7 +1317,7 @@
      "votes_other": 98
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1325,7 +1325,7 @@
   },
   "27109": {
    "name": "Olmsted",
-   "raw_name": "OLMSTED",
+   "raw_name": "Olmsted",
    "fips": "27109",
    "is_mappable": true,
    "votes_D": 49121,
@@ -1341,7 +1341,7 @@
      "votes_other": 2336
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1349,7 +1349,7 @@
   },
   "27111": {
    "name": "Otter Tail",
-   "raw_name": "OTTER TAIL",
+   "raw_name": "Otter Tail",
    "fips": "27111",
    "is_mappable": true,
    "votes_D": 11752,
@@ -1365,7 +1365,7 @@
      "votes_other": 708
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1373,7 +1373,7 @@
   },
   "27113": {
    "name": "Pennington",
-   "raw_name": "PENNINGTON",
+   "raw_name": "Pennington",
    "fips": "27113",
    "is_mappable": true,
    "votes_D": 2439,
@@ -1389,7 +1389,7 @@
      "votes_other": 186
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1397,7 +1397,7 @@
   },
   "27115": {
    "name": "Pine",
-   "raw_name": "PINE",
+   "raw_name": "Pine",
    "fips": "27115",
    "is_mappable": true,
    "votes_D": 5339,
@@ -1413,7 +1413,7 @@
      "votes_other": 298
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1421,7 +1421,7 @@
   },
   "27117": {
    "name": "Pipestone",
-   "raw_name": "PIPESTONE",
+   "raw_name": "Pipestone",
    "fips": "27117",
    "is_mappable": true,
    "votes_D": 1215,
@@ -1437,7 +1437,7 @@
      "votes_other": 85
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1445,7 +1445,7 @@
   },
   "27119": {
    "name": "Polk",
-   "raw_name": "POLK",
+   "raw_name": "Polk",
    "fips": "27119",
    "is_mappable": true,
    "votes_D": 4967,
@@ -1461,7 +1461,7 @@
      "votes_other": 290
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1469,7 +1469,7 @@
   },
   "27121": {
    "name": "Pope",
-   "raw_name": "POPE",
+   "raw_name": "Pope",
    "fips": "27121",
    "is_mappable": true,
    "votes_D": 2398,
@@ -1485,7 +1485,7 @@
      "votes_other": 143
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1493,7 +1493,7 @@
   },
   "27123": {
    "name": "Ramsey",
-   "raw_name": "RAMSEY",
+   "raw_name": "Ramsey",
    "fips": "27123",
    "is_mappable": true,
    "votes_D": 195168,
@@ -1509,7 +1509,7 @@
      "votes_other": 7573
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1517,7 +1517,7 @@
   },
   "27125": {
    "name": "Red Lake",
-   "raw_name": "RED LAKE",
+   "raw_name": "Red Lake",
    "fips": "27125",
    "is_mappable": true,
    "votes_D": 642,
@@ -1533,7 +1533,7 @@
      "votes_other": 49
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1541,7 +1541,7 @@
   },
   "27127": {
    "name": "Redwood",
-   "raw_name": "REDWOOD",
+   "raw_name": "Redwood",
    "fips": "27127",
    "is_mappable": true,
    "votes_D": 2300,
@@ -1557,7 +1557,7 @@
      "votes_other": 131
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1565,7 +1565,7 @@
   },
   "27129": {
    "name": "Renville",
-   "raw_name": "RENVILLE",
+   "raw_name": "Renville",
    "fips": "27129",
    "is_mappable": true,
    "votes_D": 2280,
@@ -1581,7 +1581,7 @@
      "votes_other": 168
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1589,7 +1589,7 @@
   },
   "27131": {
    "name": "Rice",
-   "raw_name": "RICE",
+   "raw_name": "Rice",
    "fips": "27131",
    "is_mappable": true,
    "votes_D": 17353,
@@ -1605,7 +1605,7 @@
      "votes_other": 795
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1613,7 +1613,7 @@
   },
   "27133": {
    "name": "Rock",
-   "raw_name": "ROCK",
+   "raw_name": "Rock",
    "fips": "27133",
    "is_mappable": true,
    "votes_D": 1585,
@@ -1629,7 +1629,7 @@
      "votes_other": 98
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1637,7 +1637,7 @@
   },
   "27135": {
    "name": "Roseau",
-   "raw_name": "ROSEAU",
+   "raw_name": "Roseau",
    "fips": "27135",
    "is_mappable": true,
    "votes_D": 2093,
@@ -1653,7 +1653,7 @@
      "votes_other": 127
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1661,7 +1661,7 @@
   },
   "27139": {
    "name": "Scott",
-   "raw_name": "SCOTT",
+   "raw_name": "Scott",
    "fips": "27139",
    "is_mappable": true,
    "votes_D": 40214,
@@ -1677,7 +1677,7 @@
      "votes_other": 2090
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1685,7 +1685,7 @@
   },
   "27141": {
    "name": "Sherburne",
-   "raw_name": "SHERBURNE",
+   "raw_name": "Sherburne",
    "fips": "27141",
    "is_mappable": true,
    "votes_D": 18329,
@@ -1701,7 +1701,7 @@
      "votes_other": 1140
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1709,7 +1709,7 @@
   },
   "27143": {
    "name": "Sibley",
-   "raw_name": "SIBLEY",
+   "raw_name": "Sibley",
    "fips": "27143",
    "is_mappable": true,
    "votes_D": 2351,
@@ -1725,7 +1725,7 @@
      "votes_other": 172
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1733,7 +1733,7 @@
   },
   "27137": {
    "name": "St. Louis",
-   "raw_name": "ST. LOUIS",
+   "raw_name": "St. Louis",
    "fips": "27137",
    "is_mappable": true,
    "votes_D": 66335,
@@ -1749,7 +1749,7 @@
      "votes_other": 2609
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1757,7 +1757,7 @@
   },
   "27145": {
    "name": "Stearns",
-   "raw_name": "STEARNS",
+   "raw_name": "Stearns",
    "fips": "27145",
    "is_mappable": true,
    "votes_D": 30829,
@@ -1773,7 +1773,7 @@
      "votes_other": 1871
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1781,7 +1781,7 @@
   },
   "27147": {
    "name": "Steele",
-   "raw_name": "STEELE",
+   "raw_name": "Steele",
    "fips": "27147",
    "is_mappable": true,
    "votes_D": 7650,
@@ -1797,7 +1797,7 @@
      "votes_other": 480
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1805,7 +1805,7 @@
   },
   "27149": {
    "name": "Stevens",
-   "raw_name": "STEVENS",
+   "raw_name": "Stevens",
    "fips": "27149",
    "is_mappable": true,
    "votes_D": 1827,
@@ -1821,7 +1821,7 @@
      "votes_other": 99
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1829,7 +1829,7 @@
   },
   "27151": {
    "name": "Swift",
-   "raw_name": "SWIFT",
+   "raw_name": "Swift",
    "fips": "27151",
    "is_mappable": true,
    "votes_D": 1618,
@@ -1845,7 +1845,7 @@
      "votes_other": 96
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1853,7 +1853,7 @@
   },
   "27153": {
    "name": "Todd",
-   "raw_name": "TODD",
+   "raw_name": "Todd",
    "fips": "27153",
    "is_mappable": true,
    "votes_D": 3072,
@@ -1869,7 +1869,7 @@
      "votes_other": 254
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1877,7 +1877,7 @@
   },
   "27155": {
    "name": "Traverse",
-   "raw_name": "TRAVERSE",
+   "raw_name": "Traverse",
    "fips": "27155",
    "is_mappable": true,
    "votes_D": 597,
@@ -1893,7 +1893,7 @@
      "votes_other": 40
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1901,7 +1901,7 @@
   },
   "27157": {
    "name": "Wabasha",
-   "raw_name": "WABASHA",
+   "raw_name": "Wabasha",
    "fips": "27157",
    "is_mappable": true,
    "votes_D": 4721,
@@ -1917,7 +1917,7 @@
      "votes_other": 265
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1925,7 +1925,7 @@
   },
   "27159": {
    "name": "Wadena",
-   "raw_name": "WADENA",
+   "raw_name": "Wadena",
    "fips": "27159",
    "is_mappable": true,
    "votes_D": 1898,
@@ -1941,7 +1941,7 @@
      "votes_other": 121
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1949,7 +1949,7 @@
   },
   "27161": {
    "name": "Waseca",
-   "raw_name": "WASECA",
+   "raw_name": "Waseca",
    "fips": "27161",
    "is_mappable": true,
    "votes_D": 3402,
@@ -1965,7 +1965,7 @@
      "votes_other": 215
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1973,7 +1973,7 @@
   },
   "27163": {
    "name": "Washington",
-   "raw_name": "WASHINGTON",
+   "raw_name": "Washington",
    "fips": "27163",
    "is_mappable": true,
    "votes_D": 90324,
@@ -1989,7 +1989,7 @@
      "votes_other": 3941
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -1997,7 +1997,7 @@
   },
   "27165": {
    "name": "Watonwan",
-   "raw_name": "WATONWAN",
+   "raw_name": "Watonwan",
    "fips": "27165",
    "is_mappable": true,
    "votes_D": 1723,
@@ -2013,7 +2013,7 @@
      "votes_other": 123
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2021,7 +2021,7 @@
   },
   "27167": {
    "name": "Wilkin",
-   "raw_name": "WILKIN",
+   "raw_name": "Wilkin",
    "fips": "27167",
    "is_mappable": true,
    "votes_D": 986,
@@ -2037,7 +2037,7 @@
      "votes_other": 77
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2045,7 +2045,7 @@
   },
   "27169": {
    "name": "Winona",
-   "raw_name": "WINONA",
+   "raw_name": "Winona",
    "fips": "27169",
    "is_mappable": true,
    "votes_D": 12929,
@@ -2061,7 +2061,7 @@
      "votes_other": 580
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2069,7 +2069,7 @@
   },
   "27171": {
    "name": "Wright",
-   "raw_name": "WRIGHT",
+   "raw_name": "Wright",
    "fips": "27171",
    "is_mappable": true,
    "votes_D": 30883,
@@ -2085,7 +2085,7 @@
      "votes_other": 1947
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
@@ -2093,7 +2093,7 @@
   },
   "27173": {
    "name": "Yellow Medicine",
-   "raw_name": "YELLOW MEDICINE",
+   "raw_name": "Yellow Medicine",
    "fips": "27173",
    "is_mappable": true,
    "votes_D": 1548,
@@ -2109,7 +2109,7 @@
      "votes_other": 124
     }
    },
-   "data_source": "SOS-Web",
+   "data_source": "MN-SOS",
    "official_results": true,
    "pct_off_official": 0.0,
    "completeness": "U",
