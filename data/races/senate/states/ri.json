@@ -1,0 +1,1393 @@
+{
+ "race": "senate",
+ "race_label": "Senate",
+ "race_type": "senate",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Sheldon Whitehouse",
+ "candidate_R": "Patricia Morgan",
+ "state": "Rhode Island",
+ "state_abbr": "RI",
+ "unit_type": "town",
+ "avg_completeness": "C3",
+ "completeness_breakdown": {
+  "C3": 39,
+  "C1": 1
+ },
+ "votes_D": 294665,
+ "votes_R": 196039,
+ "votes_other": 1244,
+ "total_votes": 491948,
+ "pct_D": 59.9,
+ "pct_R": 39.8,
+ "unit_count": 40,
+ "state_profile": {
+  "voting_summary": "Rhode Island pairs 20 days of early in-person voting (33% of the 2024 vote) with no-excuse mail (10%), and mail must arrive by the 8 p.m. Eastern close. Pre-processed mail and early votes are released first, then election day precincts report, and the state is essentially complete the same night, with a small federal-ballot pool (overseas voters) reported statewide. Mail ran D+52 and early voting D+18 against D+4 on election day, so the first batches are the bluest of the night.",
+  "reporting_notes": "",
+  "tags": [
+   "Early in-person",
+   "No-excuse mail",
+   "Pre-processed",
+   "Fast count"
+  ],
+  "mode_split": {
+   "election_day": 55.0,
+   "early_in_person": 34.1,
+   "mail": 10.6,
+   "overseas": 0.3
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "barrington": {
+   "name": "BARRINGTON",
+   "raw_name": "Barrington",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7282,
+   "votes_R": 3105,
+   "votes_other": 22,
+   "total_votes": 10409,
+   "pct_D": 70.0,
+   "pct_R": 29.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 3530,
+     "votes_R": 1339,
+     "votes_other": 7
+    },
+    "election_day": {
+     "votes_D": 2723,
+     "votes_R": 1515,
+     "votes_other": 13
+    },
+    "mail": {
+     "votes_D": 1029,
+     "votes_R": 251,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "bristol": {
+   "name": "BRISTOL",
+   "raw_name": "Bristol",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6680,
+   "votes_R": 4484,
+   "votes_other": 14,
+   "total_votes": 11178,
+   "pct_D": 59.8,
+   "pct_R": 40.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2952,
+     "votes_R": 1767,
+     "votes_other": 2
+    },
+    "election_day": {
+     "votes_D": 2687,
+     "votes_R": 2427,
+     "votes_other": 10
+    },
+    "mail": {
+     "votes_D": 1041,
+     "votes_R": 290,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "burrillville": {
+   "name": "BURRILLVILLE",
+   "raw_name": "Burrillville",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3480,
+   "votes_R": 4934,
+   "votes_other": 13,
+   "total_votes": 8427,
+   "pct_D": 41.3,
+   "pct_R": 58.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1225,
+     "votes_R": 1782,
+     "votes_other": 4
+    },
+    "election_day": {
+     "votes_D": 1707,
+     "votes_R": 2940,
+     "votes_other": 8
+    },
+    "mail": {
+     "votes_D": 548,
+     "votes_R": 212,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "central_falls": {
+   "name": "CENTRAL FALLS",
+   "raw_name": "Central Falls",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2297,
+   "votes_R": 843,
+   "votes_other": 6,
+   "total_votes": 3146,
+   "pct_D": 73.0,
+   "pct_R": 26.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 528,
+     "votes_R": 178,
+     "votes_other": 3
+    },
+    "election_day": {
+     "votes_D": 1600,
+     "votes_R": 612,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 169,
+     "votes_R": 53,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "charlestown": {
+   "name": "CHARLESTOWN",
+   "raw_name": "Charlestown",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2901,
+   "votes_R": 2290,
+   "votes_other": 6,
+   "total_votes": 5197,
+   "pct_D": 55.8,
+   "pct_R": 44.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1512,
+     "votes_R": 1161,
+     "votes_other": 2
+    },
+    "election_day": {
+     "votes_D": 949,
+     "votes_R": 968,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 440,
+     "votes_R": 161,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "coventry": {
+   "name": "COVENTRY",
+   "raw_name": "Coventry",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 9293,
+   "votes_R": 10359,
+   "votes_other": 33,
+   "total_votes": 19685,
+   "pct_D": 47.2,
+   "pct_R": 52.6,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 3212,
+     "votes_R": 3399,
+     "votes_other": 6
+    },
+    "election_day": {
+     "votes_D": 4910,
+     "votes_R": 6460,
+     "votes_other": 25
+    },
+    "mail": {
+     "votes_D": 1171,
+     "votes_R": 500,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "cranston": {
+   "name": "CRANSTON",
+   "raw_name": "Cranston",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 22671,
+   "votes_R": 16452,
+   "votes_other": 111,
+   "total_votes": 39234,
+   "pct_D": 57.8,
+   "pct_R": 41.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 7003,
+     "votes_R": 5196,
+     "votes_other": 30
+    },
+    "election_day": {
+     "votes_D": 12719,
+     "votes_R": 10321,
+     "votes_other": 76
+    },
+    "mail": {
+     "votes_D": 2949,
+     "votes_R": 935,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "cumberland": {
+   "name": "CUMBERLAND",
+   "raw_name": "Cumberland",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 10577,
+   "votes_R": 8098,
+   "votes_other": 38,
+   "total_votes": 18713,
+   "pct_D": 56.5,
+   "pct_R": 43.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 3185,
+     "votes_R": 2333,
+     "votes_other": 10
+    },
+    "election_day": {
+     "votes_D": 5922,
+     "votes_R": 5283,
+     "votes_other": 23
+    },
+    "mail": {
+     "votes_D": 1470,
+     "votes_R": 482,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "east_greenwich": {
+   "name": "EAST GREENWICH",
+   "raw_name": "East Greenwich",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5115,
+   "votes_R": 3276,
+   "votes_other": 21,
+   "total_votes": 8412,
+   "pct_D": 60.8,
+   "pct_R": 38.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2164,
+     "votes_R": 1343,
+     "votes_other": 7
+    },
+    "election_day": {
+     "votes_D": 2164,
+     "votes_R": 1699,
+     "votes_other": 11
+    },
+    "mail": {
+     "votes_D": 787,
+     "votes_R": 234,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "east_providence": {
+   "name": "EAST PROVIDENCE",
+   "raw_name": "East Providence",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 14213,
+   "votes_R": 7742,
+   "votes_other": 64,
+   "total_votes": 22019,
+   "pct_D": 64.5,
+   "pct_R": 35.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 5668,
+     "votes_R": 2774,
+     "votes_other": 19
+    },
+    "election_day": {
+     "votes_D": 6646,
+     "votes_R": 4556,
+     "votes_other": 43
+    },
+    "mail": {
+     "votes_D": 1899,
+     "votes_R": 412,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "exeter": {
+   "name": "EXETER",
+   "raw_name": "Exeter",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1885,
+   "votes_R": 2085,
+   "votes_other": 5,
+   "total_votes": 3975,
+   "pct_D": 47.4,
+   "pct_R": 52.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 890,
+     "votes_R": 933,
+     "votes_other": 2
+    },
+    "election_day": {
+     "votes_D": 761,
+     "votes_R": 1069,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 234,
+     "votes_R": 83,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "federal": {
+   "name": "FEDERAL",
+   "raw_name": "Federal",
+   "fips": null,
+   "is_mappable": false,
+   "votes_D": 1356,
+   "votes_R": 112,
+   "votes_other": 5,
+   "total_votes": 1473,
+   "pct_D": 92.1,
+   "pct_R": 7.6,
+   "modes": {
+    "overseas": {
+     "votes_D": 1356,
+     "votes_R": 112,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "foster": {
+   "name": "FOSTER",
+   "raw_name": "Foster",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1198,
+   "votes_R": 1676,
+   "votes_other": 4,
+   "total_votes": 2878,
+   "pct_D": 41.6,
+   "pct_R": 58.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 506,
+     "votes_R": 556,
+     "votes_other": 1
+    },
+    "election_day": {
+     "votes_D": 563,
+     "votes_R": 1068,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 129,
+     "votes_R": 52,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "glocester": {
+   "name": "GLOCESTER",
+   "raw_name": "Glocester",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2615,
+   "votes_R": 3558,
+   "votes_other": 11,
+   "total_votes": 6184,
+   "pct_D": 42.3,
+   "pct_R": 57.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1131,
+     "votes_R": 1603,
+     "votes_other": 2
+    },
+    "election_day": {
+     "votes_D": 1117,
+     "votes_R": 1814,
+     "votes_other": 9
+    },
+    "mail": {
+     "votes_D": 367,
+     "votes_R": 141,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "hopkinton": {
+   "name": "HOPKINTON",
+   "raw_name": "Hopkinton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2337,
+   "votes_R": 2502,
+   "votes_other": 7,
+   "total_votes": 4846,
+   "pct_D": 48.2,
+   "pct_R": 51.6,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 999,
+     "votes_R": 1048,
+     "votes_other": 3
+    },
+    "election_day": {
+     "votes_D": 1043,
+     "votes_R": 1350,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 295,
+     "votes_R": 104,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "jamestown": {
+   "name": "JAMESTOWN",
+   "raw_name": "Jamestown",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2659,
+   "votes_R": 1221,
+   "votes_other": 6,
+   "total_votes": 3886,
+   "pct_D": 68.4,
+   "pct_R": 31.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1587,
+     "votes_R": 686,
+     "votes_other": 3
+    },
+    "election_day": {
+     "votes_D": 736,
+     "votes_R": 467,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 336,
+     "votes_R": 68,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "johnston": {
+   "name": "JOHNSTON",
+   "raw_name": "Johnston",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7356,
+   "votes_R": 7702,
+   "votes_other": 34,
+   "total_votes": 15092,
+   "pct_D": 48.7,
+   "pct_R": 51.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2152,
+     "votes_R": 2587,
+     "votes_other": 11
+    },
+    "election_day": {
+     "votes_D": 4169,
+     "votes_R": 4674,
+     "votes_other": 21
+    },
+    "mail": {
+     "votes_D": 1035,
+     "votes_R": 441,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "lincoln": {
+   "name": "LINCOLN",
+   "raw_name": "Lincoln",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6705,
+   "votes_R": 5519,
+   "votes_other": 39,
+   "total_votes": 12263,
+   "pct_D": 54.7,
+   "pct_R": 45.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2737,
+     "votes_R": 2276,
+     "votes_other": 11
+    },
+    "election_day": {
+     "votes_D": 3245,
+     "votes_R": 2994,
+     "votes_other": 25
+    },
+    "mail": {
+     "votes_D": 723,
+     "votes_R": 249,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "little_compton": {
+   "name": "LITTLE COMPTON",
+   "raw_name": "Little Compton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1517,
+   "votes_R": 1005,
+   "votes_other": 5,
+   "total_votes": 2527,
+   "pct_D": 60.0,
+   "pct_R": 39.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 710,
+     "votes_R": 413,
+     "votes_other": 3
+    },
+    "election_day": {
+     "votes_D": 594,
+     "votes_R": 520,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 213,
+     "votes_R": 72,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "middletown": {
+   "name": "MIDDLETOWN",
+   "raw_name": "Middletown",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4965,
+   "votes_R": 2759,
+   "votes_other": 9,
+   "total_votes": 7733,
+   "pct_D": 64.2,
+   "pct_R": 35.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2424,
+     "votes_R": 1316,
+     "votes_other": 2
+    },
+    "election_day": {
+     "votes_D": 1828,
+     "votes_R": 1258,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 713,
+     "votes_R": 185,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "narragansett": {
+   "name": "NARRAGANSETT",
+   "raw_name": "Narragansett",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5054,
+   "votes_R": 3725,
+   "votes_other": 18,
+   "total_votes": 8797,
+   "pct_D": 57.5,
+   "pct_R": 42.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2284,
+     "votes_R": 1678,
+     "votes_other": 7
+    },
+    "election_day": {
+     "votes_D": 2015,
+     "votes_R": 1751,
+     "votes_other": 8
+    },
+    "mail": {
+     "votes_D": 755,
+     "votes_R": 296,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "new_shoreham": {
+   "name": "NEW SHOREHAM",
+   "raw_name": "New Shoreham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 685,
+   "votes_R": 167,
+   "votes_other": 4,
+   "total_votes": 856,
+   "pct_D": 80.0,
+   "pct_R": 19.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 372,
+     "votes_R": 59,
+     "votes_other": 2
+    },
+    "election_day": {
+     "votes_D": 219,
+     "votes_R": 88,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 94,
+     "votes_R": 20,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "newport": {
+   "name": "NEWPORT",
+   "raw_name": "Newport",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6985,
+   "votes_R": 2734,
+   "votes_other": 22,
+   "total_votes": 9741,
+   "pct_D": 71.7,
+   "pct_R": 28.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 3087,
+     "votes_R": 1155,
+     "votes_other": 9
+    },
+    "election_day": {
+     "votes_D": 2795,
+     "votes_R": 1298,
+     "votes_other": 11
+    },
+    "mail": {
+     "votes_D": 1103,
+     "votes_R": 281,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "north_kingstown": {
+   "name": "NORTH KINGSTOWN",
+   "raw_name": "North Kingstown",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 10156,
+   "votes_R": 6757,
+   "votes_other": 32,
+   "total_votes": 16945,
+   "pct_D": 59.9,
+   "pct_R": 39.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 4445,
+     "votes_R": 2887,
+     "votes_other": 9
+    },
+    "election_day": {
+     "votes_D": 4149,
+     "votes_R": 3444,
+     "votes_other": 18
+    },
+    "mail": {
+     "votes_D": 1562,
+     "votes_R": 426,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "north_providence": {
+   "name": "NORTH PROVIDENCE",
+   "raw_name": "North Providence",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 9325,
+   "votes_R": 6281,
+   "votes_other": 43,
+   "total_votes": 15649,
+   "pct_D": 59.6,
+   "pct_R": 40.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2682,
+     "votes_R": 1879,
+     "votes_other": 6
+    },
+    "election_day": {
+     "votes_D": 5323,
+     "votes_R": 4083,
+     "votes_other": 29
+    },
+    "mail": {
+     "votes_D": 1320,
+     "votes_R": 319,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "north_smithfield": {
+   "name": "NORTH SMITHFIELD",
+   "raw_name": "North Smithfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3521,
+   "votes_R": 3455,
+   "votes_other": 7,
+   "total_votes": 6983,
+   "pct_D": 50.4,
+   "pct_R": 49.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1520,
+     "votes_R": 1560,
+     "votes_other": 1
+    },
+    "election_day": {
+     "votes_D": 1514,
+     "votes_R": 1736,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 487,
+     "votes_R": 159,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "pawtucket": {
+   "name": "PAWTUCKET",
+   "raw_name": "Pawtucket",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 16054,
+   "votes_R": 6635,
+   "votes_other": 82,
+   "total_votes": 22771,
+   "pct_D": 70.5,
+   "pct_R": 29.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 4049,
+     "votes_R": 1527,
+     "votes_other": 13
+    },
+    "election_day": {
+     "votes_D": 10197,
+     "votes_R": 4749,
+     "votes_other": 65
+    },
+    "mail": {
+     "votes_D": 1808,
+     "votes_R": 359,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "portsmouth": {
+   "name": "PORTSMOUTH",
+   "raw_name": "Portsmouth",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6265,
+   "votes_R": 4141,
+   "votes_other": 12,
+   "total_votes": 10418,
+   "pct_D": 60.1,
+   "pct_R": 39.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2915,
+     "votes_R": 1991,
+     "votes_other": 4
+    },
+    "election_day": {
+     "votes_D": 2441,
+     "votes_R": 1866,
+     "votes_other": 7
+    },
+    "mail": {
+     "votes_D": 909,
+     "votes_R": 284,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "providence": {
+   "name": "PROVIDENCE",
+   "raw_name": "Providence",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 41185,
+   "votes_R": 10189,
+   "votes_other": 289,
+   "total_votes": 51663,
+   "pct_D": 79.7,
+   "pct_R": 19.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 8281,
+     "votes_R": 1311,
+     "votes_other": 51
+    },
+    "election_day": {
+     "votes_D": 27638,
+     "votes_R": 8146,
+     "votes_other": 219
+    },
+    "mail": {
+     "votes_D": 5266,
+     "votes_R": 732,
+     "votes_other": 19
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": "Includes 7 limited (presidential-only) ballots reported separately as PROVIDENCE LIMITED in source data."
+  },
+  "richmond": {
+   "name": "RICHMOND",
+   "raw_name": "Richmond",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2428,
+   "votes_R": 2422,
+   "votes_other": 6,
+   "total_votes": 4856,
+   "pct_D": 50.0,
+   "pct_R": 49.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1241,
+     "votes_R": 1182,
+     "votes_other": 2
+    },
+    "election_day": {
+     "votes_D": 853,
+     "votes_R": 1095,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 334,
+     "votes_R": 145,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "scituate": {
+   "name": "SCITUATE",
+   "raw_name": "Scituate",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2710,
+   "votes_R": 3798,
+   "votes_other": 5,
+   "total_votes": 6513,
+   "pct_D": 41.6,
+   "pct_R": 58.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1079,
+     "votes_R": 1413,
+     "votes_other": 1
+    },
+    "election_day": {
+     "votes_D": 1259,
+     "votes_R": 2212,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 372,
+     "votes_R": 173,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "smithfield": {
+   "name": "SMITHFIELD",
+   "raw_name": "Smithfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5623,
+   "votes_R": 5725,
+   "votes_other": 17,
+   "total_votes": 11365,
+   "pct_D": 49.5,
+   "pct_R": 50.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1951,
+     "votes_R": 1995,
+     "votes_other": 5
+    },
+    "election_day": {
+     "votes_D": 2664,
+     "votes_R": 3355,
+     "votes_other": 9
+    },
+    "mail": {
+     "votes_D": 1008,
+     "votes_R": 375,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "south_kingstown": {
+   "name": "SOUTH KINGSTOWN",
+   "raw_name": "South Kingstown",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 10628,
+   "votes_R": 5514,
+   "votes_other": 36,
+   "total_votes": 16178,
+   "pct_D": 65.7,
+   "pct_R": 34.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 5859,
+     "votes_R": 2811,
+     "votes_other": 11
+    },
+    "election_day": {
+     "votes_D": 3352,
+     "votes_R": 2370,
+     "votes_other": 21
+    },
+    "mail": {
+     "votes_D": 1417,
+     "votes_R": 333,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "tiverton": {
+   "name": "TIVERTON",
+   "raw_name": "Tiverton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4898,
+   "votes_R": 3970,
+   "votes_other": 10,
+   "total_votes": 8878,
+   "pct_D": 55.2,
+   "pct_R": 44.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1934,
+     "votes_R": 1470,
+     "votes_other": 4
+    },
+    "election_day": {
+     "votes_D": 2285,
+     "votes_R": 2301,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 679,
+     "votes_R": 199,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "warren": {
+   "name": "WARREN",
+   "raw_name": "Warren",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3590,
+   "votes_R": 2299,
+   "votes_other": 13,
+   "total_votes": 5902,
+   "pct_D": 60.8,
+   "pct_R": 39.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1636,
+     "votes_R": 927,
+     "votes_other": 4
+    },
+    "election_day": {
+     "votes_D": 1511,
+     "votes_R": 1264,
+     "votes_other": 8
+    },
+    "mail": {
+     "votes_D": 443,
+     "votes_R": 108,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "warwick": {
+   "name": "WARWICK",
+   "raw_name": "Warwick",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 25798,
+   "votes_R": 18950,
+   "votes_other": 112,
+   "total_votes": 44860,
+   "pct_D": 57.5,
+   "pct_R": 42.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 6671,
+     "votes_R": 4726,
+     "votes_other": 16
+    },
+    "election_day": {
+     "votes_D": 15235,
+     "votes_R": 13154,
+     "votes_other": 80
+    },
+    "mail": {
+     "votes_D": 3892,
+     "votes_R": 1070,
+     "votes_other": 16
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "west_greenwich": {
+   "name": "WEST GREENWICH",
+   "raw_name": "West Greenwich",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1640,
+   "votes_R": 2327,
+   "votes_other": 11,
+   "total_votes": 3978,
+   "pct_D": 41.2,
+   "pct_R": 58.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 683,
+     "votes_R": 939,
+     "votes_other": 1
+    },
+    "election_day": {
+     "votes_D": 744,
+     "votes_R": 1292,
+     "votes_other": 9
+    },
+    "mail": {
+     "votes_D": 213,
+     "votes_R": 96,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "west_warwick": {
+   "name": "WEST WARWICK",
+   "raw_name": "West Warwick",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7173,
+   "votes_R": 6491,
+   "votes_other": 30,
+   "total_votes": 13694,
+   "pct_D": 52.4,
+   "pct_R": 47.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2011,
+     "votes_R": 1721,
+     "votes_other": 2
+    },
+    "election_day": {
+     "votes_D": 4192,
+     "votes_R": 4422,
+     "votes_other": 24
+    },
+    "mail": {
+     "votes_D": 970,
+     "votes_R": 348,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "westerly": {
+   "name": "WESTERLY",
+   "raw_name": "Westerly",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6918,
+   "votes_R": 5199,
+   "votes_other": 12,
+   "total_votes": 12129,
+   "pct_D": 57.0,
+   "pct_R": 42.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2566,
+     "votes_R": 1666,
+     "votes_other": 4
+    },
+    "election_day": {
+     "votes_D": 2990,
+     "votes_R": 3023,
+     "votes_other": 8
+    },
+    "mail": {
+     "votes_D": 1362,
+     "votes_R": 510,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "woonsocket": {
+   "name": "WOONSOCKET",
+   "raw_name": "Woonsocket",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6927,
+   "votes_R": 5538,
+   "votes_other": 30,
+   "total_votes": 12495,
+   "pct_D": 55.4,
+   "pct_R": 44.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1481,
+     "votes_R": 1216,
+     "votes_other": 9
+    },
+    "election_day": {
+     "votes_D": 4594,
+     "votes_R": 4057,
+     "votes_other": 21
+    },
+    "mail": {
+     "votes_D": 852,
+     "votes_R": 265,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  }
+ }
+}

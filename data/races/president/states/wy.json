@@ -1,0 +1,636 @@
+{
+ "race": "president",
+ "race_label": "President",
+ "race_type": "president",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Kamala D. Harris",
+ "candidate_R": "Donald J. Trump",
+ "state": "Wyoming",
+ "state_abbr": "WY",
+ "unit_type": "county",
+ "avg_completeness": "U",
+ "completeness_breakdown": {
+  "C3": 3,
+  "U": 18,
+  "C2": 2
+ },
+ "votes_D": 69527,
+ "votes_R": 192633,
+ "votes_other": 6779,
+ "total_votes": 268939,
+ "pct_D": 25.9,
+ "pct_R": 71.6,
+ "unit_count": 23,
+ "state_profile": {
+  "voting_summary": "Wyoming votes mostly on election day with two weeks of in-person absentee voting and no-excuse mail (6%); most results publish as combined totals. Polls close at 9 p.m. Eastern; absentee votes are counted first, election day precincts follow, and the state is essentially complete by midnight. All modes are deeply Republican (election day R+53, early R+35, mail R+21), so the night's only movement is the size of the landslide.",
+  "reporting_notes": "",
+  "tags": [
+   "Election day dominant",
+   "In-person absentee",
+   "Totals mostly",
+   "Fast count"
+  ],
+  "mode_split": {
+   "total": 63.0,
+   "election_day": 19.4,
+   "early_in_person": 11.8,
+   "mail": 5.7
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "56001": {
+   "name": "Albany",
+   "raw_name": "Albany",
+   "fips": "56001",
+   "is_mappable": true,
+   "votes_D": 8371,
+   "votes_R": 8930,
+   "votes_other": 576,
+   "total_votes": 17877,
+   "pct_D": 46.8,
+   "pct_R": 50.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 3496,
+     "votes_R": 4867,
+     "votes_other": 348
+    },
+    "early_in_person": {
+     "votes_D": 3457,
+     "votes_R": 3246,
+     "votes_other": 160
+    },
+    "mail": {
+     "votes_D": 1418,
+     "votes_R": 817,
+     "votes_other": 68
+    }
+   },
+   "data_source": "Albany County, WY",
+   "official_results": true,
+   "pct_off_official": 0.019,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "56003": {
+   "name": "Big Horn",
+   "raw_name": "Big Horn",
+   "fips": "56003",
+   "is_mappable": true,
+   "votes_D": 742,
+   "votes_R": 4867,
+   "votes_other": 126,
+   "total_votes": 5735,
+   "pct_D": 12.9,
+   "pct_R": 84.9,
+   "modes": {
+    "total": {
+     "votes_D": 742,
+     "votes_R": 4867,
+     "votes_other": 126
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56005": {
+   "name": "Campbell",
+   "raw_name": "Campbell",
+   "fips": "56005",
+   "is_mappable": true,
+   "votes_D": 2004,
+   "votes_R": 16006,
+   "votes_other": 332,
+   "total_votes": 18342,
+   "pct_D": 10.9,
+   "pct_R": 87.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 792,
+     "votes_R": 8456,
+     "votes_other": 187
+    },
+    "early_in_person": {
+     "votes_D": 896,
+     "votes_R": 6518,
+     "votes_other": 114
+    },
+    "mail": {
+     "votes_D": 316,
+     "votes_R": 1032,
+     "votes_other": 31
+    }
+   },
+   "data_source": "Campbell County, WY",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "56007": {
+   "name": "Carbon",
+   "raw_name": "Carbon",
+   "fips": "56007",
+   "is_mappable": true,
+   "votes_D": 1274,
+   "votes_R": 4952,
+   "votes_other": 161,
+   "total_votes": 6387,
+   "pct_D": 19.9,
+   "pct_R": 77.5,
+   "modes": {
+    "total": {
+     "votes_D": 1274,
+     "votes_R": 4952,
+     "votes_other": 161
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56009": {
+   "name": "Converse",
+   "raw_name": "Converse",
+   "fips": "56009",
+   "is_mappable": true,
+   "votes_D": 845,
+   "votes_R": 5756,
+   "votes_other": 138,
+   "total_votes": 6739,
+   "pct_D": 12.5,
+   "pct_R": 85.4,
+   "modes": {
+    "total": {
+     "votes_D": 845,
+     "votes_R": 5756,
+     "votes_other": 138
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56011": {
+   "name": "Crook",
+   "raw_name": "Crook",
+   "fips": "56011",
+   "is_mappable": true,
+   "votes_D": 443,
+   "votes_R": 3805,
+   "votes_other": 96,
+   "total_votes": 4344,
+   "pct_D": 10.2,
+   "pct_R": 87.6,
+   "modes": {
+    "total": {
+     "votes_D": 443,
+     "votes_R": 3805,
+     "votes_other": 96
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56013": {
+   "name": "Fremont",
+   "raw_name": "Fremont",
+   "fips": "56013",
+   "is_mappable": true,
+   "votes_D": 5179,
+   "votes_R": 11552,
+   "votes_other": 525,
+   "total_votes": 17256,
+   "pct_D": 30.0,
+   "pct_R": 66.9,
+   "modes": {
+    "total": {
+     "votes_D": 5179,
+     "votes_R": 11552,
+     "votes_other": 525
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56015": {
+   "name": "Goshen",
+   "raw_name": "Goshen",
+   "fips": "56015",
+   "is_mappable": true,
+   "votes_D": 1156,
+   "votes_R": 4893,
+   "votes_other": 125,
+   "total_votes": 6174,
+   "pct_D": 18.7,
+   "pct_R": 79.3,
+   "modes": {
+    "total": {
+     "votes_D": 1156,
+     "votes_R": 4893,
+     "votes_other": 125
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56017": {
+   "name": "Hot Springs",
+   "raw_name": "Hot Springs",
+   "fips": "56017",
+   "is_mappable": true,
+   "votes_D": 488,
+   "votes_R": 2082,
+   "votes_other": 50,
+   "total_votes": 2620,
+   "pct_D": 18.6,
+   "pct_R": 79.5,
+   "modes": {
+    "total": {
+     "votes_D": 488,
+     "votes_R": 2082,
+     "votes_other": 50
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56019": {
+   "name": "Johnson",
+   "raw_name": "Johnson",
+   "fips": "56019",
+   "is_mappable": true,
+   "votes_D": 847,
+   "votes_R": 3936,
+   "votes_other": 115,
+   "total_votes": 4898,
+   "pct_D": 17.3,
+   "pct_R": 80.4,
+   "modes": {
+    "total": {
+     "votes_D": 847,
+     "votes_R": 3936,
+     "votes_other": 115
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56021": {
+   "name": "Laramie",
+   "raw_name": "Laramie",
+   "fips": "56021",
+   "is_mappable": true,
+   "votes_D": 14153,
+   "votes_R": 28063,
+   "votes_other": 1146,
+   "total_votes": 43362,
+   "pct_D": 32.6,
+   "pct_R": 64.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 5612,
+     "votes_R": 13755,
+     "votes_other": 627
+    },
+    "early_in_person": {
+     "votes_D": 5693,
+     "votes_R": 11364,
+     "votes_other": 358
+    },
+    "mail": {
+     "votes_D": 2848,
+     "votes_R": 2944,
+     "votes_other": 161
+    }
+   },
+   "data_source": "Laramie County, WY",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "56023": {
+   "name": "Lincoln",
+   "raw_name": "Lincoln",
+   "fips": "56023",
+   "is_mappable": true,
+   "votes_D": 1623,
+   "votes_R": 8957,
+   "votes_other": 151,
+   "total_votes": 10731,
+   "pct_D": 15.1,
+   "pct_R": 83.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 1132,
+     "votes_R": 7355,
+     "votes_other": 132
+    },
+    "mail": {
+     "votes_D": 491,
+     "votes_R": 1602,
+     "votes_other": 19
+    }
+   },
+   "data_source": "Lincoln County, WY",
+   "official_results": true,
+   "pct_off_official": 0.014,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "56025": {
+   "name": "Natrona",
+   "raw_name": "Natrona",
+   "fips": "56025",
+   "is_mappable": true,
+   "votes_D": 8337,
+   "votes_R": 24671,
+   "votes_other": 913,
+   "total_votes": 33921,
+   "pct_D": 24.6,
+   "pct_R": 72.7,
+   "modes": {
+    "total": {
+     "votes_D": 8337,
+     "votes_R": 24671,
+     "votes_other": 913
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56027": {
+   "name": "Niobrara",
+   "raw_name": "Niobrara",
+   "fips": "56027",
+   "is_mappable": true,
+   "votes_D": 112,
+   "votes_R": 1108,
+   "votes_other": 14,
+   "total_votes": 1234,
+   "pct_D": 9.1,
+   "pct_R": 89.8,
+   "modes": {
+    "total": {
+     "votes_D": 112,
+     "votes_R": 1108,
+     "votes_other": 14
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56029": {
+   "name": "Park",
+   "raw_name": "Park",
+   "fips": "56029",
+   "is_mappable": true,
+   "votes_D": 3259,
+   "votes_R": 13084,
+   "votes_other": 400,
+   "total_votes": 16743,
+   "pct_D": 19.5,
+   "pct_R": 78.1,
+   "modes": {
+    "total": {
+     "votes_D": 3259,
+     "votes_R": 13084,
+     "votes_other": 400
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56031": {
+   "name": "Platte",
+   "raw_name": "Platte",
+   "fips": "56031",
+   "is_mappable": true,
+   "votes_D": 780,
+   "votes_R": 3874,
+   "votes_other": 111,
+   "total_votes": 4765,
+   "pct_D": 16.4,
+   "pct_R": 81.3,
+   "modes": {
+    "total": {
+     "votes_D": 780,
+     "votes_R": 3874,
+     "votes_other": 111
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56033": {
+   "name": "Sheridan",
+   "raw_name": "Sheridan",
+   "fips": "56033",
+   "is_mappable": true,
+   "votes_D": 3920,
+   "votes_R": 12041,
+   "votes_other": 464,
+   "total_votes": 16425,
+   "pct_D": 23.9,
+   "pct_R": 73.3,
+   "modes": {
+    "total": {
+     "votes_D": 3920,
+     "votes_R": 12041,
+     "votes_other": 464
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56035": {
+   "name": "Sublette",
+   "raw_name": "Sublette",
+   "fips": "56035",
+   "is_mappable": true,
+   "votes_D": 920,
+   "votes_R": 3905,
+   "votes_other": 99,
+   "total_votes": 4924,
+   "pct_D": 18.7,
+   "pct_R": 79.3,
+   "modes": {
+    "total": {
+     "votes_D": 920,
+     "votes_R": 3905,
+     "votes_other": 99
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56037": {
+   "name": "Sweetwater",
+   "raw_name": "Sweetwater",
+   "fips": "56037",
+   "is_mappable": true,
+   "votes_D": 3731,
+   "votes_R": 12541,
+   "votes_other": 426,
+   "total_votes": 16698,
+   "pct_D": 22.3,
+   "pct_R": 75.1,
+   "modes": {
+    "total": {
+     "votes_D": 3731,
+     "votes_R": 12541,
+     "votes_other": 426
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56039": {
+   "name": "Teton",
+   "raw_name": "Teton",
+   "fips": "56039",
+   "is_mappable": true,
+   "votes_D": 8748,
+   "votes_R": 4134,
+   "votes_other": 404,
+   "total_votes": 13286,
+   "pct_D": 65.8,
+   "pct_R": 31.1,
+   "modes": {
+    "total": {
+     "votes_D": 8748,
+     "votes_R": 4134,
+     "votes_other": 404
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56041": {
+   "name": "Uinta",
+   "raw_name": "Uinta",
+   "fips": "56041",
+   "is_mappable": true,
+   "votes_D": 1561,
+   "votes_R": 7282,
+   "votes_other": 246,
+   "total_votes": 9089,
+   "pct_D": 17.2,
+   "pct_R": 80.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 743,
+     "votes_R": 4642,
+     "votes_other": 163
+    },
+    "mail": {
+     "votes_D": 818,
+     "votes_R": 2640,
+     "votes_other": 83
+    }
+   },
+   "data_source": "Uinta County, WY",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "56043": {
+   "name": "Washakie",
+   "raw_name": "Washakie",
+   "fips": "56043",
+   "is_mappable": true,
+   "votes_D": 656,
+   "votes_R": 3125,
+   "votes_other": 96,
+   "total_votes": 3877,
+   "pct_D": 16.9,
+   "pct_R": 80.6,
+   "modes": {
+    "total": {
+     "votes_D": 656,
+     "votes_R": 3125,
+     "votes_other": 96
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "56045": {
+   "name": "Weston",
+   "raw_name": "Weston",
+   "fips": "56045",
+   "is_mappable": true,
+   "votes_D": 378,
+   "votes_R": 3069,
+   "votes_other": 65,
+   "total_votes": 3512,
+   "pct_D": 10.8,
+   "pct_R": 87.4,
+   "modes": {
+    "total": {
+     "votes_D": 378,
+     "votes_R": 3069,
+     "votes_other": 65
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  }
+ }
+}

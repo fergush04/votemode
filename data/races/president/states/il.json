@@ -1,0 +1,2850 @@
+{
+ "race": "president",
+ "race_label": "President",
+ "race_type": "president",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Kamala D. Harris",
+ "candidate_R": "Donald J. Trump",
+ "state": "Illinois",
+ "state_abbr": "IL",
+ "unit_type": "county",
+ "avg_completeness": "U",
+ "completeness_breakdown": {
+  "C3": 18,
+  "U": 71,
+  "C4": 11,
+  "C2": 2
+ },
+ "votes_D": 3062830,
+ "votes_R": 2449026,
+ "votes_other": 147314,
+ "total_votes": 5659170,
+ "pct_D": 54.1,
+ "pct_R": 43.3,
+ "unit_count": 102,
+ "state_profile": {
+  "voting_summary": "Illinois offers 40 days of early voting and no-excuse mail voting, with mail postmarked by election day accepted for two weeks afterward. Polls close at 8 p.m. Eastern; early votes and mail on hand are released first, election day precincts report through the night, and late-arriving mail is added for two weeks, Chicago's count in particular keeps growing. Mail ran D+45 versus R+16 on election day where counties break out modes, so Illinois drifts bluer well after election night.",
+  "reporting_notes": "",
+  "tags": [
+   "No-excuse mail",
+   "Two-week mail window",
+   "Late blue shift"
+  ],
+  "mode_split": {
+   "total": 58.6,
+   "election_day": 18.2,
+   "early_in_person": 15.8,
+   "mail": 6.9,
+   "late_mail": 0.5,
+   "pre_election_day": 0.0,
+   "provisional": 0.0
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "17001": {
+   "name": "Adams",
+   "raw_name": "Adams",
+   "fips": "17001",
+   "is_mappable": true,
+   "votes_D": 8111,
+   "votes_R": 23161,
+   "votes_other": 472,
+   "total_votes": 31744,
+   "pct_D": 25.6,
+   "pct_R": 73.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 3592,
+     "votes_R": 13387,
+     "votes_other": 310
+    },
+    "early_in_person": {
+     "votes_D": 3271,
+     "votes_R": 8784,
+     "votes_other": 102
+    },
+    "mail": {
+     "votes_D": 1248,
+     "votes_R": 990,
+     "votes_other": 60
+    }
+   },
+   "data_source": "Adams County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0049,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17003": {
+   "name": "Alexander",
+   "raw_name": "Alexander",
+   "fips": "17003",
+   "is_mappable": true,
+   "votes_D": 904,
+   "votes_R": 1341,
+   "votes_other": 31,
+   "total_votes": 2276,
+   "pct_D": 39.7,
+   "pct_R": 58.9,
+   "modes": {
+    "total": {
+     "votes_D": 904,
+     "votes_R": 1341,
+     "votes_other": 31
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17005": {
+   "name": "Bond",
+   "raw_name": "Bond",
+   "fips": "17005",
+   "is_mappable": true,
+   "votes_D": 2117,
+   "votes_R": 5692,
+   "votes_other": 217,
+   "total_votes": 8026,
+   "pct_D": 26.4,
+   "pct_R": 70.9,
+   "modes": {
+    "total": {
+     "votes_D": 2117,
+     "votes_R": 5692,
+     "votes_other": 217
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17007": {
+   "name": "Boone",
+   "raw_name": "Boone",
+   "fips": "17007",
+   "is_mappable": true,
+   "votes_D": 10159,
+   "votes_R": 13673,
+   "votes_other": 565,
+   "total_votes": 24397,
+   "pct_D": 41.6,
+   "pct_R": 56.0,
+   "modes": {
+    "total": {
+     "votes_D": 10159,
+     "votes_R": 13673,
+     "votes_other": 565
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17009": {
+   "name": "Brown",
+   "raw_name": "Brown",
+   "fips": "17009",
+   "is_mappable": true,
+   "votes_D": 467,
+   "votes_R": 1938,
+   "votes_other": 60,
+   "total_votes": 2465,
+   "pct_D": 18.9,
+   "pct_R": 78.6,
+   "modes": {
+    "total": {
+     "votes_D": 467,
+     "votes_R": 1938,
+     "votes_other": 60
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17011": {
+   "name": "Bureau",
+   "raw_name": "Bureau",
+   "fips": "17011",
+   "is_mappable": true,
+   "votes_D": 5900,
+   "votes_R": 9784,
+   "votes_other": 394,
+   "total_votes": 16078,
+   "pct_D": 36.7,
+   "pct_R": 60.9,
+   "modes": {
+    "total": {
+     "votes_D": 5900,
+     "votes_R": 9784,
+     "votes_other": 394
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17013": {
+   "name": "Calhoun",
+   "raw_name": "Calhoun",
+   "fips": "17013",
+   "is_mappable": true,
+   "votes_D": 560,
+   "votes_R": 2059,
+   "votes_other": 61,
+   "total_votes": 2680,
+   "pct_D": 20.9,
+   "pct_R": 76.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 112,
+     "votes_R": 519,
+     "votes_other": 2
+    },
+    "election_day": {
+     "votes_D": 272,
+     "votes_R": 1306,
+     "votes_other": 44
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 5,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 176,
+     "votes_R": 229,
+     "votes_other": 15
+    }
+   },
+   "data_source": "Calhoun County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "17015": {
+   "name": "Carroll",
+   "raw_name": "Carroll",
+   "fips": "17015",
+   "is_mappable": true,
+   "votes_D": 2600,
+   "votes_R": 5082,
+   "votes_other": 180,
+   "total_votes": 7862,
+   "pct_D": 33.1,
+   "pct_R": 64.6,
+   "modes": {
+    "total": {
+     "votes_D": 2600,
+     "votes_R": 5082,
+     "votes_other": 180
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17017": {
+   "name": "Cass",
+   "raw_name": "Cass",
+   "fips": "17017",
+   "is_mappable": true,
+   "votes_D": 1438,
+   "votes_R": 3712,
+   "votes_other": 91,
+   "total_votes": 5241,
+   "pct_D": 27.4,
+   "pct_R": 70.8,
+   "modes": {
+    "total": {
+     "votes_D": 1438,
+     "votes_R": 3712,
+     "votes_other": 91
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17019": {
+   "name": "Champaign",
+   "raw_name": "Champaign",
+   "fips": "17019",
+   "is_mappable": true,
+   "votes_D": 54314,
+   "votes_R": 32965,
+   "votes_other": 1348,
+   "total_votes": 88627,
+   "pct_D": 61.3,
+   "pct_R": 37.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 16742,
+     "votes_R": 14510,
+     "votes_other": 644
+    },
+    "early_in_person": {
+     "votes_D": 23189,
+     "votes_R": 15323,
+     "votes_other": 465
+    },
+    "provisional": {
+     "votes_D": 80,
+     "votes_R": 43,
+     "votes_other": 1
+    },
+    "mail": {
+     "votes_D": 14303,
+     "votes_R": 3089,
+     "votes_other": 238
+    }
+   },
+   "data_source": "Champaign County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0283,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "17021": {
+   "name": "Christian",
+   "raw_name": "Christian",
+   "fips": "17021",
+   "is_mappable": true,
+   "votes_D": 4026,
+   "votes_R": 11278,
+   "votes_other": 307,
+   "total_votes": 15611,
+   "pct_D": 25.8,
+   "pct_R": 72.2,
+   "modes": {
+    "total": {
+     "votes_D": 4026,
+     "votes_R": 11278,
+     "votes_other": 307
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17023": {
+   "name": "Clark",
+   "raw_name": "Clark",
+   "fips": "17023",
+   "is_mappable": true,
+   "votes_D": 1927,
+   "votes_R": 6130,
+   "votes_other": 174,
+   "total_votes": 8231,
+   "pct_D": 23.4,
+   "pct_R": 74.5,
+   "modes": {
+    "total": {
+     "votes_D": 1927,
+     "votes_R": 6130,
+     "votes_other": 174
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17025": {
+   "name": "Clay",
+   "raw_name": "Clay",
+   "fips": "17025",
+   "is_mappable": true,
+   "votes_D": 1054,
+   "votes_R": 5610,
+   "votes_other": 117,
+   "total_votes": 6781,
+   "pct_D": 15.5,
+   "pct_R": 82.7,
+   "modes": {
+    "total": {
+     "votes_D": 1054,
+     "votes_R": 5610,
+     "votes_other": 117
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17027": {
+   "name": "Clinton",
+   "raw_name": "Clinton",
+   "fips": "17027",
+   "is_mappable": true,
+   "votes_D": 4447,
+   "votes_R": 14407,
+   "votes_other": 361,
+   "total_votes": 19215,
+   "pct_D": 23.1,
+   "pct_R": 75.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 742,
+     "votes_R": 1991,
+     "votes_other": 28
+    },
+    "election_day": {
+     "votes_D": 2848,
+     "votes_R": 11560,
+     "votes_other": 288
+    },
+    "mail": {
+     "votes_D": 857,
+     "votes_R": 856,
+     "votes_other": 45
+    }
+   },
+   "data_source": "Clinton County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0055,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17029": {
+   "name": "Coles",
+   "raw_name": "Coles",
+   "fips": "17029",
+   "is_mappable": true,
+   "votes_D": 7495,
+   "votes_R": 13606,
+   "votes_other": 550,
+   "total_votes": 21651,
+   "pct_D": 34.6,
+   "pct_R": 62.8,
+   "modes": {
+    "total": {
+     "votes_D": 7495,
+     "votes_R": 13606,
+     "votes_other": 550
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17031": {
+   "name": "Cook",
+   "raw_name": "Cook",
+   "fips": "17031",
+   "is_mappable": true,
+   "votes_D": 1447821,
+   "votes_R": 583852,
+   "votes_other": 70005,
+   "total_votes": 2101678,
+   "pct_D": 68.9,
+   "pct_R": 27.8,
+   "modes": {
+    "total": {
+     "votes_D": 1447821,
+     "votes_R": 583852,
+     "votes_other": 70005
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17033": {
+   "name": "Crawford",
+   "raw_name": "Crawford",
+   "fips": "17033",
+   "is_mappable": true,
+   "votes_D": 2048,
+   "votes_R": 6727,
+   "votes_other": 187,
+   "total_votes": 8962,
+   "pct_D": 22.9,
+   "pct_R": 75.1,
+   "modes": {
+    "total": {
+     "votes_D": 2048,
+     "votes_R": 6727,
+     "votes_other": 187
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17035": {
+   "name": "Cumberland",
+   "raw_name": "Cumberland",
+   "fips": "17035",
+   "is_mappable": true,
+   "votes_D": 1059,
+   "votes_R": 4627,
+   "votes_other": 107,
+   "total_votes": 5793,
+   "pct_D": 18.3,
+   "pct_R": 79.9,
+   "modes": {
+    "total": {
+     "votes_D": 1059,
+     "votes_R": 4627,
+     "votes_other": 107
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17037": {
+   "name": "DeKalb",
+   "raw_name": "Dekalb",
+   "fips": "17037",
+   "is_mappable": true,
+   "votes_D": 23648,
+   "votes_R": 22716,
+   "votes_other": 822,
+   "total_votes": 47186,
+   "pct_D": 50.1,
+   "pct_R": 48.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 9159,
+     "votes_R": 8388,
+     "votes_other": 198
+    },
+    "election_day": {
+     "votes_D": 10863,
+     "votes_R": 13153,
+     "votes_other": 544
+    },
+    "mail": {
+     "votes_D": 3626,
+     "votes_R": 1175,
+     "votes_other": 80
+    }
+   },
+   "data_source": "Dekalb County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0125,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17039": {
+   "name": "De Witt",
+   "raw_name": "Dewitt",
+   "fips": "17039",
+   "is_mappable": true,
+   "votes_D": 2058,
+   "votes_R": 5529,
+   "votes_other": 203,
+   "total_votes": 7790,
+   "pct_D": 26.4,
+   "pct_R": 71.0,
+   "modes": {
+    "total": {
+     "votes_D": 2058,
+     "votes_R": 5529,
+     "votes_other": 203
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17041": {
+   "name": "Douglas",
+   "raw_name": "Douglas",
+   "fips": "17041",
+   "is_mappable": true,
+   "votes_D": 2198,
+   "votes_R": 6076,
+   "votes_other": 180,
+   "total_votes": 8454,
+   "pct_D": 26.0,
+   "pct_R": 71.9,
+   "modes": {
+    "total": {
+     "votes_D": 2198,
+     "votes_R": 6076,
+     "votes_other": 180
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17043": {
+   "name": "DuPage",
+   "raw_name": "Dupage",
+   "fips": "17043",
+   "is_mappable": true,
+   "votes_D": 251164,
+   "votes_R": 191243,
+   "votes_other": 14009,
+   "total_votes": 456416,
+   "pct_D": 55.0,
+   "pct_R": 41.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 106309,
+     "votes_R": 97277,
+     "votes_other": 4467
+    },
+    "election_day": {
+     "votes_D": 74982,
+     "votes_R": 72829,
+     "votes_other": 6995
+    },
+    "provisional": {
+     "votes_D": 41,
+     "votes_R": 32,
+     "votes_other": 9
+    },
+    "mail": {
+     "votes_D": 69832,
+     "votes_R": 21105,
+     "votes_other": 2538
+    }
+   },
+   "data_source": "Dupage County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0235,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "17045": {
+   "name": "Edgar",
+   "raw_name": "Edgar",
+   "fips": "17045",
+   "is_mappable": true,
+   "votes_D": 1816,
+   "votes_R": 5955,
+   "votes_other": 163,
+   "total_votes": 7934,
+   "pct_D": 22.9,
+   "pct_R": 75.1,
+   "modes": {
+    "total": {
+     "votes_D": 1816,
+     "votes_R": 5955,
+     "votes_other": 163
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17047": {
+   "name": "Edwards",
+   "raw_name": "Edwards",
+   "fips": "17047",
+   "is_mappable": true,
+   "votes_D": 457,
+   "votes_R": 2794,
+   "votes_other": 45,
+   "total_votes": 3296,
+   "pct_D": 13.9,
+   "pct_R": 84.8,
+   "modes": {
+    "total": {
+     "votes_D": 457,
+     "votes_R": 2794,
+     "votes_other": 45
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17049": {
+   "name": "Effingham",
+   "raw_name": "Effingham",
+   "fips": "17049",
+   "is_mappable": true,
+   "votes_D": 3604,
+   "votes_R": 15097,
+   "votes_other": 321,
+   "total_votes": 19022,
+   "pct_D": 18.9,
+   "pct_R": 79.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1143,
+     "votes_R": 4184,
+     "votes_other": 45
+    },
+    "election_day": {
+     "votes_D": 1757,
+     "votes_R": 10066,
+     "votes_other": 235
+    },
+    "mail": {
+     "votes_D": 704,
+     "votes_R": 847,
+     "votes_other": 41
+    }
+   },
+   "data_source": "Effingham County, IL",
+   "official_results": false,
+   "pct_off_official": 0.0081,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17051": {
+   "name": "Fayette",
+   "raw_name": "Fayette",
+   "fips": "17051",
+   "is_mappable": true,
+   "votes_D": 1632,
+   "votes_R": 7847,
+   "votes_other": 147,
+   "total_votes": 9626,
+   "pct_D": 17.0,
+   "pct_R": 81.5,
+   "modes": {
+    "total": {
+     "votes_D": 1632,
+     "votes_R": 7847,
+     "votes_other": 147
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17053": {
+   "name": "Ford",
+   "raw_name": "Ford",
+   "fips": "17053",
+   "is_mappable": true,
+   "votes_D": 1643,
+   "votes_R": 4778,
+   "votes_other": 160,
+   "total_votes": 6581,
+   "pct_D": 25.0,
+   "pct_R": 72.6,
+   "modes": {
+    "total": {
+     "votes_D": 1643,
+     "votes_R": 4778,
+     "votes_other": 160
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17055": {
+   "name": "Franklin",
+   "raw_name": "Franklin",
+   "fips": "17055",
+   "is_mappable": true,
+   "votes_D": 4257,
+   "votes_R": 13200,
+   "votes_other": 228,
+   "total_votes": 17685,
+   "pct_D": 24.1,
+   "pct_R": 74.6,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1050,
+     "votes_R": 3088,
+     "votes_other": 31
+    },
+    "election_day": {
+     "votes_D": 2379,
+     "votes_R": 9396,
+     "votes_other": 166
+    },
+    "mail": {
+     "votes_D": 828,
+     "votes_R": 716,
+     "votes_other": 31
+    }
+   },
+   "data_source": "Franklin County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0034,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17057": {
+   "name": "Fulton",
+   "raw_name": "Fulton",
+   "fips": "17057",
+   "is_mappable": true,
+   "votes_D": 5980,
+   "votes_R": 9827,
+   "votes_other": 330,
+   "total_votes": 16137,
+   "pct_D": 37.1,
+   "pct_R": 60.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 656,
+     "votes_R": 1187,
+     "votes_other": 17
+    },
+    "election_day": {
+     "votes_D": 3943,
+     "votes_R": 7996,
+     "votes_other": 274
+    },
+    "mail": {
+     "votes_D": 1381,
+     "votes_R": 644,
+     "votes_other": 39
+    }
+   },
+   "data_source": "Fulton County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0046,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17059": {
+   "name": "Gallatin",
+   "raw_name": "Gallatin",
+   "fips": "17059",
+   "is_mappable": true,
+   "votes_D": 561,
+   "votes_R": 1923,
+   "votes_other": 52,
+   "total_votes": 2536,
+   "pct_D": 22.1,
+   "pct_R": 75.8,
+   "modes": {
+    "total": {
+     "votes_D": 561,
+     "votes_R": 1923,
+     "votes_other": 52
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17061": {
+   "name": "Greene",
+   "raw_name": "Greene",
+   "fips": "17061",
+   "is_mappable": true,
+   "votes_D": 1220,
+   "votes_R": 4719,
+   "votes_other": 138,
+   "total_votes": 6077,
+   "pct_D": 20.1,
+   "pct_R": 77.7,
+   "modes": {
+    "total": {
+     "votes_D": 1220,
+     "votes_R": 4719,
+     "votes_other": 138
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17063": {
+   "name": "Grundy",
+   "raw_name": "Grundy",
+   "fips": "17063",
+   "is_mappable": true,
+   "votes_D": 9143,
+   "votes_R": 16997,
+   "votes_other": 578,
+   "total_votes": 26718,
+   "pct_D": 34.2,
+   "pct_R": 63.6,
+   "modes": {
+    "total": {
+     "votes_D": 9143,
+     "votes_R": 16997,
+     "votes_other": 578
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17065": {
+   "name": "Hamilton",
+   "raw_name": "Hamilton",
+   "fips": "17065",
+   "is_mappable": true,
+   "votes_D": 739,
+   "votes_R": 3385,
+   "votes_other": 70,
+   "total_votes": 4194,
+   "pct_D": 17.6,
+   "pct_R": 80.7,
+   "modes": {
+    "total": {
+     "votes_D": 739,
+     "votes_R": 3385,
+     "votes_other": 70
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17067": {
+   "name": "Hancock",
+   "raw_name": "Hancock",
+   "fips": "17067",
+   "is_mappable": true,
+   "votes_D": 2183,
+   "votes_R": 6708,
+   "votes_other": 222,
+   "total_votes": 9113,
+   "pct_D": 24.0,
+   "pct_R": 73.6,
+   "modes": {
+    "total": {
+     "votes_D": 2183,
+     "votes_R": 6708,
+     "votes_other": 222
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17069": {
+   "name": "Hardin",
+   "raw_name": "Hardin",
+   "fips": "17069",
+   "is_mappable": true,
+   "votes_D": 357,
+   "votes_R": 1546,
+   "votes_other": 31,
+   "total_votes": 1934,
+   "pct_D": 18.5,
+   "pct_R": 79.9,
+   "modes": {
+    "total": {
+     "votes_D": 357,
+     "votes_R": 1546,
+     "votes_other": 31
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17071": {
+   "name": "Henderson",
+   "raw_name": "Henderson",
+   "fips": "17071",
+   "is_mappable": true,
+   "votes_D": 1026,
+   "votes_R": 2369,
+   "votes_other": 77,
+   "total_votes": 3472,
+   "pct_D": 29.6,
+   "pct_R": 68.2,
+   "modes": {
+    "total": {
+     "votes_D": 1026,
+     "votes_R": 2369,
+     "votes_other": 77
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17073": {
+   "name": "Henry",
+   "raw_name": "Henry",
+   "fips": "17073",
+   "is_mappable": true,
+   "votes_D": 9226,
+   "votes_R": 15359,
+   "votes_other": 477,
+   "total_votes": 25062,
+   "pct_D": 36.8,
+   "pct_R": 61.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1074,
+     "votes_R": 2224,
+     "votes_other": 31
+    },
+    "election_day": {
+     "votes_D": 5445,
+     "votes_R": 11443,
+     "votes_other": 340
+    },
+    "provisional": {
+     "votes_D": 27,
+     "votes_R": 19,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 2680,
+     "votes_R": 1673,
+     "votes_other": 102
+    }
+   },
+   "data_source": "Henry County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0061,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "17075": {
+   "name": "Iroquois",
+   "raw_name": "Iroquois",
+   "fips": "17075",
+   "is_mappable": true,
+   "votes_D": 2742,
+   "votes_R": 10364,
+   "votes_other": 184,
+   "total_votes": 13290,
+   "pct_D": 20.6,
+   "pct_R": 78.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 473,
+     "votes_R": 1859,
+     "votes_other": 15
+    },
+    "election_day": {
+     "votes_D": 1606,
+     "votes_R": 7650,
+     "votes_other": 134
+    },
+    "mail": {
+     "votes_D": 663,
+     "votes_R": 855,
+     "votes_other": 35
+    }
+   },
+   "data_source": "Iroquois County, IL",
+   "official_results": false,
+   "pct_off_official": 0.0048,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17077": {
+   "name": "Jackson",
+   "raw_name": "Jackson",
+   "fips": "17077",
+   "is_mappable": true,
+   "votes_D": 11394,
+   "votes_R": 10614,
+   "votes_other": 708,
+   "total_votes": 22716,
+   "pct_D": 50.2,
+   "pct_R": 46.7,
+   "modes": {
+    "total": {
+     "votes_D": 11394,
+     "votes_R": 10614,
+     "votes_other": 708
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17079": {
+   "name": "Jasper",
+   "raw_name": "Jasper",
+   "fips": "17079",
+   "is_mappable": true,
+   "votes_D": 910,
+   "votes_R": 4446,
+   "votes_other": 60,
+   "total_votes": 5416,
+   "pct_D": 16.8,
+   "pct_R": 82.1,
+   "modes": {
+    "pre_election_day": {
+     "votes_D": 464,
+     "votes_R": 1356,
+     "votes_other": 16
+    },
+    "election_day": {
+     "votes_D": 446,
+     "votes_R": 3090,
+     "votes_other": 44
+    }
+   },
+   "data_source": "Jasper County, IL",
+   "official_results": false,
+   "pct_off_official": 0.004,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "17081": {
+   "name": "Jefferson",
+   "raw_name": "Jefferson",
+   "fips": "17081",
+   "is_mappable": true,
+   "votes_D": 4240,
+   "votes_R": 12189,
+   "votes_other": 298,
+   "total_votes": 16727,
+   "pct_D": 25.3,
+   "pct_R": 72.9,
+   "modes": {
+    "total": {
+     "votes_D": 4240,
+     "votes_R": 12189,
+     "votes_other": 298
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17083": {
+   "name": "Jersey",
+   "raw_name": "Jersey",
+   "fips": "17083",
+   "is_mappable": true,
+   "votes_D": 2816,
+   "votes_R": 8684,
+   "votes_other": 246,
+   "total_votes": 11746,
+   "pct_D": 24.0,
+   "pct_R": 73.9,
+   "modes": {
+    "total": {
+     "votes_D": 2816,
+     "votes_R": 8684,
+     "votes_other": 246
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17085": {
+   "name": "Jo Daviess",
+   "raw_name": "Jodaviess",
+   "fips": "17085",
+   "is_mappable": true,
+   "votes_D": 5051,
+   "votes_R": 7136,
+   "votes_other": 314,
+   "total_votes": 12501,
+   "pct_D": 40.4,
+   "pct_R": 57.1,
+   "modes": {
+    "total": {
+     "votes_D": 5051,
+     "votes_R": 7136,
+     "votes_other": 314
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17087": {
+   "name": "Johnson",
+   "raw_name": "Johnson",
+   "fips": "17087",
+   "is_mappable": true,
+   "votes_D": 1241,
+   "votes_R": 4798,
+   "votes_other": 64,
+   "total_votes": 6103,
+   "pct_D": 20.3,
+   "pct_R": 78.6,
+   "modes": {
+    "total": {
+     "votes_D": 1241,
+     "votes_R": 4798,
+     "votes_other": 64
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17089": {
+   "name": "Kane",
+   "raw_name": "Kane",
+   "fips": "17089",
+   "is_mappable": true,
+   "votes_D": 120077,
+   "votes_R": 99260,
+   "votes_other": 3027,
+   "total_votes": 222364,
+   "pct_D": 54.0,
+   "pct_R": 44.6,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 49183,
+     "votes_R": 48065,
+     "votes_other": 867
+    },
+    "election_day": {
+     "votes_D": 38614,
+     "votes_R": 40100,
+     "votes_other": 1601
+    },
+    "mail": {
+     "votes_D": 32280,
+     "votes_R": 11095,
+     "votes_other": 559
+    }
+   },
+   "data_source": "Kane County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0053,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17091": {
+   "name": "Kankakee",
+   "raw_name": "Kankakee",
+   "fips": "17091",
+   "is_mappable": true,
+   "votes_D": 18399,
+   "votes_R": 28285,
+   "votes_other": 831,
+   "total_votes": 47515,
+   "pct_D": 38.7,
+   "pct_R": 59.5,
+   "modes": {
+    "mail": {
+     "votes_D": 3142,
+     "votes_R": 1853,
+     "votes_other": 118
+    },
+    "early_in_person": {
+     "votes_D": 6182,
+     "votes_R": 7816,
+     "votes_other": 152
+    },
+    "election_day": {
+     "votes_D": 8984,
+     "votes_R": 18558,
+     "votes_other": 557
+    },
+    "late_mail": {
+     "votes_D": 91,
+     "votes_R": 58,
+     "votes_other": 4
+    }
+   },
+   "data_source": "Kankakee County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0011,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "17093": {
+   "name": "Kendall",
+   "raw_name": "Kendall",
+   "fips": "17093",
+   "is_mappable": true,
+   "votes_D": 32977,
+   "votes_R": 31970,
+   "votes_other": 2029,
+   "total_votes": 66976,
+   "pct_D": 49.2,
+   "pct_R": 47.7,
+   "modes": {
+    "total": {
+     "votes_D": 32977,
+     "votes_R": 31970,
+     "votes_other": 2029
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17095": {
+   "name": "Knox",
+   "raw_name": "Knox",
+   "fips": "17095",
+   "is_mappable": true,
+   "votes_D": 9838,
+   "votes_R": 11917,
+   "votes_other": 638,
+   "total_votes": 22393,
+   "pct_D": 43.9,
+   "pct_R": 53.2,
+   "modes": {
+    "total": {
+     "votes_D": 9838,
+     "votes_R": 11917,
+     "votes_other": 638
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17097": {
+   "name": "Lake",
+   "raw_name": "Lake",
+   "fips": "17097",
+   "is_mappable": true,
+   "votes_D": 184642,
+   "votes_R": 120402,
+   "votes_other": 4279,
+   "total_votes": 309323,
+   "pct_D": 59.7,
+   "pct_R": 38.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 74125,
+     "votes_R": 54795,
+     "votes_other": 1218
+    },
+    "election_day": {
+     "votes_D": 55904,
+     "votes_R": 50048,
+     "votes_other": 2231
+    },
+    "late_mail": {
+     "votes_D": 12919,
+     "votes_R": 4287,
+     "votes_other": 329
+    },
+    "mail": {
+     "votes_D": 41694,
+     "votes_R": 11272,
+     "votes_other": 501
+    }
+   },
+   "data_source": "Lake County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0185,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "17099": {
+   "name": "LaSalle",
+   "raw_name": "Lasalle",
+   "fips": "17099",
+   "is_mappable": true,
+   "votes_D": 21029,
+   "votes_R": 30717,
+   "votes_other": 1018,
+   "total_votes": 52764,
+   "pct_D": 39.9,
+   "pct_R": 58.2,
+   "modes": {
+    "total": {
+     "votes_D": 21029,
+     "votes_R": 30717,
+     "votes_other": 1018
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17101": {
+   "name": "Lawrence",
+   "raw_name": "Lawrence",
+   "fips": "17101",
+   "is_mappable": true,
+   "votes_D": 1283,
+   "votes_R": 4715,
+   "votes_other": 135,
+   "total_votes": 6133,
+   "pct_D": 20.9,
+   "pct_R": 76.9,
+   "modes": {
+    "total": {
+     "votes_D": 1283,
+     "votes_R": 4715,
+     "votes_other": 135
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17103": {
+   "name": "Lee",
+   "raw_name": "Lee",
+   "fips": "17103",
+   "is_mappable": true,
+   "votes_D": 6105,
+   "votes_R": 9680,
+   "votes_other": 409,
+   "total_votes": 16194,
+   "pct_D": 37.7,
+   "pct_R": 59.8,
+   "modes": {
+    "total": {
+     "votes_D": 6105,
+     "votes_R": 9680,
+     "votes_other": 409
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17105": {
+   "name": "Livingston",
+   "raw_name": "Livingston",
+   "fips": "17105",
+   "is_mappable": true,
+   "votes_D": 4311,
+   "votes_R": 11970,
+   "votes_other": 351,
+   "total_votes": 16632,
+   "pct_D": 25.9,
+   "pct_R": 72.0,
+   "modes": {
+    "total": {
+     "votes_D": 4311,
+     "votes_R": 11970,
+     "votes_other": 351
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17107": {
+   "name": "Logan",
+   "raw_name": "Logan",
+   "fips": "17107",
+   "is_mappable": true,
+   "votes_D": 3543,
+   "votes_R": 8757,
+   "votes_other": 255,
+   "total_votes": 12555,
+   "pct_D": 28.2,
+   "pct_R": 69.7,
+   "modes": {
+    "mail": {
+     "votes_D": 795,
+     "votes_R": 713,
+     "votes_other": 47
+    },
+    "early_in_person": {
+     "votes_D": 747,
+     "votes_R": 1957,
+     "votes_other": 25
+    },
+    "election_day": {
+     "votes_D": 1943,
+     "votes_R": 6021,
+     "votes_other": 182
+    },
+    "provisional": {
+     "votes_D": 58,
+     "votes_R": 66,
+     "votes_other": 1
+    }
+   },
+   "data_source": "Logan County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0075,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "17115": {
+   "name": "Macon",
+   "raw_name": "Macon",
+   "fips": "17115",
+   "is_mappable": true,
+   "votes_D": 18009,
+   "votes_R": 26562,
+   "votes_other": 1055,
+   "total_votes": 45626,
+   "pct_D": 39.5,
+   "pct_R": 58.2,
+   "modes": {
+    "total": {
+     "votes_D": 18009,
+     "votes_R": 26562,
+     "votes_other": 1055
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17117": {
+   "name": "Macoupin",
+   "raw_name": "Macoupin",
+   "fips": "17117",
+   "is_mappable": true,
+   "votes_D": 6892,
+   "votes_R": 16065,
+   "votes_other": 468,
+   "total_votes": 23425,
+   "pct_D": 29.4,
+   "pct_R": 68.6,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1345,
+     "votes_R": 3048,
+     "votes_other": 54
+    },
+    "election_day": {
+     "votes_D": 3601,
+     "votes_R": 11554,
+     "votes_other": 326
+    },
+    "late_mail": {
+     "votes_D": 24,
+     "votes_R": 39,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 1922,
+     "votes_R": 1424,
+     "votes_other": 86
+    }
+   },
+   "data_source": "Macoupin County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0043,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "17119": {
+   "name": "Madison",
+   "raw_name": "Madison",
+   "fips": "17119",
+   "is_mappable": true,
+   "votes_D": 56341,
+   "votes_R": 73925,
+   "votes_other": 3317,
+   "total_votes": 133583,
+   "pct_D": 42.2,
+   "pct_R": 55.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 20306,
+     "votes_R": 26412,
+     "votes_other": 759
+    },
+    "election_day": {
+     "votes_D": 24483,
+     "votes_R": 42481,
+     "votes_other": 2063
+    },
+    "mail": {
+     "votes_D": 11552,
+     "votes_R": 5032,
+     "votes_other": 495
+    }
+   },
+   "data_source": "Madison County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0035,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17121": {
+   "name": "Marion",
+   "raw_name": "Marion",
+   "fips": "17121",
+   "is_mappable": true,
+   "votes_D": 4116,
+   "votes_R": 12409,
+   "votes_other": 231,
+   "total_votes": 16756,
+   "pct_D": 24.6,
+   "pct_R": 74.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 946,
+     "votes_R": 3276,
+     "votes_other": 32
+    },
+    "election_day": {
+     "votes_D": 2444,
+     "votes_R": 8396,
+     "votes_other": 157
+    },
+    "mail": {
+     "votes_D": 726,
+     "votes_R": 737,
+     "votes_other": 42
+    }
+   },
+   "data_source": "Marion County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0032,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17123": {
+   "name": "Marshall",
+   "raw_name": "Marshall",
+   "fips": "17123",
+   "is_mappable": true,
+   "votes_D": 1913,
+   "votes_R": 4119,
+   "votes_other": 122,
+   "total_votes": 6154,
+   "pct_D": 31.1,
+   "pct_R": 66.9,
+   "modes": {
+    "total": {
+     "votes_D": 1913,
+     "votes_R": 4119,
+     "votes_other": 122
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17125": {
+   "name": "Mason",
+   "raw_name": "Mason",
+   "fips": "17125",
+   "is_mappable": true,
+   "votes_D": 1773,
+   "votes_R": 4464,
+   "votes_other": 168,
+   "total_votes": 6405,
+   "pct_D": 27.7,
+   "pct_R": 69.7,
+   "modes": {
+    "total": {
+     "votes_D": 1773,
+     "votes_R": 4464,
+     "votes_other": 168
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17127": {
+   "name": "Massac",
+   "raw_name": "Massac",
+   "fips": "17127",
+   "is_mappable": true,
+   "votes_D": 1678,
+   "votes_R": 4936,
+   "votes_other": 54,
+   "total_votes": 6668,
+   "pct_D": 25.2,
+   "pct_R": 74.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 493,
+     "votes_R": 1301,
+     "votes_other": 7
+    },
+    "election_day": {
+     "votes_D": 952,
+     "votes_R": 3401,
+     "votes_other": 45
+    },
+    "mail": {
+     "votes_D": 233,
+     "votes_R": 234,
+     "votes_other": 2
+    }
+   },
+   "data_source": "Massac County, IL",
+   "official_results": false,
+   "pct_off_official": 0.0133,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17109": {
+   "name": "McDonough",
+   "raw_name": "Mcdonough",
+   "fips": "17109",
+   "is_mappable": true,
+   "votes_D": 4736,
+   "votes_R": 6987,
+   "votes_other": 334,
+   "total_votes": 12057,
+   "pct_D": 39.3,
+   "pct_R": 57.9,
+   "modes": {
+    "total": {
+     "votes_D": 4736,
+     "votes_R": 6987,
+     "votes_other": 334
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17111": {
+   "name": "McHenry",
+   "raw_name": "Mchenry",
+   "fips": "17111",
+   "is_mappable": true,
+   "votes_D": 75370,
+   "votes_R": 83933,
+   "votes_other": 2396,
+   "total_votes": 161699,
+   "pct_D": 46.6,
+   "pct_R": 51.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 31208,
+     "votes_R": 40355,
+     "votes_other": 680
+    },
+    "election_day": {
+     "votes_D": 22830,
+     "votes_R": 35634,
+     "votes_other": 1250
+    },
+    "mail": {
+     "votes_D": 17745,
+     "votes_R": 6210,
+     "votes_other": 346
+    },
+    "late_mail": {
+     "votes_D": 3587,
+     "votes_R": 1734,
+     "votes_other": 120
+    }
+   },
+   "data_source": "Mchenry County, IL",
+   "official_results": true,
+   "pct_off_official": 0.012,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "17113": {
+   "name": "McLean",
+   "raw_name": "Mclean",
+   "fips": "17113",
+   "is_mappable": true,
+   "votes_D": 44495,
+   "votes_R": 40290,
+   "votes_other": 1875,
+   "total_votes": 86660,
+   "pct_D": 51.3,
+   "pct_R": 46.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 17417,
+     "votes_R": 22252,
+     "votes_other": 1048
+    },
+    "early_in_person": {
+     "votes_D": 17510,
+     "votes_R": 13945,
+     "votes_other": 492
+    },
+    "late_mail": {
+     "votes_D": 683,
+     "votes_R": 389,
+     "votes_other": 54
+    },
+    "mail": {
+     "votes_D": 8885,
+     "votes_R": 3704,
+     "votes_other": 281
+    }
+   },
+   "data_source": "Mclean County, IL",
+   "official_results": true,
+   "pct_off_official": 0.004,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "17129": {
+   "name": "Menard",
+   "raw_name": "Menard",
+   "fips": "17129",
+   "is_mappable": true,
+   "votes_D": 1828,
+   "votes_R": 4495,
+   "votes_other": 123,
+   "total_votes": 6446,
+   "pct_D": 28.4,
+   "pct_R": 69.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 576,
+     "votes_R": 1036,
+     "votes_other": 25
+    },
+    "election_day": {
+     "votes_D": 930,
+     "votes_R": 3264,
+     "votes_other": 83
+    },
+    "mail": {
+     "votes_D": 322,
+     "votes_R": 195,
+     "votes_other": 15
+    }
+   },
+   "data_source": "Menard County, IL",
+   "official_results": false,
+   "pct_off_official": 0.0079,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17131": {
+   "name": "Mercer",
+   "raw_name": "Mercer",
+   "fips": "17131",
+   "is_mappable": true,
+   "votes_D": 2950,
+   "votes_R": 5215,
+   "votes_other": 209,
+   "total_votes": 8374,
+   "pct_D": 35.2,
+   "pct_R": 62.3,
+   "modes": {
+    "total": {
+     "votes_D": 2950,
+     "votes_R": 5215,
+     "votes_other": 209
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17133": {
+   "name": "Monroe",
+   "raw_name": "Monroe",
+   "fips": "17133",
+   "is_mappable": true,
+   "votes_D": 6473,
+   "votes_R": 14055,
+   "votes_other": 486,
+   "total_votes": 21014,
+   "pct_D": 30.8,
+   "pct_R": 66.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2351,
+     "votes_R": 4982,
+     "votes_other": 110
+    },
+    "election_day": {
+     "votes_D": 2857,
+     "votes_R": 8110,
+     "votes_other": 302
+    },
+    "mail": {
+     "votes_D": 1265,
+     "votes_R": 963,
+     "votes_other": 74
+    }
+   },
+   "data_source": "Monroe County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0006,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17135": {
+   "name": "Montgomery",
+   "raw_name": "Montgomery",
+   "fips": "17135",
+   "is_mappable": true,
+   "votes_D": 3573,
+   "votes_R": 9378,
+   "votes_other": 311,
+   "total_votes": 13262,
+   "pct_D": 26.9,
+   "pct_R": 70.7,
+   "modes": {
+    "total": {
+     "votes_D": 3573,
+     "votes_R": 9378,
+     "votes_other": 311
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17137": {
+   "name": "Morgan",
+   "raw_name": "Morgan",
+   "fips": "17137",
+   "is_mappable": true,
+   "votes_D": 4848,
+   "votes_R": 9607,
+   "votes_other": 194,
+   "total_votes": 14649,
+   "pct_D": 33.1,
+   "pct_R": 65.6,
+   "modes": {
+    "total": {
+     "votes_D": 4848,
+     "votes_R": 9607,
+     "votes_other": 194
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17139": {
+   "name": "Moultrie",
+   "raw_name": "Moultrie",
+   "fips": "17139",
+   "is_mappable": true,
+   "votes_D": 1615,
+   "votes_R": 4816,
+   "votes_other": 121,
+   "total_votes": 6552,
+   "pct_D": 24.6,
+   "pct_R": 73.5,
+   "modes": {
+    "total": {
+     "votes_D": 1615,
+     "votes_R": 4816,
+     "votes_other": 121
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17141": {
+   "name": "Ogle",
+   "raw_name": "Ogle",
+   "fips": "17141",
+   "is_mappable": true,
+   "votes_D": 8883,
+   "votes_R": 16450,
+   "votes_other": 617,
+   "total_votes": 25950,
+   "pct_D": 34.2,
+   "pct_R": 63.4,
+   "modes": {
+    "total": {
+     "votes_D": 8883,
+     "votes_R": 16450,
+     "votes_other": 617
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17143": {
+   "name": "Peoria",
+   "raw_name": "Peoria",
+   "fips": "17143",
+   "is_mappable": true,
+   "votes_D": 40564,
+   "votes_R": 36896,
+   "votes_other": 1271,
+   "total_votes": 78731,
+   "pct_D": 51.5,
+   "pct_R": 46.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 11220,
+     "votes_R": 11927,
+     "votes_other": 213
+    },
+    "election_day": {
+     "votes_D": 15561,
+     "votes_R": 19055,
+     "votes_other": 739
+    },
+    "mail": {
+     "votes_D": 13783,
+     "votes_R": 5914,
+     "votes_other": 319
+    }
+   },
+   "data_source": "Peoria County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0124,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17145": {
+   "name": "Perry",
+   "raw_name": "Perry",
+   "fips": "17145",
+   "is_mappable": true,
+   "votes_D": 2146,
+   "votes_R": 6949,
+   "votes_other": 177,
+   "total_votes": 9272,
+   "pct_D": 23.1,
+   "pct_R": 74.9,
+   "modes": {
+    "total": {
+     "votes_D": 2146,
+     "votes_R": 6949,
+     "votes_other": 177
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17147": {
+   "name": "Piatt",
+   "raw_name": "Piatt",
+   "fips": "17147",
+   "is_mappable": true,
+   "votes_D": 3204,
+   "votes_R": 6104,
+   "votes_other": 250,
+   "total_votes": 9558,
+   "pct_D": 33.5,
+   "pct_R": 63.9,
+   "modes": {
+    "total": {
+     "votes_D": 3204,
+     "votes_R": 6104,
+     "votes_other": 250
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17149": {
+   "name": "Pike",
+   "raw_name": "Pike",
+   "fips": "17149",
+   "is_mappable": true,
+   "votes_D": 1302,
+   "votes_R": 6086,
+   "votes_other": 118,
+   "total_votes": 7506,
+   "pct_D": 17.3,
+   "pct_R": 81.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 377,
+     "votes_R": 1497,
+     "votes_other": 20
+    },
+    "election_day": {
+     "votes_D": 687,
+     "votes_R": 4267,
+     "votes_other": 81
+    },
+    "mail": {
+     "votes_D": 238,
+     "votes_R": 322,
+     "votes_other": 17
+    }
+   },
+   "data_source": "Pike County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0029,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17151": {
+   "name": "Pope",
+   "raw_name": "Pope",
+   "fips": "17151",
+   "is_mappable": true,
+   "votes_D": 416,
+   "votes_R": 1698,
+   "votes_other": 37,
+   "total_votes": 2151,
+   "pct_D": 19.3,
+   "pct_R": 78.9,
+   "modes": {
+    "total": {
+     "votes_D": 416,
+     "votes_R": 1698,
+     "votes_other": 37
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17153": {
+   "name": "Pulaski",
+   "raw_name": "Pulaski",
+   "fips": "17153",
+   "is_mappable": true,
+   "votes_D": 769,
+   "votes_R": 1583,
+   "votes_other": 38,
+   "total_votes": 2390,
+   "pct_D": 32.2,
+   "pct_R": 66.2,
+   "modes": {
+    "total": {
+     "votes_D": 769,
+     "votes_R": 1583,
+     "votes_other": 38
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17155": {
+   "name": "Putnam",
+   "raw_name": "Putnam",
+   "fips": "17155",
+   "is_mappable": true,
+   "votes_D": 1254,
+   "votes_R": 2014,
+   "votes_other": 83,
+   "total_votes": 3351,
+   "pct_D": 37.4,
+   "pct_R": 60.1,
+   "modes": {
+    "total": {
+     "votes_D": 1254,
+     "votes_R": 2014,
+     "votes_other": 83
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17157": {
+   "name": "Randolph",
+   "raw_name": "Randolph",
+   "fips": "17157",
+   "is_mappable": true,
+   "votes_D": 3461,
+   "votes_R": 10624,
+   "votes_other": 289,
+   "total_votes": 14374,
+   "pct_D": 24.1,
+   "pct_R": 73.9,
+   "modes": {
+    "total": {
+     "votes_D": 3461,
+     "votes_R": 10624,
+     "votes_other": 289
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0009,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17159": {
+   "name": "Richland",
+   "raw_name": "Richland",
+   "fips": "17159",
+   "is_mappable": true,
+   "votes_D": 1747,
+   "votes_R": 5889,
+   "votes_other": 148,
+   "total_votes": 7784,
+   "pct_D": 22.4,
+   "pct_R": 75.7,
+   "modes": {
+    "total": {
+     "votes_D": 1747,
+     "votes_R": 5889,
+     "votes_other": 148
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17161": {
+   "name": "Rock Island",
+   "raw_name": "Rock Island",
+   "fips": "17161",
+   "is_mappable": true,
+   "votes_D": 34126,
+   "votes_R": 28061,
+   "votes_other": 2017,
+   "total_votes": 64204,
+   "pct_D": 53.2,
+   "pct_R": 43.7,
+   "modes": {
+    "total": {
+     "votes_D": 34126,
+     "votes_R": 28061,
+     "votes_other": 2017
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17165": {
+   "name": "Saline",
+   "raw_name": "Saline",
+   "fips": "17165",
+   "is_mappable": true,
+   "votes_D": 2634,
+   "votes_R": 7830,
+   "votes_other": 246,
+   "total_votes": 10710,
+   "pct_D": 24.6,
+   "pct_R": 73.1,
+   "modes": {
+    "total": {
+     "votes_D": 2634,
+     "votes_R": 7830,
+     "votes_other": 246
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17167": {
+   "name": "Sangamon",
+   "raw_name": "Sangamon",
+   "fips": "17167",
+   "is_mappable": true,
+   "votes_D": 46074,
+   "votes_R": 50979,
+   "votes_other": 3046,
+   "total_votes": 100099,
+   "pct_D": 46.0,
+   "pct_R": 50.9,
+   "modes": {
+    "total": {
+     "votes_D": 46074,
+     "votes_R": 50979,
+     "votes_other": 3046
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17169": {
+   "name": "Schuyler",
+   "raw_name": "Schuyler",
+   "fips": "17169",
+   "is_mappable": true,
+   "votes_D": 961,
+   "votes_R": 2720,
+   "votes_other": 78,
+   "total_votes": 3759,
+   "pct_D": 25.6,
+   "pct_R": 72.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 250,
+     "votes_R": 675,
+     "votes_other": 18
+    },
+    "election_day": {
+     "votes_D": 459,
+     "votes_R": 1820,
+     "votes_other": 45
+    },
+    "mail": {
+     "votes_D": 252,
+     "votes_R": 225,
+     "votes_other": 15
+    }
+   },
+   "data_source": "Schuyler County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0037,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17171": {
+   "name": "Scott",
+   "raw_name": "Scott",
+   "fips": "17171",
+   "is_mappable": true,
+   "votes_D": 488,
+   "votes_R": 2071,
+   "votes_other": 33,
+   "total_votes": 2592,
+   "pct_D": 18.8,
+   "pct_R": 79.9,
+   "modes": {
+    "total": {
+     "votes_D": 488,
+     "votes_R": 2071,
+     "votes_other": 33
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17173": {
+   "name": "Shelby",
+   "raw_name": "Shelby",
+   "fips": "17173",
+   "is_mappable": true,
+   "votes_D": 2240,
+   "votes_R": 9267,
+   "votes_other": 202,
+   "total_votes": 11709,
+   "pct_D": 19.1,
+   "pct_R": 79.1,
+   "modes": {
+    "total": {
+     "votes_D": 2240,
+     "votes_R": 9267,
+     "votes_other": 202
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17163": {
+   "name": "St. Clair",
+   "raw_name": "St. Clair",
+   "fips": "17163",
+   "is_mappable": true,
+   "votes_D": 63433,
+   "votes_R": 54021,
+   "votes_other": 3425,
+   "total_votes": 120879,
+   "pct_D": 52.5,
+   "pct_R": 44.7,
+   "modes": {
+    "total": {
+     "votes_D": 63433,
+     "votes_R": 54021,
+     "votes_other": 3425
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17175": {
+   "name": "Stark",
+   "raw_name": "Stark",
+   "fips": "17175",
+   "is_mappable": true,
+   "votes_D": 725,
+   "votes_R": 1983,
+   "votes_other": 57,
+   "total_votes": 2765,
+   "pct_D": 26.2,
+   "pct_R": 71.7,
+   "modes": {
+    "pre_election_day": {
+     "votes_D": 287,
+     "votes_R": 505,
+     "votes_other": 22
+    },
+    "election_day": {
+     "votes_D": 438,
+     "votes_R": 1478,
+     "votes_other": 35
+    }
+   },
+   "data_source": "Stark County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0206,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "17177": {
+   "name": "Stephenson",
+   "raw_name": "Stephenson",
+   "fips": "17177",
+   "is_mappable": true,
+   "votes_D": 8278,
+   "votes_R": 12347,
+   "votes_other": 481,
+   "total_votes": 21106,
+   "pct_D": 39.2,
+   "pct_R": 58.5,
+   "modes": {
+    "total": {
+     "votes_D": 8278,
+     "votes_R": 12347,
+     "votes_other": 481
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17179": {
+   "name": "Tazewell",
+   "raw_name": "Tazewell",
+   "fips": "17179",
+   "is_mappable": true,
+   "votes_D": 24325,
+   "votes_R": 42451,
+   "votes_other": 1788,
+   "total_votes": 68564,
+   "pct_D": 35.5,
+   "pct_R": 61.9,
+   "modes": {
+    "total": {
+     "votes_D": 24325,
+     "votes_R": 42451,
+     "votes_other": 1788
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17181": {
+   "name": "Union",
+   "raw_name": "Union",
+   "fips": "17181",
+   "is_mappable": true,
+   "votes_D": 2285,
+   "votes_R": 5837,
+   "votes_other": 148,
+   "total_votes": 8270,
+   "pct_D": 27.6,
+   "pct_R": 70.6,
+   "modes": {
+    "total": {
+     "votes_D": 2285,
+     "votes_R": 5837,
+     "votes_other": 148
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17183": {
+   "name": "Vermilion",
+   "raw_name": "Vermilion",
+   "fips": "17183",
+   "is_mappable": true,
+   "votes_D": 9254,
+   "votes_R": 19777,
+   "votes_other": 660,
+   "total_votes": 29691,
+   "pct_D": 31.2,
+   "pct_R": 66.6,
+   "modes": {
+    "total": {
+     "votes_D": 9254,
+     "votes_R": 19777,
+     "votes_other": 660
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17185": {
+   "name": "Wabash",
+   "raw_name": "Wabash",
+   "fips": "17185",
+   "is_mappable": true,
+   "votes_D": 1200,
+   "votes_R": 4095,
+   "votes_other": 98,
+   "total_votes": 5393,
+   "pct_D": 22.3,
+   "pct_R": 75.9,
+   "modes": {
+    "total": {
+     "votes_D": 1200,
+     "votes_R": 4095,
+     "votes_other": 98
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17187": {
+   "name": "Warren",
+   "raw_name": "Warren",
+   "fips": "17187",
+   "is_mappable": true,
+   "votes_D": 2711,
+   "votes_R": 4579,
+   "votes_other": 195,
+   "total_votes": 7485,
+   "pct_D": 36.2,
+   "pct_R": 61.2,
+   "modes": {
+    "total": {
+     "votes_D": 2711,
+     "votes_R": 4579,
+     "votes_other": 195
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17189": {
+   "name": "Washington",
+   "raw_name": "Washington",
+   "fips": "17189",
+   "is_mappable": true,
+   "votes_D": 1564,
+   "votes_R": 5892,
+   "votes_other": 141,
+   "total_votes": 7597,
+   "pct_D": 20.6,
+   "pct_R": 77.6,
+   "modes": {
+    "total": {
+     "votes_D": 1564,
+     "votes_R": 5892,
+     "votes_other": 141
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17191": {
+   "name": "Wayne",
+   "raw_name": "Wayne",
+   "fips": "17191",
+   "is_mappable": true,
+   "votes_D": 1153,
+   "votes_R": 7015,
+   "votes_other": 93,
+   "total_votes": 8261,
+   "pct_D": 14.0,
+   "pct_R": 84.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 288,
+     "votes_R": 1579,
+     "votes_other": 11
+    },
+    "election_day": {
+     "votes_D": 639,
+     "votes_R": 4939,
+     "votes_other": 72
+    },
+    "mail": {
+     "votes_D": 226,
+     "votes_R": 497,
+     "votes_other": 10
+    }
+   },
+   "data_source": "Wayne County, IL",
+   "official_results": false,
+   "pct_off_official": 0.0046,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17193": {
+   "name": "White",
+   "raw_name": "White",
+   "fips": "17193",
+   "is_mappable": true,
+   "votes_D": 1390,
+   "votes_R": 5586,
+   "votes_other": 112,
+   "total_votes": 7088,
+   "pct_D": 19.6,
+   "pct_R": 78.8,
+   "modes": {
+    "total": {
+     "votes_D": 1390,
+     "votes_R": 5586,
+     "votes_other": 112
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17195": {
+   "name": "Whiteside",
+   "raw_name": "Whiteside",
+   "fips": "17195",
+   "is_mappable": true,
+   "votes_D": 11012,
+   "votes_R": 14898,
+   "votes_other": 658,
+   "total_votes": 26568,
+   "pct_D": 41.4,
+   "pct_R": 56.1,
+   "modes": {
+    "total": {
+     "votes_D": 11012,
+     "votes_R": 14898,
+     "votes_other": 658
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17197": {
+   "name": "Will",
+   "raw_name": "Will",
+   "fips": "17197",
+   "is_mappable": true,
+   "votes_D": 162874,
+   "votes_R": 157672,
+   "votes_other": 7058,
+   "total_votes": 327604,
+   "pct_D": 49.7,
+   "pct_R": 48.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 56909,
+     "votes_R": 60190,
+     "votes_other": 1505
+    },
+    "election_day": {
+     "votes_D": 70818,
+     "votes_R": 84330,
+     "votes_other": 4491
+    },
+    "mail": {
+     "votes_D": 35147,
+     "votes_R": 13152,
+     "votes_other": 1062
+    }
+   },
+   "data_source": "Will County, IL",
+   "official_results": true,
+   "pct_off_official": 0.012,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "17199": {
+   "name": "Williamson",
+   "raw_name": "Williamson",
+   "fips": "17199",
+   "is_mappable": true,
+   "votes_D": 9890,
+   "votes_R": 22686,
+   "votes_other": 668,
+   "total_votes": 33244,
+   "pct_D": 29.7,
+   "pct_R": 68.2,
+   "modes": {
+    "total": {
+     "votes_D": 9890,
+     "votes_R": 22686,
+     "votes_other": 668
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "17201": {
+   "name": "Winnebago",
+   "raw_name": "Winnebago",
+   "fips": "17201",
+   "is_mappable": true,
+   "votes_D": 59942,
+   "votes_R": 59257,
+   "votes_other": 2819,
+   "total_votes": 122018,
+   "pct_D": 49.1,
+   "pct_R": 48.6,
+   "modes": {
+    "late_mail": {
+     "votes_D": 1176,
+     "votes_R": 446,
+     "votes_other": 90
+    },
+    "early_in_person": {
+     "votes_D": 16229,
+     "votes_R": 15336,
+     "votes_other": 437
+    },
+    "election_day": {
+     "votes_D": 28417,
+     "votes_R": 38008,
+     "votes_other": 1846
+    },
+    "mail": {
+     "votes_D": 14120,
+     "votes_R": 5467,
+     "votes_other": 446
+    }
+   },
+   "data_source": "Winnebago County, IL",
+   "official_results": true,
+   "pct_off_official": 0.0042,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "17203": {
+   "name": "Woodford",
+   "raw_name": "Woodford",
+   "fips": "17203",
+   "is_mappable": true,
+   "votes_D": 5958,
+   "votes_R": 14837,
+   "votes_other": 473,
+   "total_votes": 21268,
+   "pct_D": 28.0,
+   "pct_R": 69.8,
+   "modes": {
+    "total": {
+     "votes_D": 5958,
+     "votes_R": 14837,
+     "votes_other": 473
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  }
+ }
+}

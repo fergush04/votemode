@@ -1,0 +1,8462 @@
+{
+ "race": "senate",
+ "race_label": "Senate",
+ "race_type": "senate",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Elizabeth Ann Warren",
+ "candidate_R": "John Deaton",
+ "state": "Massachusetts",
+ "state_abbr": "MA",
+ "unit_type": "town",
+ "avg_completeness": "U",
+ "completeness_breakdown": {
+  "U": 351
+ },
+ "votes_D": 2041668,
+ "votes_R": 1365440,
+ "votes_other": 6221,
+ "total_votes": 3413329,
+ "pct_D": 59.8,
+ "pct_R": 40.0,
+ "unit_count": 351,
+ "state_profile": {
+  "voting_summary": "Massachusetts towns report combined totals: no-excuse mail and two weeks of early voting are both heavy, but the published results don't break out methods. Polls close at 8 p.m. Eastern; cities and towns report through the evening, with mail postmarked by election day accepted for three days, so totals firm up over the following week. Boston and other large cities typically land late in the evening, shifting the running total bluer as they do.",
+  "reporting_notes": "",
+  "tags": [
+   "Town-level reporting",
+   "No-excuse mail",
+   "Totals only"
+  ],
+  "mode_split": {
+   "total": 100.0
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "abington": {
+   "name": "ABINGTON",
+   "raw_name": "Abington",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4417,
+   "votes_R": 5046,
+   "votes_other": 7,
+   "total_votes": 9470,
+   "pct_D": 46.6,
+   "pct_R": 53.3,
+   "modes": {
+    "total": {
+     "votes_D": 4417,
+     "votes_R": 5046,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "acton": {
+   "name": "ACTON",
+   "raw_name": "Acton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 9678,
+   "votes_R": 3332,
+   "votes_other": 30,
+   "total_votes": 13040,
+   "pct_D": 74.2,
+   "pct_R": 25.6,
+   "modes": {
+    "total": {
+     "votes_D": 9678,
+     "votes_R": 3332,
+     "votes_other": 30
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "acushnet": {
+   "name": "ACUSHNET",
+   "raw_name": "Acushnet",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2305,
+   "votes_R": 3775,
+   "votes_other": 3,
+   "total_votes": 6083,
+   "pct_D": 37.9,
+   "pct_R": 62.1,
+   "modes": {
+    "total": {
+     "votes_D": 2305,
+     "votes_R": 3775,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "adams": {
+   "name": "ADAMS",
+   "raw_name": "Adams",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2697,
+   "votes_R": 1602,
+   "votes_other": 1,
+   "total_votes": 4300,
+   "pct_D": 62.7,
+   "pct_R": 37.3,
+   "modes": {
+    "total": {
+     "votes_D": 2697,
+     "votes_R": 1602,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "agawam": {
+   "name": "AGAWAM",
+   "raw_name": "Agawam",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6790,
+   "votes_R": 8577,
+   "votes_other": 23,
+   "total_votes": 15390,
+   "pct_D": 44.1,
+   "pct_R": 55.7,
+   "modes": {
+    "total": {
+     "votes_D": 6790,
+     "votes_R": 8577,
+     "votes_other": 23
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "alford": {
+   "name": "ALFORD",
+   "raw_name": "Alford",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 249,
+   "votes_R": 60,
+   "votes_other": 0,
+   "total_votes": 309,
+   "pct_D": 80.6,
+   "pct_R": 19.4,
+   "modes": {
+    "total": {
+     "votes_D": 249,
+     "votes_R": 60,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "amesbury": {
+   "name": "AMESBURY",
+   "raw_name": "Amesbury",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6211,
+   "votes_R": 3933,
+   "votes_other": 0,
+   "total_votes": 10144,
+   "pct_D": 61.2,
+   "pct_R": 38.8,
+   "modes": {
+    "total": {
+     "votes_D": 6211,
+     "votes_R": 3933,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "amherst": {
+   "name": "AMHERST",
+   "raw_name": "Amherst",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 9438,
+   "votes_R": 1078,
+   "votes_other": 38,
+   "total_votes": 10554,
+   "pct_D": 89.4,
+   "pct_R": 10.2,
+   "modes": {
+    "total": {
+     "votes_D": 9438,
+     "votes_R": 1078,
+     "votes_other": 38
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "andover": {
+   "name": "ANDOVER",
+   "raw_name": "Andover",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 12105,
+   "votes_R": 7988,
+   "votes_other": 26,
+   "total_votes": 20119,
+   "pct_D": 60.2,
+   "pct_R": 39.7,
+   "modes": {
+    "total": {
+     "votes_D": 12105,
+     "votes_R": 7988,
+     "votes_other": 26
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "aquinnah": {
+   "name": "AQUINNAH",
+   "raw_name": "Aquinnah",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 288,
+   "votes_R": 51,
+   "votes_other": 0,
+   "total_votes": 339,
+   "pct_D": 85.0,
+   "pct_R": 15.0,
+   "modes": {
+    "total": {
+     "votes_D": 288,
+     "votes_R": 51,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "arlington": {
+   "name": "ARLINGTON",
+   "raw_name": "Arlington",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 21886,
+   "votes_R": 5197,
+   "votes_other": 37,
+   "total_votes": 27120,
+   "pct_D": 80.7,
+   "pct_R": 19.2,
+   "modes": {
+    "total": {
+     "votes_D": 21886,
+     "votes_R": 5197,
+     "votes_other": 37
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ashburnham": {
+   "name": "ASHBURNHAM",
+   "raw_name": "Ashburnham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1865,
+   "votes_R": 1965,
+   "votes_other": 9,
+   "total_votes": 3839,
+   "pct_D": 48.6,
+   "pct_R": 51.2,
+   "modes": {
+    "total": {
+     "votes_D": 1865,
+     "votes_R": 1965,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ashby": {
+   "name": "ASHBY",
+   "raw_name": "Ashby",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 853,
+   "votes_R": 1112,
+   "votes_other": 0,
+   "total_votes": 1965,
+   "pct_D": 43.4,
+   "pct_R": 56.6,
+   "modes": {
+    "total": {
+     "votes_D": 853,
+     "votes_R": 1112,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ashfield": {
+   "name": "ASHFIELD",
+   "raw_name": "Ashfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 913,
+   "votes_R": 274,
+   "votes_other": 1,
+   "total_votes": 1188,
+   "pct_D": 76.9,
+   "pct_R": 23.1,
+   "modes": {
+    "total": {
+     "votes_D": 913,
+     "votes_R": 274,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ashland": {
+   "name": "ASHLAND",
+   "raw_name": "Ashland",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6244,
+   "votes_R": 3438,
+   "votes_other": 0,
+   "total_votes": 9682,
+   "pct_D": 64.5,
+   "pct_R": 35.5,
+   "modes": {
+    "total": {
+     "votes_D": 6244,
+     "votes_R": 3438,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "athol": {
+   "name": "ATHOL",
+   "raw_name": "Athol",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2488,
+   "votes_R": 3108,
+   "votes_other": 5,
+   "total_votes": 5601,
+   "pct_D": 44.4,
+   "pct_R": 55.5,
+   "modes": {
+    "total": {
+     "votes_D": 2488,
+     "votes_R": 3108,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "attleboro": {
+   "name": "ATTLEBORO",
+   "raw_name": "Attleboro",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 12343,
+   "votes_R": 10477,
+   "votes_other": 22,
+   "total_votes": 22842,
+   "pct_D": 54.0,
+   "pct_R": 45.9,
+   "modes": {
+    "total": {
+     "votes_D": 12343,
+     "votes_R": 10477,
+     "votes_other": 22
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "auburn": {
+   "name": "AUBURN",
+   "raw_name": "Auburn",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4914,
+   "votes_R": 4911,
+   "votes_other": 7,
+   "total_votes": 9832,
+   "pct_D": 50.0,
+   "pct_R": 49.9,
+   "modes": {
+    "total": {
+     "votes_D": 4914,
+     "votes_R": 4911,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "avon": {
+   "name": "AVON",
+   "raw_name": "Avon",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1378,
+   "votes_R": 1139,
+   "votes_other": 0,
+   "total_votes": 2517,
+   "pct_D": 54.7,
+   "pct_R": 45.3,
+   "modes": {
+    "total": {
+     "votes_D": 1378,
+     "votes_R": 1139,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ayer": {
+   "name": "AYER",
+   "raw_name": "Ayer",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2674,
+   "votes_R": 1917,
+   "votes_other": 4,
+   "total_votes": 4595,
+   "pct_D": 58.2,
+   "pct_R": 41.7,
+   "modes": {
+    "total": {
+     "votes_D": 2674,
+     "votes_R": 1917,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "barnstable": {
+   "name": "BARNSTABLE",
+   "raw_name": "Barnstable",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 14079,
+   "votes_R": 13326,
+   "votes_other": 37,
+   "total_votes": 27442,
+   "pct_D": 51.3,
+   "pct_R": 48.6,
+   "modes": {
+    "total": {
+     "votes_D": 14079,
+     "votes_R": 13326,
+     "votes_other": 37
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "barre": {
+   "name": "BARRE",
+   "raw_name": "Barre",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1309,
+   "votes_R": 1753,
+   "votes_other": 2,
+   "total_votes": 3064,
+   "pct_D": 42.7,
+   "pct_R": 57.2,
+   "modes": {
+    "total": {
+     "votes_D": 1309,
+     "votes_R": 1753,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "becket": {
+   "name": "BECKET",
+   "raw_name": "Becket",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 752,
+   "votes_R": 453,
+   "votes_other": 2,
+   "total_votes": 1207,
+   "pct_D": 62.3,
+   "pct_R": 37.5,
+   "modes": {
+    "total": {
+     "votes_D": 752,
+     "votes_R": 453,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "bedford": {
+   "name": "BEDFORD",
+   "raw_name": "Bedford",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5496,
+   "votes_R": 2717,
+   "votes_other": 16,
+   "total_votes": 8229,
+   "pct_D": 66.8,
+   "pct_R": 33.0,
+   "modes": {
+    "total": {
+     "votes_D": 5496,
+     "votes_R": 2717,
+     "votes_other": 16
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "belchertown": {
+   "name": "BELCHERTOWN",
+   "raw_name": "Belchertown",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5390,
+   "votes_R": 4044,
+   "votes_other": 15,
+   "total_votes": 9449,
+   "pct_D": 57.0,
+   "pct_R": 42.8,
+   "modes": {
+    "total": {
+     "votes_D": 5390,
+     "votes_R": 4044,
+     "votes_other": 15
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "bellingham": {
+   "name": "BELLINGHAM",
+   "raw_name": "Bellingham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4577,
+   "votes_R": 5258,
+   "votes_other": 46,
+   "total_votes": 9881,
+   "pct_D": 46.3,
+   "pct_R": 53.2,
+   "modes": {
+    "total": {
+     "votes_D": 4577,
+     "votes_R": 5258,
+     "votes_other": 46
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "belmont": {
+   "name": "BELMONT",
+   "raw_name": "Belmont",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 10508,
+   "votes_R": 3687,
+   "votes_other": 28,
+   "total_votes": 14223,
+   "pct_D": 73.9,
+   "pct_R": 25.9,
+   "modes": {
+    "total": {
+     "votes_D": 10508,
+     "votes_R": 3687,
+     "votes_other": 28
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "berkley": {
+   "name": "BERKLEY",
+   "raw_name": "Berkley",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1542,
+   "votes_R": 2576,
+   "votes_other": 9,
+   "total_votes": 4127,
+   "pct_D": 37.4,
+   "pct_R": 62.4,
+   "modes": {
+    "total": {
+     "votes_D": 1542,
+     "votes_R": 2576,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "berlin": {
+   "name": "BERLIN",
+   "raw_name": "Berlin",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1277,
+   "votes_R": 1097,
+   "votes_other": 7,
+   "total_votes": 2381,
+   "pct_D": 53.6,
+   "pct_R": 46.1,
+   "modes": {
+    "total": {
+     "votes_D": 1277,
+     "votes_R": 1097,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "bernardston": {
+   "name": "BERNARDSTON",
+   "raw_name": "Bernardston",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 816,
+   "votes_R": 557,
+   "votes_other": 0,
+   "total_votes": 1373,
+   "pct_D": 59.4,
+   "pct_R": 40.6,
+   "modes": {
+    "total": {
+     "votes_D": 816,
+     "votes_R": 557,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "beverly": {
+   "name": "BEVERLY",
+   "raw_name": "Beverly",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 14599,
+   "votes_R": 8673,
+   "votes_other": 14,
+   "total_votes": 23286,
+   "pct_D": 62.7,
+   "pct_R": 37.2,
+   "modes": {
+    "total": {
+     "votes_D": 14599,
+     "votes_R": 8673,
+     "votes_other": 14
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "billerica": {
+   "name": "BILLERICA",
+   "raw_name": "Billerica",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 11224,
+   "votes_R": 12020,
+   "votes_other": 34,
+   "total_votes": 23278,
+   "pct_D": 48.2,
+   "pct_R": 51.6,
+   "modes": {
+    "total": {
+     "votes_D": 11224,
+     "votes_R": 12020,
+     "votes_other": 34
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "blackstone": {
+   "name": "BLACKSTONE",
+   "raw_name": "Blackstone",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2114,
+   "votes_R": 2913,
+   "votes_other": 1,
+   "total_votes": 5028,
+   "pct_D": 42.0,
+   "pct_R": 57.9,
+   "modes": {
+    "total": {
+     "votes_D": 2114,
+     "votes_R": 2913,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "blandford": {
+   "name": "BLANDFORD",
+   "raw_name": "Blandford",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 283,
+   "votes_R": 523,
+   "votes_other": 0,
+   "total_votes": 806,
+   "pct_D": 35.1,
+   "pct_R": 64.9,
+   "modes": {
+    "total": {
+     "votes_D": 283,
+     "votes_R": 523,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "bolton": {
+   "name": "BOLTON",
+   "raw_name": "Bolton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2270,
+   "votes_R": 1379,
+   "votes_other": 30,
+   "total_votes": 3679,
+   "pct_D": 61.7,
+   "pct_R": 37.5,
+   "modes": {
+    "total": {
+     "votes_D": 2270,
+     "votes_R": 1379,
+     "votes_other": 30
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "boston": {
+   "name": "BOSTON",
+   "raw_name": "Boston",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 198431,
+   "votes_R": 57344,
+   "votes_other": 909,
+   "total_votes": 256684,
+   "pct_D": 77.3,
+   "pct_R": 22.3,
+   "modes": {
+    "total": {
+     "votes_D": 198431,
+     "votes_R": 57344,
+     "votes_other": 909
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "bourne": {
+   "name": "BOURNE",
+   "raw_name": "Bourne",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5696,
+   "votes_R": 6248,
+   "votes_other": 24,
+   "total_votes": 11968,
+   "pct_D": 47.6,
+   "pct_R": 52.2,
+   "modes": {
+    "total": {
+     "votes_D": 5696,
+     "votes_R": 6248,
+     "votes_other": 24
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "boxborough": {
+   "name": "BOXBOROUGH",
+   "raw_name": "Boxborough",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2159,
+   "votes_R": 958,
+   "votes_other": 0,
+   "total_votes": 3117,
+   "pct_D": 69.3,
+   "pct_R": 30.7,
+   "modes": {
+    "total": {
+     "votes_D": 2159,
+     "votes_R": 958,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "boxford": {
+   "name": "BOXFORD",
+   "raw_name": "Boxford",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2688,
+   "votes_R": 2661,
+   "votes_other": 10,
+   "total_votes": 5359,
+   "pct_D": 50.2,
+   "pct_R": 49.7,
+   "modes": {
+    "total": {
+     "votes_D": 2688,
+     "votes_R": 2661,
+     "votes_other": 10
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "boylston": {
+   "name": "BOYLSTON",
+   "raw_name": "Boylston",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1712,
+   "votes_R": 1603,
+   "votes_other": 7,
+   "total_votes": 3322,
+   "pct_D": 51.5,
+   "pct_R": 48.3,
+   "modes": {
+    "total": {
+     "votes_D": 1712,
+     "votes_R": 1603,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "braintree": {
+   "name": "BRAINTREE",
+   "raw_name": "Braintree",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 9992,
+   "votes_R": 9923,
+   "votes_other": 57,
+   "total_votes": 19972,
+   "pct_D": 50.0,
+   "pct_R": 49.7,
+   "modes": {
+    "total": {
+     "votes_D": 9992,
+     "votes_R": 9923,
+     "votes_other": 57
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "brewster": {
+   "name": "BREWSTER",
+   "raw_name": "Brewster",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4437,
+   "votes_R": 2770,
+   "votes_other": 8,
+   "total_votes": 7215,
+   "pct_D": 61.5,
+   "pct_R": 38.4,
+   "modes": {
+    "total": {
+     "votes_D": 4437,
+     "votes_R": 2770,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "bridgewater": {
+   "name": "BRIDGEWATER",
+   "raw_name": "Bridgewater",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6559,
+   "votes_R": 7712,
+   "votes_other": 8,
+   "total_votes": 14279,
+   "pct_D": 45.9,
+   "pct_R": 54.0,
+   "modes": {
+    "total": {
+     "votes_D": 6559,
+     "votes_R": 7712,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "brimfield": {
+   "name": "BRIMFIELD",
+   "raw_name": "Brimfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 967,
+   "votes_R": 1355,
+   "votes_other": 19,
+   "total_votes": 2341,
+   "pct_D": 41.3,
+   "pct_R": 57.9,
+   "modes": {
+    "total": {
+     "votes_D": 967,
+     "votes_R": 1355,
+     "votes_other": 19
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "brockton": {
+   "name": "BROCKTON",
+   "raw_name": "Brockton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 25118,
+   "votes_R": 9089,
+   "votes_other": 6,
+   "total_votes": 34213,
+   "pct_D": 73.4,
+   "pct_R": 26.6,
+   "modes": {
+    "total": {
+     "votes_D": 25118,
+     "votes_R": 9089,
+     "votes_other": 6
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "brookfield": {
+   "name": "BROOKFIELD",
+   "raw_name": "Brookfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 890,
+   "votes_R": 1170,
+   "votes_other": 2,
+   "total_votes": 2062,
+   "pct_D": 43.2,
+   "pct_R": 56.7,
+   "modes": {
+    "total": {
+     "votes_D": 890,
+     "votes_R": 1170,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "brookline": {
+   "name": "BROOKLINE",
+   "raw_name": "Brookline",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 22527,
+   "votes_R": 5143,
+   "votes_other": 109,
+   "total_votes": 27779,
+   "pct_D": 81.1,
+   "pct_R": 18.5,
+   "modes": {
+    "total": {
+     "votes_D": 22527,
+     "votes_R": 5143,
+     "votes_other": 109
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "buckland": {
+   "name": "BUCKLAND",
+   "raw_name": "Buckland",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 780,
+   "votes_R": 340,
+   "votes_other": 0,
+   "total_votes": 1120,
+   "pct_D": 69.6,
+   "pct_R": 30.4,
+   "modes": {
+    "total": {
+     "votes_D": 780,
+     "votes_R": 340,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "burlington": {
+   "name": "BURLINGTON",
+   "raw_name": "Burlington",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7741,
+   "votes_R": 6236,
+   "votes_other": 30,
+   "total_votes": 14007,
+   "pct_D": 55.3,
+   "pct_R": 44.5,
+   "modes": {
+    "total": {
+     "votes_D": 7741,
+     "votes_R": 6236,
+     "votes_other": 30
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "cambridge": {
+   "name": "CAMBRIDGE",
+   "raw_name": "Cambridge",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 43970,
+   "votes_R": 5178,
+   "votes_other": 81,
+   "total_votes": 49229,
+   "pct_D": 89.3,
+   "pct_R": 10.5,
+   "modes": {
+    "total": {
+     "votes_D": 43970,
+     "votes_R": 5178,
+     "votes_other": 81
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "canton": {
+   "name": "CANTON",
+   "raw_name": "Canton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7762,
+   "votes_R": 5971,
+   "votes_other": 13,
+   "total_votes": 13746,
+   "pct_D": 56.5,
+   "pct_R": 43.4,
+   "modes": {
+    "total": {
+     "votes_D": 7762,
+     "votes_R": 5971,
+     "votes_other": 13
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "carlisle": {
+   "name": "CARLISLE",
+   "raw_name": "Carlisle",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2438,
+   "votes_R": 943,
+   "votes_other": 4,
+   "total_votes": 3385,
+   "pct_D": 72.0,
+   "pct_R": 27.9,
+   "modes": {
+    "total": {
+     "votes_D": 2438,
+     "votes_R": 943,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "carver": {
+   "name": "CARVER",
+   "raw_name": "Carver",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2799,
+   "votes_R": 4160,
+   "votes_other": 20,
+   "total_votes": 6979,
+   "pct_D": 40.1,
+   "pct_R": 59.6,
+   "modes": {
+    "total": {
+     "votes_D": 2799,
+     "votes_R": 4160,
+     "votes_other": 20
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "charlemont": {
+   "name": "CHARLEMONT",
+   "raw_name": "Charlemont",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 452,
+   "votes_R": 270,
+   "votes_other": 0,
+   "total_votes": 722,
+   "pct_D": 62.6,
+   "pct_R": 37.4,
+   "modes": {
+    "total": {
+     "votes_D": 452,
+     "votes_R": 270,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "charlton": {
+   "name": "CHARLTON",
+   "raw_name": "Charlton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3135,
+   "votes_R": 4967,
+   "votes_other": 9,
+   "total_votes": 8111,
+   "pct_D": 38.7,
+   "pct_R": 61.2,
+   "modes": {
+    "total": {
+     "votes_D": 3135,
+     "votes_R": 4967,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "chatham": {
+   "name": "CHATHAM",
+   "raw_name": "Chatham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2672,
+   "votes_R": 2150,
+   "votes_other": 3,
+   "total_votes": 4825,
+   "pct_D": 55.4,
+   "pct_R": 44.6,
+   "modes": {
+    "total": {
+     "votes_D": 2672,
+     "votes_R": 2150,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "chelmsford": {
+   "name": "CHELMSFORD",
+   "raw_name": "Chelmsford",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 12078,
+   "votes_R": 8954,
+   "votes_other": 28,
+   "total_votes": 21060,
+   "pct_D": 57.4,
+   "pct_R": 42.5,
+   "modes": {
+    "total": {
+     "votes_D": 12078,
+     "votes_R": 8954,
+     "votes_other": 28
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "chelsea": {
+   "name": "CHELSEA",
+   "raw_name": "Chelsea",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6075,
+   "votes_R": 2127,
+   "votes_other": 0,
+   "total_votes": 8202,
+   "pct_D": 74.1,
+   "pct_R": 25.9,
+   "modes": {
+    "total": {
+     "votes_D": 6075,
+     "votes_R": 2127,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "cheshire": {
+   "name": "CHESHIRE",
+   "raw_name": "Cheshire",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1003,
+   "votes_R": 890,
+   "votes_other": 1,
+   "total_votes": 1894,
+   "pct_D": 53.0,
+   "pct_R": 47.0,
+   "modes": {
+    "total": {
+     "votes_D": 1003,
+     "votes_R": 890,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "chester": {
+   "name": "CHESTER",
+   "raw_name": "Chester",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 287,
+   "votes_R": 453,
+   "votes_other": 0,
+   "total_votes": 740,
+   "pct_D": 38.8,
+   "pct_R": 61.2,
+   "modes": {
+    "total": {
+     "votes_D": 287,
+     "votes_R": 453,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "chesterfield": {
+   "name": "CHESTERFIELD",
+   "raw_name": "Chesterfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 473,
+   "votes_R": 332,
+   "votes_other": 0,
+   "total_votes": 805,
+   "pct_D": 58.8,
+   "pct_R": 41.2,
+   "modes": {
+    "total": {
+     "votes_D": 473,
+     "votes_R": 332,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "chicopee": {
+   "name": "CHICOPEE",
+   "raw_name": "Chicopee",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 12831,
+   "votes_R": 11246,
+   "votes_other": 54,
+   "total_votes": 24131,
+   "pct_D": 53.2,
+   "pct_R": 46.6,
+   "modes": {
+    "total": {
+     "votes_D": 12831,
+     "votes_R": 11246,
+     "votes_other": 54
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "chilmark": {
+   "name": "CHILMARK",
+   "raw_name": "Chilmark",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 753,
+   "votes_R": 175,
+   "votes_other": 1,
+   "total_votes": 929,
+   "pct_D": 81.1,
+   "pct_R": 18.8,
+   "modes": {
+    "total": {
+     "votes_D": 753,
+     "votes_R": 175,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "clarksburg": {
+   "name": "CLARKSBURG",
+   "raw_name": "Clarksburg",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 555,
+   "votes_R": 406,
+   "votes_other": 0,
+   "total_votes": 961,
+   "pct_D": 57.8,
+   "pct_R": 42.2,
+   "modes": {
+    "total": {
+     "votes_D": 555,
+     "votes_R": 406,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "clinton": {
+   "name": "CLINTON",
+   "raw_name": "Clinton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4065,
+   "votes_R": 3284,
+   "votes_other": 21,
+   "total_votes": 7370,
+   "pct_D": 55.2,
+   "pct_R": 44.6,
+   "modes": {
+    "total": {
+     "votes_D": 4065,
+     "votes_R": 3284,
+     "votes_other": 21
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "cohasset": {
+   "name": "COHASSET",
+   "raw_name": "Cohasset",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2946,
+   "votes_R": 2346,
+   "votes_other": 8,
+   "total_votes": 5300,
+   "pct_D": 55.6,
+   "pct_R": 44.3,
+   "modes": {
+    "total": {
+     "votes_D": 2946,
+     "votes_R": 2346,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "colrain": {
+   "name": "COLRAIN",
+   "raw_name": "Colrain",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 615,
+   "votes_R": 405,
+   "votes_other": 0,
+   "total_votes": 1020,
+   "pct_D": 60.3,
+   "pct_R": 39.7,
+   "modes": {
+    "total": {
+     "votes_D": 615,
+     "votes_R": 405,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "concord": {
+   "name": "CONCORD",
+   "raw_name": "Concord",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8890,
+   "votes_R": 2868,
+   "votes_other": 19,
+   "total_votes": 11777,
+   "pct_D": 75.5,
+   "pct_R": 24.4,
+   "modes": {
+    "total": {
+     "votes_D": 8890,
+     "votes_R": 2868,
+     "votes_other": 19
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "conway": {
+   "name": "CONWAY",
+   "raw_name": "Conway",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 918,
+   "votes_R": 375,
+   "votes_other": 0,
+   "total_votes": 1293,
+   "pct_D": 71.0,
+   "pct_R": 29.0,
+   "modes": {
+    "total": {
+     "votes_D": 918,
+     "votes_R": 375,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "cummington": {
+   "name": "CUMMINGTON",
+   "raw_name": "Cummington",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 396,
+   "votes_R": 184,
+   "votes_other": 0,
+   "total_votes": 580,
+   "pct_D": 68.3,
+   "pct_R": 31.7,
+   "modes": {
+    "total": {
+     "votes_D": 396,
+     "votes_R": 184,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "dalton": {
+   "name": "DALTON",
+   "raw_name": "Dalton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2314,
+   "votes_R": 1202,
+   "votes_other": 10,
+   "total_votes": 3526,
+   "pct_D": 65.6,
+   "pct_R": 34.1,
+   "modes": {
+    "total": {
+     "votes_D": 2314,
+     "votes_R": 1202,
+     "votes_other": 10
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "danvers": {
+   "name": "DANVERS",
+   "raw_name": "Danvers",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8102,
+   "votes_R": 7975,
+   "votes_other": 15,
+   "total_votes": 16092,
+   "pct_D": 50.3,
+   "pct_R": 49.6,
+   "modes": {
+    "total": {
+     "votes_D": 8102,
+     "votes_R": 7975,
+     "votes_other": 15
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "dartmouth": {
+   "name": "DARTMOUTH",
+   "raw_name": "Dartmouth",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8745,
+   "votes_R": 9198,
+   "votes_other": 16,
+   "total_votes": 17959,
+   "pct_D": 48.7,
+   "pct_R": 51.2,
+   "modes": {
+    "total": {
+     "votes_D": 8745,
+     "votes_R": 9198,
+     "votes_other": 16
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "dedham": {
+   "name": "DEDHAM",
+   "raw_name": "Dedham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8918,
+   "votes_R": 5770,
+   "votes_other": 25,
+   "total_votes": 14713,
+   "pct_D": 60.6,
+   "pct_R": 39.2,
+   "modes": {
+    "total": {
+     "votes_D": 8918,
+     "votes_R": 5770,
+     "votes_other": 25
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "deerfield": {
+   "name": "DEERFIELD",
+   "raw_name": "Deerfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2217,
+   "votes_R": 1024,
+   "votes_other": 3,
+   "total_votes": 3244,
+   "pct_D": 68.3,
+   "pct_R": 31.6,
+   "modes": {
+    "total": {
+     "votes_D": 2217,
+     "votes_R": 1024,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "dennis": {
+   "name": "DENNIS",
+   "raw_name": "Dennis",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5332,
+   "votes_R": 4815,
+   "votes_other": 9,
+   "total_votes": 10156,
+   "pct_D": 52.5,
+   "pct_R": 47.4,
+   "modes": {
+    "total": {
+     "votes_D": 5332,
+     "votes_R": 4815,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "dighton": {
+   "name": "DIGHTON",
+   "raw_name": "Dighton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1775,
+   "votes_R": 2922,
+   "votes_other": 0,
+   "total_votes": 4697,
+   "pct_D": 37.8,
+   "pct_R": 62.2,
+   "modes": {
+    "total": {
+     "votes_D": 1775,
+     "votes_R": 2922,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "douglas": {
+   "name": "DOUGLAS",
+   "raw_name": "Douglas",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2154,
+   "votes_R": 3593,
+   "votes_other": 0,
+   "total_votes": 5747,
+   "pct_D": 37.5,
+   "pct_R": 62.5,
+   "modes": {
+    "total": {
+     "votes_D": 2154,
+     "votes_R": 3593,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "dover": {
+   "name": "DOVER",
+   "raw_name": "Dover",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2033,
+   "votes_R": 1634,
+   "votes_other": 15,
+   "total_votes": 3682,
+   "pct_D": 55.2,
+   "pct_R": 44.4,
+   "modes": {
+    "total": {
+     "votes_D": 2033,
+     "votes_R": 1634,
+     "votes_other": 15
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "dracut": {
+   "name": "DRACUT",
+   "raw_name": "Dracut",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7760,
+   "votes_R": 9343,
+   "votes_other": 0,
+   "total_votes": 17103,
+   "pct_D": 45.4,
+   "pct_R": 54.6,
+   "modes": {
+    "total": {
+     "votes_D": 7760,
+     "votes_R": 9343,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "dudley": {
+   "name": "DUDLEY",
+   "raw_name": "Dudley",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2545,
+   "votes_R": 3727,
+   "votes_other": 2,
+   "total_votes": 6274,
+   "pct_D": 40.6,
+   "pct_R": 59.4,
+   "modes": {
+    "total": {
+     "votes_D": 2545,
+     "votes_R": 3727,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "dunstable": {
+   "name": "DUNSTABLE",
+   "raw_name": "Dunstable",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1072,
+   "votes_R": 1107,
+   "votes_other": 4,
+   "total_votes": 2183,
+   "pct_D": 49.1,
+   "pct_R": 50.7,
+   "modes": {
+    "total": {
+     "votes_D": 1072,
+     "votes_R": 1107,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "duxbury": {
+   "name": "DUXBURY",
+   "raw_name": "Duxbury",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5465,
+   "votes_R": 5095,
+   "votes_other": 17,
+   "total_votes": 10577,
+   "pct_D": 51.7,
+   "pct_R": 48.2,
+   "modes": {
+    "total": {
+     "votes_D": 5465,
+     "votes_R": 5095,
+     "votes_other": 17
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "e_bridgewater": {
+   "name": "E. BRIDGEWATER",
+   "raw_name": "East Bridgewater",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3424,
+   "votes_R": 4971,
+   "votes_other": 9,
+   "total_votes": 8404,
+   "pct_D": 40.7,
+   "pct_R": 59.2,
+   "modes": {
+    "total": {
+     "votes_D": 3424,
+     "votes_R": 4971,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "e_brookfield": {
+   "name": "E. BROOKFIELD",
+   "raw_name": "East Brookfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 535,
+   "votes_R": 809,
+   "votes_other": 0,
+   "total_votes": 1344,
+   "pct_D": 39.8,
+   "pct_R": 60.2,
+   "modes": {
+    "total": {
+     "votes_D": 535,
+     "votes_R": 809,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "e_longmeadow": {
+   "name": "E. LONGMEADOW",
+   "raw_name": "East Longmeadow",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4615,
+   "votes_R": 5026,
+   "votes_other": 16,
+   "total_votes": 9657,
+   "pct_D": 47.8,
+   "pct_R": 52.0,
+   "modes": {
+    "total": {
+     "votes_D": 4615,
+     "votes_R": 5026,
+     "votes_other": 16
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "eastham": {
+   "name": "EASTHAM",
+   "raw_name": "Eastham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2700,
+   "votes_R": 1388,
+   "votes_other": 3,
+   "total_votes": 4091,
+   "pct_D": 66.0,
+   "pct_R": 33.9,
+   "modes": {
+    "total": {
+     "votes_D": 2700,
+     "votes_R": 1388,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "easthampton": {
+   "name": "EASTHAMPTON",
+   "raw_name": "Easthampton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7236,
+   "votes_R": 2818,
+   "votes_other": 11,
+   "total_votes": 10065,
+   "pct_D": 71.9,
+   "pct_R": 28.0,
+   "modes": {
+    "total": {
+     "votes_D": 7236,
+     "votes_R": 2818,
+     "votes_other": 11
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "easton": {
+   "name": "EASTON",
+   "raw_name": "Easton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7311,
+   "votes_R": 6552,
+   "votes_other": 19,
+   "total_votes": 13882,
+   "pct_D": 52.7,
+   "pct_R": 47.2,
+   "modes": {
+    "total": {
+     "votes_D": 7311,
+     "votes_R": 6552,
+     "votes_other": 19
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "edgartown": {
+   "name": "EDGARTOWN",
+   "raw_name": "Edgartown",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1840,
+   "votes_R": 1014,
+   "votes_other": 3,
+   "total_votes": 2857,
+   "pct_D": 64.4,
+   "pct_R": 35.5,
+   "modes": {
+    "total": {
+     "votes_D": 1840,
+     "votes_R": 1014,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "egremont": {
+   "name": "EGREMONT",
+   "raw_name": "Egremont",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 741,
+   "votes_R": 187,
+   "votes_other": 1,
+   "total_votes": 929,
+   "pct_D": 79.8,
+   "pct_R": 20.1,
+   "modes": {
+    "total": {
+     "votes_D": 741,
+     "votes_R": 187,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "erving": {
+   "name": "ERVING",
+   "raw_name": "Erving",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 511,
+   "votes_R": 442,
+   "votes_other": 1,
+   "total_votes": 954,
+   "pct_D": 53.6,
+   "pct_R": 46.3,
+   "modes": {
+    "total": {
+     "votes_D": 511,
+     "votes_R": 442,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "essex": {
+   "name": "ESSEX",
+   "raw_name": "Essex",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1389,
+   "votes_R": 987,
+   "votes_other": 5,
+   "total_votes": 2381,
+   "pct_D": 58.3,
+   "pct_R": 41.5,
+   "modes": {
+    "total": {
+     "votes_D": 1389,
+     "votes_R": 987,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "everett": {
+   "name": "EVERETT",
+   "raw_name": "Everett",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8110,
+   "votes_R": 3987,
+   "votes_other": 31,
+   "total_votes": 12128,
+   "pct_D": 66.9,
+   "pct_R": 32.9,
+   "modes": {
+    "total": {
+     "votes_D": 8110,
+     "votes_R": 3987,
+     "votes_other": 31
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "fairhaven": {
+   "name": "FAIRHAVEN",
+   "raw_name": "Fairhaven",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4599,
+   "votes_R": 4740,
+   "votes_other": 11,
+   "total_votes": 9350,
+   "pct_D": 49.2,
+   "pct_R": 50.7,
+   "modes": {
+    "total": {
+     "votes_D": 4599,
+     "votes_R": 4740,
+     "votes_other": 11
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "fall_river": {
+   "name": "FALL RIVER",
+   "raw_name": "Fall River",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 15283,
+   "votes_R": 14019,
+   "votes_other": 48,
+   "total_votes": 29350,
+   "pct_D": 52.1,
+   "pct_R": 47.8,
+   "modes": {
+    "total": {
+     "votes_D": 15283,
+     "votes_R": 14019,
+     "votes_other": 48
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "falmouth": {
+   "name": "FALMOUTH",
+   "raw_name": "Falmouth",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 12678,
+   "votes_R": 8985,
+   "votes_other": 33,
+   "total_votes": 21696,
+   "pct_D": 58.4,
+   "pct_R": 41.4,
+   "modes": {
+    "total": {
+     "votes_D": 12678,
+     "votes_R": 8985,
+     "votes_other": 33
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "fitchburg": {
+   "name": "FITCHBURG",
+   "raw_name": "Fitchburg",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8573,
+   "votes_R": 6903,
+   "votes_other": 46,
+   "total_votes": 15522,
+   "pct_D": 55.2,
+   "pct_R": 44.5,
+   "modes": {
+    "total": {
+     "votes_D": 8573,
+     "votes_R": 6903,
+     "votes_other": 46
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "florida": {
+   "name": "FLORIDA",
+   "raw_name": "Florida",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 182,
+   "votes_R": 226,
+   "votes_other": 0,
+   "total_votes": 408,
+   "pct_D": 44.6,
+   "pct_R": 55.4,
+   "modes": {
+    "total": {
+     "votes_D": 182,
+     "votes_R": 226,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "foxborough": {
+   "name": "FOXBOROUGH",
+   "raw_name": "Foxborough",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5409,
+   "votes_R": 5491,
+   "votes_other": 13,
+   "total_votes": 10913,
+   "pct_D": 49.6,
+   "pct_R": 50.3,
+   "modes": {
+    "total": {
+     "votes_D": 5409,
+     "votes_R": 5491,
+     "votes_other": 13
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "framingham": {
+   "name": "FRAMINGHAM",
+   "raw_name": "Framingham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 19985,
+   "votes_R": 9234,
+   "votes_other": 73,
+   "total_votes": 29292,
+   "pct_D": 68.2,
+   "pct_R": 31.5,
+   "modes": {
+    "total": {
+     "votes_D": 19985,
+     "votes_R": 9234,
+     "votes_other": 73
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "franklin": {
+   "name": "FRANKLIN",
+   "raw_name": "Franklin",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 10460,
+   "votes_R": 9080,
+   "votes_other": 23,
+   "total_votes": 19563,
+   "pct_D": 53.5,
+   "pct_R": 46.4,
+   "modes": {
+    "total": {
+     "votes_D": 10460,
+     "votes_R": 9080,
+     "votes_other": 23
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "freetown": {
+   "name": "FREETOWN",
+   "raw_name": "Freetown",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2145,
+   "votes_R": 3254,
+   "votes_other": 14,
+   "total_votes": 5413,
+   "pct_D": 39.6,
+   "pct_R": 60.1,
+   "modes": {
+    "total": {
+     "votes_D": 2145,
+     "votes_R": 3254,
+     "votes_other": 14
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "gardner": {
+   "name": "GARDNER",
+   "raw_name": "Gardner",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4679,
+   "votes_R": 4631,
+   "votes_other": 10,
+   "total_votes": 9320,
+   "pct_D": 50.2,
+   "pct_R": 49.7,
+   "modes": {
+    "total": {
+     "votes_D": 4679,
+     "votes_R": 4631,
+     "votes_other": 10
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "georgetown": {
+   "name": "GEORGETOWN",
+   "raw_name": "Georgetown",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2570,
+   "votes_R": 2894,
+   "votes_other": 3,
+   "total_votes": 5467,
+   "pct_D": 47.0,
+   "pct_R": 52.9,
+   "modes": {
+    "total": {
+     "votes_D": 2570,
+     "votes_R": 2894,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "gill": {
+   "name": "GILL",
+   "raw_name": "Gill",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 650,
+   "votes_R": 334,
+   "votes_other": 1,
+   "total_votes": 985,
+   "pct_D": 66.0,
+   "pct_R": 33.9,
+   "modes": {
+    "total": {
+     "votes_D": 650,
+     "votes_R": 334,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "gloucester": {
+   "name": "GLOUCESTER",
+   "raw_name": "Gloucester",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 10623,
+   "votes_R": 6776,
+   "votes_other": 20,
+   "total_votes": 17419,
+   "pct_D": 61.0,
+   "pct_R": 38.9,
+   "modes": {
+    "total": {
+     "votes_D": 10623,
+     "votes_R": 6776,
+     "votes_other": 20
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "goshen": {
+   "name": "GOSHEN",
+   "raw_name": "Goshen",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 385,
+   "votes_R": 277,
+   "votes_other": 0,
+   "total_votes": 662,
+   "pct_D": 58.2,
+   "pct_R": 41.8,
+   "modes": {
+    "total": {
+     "votes_D": 385,
+     "votes_R": 277,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "gosnold": {
+   "name": "GOSNOLD",
+   "raw_name": "Gosnold",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 46,
+   "votes_R": 23,
+   "votes_other": 0,
+   "total_votes": 69,
+   "pct_D": 66.7,
+   "pct_R": 33.3,
+   "modes": {
+    "total": {
+     "votes_D": 46,
+     "votes_R": 23,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "grafton": {
+   "name": "GRAFTON",
+   "raw_name": "Grafton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6206,
+   "votes_R": 4830,
+   "votes_other": 10,
+   "total_votes": 11046,
+   "pct_D": 56.2,
+   "pct_R": 43.7,
+   "modes": {
+    "total": {
+     "votes_D": 6206,
+     "votes_R": 4830,
+     "votes_other": 10
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "granby": {
+   "name": "GRANBY",
+   "raw_name": "Granby",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1813,
+   "votes_R": 2058,
+   "votes_other": 0,
+   "total_votes": 3871,
+   "pct_D": 46.8,
+   "pct_R": 53.2,
+   "modes": {
+    "total": {
+     "votes_D": 1813,
+     "votes_R": 2058,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "granville": {
+   "name": "GRANVILLE",
+   "raw_name": "Granville",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 341,
+   "votes_R": 629,
+   "votes_other": 0,
+   "total_votes": 970,
+   "pct_D": 35.2,
+   "pct_R": 64.8,
+   "modes": {
+    "total": {
+     "votes_D": 341,
+     "votes_R": 629,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "great_barrington": {
+   "name": "GREAT BARRINGTON",
+   "raw_name": "Great Barrington",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3103,
+   "votes_R": 747,
+   "votes_other": 7,
+   "total_votes": 3857,
+   "pct_D": 80.5,
+   "pct_R": 19.4,
+   "modes": {
+    "total": {
+     "votes_D": 3103,
+     "votes_R": 747,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "greenfield": {
+   "name": "GREENFIELD",
+   "raw_name": "Greenfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6670,
+   "votes_R": 2673,
+   "votes_other": 20,
+   "total_votes": 9363,
+   "pct_D": 71.2,
+   "pct_R": 28.5,
+   "modes": {
+    "total": {
+     "votes_D": 6670,
+     "votes_R": 2673,
+     "votes_other": 20
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "groton": {
+   "name": "GROTON",
+   "raw_name": "Groton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4404,
+   "votes_R": 2723,
+   "votes_other": 7,
+   "total_votes": 7134,
+   "pct_D": 61.7,
+   "pct_R": 38.2,
+   "modes": {
+    "total": {
+     "votes_D": 4404,
+     "votes_R": 2723,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "groveland": {
+   "name": "GROVELAND",
+   "raw_name": "Groveland",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2075,
+   "votes_R": 2319,
+   "votes_other": 0,
+   "total_votes": 4394,
+   "pct_D": 47.2,
+   "pct_R": 52.8,
+   "modes": {
+    "total": {
+     "votes_D": 2075,
+     "votes_R": 2319,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hadley": {
+   "name": "HADLEY",
+   "raw_name": "Hadley",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2199,
+   "votes_R": 1078,
+   "votes_other": 2,
+   "total_votes": 3279,
+   "pct_D": 67.1,
+   "pct_R": 32.9,
+   "modes": {
+    "total": {
+     "votes_D": 2199,
+     "votes_R": 1078,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "halifax": {
+   "name": "HALIFAX",
+   "raw_name": "Halifax",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1884,
+   "votes_R": 2956,
+   "votes_other": 0,
+   "total_votes": 4840,
+   "pct_D": 38.9,
+   "pct_R": 61.1,
+   "modes": {
+    "total": {
+     "votes_D": 1884,
+     "votes_R": 2956,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hamilton": {
+   "name": "HAMILTON",
+   "raw_name": "Hamilton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2813,
+   "votes_R": 1928,
+   "votes_other": 5,
+   "total_votes": 4746,
+   "pct_D": 59.3,
+   "pct_R": 40.6,
+   "modes": {
+    "total": {
+     "votes_D": 2813,
+     "votes_R": 1928,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hampden": {
+   "name": "HAMPDEN",
+   "raw_name": "Hampden",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1346,
+   "votes_R": 1878,
+   "votes_other": 1,
+   "total_votes": 3225,
+   "pct_D": 41.7,
+   "pct_R": 58.2,
+   "modes": {
+    "total": {
+     "votes_D": 1346,
+     "votes_R": 1878,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hancock": {
+   "name": "HANCOCK",
+   "raw_name": "Hancock",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 233,
+   "votes_R": 249,
+   "votes_other": 0,
+   "total_votes": 482,
+   "pct_D": 48.3,
+   "pct_R": 51.7,
+   "modes": {
+    "total": {
+     "votes_D": 233,
+     "votes_R": 249,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hanover": {
+   "name": "HANOVER",
+   "raw_name": "Hanover",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4066,
+   "votes_R": 5507,
+   "votes_other": 21,
+   "total_votes": 9594,
+   "pct_D": 42.4,
+   "pct_R": 57.4,
+   "modes": {
+    "total": {
+     "votes_D": 4066,
+     "votes_R": 5507,
+     "votes_other": 21
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hanson": {
+   "name": "HANSON",
+   "raw_name": "Hanson",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2692,
+   "votes_R": 4012,
+   "votes_other": 16,
+   "total_votes": 6720,
+   "pct_D": 40.1,
+   "pct_R": 59.7,
+   "modes": {
+    "total": {
+     "votes_D": 2692,
+     "votes_R": 4012,
+     "votes_other": 16
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hardwick": {
+   "name": "HARDWICK",
+   "raw_name": "Hardwick",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 671,
+   "votes_R": 883,
+   "votes_other": 0,
+   "total_votes": 1554,
+   "pct_D": 43.2,
+   "pct_R": 56.8,
+   "modes": {
+    "total": {
+     "votes_D": 671,
+     "votes_R": 883,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "harvard": {
+   "name": "HARVARD",
+   "raw_name": "Harvard",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2832,
+   "votes_R": 1126,
+   "votes_other": 8,
+   "total_votes": 3966,
+   "pct_D": 71.4,
+   "pct_R": 28.4,
+   "modes": {
+    "total": {
+     "votes_D": 2832,
+     "votes_R": 1126,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "harwich": {
+   "name": "HARWICH",
+   "raw_name": "Harwich",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5141,
+   "votes_R": 4077,
+   "votes_other": 6,
+   "total_votes": 9224,
+   "pct_D": 55.7,
+   "pct_R": 44.2,
+   "modes": {
+    "total": {
+     "votes_D": 5141,
+     "votes_R": 4077,
+     "votes_other": 6
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hatfield": {
+   "name": "HATFIELD",
+   "raw_name": "Hatfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1428,
+   "votes_R": 772,
+   "votes_other": 2,
+   "total_votes": 2202,
+   "pct_D": 64.9,
+   "pct_R": 35.1,
+   "modes": {
+    "total": {
+     "votes_D": 1428,
+     "votes_R": 772,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "haverhill": {
+   "name": "HAVERHILL",
+   "raw_name": "Haverhill",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 16752,
+   "votes_R": 13968,
+   "votes_other": 34,
+   "total_votes": 30754,
+   "pct_D": 54.5,
+   "pct_R": 45.4,
+   "modes": {
+    "total": {
+     "votes_D": 16752,
+     "votes_R": 13968,
+     "votes_other": 34
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hawley": {
+   "name": "HAWLEY",
+   "raw_name": "Hawley",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 114,
+   "votes_R": 79,
+   "votes_other": 0,
+   "total_votes": 193,
+   "pct_D": 59.1,
+   "pct_R": 40.9,
+   "modes": {
+    "total": {
+     "votes_D": 114,
+     "votes_R": 79,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "heath": {
+   "name": "HEATH",
+   "raw_name": "Heath",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 270,
+   "votes_R": 196,
+   "votes_other": 0,
+   "total_votes": 466,
+   "pct_D": 57.9,
+   "pct_R": 42.1,
+   "modes": {
+    "total": {
+     "votes_D": 270,
+     "votes_R": 196,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hingham": {
+   "name": "HINGHAM",
+   "raw_name": "Hingham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8721,
+   "votes_R": 6748,
+   "votes_other": 33,
+   "total_votes": 15502,
+   "pct_D": 56.3,
+   "pct_R": 43.5,
+   "modes": {
+    "total": {
+     "votes_D": 8721,
+     "votes_R": 6748,
+     "votes_other": 33
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hinsdale": {
+   "name": "HINSDALE",
+   "raw_name": "Hinsdale",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 710,
+   "votes_R": 474,
+   "votes_other": 1,
+   "total_votes": 1185,
+   "pct_D": 59.9,
+   "pct_R": 40.0,
+   "modes": {
+    "total": {
+     "votes_D": 710,
+     "votes_R": 474,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "holbrook": {
+   "name": "HOLBROOK",
+   "raw_name": "Holbrook",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3222,
+   "votes_R": 2618,
+   "votes_other": 7,
+   "total_votes": 5847,
+   "pct_D": 55.1,
+   "pct_R": 44.8,
+   "modes": {
+    "total": {
+     "votes_D": 3222,
+     "votes_R": 2618,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "holden": {
+   "name": "HOLDEN",
+   "raw_name": "Holden",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6471,
+   "votes_R": 5900,
+   "votes_other": 0,
+   "total_votes": 12371,
+   "pct_D": 52.3,
+   "pct_R": 47.7,
+   "modes": {
+    "total": {
+     "votes_D": 6471,
+     "votes_R": 5900,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "holland": {
+   "name": "HOLLAND",
+   "raw_name": "Holland",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 624,
+   "votes_R": 929,
+   "votes_other": 0,
+   "total_votes": 1553,
+   "pct_D": 40.2,
+   "pct_R": 59.8,
+   "modes": {
+    "total": {
+     "votes_D": 624,
+     "votes_R": 929,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "holliston": {
+   "name": "HOLLISTON",
+   "raw_name": "Holliston",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5842,
+   "votes_R": 3367,
+   "votes_other": 12,
+   "total_votes": 9221,
+   "pct_D": 63.4,
+   "pct_R": 36.5,
+   "modes": {
+    "total": {
+     "votes_D": 5842,
+     "votes_R": 3367,
+     "votes_other": 12
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "holyoke": {
+   "name": "HOLYOKE",
+   "raw_name": "Holyoke",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 9550,
+   "votes_R": 4855,
+   "votes_other": 6,
+   "total_votes": 14411,
+   "pct_D": 66.3,
+   "pct_R": 33.7,
+   "modes": {
+    "total": {
+     "votes_D": 9550,
+     "votes_R": 4855,
+     "votes_other": 6
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hopedale": {
+   "name": "HOPEDALE",
+   "raw_name": "Hopedale",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1885,
+   "votes_R": 1640,
+   "votes_other": 4,
+   "total_votes": 3529,
+   "pct_D": 53.4,
+   "pct_R": 46.5,
+   "modes": {
+    "total": {
+     "votes_D": 1885,
+     "votes_R": 1640,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hopkinton": {
+   "name": "HOPKINTON",
+   "raw_name": "Hopkinton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6260,
+   "votes_R": 3990,
+   "votes_other": 12,
+   "total_votes": 10262,
+   "pct_D": 61.0,
+   "pct_R": 38.9,
+   "modes": {
+    "total": {
+     "votes_D": 6260,
+     "votes_R": 3990,
+     "votes_other": 12
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hubbardston": {
+   "name": "HUBBARDSTON",
+   "raw_name": "Hubbardston",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1166,
+   "votes_R": 1742,
+   "votes_other": 5,
+   "total_votes": 2913,
+   "pct_D": 40.0,
+   "pct_R": 59.8,
+   "modes": {
+    "total": {
+     "votes_D": 1166,
+     "votes_R": 1742,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hudson": {
+   "name": "HUDSON",
+   "raw_name": "Hudson",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6456,
+   "votes_R": 4717,
+   "votes_other": 9,
+   "total_votes": 11182,
+   "pct_D": 57.7,
+   "pct_R": 42.2,
+   "modes": {
+    "total": {
+     "votes_D": 6456,
+     "votes_R": 4717,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "hull": {
+   "name": "HULL",
+   "raw_name": "Hull",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3872,
+   "votes_R": 2898,
+   "votes_other": 14,
+   "total_votes": 6784,
+   "pct_D": 57.1,
+   "pct_R": 42.7,
+   "modes": {
+    "total": {
+     "votes_D": 3872,
+     "votes_R": 2898,
+     "votes_other": 14
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "huntington": {
+   "name": "HUNTINGTON",
+   "raw_name": "Huntington",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 539,
+   "votes_R": 686,
+   "votes_other": 0,
+   "total_votes": 1225,
+   "pct_D": 44.0,
+   "pct_R": 56.0,
+   "modes": {
+    "total": {
+     "votes_D": 539,
+     "votes_R": 686,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ipswich": {
+   "name": "IPSWICH",
+   "raw_name": "Ipswich",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5604,
+   "votes_R": 3815,
+   "votes_other": 12,
+   "total_votes": 9431,
+   "pct_D": 59.4,
+   "pct_R": 40.5,
+   "modes": {
+    "total": {
+     "votes_D": 5604,
+     "votes_R": 3815,
+     "votes_other": 12
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "kingston": {
+   "name": "KINGSTON",
+   "raw_name": "Kingston",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3846,
+   "votes_R": 4731,
+   "votes_other": 10,
+   "total_votes": 8587,
+   "pct_D": 44.8,
+   "pct_R": 55.1,
+   "modes": {
+    "total": {
+     "votes_D": 3846,
+     "votes_R": 4731,
+     "votes_other": 10
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "lakeville": {
+   "name": "LAKEVILLE",
+   "raw_name": "Lakeville",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2980,
+   "votes_R": 4664,
+   "votes_other": 3,
+   "total_votes": 7647,
+   "pct_D": 39.0,
+   "pct_R": 61.0,
+   "modes": {
+    "total": {
+     "votes_D": 2980,
+     "votes_R": 4664,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "lancaster": {
+   "name": "LANCASTER",
+   "raw_name": "Lancaster",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2117,
+   "votes_R": 2051,
+   "votes_other": 9,
+   "total_votes": 4177,
+   "pct_D": 50.7,
+   "pct_R": 49.1,
+   "modes": {
+    "total": {
+     "votes_D": 2117,
+     "votes_R": 2051,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "lanesborough": {
+   "name": "LANESBOROUGH",
+   "raw_name": "Lanesborough",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1135,
+   "votes_R": 658,
+   "votes_other": 2,
+   "total_votes": 1795,
+   "pct_D": 63.2,
+   "pct_R": 36.7,
+   "modes": {
+    "total": {
+     "votes_D": 1135,
+     "votes_R": 658,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "lawrence": {
+   "name": "LAWRENCE",
+   "raw_name": "Lawrence",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 14270,
+   "votes_R": 5763,
+   "votes_other": 56,
+   "total_votes": 20089,
+   "pct_D": 71.0,
+   "pct_R": 28.7,
+   "modes": {
+    "total": {
+     "votes_D": 14270,
+     "votes_R": 5763,
+     "votes_other": 56
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "lee": {
+   "name": "LEE",
+   "raw_name": "Lee",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2127,
+   "votes_R": 1016,
+   "votes_other": 4,
+   "total_votes": 3147,
+   "pct_D": 67.6,
+   "pct_R": 32.3,
+   "modes": {
+    "total": {
+     "votes_D": 2127,
+     "votes_R": 1016,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "leicester": {
+   "name": "LEICESTER",
+   "raw_name": "Leicester",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2667,
+   "votes_R": 3573,
+   "votes_other": 9,
+   "total_votes": 6249,
+   "pct_D": 42.7,
+   "pct_R": 57.2,
+   "modes": {
+    "total": {
+     "votes_D": 2667,
+     "votes_R": 3573,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "lenox": {
+   "name": "LENOX",
+   "raw_name": "Lenox",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2487,
+   "votes_R": 720,
+   "votes_other": 2,
+   "total_votes": 3209,
+   "pct_D": 77.5,
+   "pct_R": 22.4,
+   "modes": {
+    "total": {
+     "votes_D": 2487,
+     "votes_R": 720,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "leominster": {
+   "name": "LEOMINSTER",
+   "raw_name": "Leominster",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 10625,
+   "votes_R": 9641,
+   "votes_other": 15,
+   "total_votes": 20281,
+   "pct_D": 52.4,
+   "pct_R": 47.5,
+   "modes": {
+    "total": {
+     "votes_D": 10625,
+     "votes_R": 9641,
+     "votes_other": 15
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "leverett": {
+   "name": "LEVERETT",
+   "raw_name": "Leverett",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1095,
+   "votes_R": 190,
+   "votes_other": 2,
+   "total_votes": 1287,
+   "pct_D": 85.1,
+   "pct_R": 14.8,
+   "modes": {
+    "total": {
+     "votes_D": 1095,
+     "votes_R": 190,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "lexington": {
+   "name": "LEXINGTON",
+   "raw_name": "Lexington",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 13690,
+   "votes_R": 4333,
+   "votes_other": 28,
+   "total_votes": 18051,
+   "pct_D": 75.8,
+   "pct_R": 24.0,
+   "modes": {
+    "total": {
+     "votes_D": 13690,
+     "votes_R": 4333,
+     "votes_other": 28
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "leyden": {
+   "name": "LEYDEN",
+   "raw_name": "Leyden",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 310,
+   "votes_R": 181,
+   "votes_other": 0,
+   "total_votes": 491,
+   "pct_D": 63.1,
+   "pct_R": 36.9,
+   "modes": {
+    "total": {
+     "votes_D": 310,
+     "votes_R": 181,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "lincoln": {
+   "name": "LINCOLN",
+   "raw_name": "Lincoln",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3086,
+   "votes_R": 865,
+   "votes_other": 2,
+   "total_votes": 3953,
+   "pct_D": 78.1,
+   "pct_R": 21.9,
+   "modes": {
+    "total": {
+     "votes_D": 3086,
+     "votes_R": 865,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "littleton": {
+   "name": "LITTLETON",
+   "raw_name": "Littleton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3961,
+   "votes_R": 2463,
+   "votes_other": 0,
+   "total_votes": 6424,
+   "pct_D": 61.7,
+   "pct_R": 38.3,
+   "modes": {
+    "total": {
+     "votes_D": 3961,
+     "votes_R": 2463,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "longmeadow": {
+   "name": "LONGMEADOW",
+   "raw_name": "Longmeadow",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5592,
+   "votes_R": 3981,
+   "votes_other": 18,
+   "total_votes": 9591,
+   "pct_D": 58.3,
+   "pct_R": 41.5,
+   "modes": {
+    "total": {
+     "votes_D": 5592,
+     "votes_R": 3981,
+     "votes_other": 18
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "lowell": {
+   "name": "LOWELL",
+   "raw_name": "Lowell",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 21667,
+   "votes_R": 11621,
+   "votes_other": 80,
+   "total_votes": 33368,
+   "pct_D": 64.9,
+   "pct_R": 34.8,
+   "modes": {
+    "total": {
+     "votes_D": 21667,
+     "votes_R": 11621,
+     "votes_other": 80
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ludlow": {
+   "name": "LUDLOW",
+   "raw_name": "Ludlow",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4905,
+   "votes_R": 6008,
+   "votes_other": 7,
+   "total_votes": 10920,
+   "pct_D": 44.9,
+   "pct_R": 55.0,
+   "modes": {
+    "total": {
+     "votes_D": 4905,
+     "votes_R": 6008,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "lunenburg": {
+   "name": "LUNENBURG",
+   "raw_name": "Lunenburg",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3614,
+   "votes_R": 3574,
+   "votes_other": 6,
+   "total_votes": 7194,
+   "pct_D": 50.2,
+   "pct_R": 49.7,
+   "modes": {
+    "total": {
+     "votes_D": 3614,
+     "votes_R": 3574,
+     "votes_other": 6
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "lynn": {
+   "name": "LYNN",
+   "raw_name": "Lynn",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 20093,
+   "votes_R": 10696,
+   "votes_other": 99,
+   "total_votes": 30888,
+   "pct_D": 65.1,
+   "pct_R": 34.6,
+   "modes": {
+    "total": {
+     "votes_D": 20093,
+     "votes_R": 10696,
+     "votes_other": 99
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "lynnfield": {
+   "name": "LYNNFIELD",
+   "raw_name": "Lynnfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3390,
+   "votes_R": 4526,
+   "votes_other": 0,
+   "total_votes": 7916,
+   "pct_D": 42.8,
+   "pct_R": 57.2,
+   "modes": {
+    "total": {
+     "votes_D": 3390,
+     "votes_R": 4526,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "malden": {
+   "name": "MALDEN",
+   "raw_name": "Malden",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 15766,
+   "votes_R": 6046,
+   "votes_other": 90,
+   "total_votes": 21902,
+   "pct_D": 72.0,
+   "pct_R": 27.6,
+   "modes": {
+    "total": {
+     "votes_D": 15766,
+     "votes_R": 6046,
+     "votes_other": 90
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "manchester_by_the_sea": {
+   "name": "MANCHESTER-BY-THE-SEA",
+   "raw_name": "Manchester-By-The-Sea",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2272,
+   "votes_R": 1294,
+   "votes_other": 1,
+   "total_votes": 3567,
+   "pct_D": 63.7,
+   "pct_R": 36.3,
+   "modes": {
+    "total": {
+     "votes_D": 2272,
+     "votes_R": 1294,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "mansfield": {
+   "name": "MANSFIELD",
+   "raw_name": "Mansfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7340,
+   "votes_R": 6323,
+   "votes_other": 22,
+   "total_votes": 13685,
+   "pct_D": 53.6,
+   "pct_R": 46.2,
+   "modes": {
+    "total": {
+     "votes_D": 7340,
+     "votes_R": 6323,
+     "votes_other": 22
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "marblehead": {
+   "name": "MARBLEHEAD",
+   "raw_name": "Marblehead",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8242,
+   "votes_R": 5140,
+   "votes_other": 13,
+   "total_votes": 13395,
+   "pct_D": 61.5,
+   "pct_R": 38.4,
+   "modes": {
+    "total": {
+     "votes_D": 8242,
+     "votes_R": 5140,
+     "votes_other": 13
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "marion": {
+   "name": "MARION",
+   "raw_name": "Marion",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2046,
+   "votes_R": 1558,
+   "votes_other": 3,
+   "total_votes": 3607,
+   "pct_D": 56.7,
+   "pct_R": 43.2,
+   "modes": {
+    "total": {
+     "votes_D": 2046,
+     "votes_R": 1558,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "marlborough": {
+   "name": "MARLBOROUGH",
+   "raw_name": "Marlborough",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 10553,
+   "votes_R": 7275,
+   "votes_other": 24,
+   "total_votes": 17852,
+   "pct_D": 59.1,
+   "pct_R": 40.8,
+   "modes": {
+    "total": {
+     "votes_D": 10553,
+     "votes_R": 7275,
+     "votes_other": 24
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "marshfield": {
+   "name": "MARSHFIELD",
+   "raw_name": "Marshfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7902,
+   "votes_R": 9297,
+   "votes_other": 0,
+   "total_votes": 17199,
+   "pct_D": 45.9,
+   "pct_R": 54.1,
+   "modes": {
+    "total": {
+     "votes_D": 7902,
+     "votes_R": 9297,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "mashpee": {
+   "name": "MASHPEE",
+   "raw_name": "Mashpee",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5369,
+   "votes_R": 4919,
+   "votes_other": 11,
+   "total_votes": 10299,
+   "pct_D": 52.1,
+   "pct_R": 47.8,
+   "modes": {
+    "total": {
+     "votes_D": 5369,
+     "votes_R": 4919,
+     "votes_other": 11
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "mattapoisett": {
+   "name": "MATTAPOISETT",
+   "raw_name": "Mattapoisett",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2497,
+   "votes_R": 2373,
+   "votes_other": 4,
+   "total_votes": 4874,
+   "pct_D": 51.2,
+   "pct_R": 48.7,
+   "modes": {
+    "total": {
+     "votes_D": 2497,
+     "votes_R": 2373,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "maynard": {
+   "name": "MAYNARD",
+   "raw_name": "Maynard",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4591,
+   "votes_R": 2038,
+   "votes_other": 8,
+   "total_votes": 6637,
+   "pct_D": 69.2,
+   "pct_R": 30.7,
+   "modes": {
+    "total": {
+     "votes_D": 4591,
+     "votes_R": 2038,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "medfield": {
+   "name": "MEDFIELD",
+   "raw_name": "Medfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4543,
+   "votes_R": 3393,
+   "votes_other": 20,
+   "total_votes": 7956,
+   "pct_D": 57.1,
+   "pct_R": 42.6,
+   "modes": {
+    "total": {
+     "votes_D": 4543,
+     "votes_R": 3393,
+     "votes_other": 20
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "medford": {
+   "name": "MEDFORD",
+   "raw_name": "Medford",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 20900,
+   "votes_R": 8328,
+   "votes_other": 103,
+   "total_votes": 29331,
+   "pct_D": 71.3,
+   "pct_R": 28.4,
+   "modes": {
+    "total": {
+     "votes_D": 20900,
+     "votes_R": 8328,
+     "votes_other": 103
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "medway": {
+   "name": "MEDWAY",
+   "raw_name": "Medway",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4468,
+   "votes_R": 3873,
+   "votes_other": 15,
+   "total_votes": 8356,
+   "pct_D": 53.5,
+   "pct_R": 46.3,
+   "modes": {
+    "total": {
+     "votes_D": 4468,
+     "votes_R": 3873,
+     "votes_other": 15
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "melrose": {
+   "name": "MELROSE",
+   "raw_name": "Melrose",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 11368,
+   "votes_R": 5373,
+   "votes_other": 38,
+   "total_votes": 16779,
+   "pct_D": 67.8,
+   "pct_R": 32.0,
+   "modes": {
+    "total": {
+     "votes_D": 11368,
+     "votes_R": 5373,
+     "votes_other": 38
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "mendon": {
+   "name": "MENDON",
+   "raw_name": "Mendon",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1775,
+   "votes_R": 2113,
+   "votes_other": 7,
+   "total_votes": 3895,
+   "pct_D": 45.6,
+   "pct_R": 54.2,
+   "modes": {
+    "total": {
+     "votes_D": 1775,
+     "votes_R": 2113,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "merrimac": {
+   "name": "MERRIMAC",
+   "raw_name": "Merrimac",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2241,
+   "votes_R": 2009,
+   "votes_other": 6,
+   "total_votes": 4256,
+   "pct_D": 52.7,
+   "pct_R": 47.2,
+   "modes": {
+    "total": {
+     "votes_D": 2241,
+     "votes_R": 2009,
+     "votes_other": 6
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "methuen": {
+   "name": "METHUEN",
+   "raw_name": "Methuen",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 12388,
+   "votes_R": 11579,
+   "votes_other": 50,
+   "total_votes": 24017,
+   "pct_D": 51.6,
+   "pct_R": 48.2,
+   "modes": {
+    "total": {
+     "votes_D": 12388,
+     "votes_R": 11579,
+     "votes_other": 50
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "middleborough": {
+   "name": "MIDDLEBOROUGH",
+   "raw_name": "Middleborough",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5562,
+   "votes_R": 8589,
+   "votes_other": 9,
+   "total_votes": 14160,
+   "pct_D": 39.3,
+   "pct_R": 60.7,
+   "modes": {
+    "total": {
+     "votes_D": 5562,
+     "votes_R": 8589,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "middlefield": {
+   "name": "MIDDLEFIELD",
+   "raw_name": "Middlefield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 177,
+   "votes_R": 137,
+   "votes_other": 0,
+   "total_votes": 314,
+   "pct_D": 56.4,
+   "pct_R": 43.6,
+   "modes": {
+    "total": {
+     "votes_D": 177,
+     "votes_R": 137,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "middleton": {
+   "name": "MIDDLETON",
+   "raw_name": "Middleton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2321,
+   "votes_R": 3351,
+   "votes_other": 14,
+   "total_votes": 5686,
+   "pct_D": 40.8,
+   "pct_R": 58.9,
+   "modes": {
+    "total": {
+     "votes_D": 2321,
+     "votes_R": 3351,
+     "votes_other": 14
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "milford": {
+   "name": "MILFORD",
+   "raw_name": "Milford",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7183,
+   "votes_R": 6431,
+   "votes_other": 30,
+   "total_votes": 13644,
+   "pct_D": 52.6,
+   "pct_R": 47.1,
+   "modes": {
+    "total": {
+     "votes_D": 7183,
+     "votes_R": 6431,
+     "votes_other": 30
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "millbury": {
+   "name": "MILLBURY",
+   "raw_name": "Millbury",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3644,
+   "votes_R": 4342,
+   "votes_other": 4,
+   "total_votes": 7990,
+   "pct_D": 45.6,
+   "pct_R": 54.3,
+   "modes": {
+    "total": {
+     "votes_D": 3644,
+     "votes_R": 4342,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "millis": {
+   "name": "MILLIS",
+   "raw_name": "Millis",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3249,
+   "votes_R": 2668,
+   "votes_other": 5,
+   "total_votes": 5922,
+   "pct_D": 54.9,
+   "pct_R": 45.1,
+   "modes": {
+    "total": {
+     "votes_D": 3249,
+     "votes_R": 2668,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "millville": {
+   "name": "MILLVILLE",
+   "raw_name": "Millville",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 674,
+   "votes_R": 1099,
+   "votes_other": 1,
+   "total_votes": 1774,
+   "pct_D": 38.0,
+   "pct_R": 62.0,
+   "modes": {
+    "total": {
+     "votes_D": 674,
+     "votes_R": 1099,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "milton": {
+   "name": "MILTON",
+   "raw_name": "Milton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 10701,
+   "votes_R": 5697,
+   "votes_other": 34,
+   "total_votes": 16432,
+   "pct_D": 65.1,
+   "pct_R": 34.7,
+   "modes": {
+    "total": {
+     "votes_D": 10701,
+     "votes_R": 5697,
+     "votes_other": 34
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "monroe": {
+   "name": "MONROE",
+   "raw_name": "Monroe",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 22,
+   "votes_R": 42,
+   "votes_other": 0,
+   "total_votes": 64,
+   "pct_D": 34.4,
+   "pct_R": 65.6,
+   "modes": {
+    "total": {
+     "votes_D": 22,
+     "votes_R": 42,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "monson": {
+   "name": "MONSON",
+   "raw_name": "Monson",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2139,
+   "votes_R": 2838,
+   "votes_other": 3,
+   "total_votes": 4980,
+   "pct_D": 43.0,
+   "pct_R": 57.0,
+   "modes": {
+    "total": {
+     "votes_D": 2139,
+     "votes_R": 2838,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "montague": {
+   "name": "MONTAGUE",
+   "raw_name": "Montague",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3260,
+   "votes_R": 1473,
+   "votes_other": 12,
+   "total_votes": 4745,
+   "pct_D": 68.7,
+   "pct_R": 31.0,
+   "modes": {
+    "total": {
+     "votes_D": 3260,
+     "votes_R": 1473,
+     "votes_other": 12
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "monterey": {
+   "name": "MONTEREY",
+   "raw_name": "Monterey",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 482,
+   "votes_R": 110,
+   "votes_other": 1,
+   "total_votes": 593,
+   "pct_D": 81.3,
+   "pct_R": 18.5,
+   "modes": {
+    "total": {
+     "votes_D": 482,
+     "votes_R": 110,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "montgomery": {
+   "name": "MONTGOMERY",
+   "raw_name": "Montgomery",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 214,
+   "votes_R": 333,
+   "votes_other": 0,
+   "total_votes": 547,
+   "pct_D": 39.1,
+   "pct_R": 60.9,
+   "modes": {
+    "total": {
+     "votes_D": 214,
+     "votes_R": 333,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "mount_washington": {
+   "name": "MOUNT WASHINGTON",
+   "raw_name": "Mount Washington",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 93,
+   "votes_R": 27,
+   "votes_other": 0,
+   "total_votes": 120,
+   "pct_D": 77.5,
+   "pct_R": 22.5,
+   "modes": {
+    "total": {
+     "votes_D": 93,
+     "votes_R": 27,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "nahant": {
+   "name": "NAHANT",
+   "raw_name": "Nahant",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1339,
+   "votes_R": 966,
+   "votes_other": 1,
+   "total_votes": 2306,
+   "pct_D": 58.1,
+   "pct_R": 41.9,
+   "modes": {
+    "total": {
+     "votes_D": 1339,
+     "votes_R": 966,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "nantucket": {
+   "name": "NANTUCKET",
+   "raw_name": "Nantucket",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4513,
+   "votes_R": 2479,
+   "votes_other": 8,
+   "total_votes": 7000,
+   "pct_D": 64.5,
+   "pct_R": 35.4,
+   "modes": {
+    "total": {
+     "votes_D": 4513,
+     "votes_R": 2479,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "natick": {
+   "name": "NATICK",
+   "raw_name": "Natick",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 14127,
+   "votes_R": 6469,
+   "votes_other": 35,
+   "total_votes": 20631,
+   "pct_D": 68.5,
+   "pct_R": 31.4,
+   "modes": {
+    "total": {
+     "votes_D": 14127,
+     "votes_R": 6469,
+     "votes_other": 35
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "needham": {
+   "name": "NEEDHAM",
+   "raw_name": "Needham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 12993,
+   "votes_R": 6081,
+   "votes_other": 59,
+   "total_votes": 19133,
+   "pct_D": 67.9,
+   "pct_R": 31.8,
+   "modes": {
+    "total": {
+     "votes_D": 12993,
+     "votes_R": 6081,
+     "votes_other": 59
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "new_ashford": {
+   "name": "NEW ASHFORD",
+   "raw_name": "New Ashford",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 93,
+   "votes_R": 68,
+   "votes_other": 0,
+   "total_votes": 161,
+   "pct_D": 57.8,
+   "pct_R": 42.2,
+   "modes": {
+    "total": {
+     "votes_D": 93,
+     "votes_R": 68,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "new_bedford": {
+   "name": "NEW BEDFORD",
+   "raw_name": "New Bedford",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 19153,
+   "votes_R": 14382,
+   "votes_other": 78,
+   "total_votes": 33613,
+   "pct_D": 57.0,
+   "pct_R": 42.8,
+   "modes": {
+    "total": {
+     "votes_D": 19153,
+     "votes_R": 14382,
+     "votes_other": 78
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "new_braintree": {
+   "name": "NEW BRAINTREE",
+   "raw_name": "New Braintree",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 283,
+   "votes_R": 379,
+   "votes_other": 13,
+   "total_votes": 675,
+   "pct_D": 41.9,
+   "pct_R": 56.1,
+   "modes": {
+    "total": {
+     "votes_D": 283,
+     "votes_R": 379,
+     "votes_other": 13
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "new_marlborough": {
+   "name": "NEW MARLBOROUGH",
+   "raw_name": "New Marlborough",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 393,
+   "votes_R": 119,
+   "votes_other": 1,
+   "total_votes": 513,
+   "pct_D": 76.6,
+   "pct_R": 23.2,
+   "modes": {
+    "total": {
+     "votes_D": 393,
+     "votes_R": 119,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "new_salem": {
+   "name": "NEW SALEM",
+   "raw_name": "New Salem",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 421,
+   "votes_R": 283,
+   "votes_other": 0,
+   "total_votes": 704,
+   "pct_D": 59.8,
+   "pct_R": 40.2,
+   "modes": {
+    "total": {
+     "votes_D": 421,
+     "votes_R": 283,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "newbury": {
+   "name": "NEWBURY",
+   "raw_name": "Newbury",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2661,
+   "votes_R": 2149,
+   "votes_other": 4,
+   "total_votes": 4814,
+   "pct_D": 55.3,
+   "pct_R": 44.6,
+   "modes": {
+    "total": {
+     "votes_D": 2661,
+     "votes_R": 2149,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "newburyport": {
+   "name": "NEWBURYPORT",
+   "raw_name": "Newburyport",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8114,
+   "votes_R": 4169,
+   "votes_other": 18,
+   "total_votes": 12301,
+   "pct_D": 66.0,
+   "pct_R": 33.9,
+   "modes": {
+    "total": {
+     "votes_D": 8114,
+     "votes_R": 4169,
+     "votes_other": 18
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "newton": {
+   "name": "NEWTON",
+   "raw_name": "Newton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 33716,
+   "votes_R": 11853,
+   "votes_other": 172,
+   "total_votes": 45741,
+   "pct_D": 73.7,
+   "pct_R": 25.9,
+   "modes": {
+    "total": {
+     "votes_D": 33716,
+     "votes_R": 11853,
+     "votes_other": 172
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "norfolk": {
+   "name": "NORFOLK",
+   "raw_name": "Norfolk",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3383,
+   "votes_R": 3369,
+   "votes_other": 2,
+   "total_votes": 6754,
+   "pct_D": 50.1,
+   "pct_R": 49.9,
+   "modes": {
+    "total": {
+     "votes_D": 3383,
+     "votes_R": 3369,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "n_adams": {
+   "name": "N. ADAMS",
+   "raw_name": "North Adams",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3877,
+   "votes_R": 1668,
+   "votes_other": 3,
+   "total_votes": 5548,
+   "pct_D": 69.9,
+   "pct_R": 30.1,
+   "modes": {
+    "total": {
+     "votes_D": 3877,
+     "votes_R": 1668,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "n_andover": {
+   "name": "N. ANDOVER",
+   "raw_name": "North Andover",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 9214,
+   "votes_R": 7455,
+   "votes_other": 20,
+   "total_votes": 16689,
+   "pct_D": 55.2,
+   "pct_R": 44.7,
+   "modes": {
+    "total": {
+     "votes_D": 9214,
+     "votes_R": 7455,
+     "votes_other": 20
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "n_attleborough": {
+   "name": "N. ATTLEBOROUGH",
+   "raw_name": "North Attleborough",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8301,
+   "votes_R": 8316,
+   "votes_other": 20,
+   "total_votes": 16637,
+   "pct_D": 49.9,
+   "pct_R": 50.0,
+   "modes": {
+    "total": {
+     "votes_D": 8301,
+     "votes_R": 8316,
+     "votes_other": 20
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "n_brookfield": {
+   "name": "N. BROOKFIELD",
+   "raw_name": "North Brookfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1088,
+   "votes_R": 1719,
+   "votes_other": 1,
+   "total_votes": 2808,
+   "pct_D": 38.7,
+   "pct_R": 61.2,
+   "modes": {
+    "total": {
+     "votes_D": 1088,
+     "votes_R": 1719,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "n_reading": {
+   "name": "N. READING",
+   "raw_name": "North Reading",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4717,
+   "votes_R": 4944,
+   "votes_other": 8,
+   "total_votes": 9669,
+   "pct_D": 48.8,
+   "pct_R": 51.1,
+   "modes": {
+    "total": {
+     "votes_D": 4717,
+     "votes_R": 4944,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "northampton": {
+   "name": "NORTHAMPTON",
+   "raw_name": "Northampton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 14692,
+   "votes_R": 2166,
+   "votes_other": 22,
+   "total_votes": 16880,
+   "pct_D": 87.0,
+   "pct_R": 12.8,
+   "modes": {
+    "total": {
+     "votes_D": 14692,
+     "votes_R": 2166,
+     "votes_other": 22
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "northborough": {
+   "name": "NORTHBOROUGH",
+   "raw_name": "Northborough",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5423,
+   "votes_R": 3607,
+   "votes_other": 30,
+   "total_votes": 9060,
+   "pct_D": 59.9,
+   "pct_R": 39.8,
+   "modes": {
+    "total": {
+     "votes_D": 5423,
+     "votes_R": 3607,
+     "votes_other": 30
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "northbridge": {
+   "name": "NORTHBRIDGE",
+   "raw_name": "Northbridge",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4053,
+   "votes_R": 5032,
+   "votes_other": 14,
+   "total_votes": 9099,
+   "pct_D": 44.5,
+   "pct_R": 55.3,
+   "modes": {
+    "total": {
+     "votes_D": 4053,
+     "votes_R": 5032,
+     "votes_other": 14
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "northfield": {
+   "name": "NORTHFIELD",
+   "raw_name": "Northfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1134,
+   "votes_R": 770,
+   "votes_other": 4,
+   "total_votes": 1908,
+   "pct_D": 59.4,
+   "pct_R": 40.4,
+   "modes": {
+    "total": {
+     "votes_D": 1134,
+     "votes_R": 770,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "norton": {
+   "name": "NORTON",
+   "raw_name": "Norton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4910,
+   "votes_R": 5454,
+   "votes_other": 24,
+   "total_votes": 10388,
+   "pct_D": 47.3,
+   "pct_R": 52.5,
+   "modes": {
+    "total": {
+     "votes_D": 4910,
+     "votes_R": 5454,
+     "votes_other": 24
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "norwell": {
+   "name": "NORWELL",
+   "raw_name": "Norwell",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3390,
+   "votes_R": 3591,
+   "votes_other": 8,
+   "total_votes": 6989,
+   "pct_D": 48.5,
+   "pct_R": 51.4,
+   "modes": {
+    "total": {
+     "votes_D": 3390,
+     "votes_R": 3591,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "norwood": {
+   "name": "NORWOOD",
+   "raw_name": "Norwood",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 9012,
+   "votes_R": 6802,
+   "votes_other": 40,
+   "total_votes": 15854,
+   "pct_D": 56.8,
+   "pct_R": 42.9,
+   "modes": {
+    "total": {
+     "votes_D": 9012,
+     "votes_R": 6802,
+     "votes_other": 40
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "oak_bluffs": {
+   "name": "OAK BLUFFS",
+   "raw_name": "Oak Bluffs",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2157,
+   "votes_R": 900,
+   "votes_other": 2,
+   "total_votes": 3059,
+   "pct_D": 70.5,
+   "pct_R": 29.4,
+   "modes": {
+    "total": {
+     "votes_D": 2157,
+     "votes_R": 900,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "oakham": {
+   "name": "OAKHAM",
+   "raw_name": "Oakham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 467,
+   "votes_R": 774,
+   "votes_other": 0,
+   "total_votes": 1241,
+   "pct_D": 37.6,
+   "pct_R": 62.4,
+   "modes": {
+    "total": {
+     "votes_D": 467,
+     "votes_R": 774,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "orange": {
+   "name": "ORANGE",
+   "raw_name": "Orange",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1837,
+   "votes_R": 2020,
+   "votes_other": 7,
+   "total_votes": 3864,
+   "pct_D": 47.5,
+   "pct_R": 52.3,
+   "modes": {
+    "total": {
+     "votes_D": 1837,
+     "votes_R": 2020,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "orleans": {
+   "name": "ORLEANS",
+   "raw_name": "Orleans",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2990,
+   "votes_R": 1738,
+   "votes_other": 4,
+   "total_votes": 4732,
+   "pct_D": 63.2,
+   "pct_R": 36.7,
+   "modes": {
+    "total": {
+     "votes_D": 2990,
+     "votes_R": 1738,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "otis": {
+   "name": "OTIS",
+   "raw_name": "Otis",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 534,
+   "votes_R": 493,
+   "votes_other": 2,
+   "total_votes": 1029,
+   "pct_D": 51.9,
+   "pct_R": 47.9,
+   "modes": {
+    "total": {
+     "votes_D": 534,
+     "votes_R": 493,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "oxford": {
+   "name": "OXFORD",
+   "raw_name": "Oxford",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3104,
+   "votes_R": 4344,
+   "votes_other": 2,
+   "total_votes": 7450,
+   "pct_D": 41.7,
+   "pct_R": 58.3,
+   "modes": {
+    "total": {
+     "votes_D": 3104,
+     "votes_R": 4344,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "palmer": {
+   "name": "PALMER",
+   "raw_name": "Palmer",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2739,
+   "votes_R": 3547,
+   "votes_other": 1,
+   "total_votes": 6287,
+   "pct_D": 43.6,
+   "pct_R": 56.4,
+   "modes": {
+    "total": {
+     "votes_D": 2739,
+     "votes_R": 3547,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "paxton": {
+   "name": "PAXTON",
+   "raw_name": "Paxton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1427,
+   "votes_R": 1507,
+   "votes_other": 0,
+   "total_votes": 2934,
+   "pct_D": 48.6,
+   "pct_R": 51.4,
+   "modes": {
+    "total": {
+     "votes_D": 1427,
+     "votes_R": 1507,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "peabody": {
+   "name": "PEABODY",
+   "raw_name": "Peabody",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 14101,
+   "votes_R": 14163,
+   "votes_other": 66,
+   "total_votes": 28330,
+   "pct_D": 49.8,
+   "pct_R": 50.0,
+   "modes": {
+    "total": {
+     "votes_D": 14101,
+     "votes_R": 14163,
+     "votes_other": 66
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "pelham": {
+   "name": "PELHAM",
+   "raw_name": "Pelham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 730,
+   "votes_R": 119,
+   "votes_other": 3,
+   "total_votes": 852,
+   "pct_D": 85.7,
+   "pct_R": 14.0,
+   "modes": {
+    "total": {
+     "votes_D": 730,
+     "votes_R": 119,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "pembroke": {
+   "name": "PEMBROKE",
+   "raw_name": "Pembroke",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4898,
+   "votes_R": 6400,
+   "votes_other": 30,
+   "total_votes": 11328,
+   "pct_D": 43.2,
+   "pct_R": 56.5,
+   "modes": {
+    "total": {
+     "votes_D": 4898,
+     "votes_R": 6400,
+     "votes_other": 30
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "pepperell": {
+   "name": "PEPPERELL",
+   "raw_name": "Pepperell",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3498,
+   "votes_R": 3676,
+   "votes_other": 13,
+   "total_votes": 7187,
+   "pct_D": 48.7,
+   "pct_R": 51.1,
+   "modes": {
+    "total": {
+     "votes_D": 3498,
+     "votes_R": 3676,
+     "votes_other": 13
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "peru": {
+   "name": "PERU",
+   "raw_name": "Peru",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 250,
+   "votes_R": 268,
+   "votes_other": 0,
+   "total_votes": 518,
+   "pct_D": 48.3,
+   "pct_R": 51.7,
+   "modes": {
+    "total": {
+     "votes_D": 250,
+     "votes_R": 268,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "petersham": {
+   "name": "PETERSHAM",
+   "raw_name": "Petersham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 481,
+   "votes_R": 404,
+   "votes_other": 0,
+   "total_votes": 885,
+   "pct_D": 54.4,
+   "pct_R": 45.6,
+   "modes": {
+    "total": {
+     "votes_D": 481,
+     "votes_R": 404,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "phillipston": {
+   "name": "PHILLIPSTON",
+   "raw_name": "Phillipston",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 401,
+   "votes_R": 749,
+   "votes_other": 0,
+   "total_votes": 1150,
+   "pct_D": 34.9,
+   "pct_R": 65.1,
+   "modes": {
+    "total": {
+     "votes_D": 401,
+     "votes_R": 749,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "pittsfield": {
+   "name": "PITTSFIELD",
+   "raw_name": "Pittsfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 14666,
+   "votes_R": 5616,
+   "votes_other": 13,
+   "total_votes": 20295,
+   "pct_D": 72.3,
+   "pct_R": 27.7,
+   "modes": {
+    "total": {
+     "votes_D": 14666,
+     "votes_R": 5616,
+     "votes_other": 13
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "plainfield": {
+   "name": "PLAINFIELD",
+   "raw_name": "Plainfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 275,
+   "votes_R": 146,
+   "votes_other": 0,
+   "total_votes": 421,
+   "pct_D": 65.3,
+   "pct_R": 34.7,
+   "modes": {
+    "total": {
+     "votes_D": 275,
+     "votes_R": 146,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "plainville": {
+   "name": "PLAINVILLE",
+   "raw_name": "Plainville",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2576,
+   "votes_R": 2943,
+   "votes_other": 6,
+   "total_votes": 5525,
+   "pct_D": 46.6,
+   "pct_R": 53.3,
+   "modes": {
+    "total": {
+     "votes_D": 2576,
+     "votes_R": 2943,
+     "votes_other": 6
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "plymouth": {
+   "name": "PLYMOUTH",
+   "raw_name": "Plymouth",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 19751,
+   "votes_R": 20245,
+   "votes_other": 46,
+   "total_votes": 40042,
+   "pct_D": 49.3,
+   "pct_R": 50.6,
+   "modes": {
+    "total": {
+     "votes_D": 19751,
+     "votes_R": 20245,
+     "votes_other": 46
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "plympton": {
+   "name": "PLYMPTON",
+   "raw_name": "Plympton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 790,
+   "votes_R": 1157,
+   "votes_other": 3,
+   "total_votes": 1950,
+   "pct_D": 40.5,
+   "pct_R": 59.3,
+   "modes": {
+    "total": {
+     "votes_D": 790,
+     "votes_R": 1157,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "princeton": {
+   "name": "PRINCETON",
+   "raw_name": "Princeton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1332,
+   "votes_R": 1172,
+   "votes_other": 2,
+   "total_votes": 2506,
+   "pct_D": 53.2,
+   "pct_R": 46.8,
+   "modes": {
+    "total": {
+     "votes_D": 1332,
+     "votes_R": 1172,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "provincetown": {
+   "name": "PROVINCETOWN",
+   "raw_name": "Provincetown",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2391,
+   "votes_R": 248,
+   "votes_other": 2,
+   "total_votes": 2641,
+   "pct_D": 90.5,
+   "pct_R": 9.4,
+   "modes": {
+    "total": {
+     "votes_D": 2391,
+     "votes_R": 248,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "quincy": {
+   "name": "QUINCY",
+   "raw_name": "Quincy",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 24969,
+   "votes_R": 16126,
+   "votes_other": 162,
+   "total_votes": 41257,
+   "pct_D": 60.5,
+   "pct_R": 39.1,
+   "modes": {
+    "total": {
+     "votes_D": 24969,
+     "votes_R": 16126,
+     "votes_other": 162
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "randolph": {
+   "name": "RANDOLPH",
+   "raw_name": "Randolph",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 11377,
+   "votes_R": 3546,
+   "votes_other": 55,
+   "total_votes": 14978,
+   "pct_D": 76.0,
+   "pct_R": 23.7,
+   "modes": {
+    "total": {
+     "votes_D": 11377,
+     "votes_R": 3546,
+     "votes_other": 55
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "raynham": {
+   "name": "RAYNHAM",
+   "raw_name": "Raynham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3806,
+   "votes_R": 4944,
+   "votes_other": 0,
+   "total_votes": 8750,
+   "pct_D": 43.5,
+   "pct_R": 56.5,
+   "modes": {
+    "total": {
+     "votes_D": 3806,
+     "votes_R": 4944,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "reading": {
+   "name": "READING",
+   "raw_name": "Reading",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 9412,
+   "votes_R": 6641,
+   "votes_other": 0,
+   "total_votes": 16053,
+   "pct_D": 58.6,
+   "pct_R": 41.4,
+   "modes": {
+    "total": {
+     "votes_D": 9412,
+     "votes_R": 6641,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "rehoboth": {
+   "name": "REHOBOTH",
+   "raw_name": "Rehoboth",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3186,
+   "votes_R": 4788,
+   "votes_other": 6,
+   "total_votes": 7980,
+   "pct_D": 39.9,
+   "pct_R": 60.0,
+   "modes": {
+    "total": {
+     "votes_D": 3186,
+     "votes_R": 4788,
+     "votes_other": 6
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "revere": {
+   "name": "REVERE",
+   "raw_name": "Revere",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 10308,
+   "votes_R": 7009,
+   "votes_other": 82,
+   "total_votes": 17399,
+   "pct_D": 59.2,
+   "pct_R": 40.3,
+   "modes": {
+    "total": {
+     "votes_D": 10308,
+     "votes_R": 7009,
+     "votes_other": 82
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "richmond": {
+   "name": "RICHMOND",
+   "raw_name": "Richmond",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 759,
+   "votes_R": 241,
+   "votes_other": 2,
+   "total_votes": 1002,
+   "pct_D": 75.7,
+   "pct_R": 24.1,
+   "modes": {
+    "total": {
+     "votes_D": 759,
+     "votes_R": 241,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "rochester": {
+   "name": "ROCHESTER",
+   "raw_name": "Rochester",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1465,
+   "votes_R": 2480,
+   "votes_other": 3,
+   "total_votes": 3948,
+   "pct_D": 37.1,
+   "pct_R": 62.8,
+   "modes": {
+    "total": {
+     "votes_D": 1465,
+     "votes_R": 2480,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "rockland": {
+   "name": "ROCKLAND",
+   "raw_name": "Rockland",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4459,
+   "votes_R": 5083,
+   "votes_other": 31,
+   "total_votes": 9573,
+   "pct_D": 46.6,
+   "pct_R": 53.1,
+   "modes": {
+    "total": {
+     "votes_D": 4459,
+     "votes_R": 5083,
+     "votes_other": 31
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "rockport": {
+   "name": "ROCKPORT",
+   "raw_name": "Rockport",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3487,
+   "votes_R": 1638,
+   "votes_other": 10,
+   "total_votes": 5135,
+   "pct_D": 67.9,
+   "pct_R": 31.9,
+   "modes": {
+    "total": {
+     "votes_D": 3487,
+     "votes_R": 1638,
+     "votes_other": 10
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "rowe": {
+   "name": "ROWE",
+   "raw_name": "Rowe",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 135,
+   "votes_R": 123,
+   "votes_other": 0,
+   "total_votes": 258,
+   "pct_D": 52.3,
+   "pct_R": 47.7,
+   "modes": {
+    "total": {
+     "votes_D": 135,
+     "votes_R": 123,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "rowley": {
+   "name": "ROWLEY",
+   "raw_name": "Rowley",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1841,
+   "votes_R": 2194,
+   "votes_other": 5,
+   "total_votes": 4040,
+   "pct_D": 45.6,
+   "pct_R": 54.3,
+   "modes": {
+    "total": {
+     "votes_D": 1841,
+     "votes_R": 2194,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "royalston": {
+   "name": "ROYALSTON",
+   "raw_name": "Royalston",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 360,
+   "votes_R": 434,
+   "votes_other": 1,
+   "total_votes": 795,
+   "pct_D": 45.3,
+   "pct_R": 54.6,
+   "modes": {
+    "total": {
+     "votes_D": 360,
+     "votes_R": 434,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "russell": {
+   "name": "RUSSELL",
+   "raw_name": "Russell",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 328,
+   "votes_R": 565,
+   "votes_other": 18,
+   "total_votes": 911,
+   "pct_D": 36.0,
+   "pct_R": 62.0,
+   "modes": {
+    "total": {
+     "votes_D": 328,
+     "votes_R": 565,
+     "votes_other": 18
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "rutland": {
+   "name": "RUTLAND",
+   "raw_name": "Rutland",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2563,
+   "votes_R": 3292,
+   "votes_other": 8,
+   "total_votes": 5863,
+   "pct_D": 43.7,
+   "pct_R": 56.1,
+   "modes": {
+    "total": {
+     "votes_D": 2563,
+     "votes_R": 3292,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "salem": {
+   "name": "SALEM",
+   "raw_name": "Salem",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 16381,
+   "votes_R": 6387,
+   "votes_other": 18,
+   "total_votes": 22786,
+   "pct_D": 71.9,
+   "pct_R": 28.0,
+   "modes": {
+    "total": {
+     "votes_D": 16381,
+     "votes_R": 6387,
+     "votes_other": 18
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "salisbury": {
+   "name": "SALISBURY",
+   "raw_name": "Salisbury",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2481,
+   "votes_R": 2905,
+   "votes_other": 4,
+   "total_votes": 5390,
+   "pct_D": 46.0,
+   "pct_R": 53.9,
+   "modes": {
+    "total": {
+     "votes_D": 2481,
+     "votes_R": 2905,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "sandisfield": {
+   "name": "SANDISFIELD",
+   "raw_name": "Sandisfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 278,
+   "votes_R": 207,
+   "votes_other": 0,
+   "total_votes": 485,
+   "pct_D": 57.3,
+   "pct_R": 42.7,
+   "modes": {
+    "total": {
+     "votes_D": 278,
+     "votes_R": 207,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "sandwich": {
+   "name": "SANDWICH",
+   "raw_name": "Sandwich",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6608,
+   "votes_R": 6863,
+   "votes_other": 17,
+   "total_votes": 13488,
+   "pct_D": 49.0,
+   "pct_R": 50.9,
+   "modes": {
+    "total": {
+     "votes_D": 6608,
+     "votes_R": 6863,
+     "votes_other": 17
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "saugus": {
+   "name": "SAUGUS",
+   "raw_name": "Saugus",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6556,
+   "votes_R": 7982,
+   "votes_other": 7,
+   "total_votes": 14545,
+   "pct_D": 45.1,
+   "pct_R": 54.9,
+   "modes": {
+    "total": {
+     "votes_D": 6556,
+     "votes_R": 7982,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "savoy": {
+   "name": "SAVOY",
+   "raw_name": "Savoy",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 207,
+   "votes_R": 210,
+   "votes_other": 0,
+   "total_votes": 417,
+   "pct_D": 49.6,
+   "pct_R": 50.4,
+   "modes": {
+    "total": {
+     "votes_D": 207,
+     "votes_R": 210,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "scituate": {
+   "name": "SCITUATE",
+   "raw_name": "Scituate",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7247,
+   "votes_R": 6018,
+   "votes_other": 9,
+   "total_votes": 13274,
+   "pct_D": 54.6,
+   "pct_R": 45.3,
+   "modes": {
+    "total": {
+     "votes_D": 7247,
+     "votes_R": 6018,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "seekonk": {
+   "name": "SEEKONK",
+   "raw_name": "Seekonk",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4275,
+   "votes_R": 4675,
+   "votes_other": 10,
+   "total_votes": 8960,
+   "pct_D": 47.7,
+   "pct_R": 52.2,
+   "modes": {
+    "total": {
+     "votes_D": 4275,
+     "votes_R": 4675,
+     "votes_other": 10
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "sharon": {
+   "name": "SHARON",
+   "raw_name": "Sharon",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7036,
+   "votes_R": 3424,
+   "votes_other": 21,
+   "total_votes": 10481,
+   "pct_D": 67.1,
+   "pct_R": 32.7,
+   "modes": {
+    "total": {
+     "votes_D": 7036,
+     "votes_R": 3424,
+     "votes_other": 21
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "sheffield": {
+   "name": "SHEFFIELD",
+   "raw_name": "Sheffield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1377,
+   "votes_R": 608,
+   "votes_other": 0,
+   "total_votes": 1985,
+   "pct_D": 69.4,
+   "pct_R": 30.6,
+   "modes": {
+    "total": {
+     "votes_D": 1377,
+     "votes_R": 608,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "shelburne": {
+   "name": "SHELBURNE",
+   "raw_name": "Shelburne",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 899,
+   "votes_R": 309,
+   "votes_other": 1,
+   "total_votes": 1209,
+   "pct_D": 74.4,
+   "pct_R": 25.6,
+   "modes": {
+    "total": {
+     "votes_D": 899,
+     "votes_R": 309,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "sherborn": {
+   "name": "SHERBORN",
+   "raw_name": "Sherborn",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1829,
+   "votes_R": 911,
+   "votes_other": 4,
+   "total_votes": 2744,
+   "pct_D": 66.7,
+   "pct_R": 33.2,
+   "modes": {
+    "total": {
+     "votes_D": 1829,
+     "votes_R": 911,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "shirley": {
+   "name": "SHIRLEY",
+   "raw_name": "Shirley",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1917,
+   "votes_R": 1696,
+   "votes_other": 7,
+   "total_votes": 3620,
+   "pct_D": 53.0,
+   "pct_R": 46.9,
+   "modes": {
+    "total": {
+     "votes_D": 1917,
+     "votes_R": 1696,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "shrewsbury": {
+   "name": "SHREWSBURY",
+   "raw_name": "Shrewsbury",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 11390,
+   "votes_R": 8327,
+   "votes_other": 24,
+   "total_votes": 19741,
+   "pct_D": 57.7,
+   "pct_R": 42.2,
+   "modes": {
+    "total": {
+     "votes_D": 11390,
+     "votes_R": 8327,
+     "votes_other": 24
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "shutesbury": {
+   "name": "SHUTESBURY",
+   "raw_name": "Shutesbury",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1045,
+   "votes_R": 195,
+   "votes_other": 1,
+   "total_votes": 1241,
+   "pct_D": 84.2,
+   "pct_R": 15.7,
+   "modes": {
+    "total": {
+     "votes_D": 1045,
+     "votes_R": 195,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "somerset": {
+   "name": "SOMERSET",
+   "raw_name": "Somerset",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5082,
+   "votes_R": 5751,
+   "votes_other": 3,
+   "total_votes": 10836,
+   "pct_D": 46.9,
+   "pct_R": 53.1,
+   "modes": {
+    "total": {
+     "votes_D": 5082,
+     "votes_R": 5751,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "somerville": {
+   "name": "SOMERVILLE",
+   "raw_name": "Somerville",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 33654,
+   "votes_R": 5172,
+   "votes_other": 208,
+   "total_votes": 39034,
+   "pct_D": 86.2,
+   "pct_R": 13.2,
+   "modes": {
+    "total": {
+     "votes_D": 33654,
+     "votes_R": 5172,
+     "votes_other": 208
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "s_hadley": {
+   "name": "S. HADLEY",
+   "raw_name": "South Hadley",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6030,
+   "votes_R": 3742,
+   "votes_other": 8,
+   "total_votes": 9780,
+   "pct_D": 61.7,
+   "pct_R": 38.3,
+   "modes": {
+    "total": {
+     "votes_D": 6030,
+     "votes_R": 3742,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "southampton": {
+   "name": "SOUTHAMPTON",
+   "raw_name": "Southampton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1989,
+   "votes_R": 2009,
+   "votes_other": 5,
+   "total_votes": 4003,
+   "pct_D": 49.7,
+   "pct_R": 50.2,
+   "modes": {
+    "total": {
+     "votes_D": 1989,
+     "votes_R": 2009,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "southborough": {
+   "name": "SOUTHBOROUGH",
+   "raw_name": "Southborough",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3743,
+   "votes_R": 2360,
+   "votes_other": 10,
+   "total_votes": 6113,
+   "pct_D": 61.2,
+   "pct_R": 38.6,
+   "modes": {
+    "total": {
+     "votes_D": 3743,
+     "votes_R": 2360,
+     "votes_other": 10
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "southbridge": {
+   "name": "SOUTHBRIDGE",
+   "raw_name": "Southbridge",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3539,
+   "votes_R": 3318,
+   "votes_other": 10,
+   "total_votes": 6867,
+   "pct_D": 51.5,
+   "pct_R": 48.3,
+   "modes": {
+    "total": {
+     "votes_D": 3539,
+     "votes_R": 3318,
+     "votes_other": 10
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "southwick": {
+   "name": "SOUTHWICK",
+   "raw_name": "Southwick",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2144,
+   "votes_R": 3627,
+   "votes_other": 7,
+   "total_votes": 5778,
+   "pct_D": 37.1,
+   "pct_R": 62.8,
+   "modes": {
+    "total": {
+     "votes_D": 2144,
+     "votes_R": 3627,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "spencer": {
+   "name": "SPENCER",
+   "raw_name": "Spencer",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2618,
+   "votes_R": 3679,
+   "votes_other": 9,
+   "total_votes": 6306,
+   "pct_D": 41.5,
+   "pct_R": 58.3,
+   "modes": {
+    "total": {
+     "votes_D": 2618,
+     "votes_R": 3679,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "springfield": {
+   "name": "SPRINGFIELD",
+   "raw_name": "Springfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 34454,
+   "votes_R": 14752,
+   "votes_other": 151,
+   "total_votes": 49357,
+   "pct_D": 69.8,
+   "pct_R": 29.9,
+   "modes": {
+    "total": {
+     "votes_D": 34454,
+     "votes_R": 14752,
+     "votes_other": 151
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "sterling": {
+   "name": "STERLING",
+   "raw_name": "Sterling",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2536,
+   "votes_R": 2892,
+   "votes_other": 8,
+   "total_votes": 5436,
+   "pct_D": 46.7,
+   "pct_R": 53.2,
+   "modes": {
+    "total": {
+     "votes_D": 2536,
+     "votes_R": 2892,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "stockbridge": {
+   "name": "STOCKBRIDGE",
+   "raw_name": "Stockbridge",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1053,
+   "votes_R": 228,
+   "votes_other": 2,
+   "total_votes": 1283,
+   "pct_D": 82.1,
+   "pct_R": 17.8,
+   "modes": {
+    "total": {
+     "votes_D": 1053,
+     "votes_R": 228,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "stoneham": {
+   "name": "STONEHAM",
+   "raw_name": "Stoneham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7308,
+   "votes_R": 5828,
+   "votes_other": 3,
+   "total_votes": 13139,
+   "pct_D": 55.6,
+   "pct_R": 44.4,
+   "modes": {
+    "total": {
+     "votes_D": 7308,
+     "votes_R": 5828,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "stoughton": {
+   "name": "STOUGHTON",
+   "raw_name": "Stoughton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8687,
+   "votes_R": 5656,
+   "votes_other": 22,
+   "total_votes": 14365,
+   "pct_D": 60.5,
+   "pct_R": 39.4,
+   "modes": {
+    "total": {
+     "votes_D": 8687,
+     "votes_R": 5656,
+     "votes_other": 22
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "stow": {
+   "name": "STOW",
+   "raw_name": "Stow",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3242,
+   "votes_R": 1466,
+   "votes_other": 5,
+   "total_votes": 4713,
+   "pct_D": 68.8,
+   "pct_R": 31.1,
+   "modes": {
+    "total": {
+     "votes_D": 3242,
+     "votes_R": 1466,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "sturbridge": {
+   "name": "STURBRIDGE",
+   "raw_name": "Sturbridge",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2898,
+   "votes_R": 3041,
+   "votes_other": 8,
+   "total_votes": 5947,
+   "pct_D": 48.7,
+   "pct_R": 51.1,
+   "modes": {
+    "total": {
+     "votes_D": 2898,
+     "votes_R": 3041,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "sudbury": {
+   "name": "SUDBURY",
+   "raw_name": "Sudbury",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7974,
+   "votes_R": 3650,
+   "votes_other": 33,
+   "total_votes": 11657,
+   "pct_D": 68.4,
+   "pct_R": 31.3,
+   "modes": {
+    "total": {
+     "votes_D": 7974,
+     "votes_R": 3650,
+     "votes_other": 33
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "sunderland": {
+   "name": "SUNDERLAND",
+   "raw_name": "Sunderland",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1393,
+   "votes_R": 461,
+   "votes_other": 4,
+   "total_votes": 1858,
+   "pct_D": 75.0,
+   "pct_R": 24.8,
+   "modes": {
+    "total": {
+     "votes_D": 1393,
+     "votes_R": 461,
+     "votes_other": 4
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "sutton": {
+   "name": "SUTTON",
+   "raw_name": "Sutton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2571,
+   "votes_R": 3638,
+   "votes_other": 2,
+   "total_votes": 6211,
+   "pct_D": 41.4,
+   "pct_R": 58.6,
+   "modes": {
+    "total": {
+     "votes_D": 2571,
+     "votes_R": 3638,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "swampscott": {
+   "name": "SWAMPSCOTT",
+   "raw_name": "Swampscott",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5765,
+   "votes_R": 3225,
+   "votes_other": 21,
+   "total_votes": 9011,
+   "pct_D": 64.0,
+   "pct_R": 35.8,
+   "modes": {
+    "total": {
+     "votes_D": 5765,
+     "votes_R": 3225,
+     "votes_other": 21
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "swansea": {
+   "name": "SWANSEA",
+   "raw_name": "Swansea",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4177,
+   "votes_R": 5930,
+   "votes_other": 12,
+   "total_votes": 10119,
+   "pct_D": 41.3,
+   "pct_R": 58.6,
+   "modes": {
+    "total": {
+     "votes_D": 4177,
+     "votes_R": 5930,
+     "votes_other": 12
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "taunton": {
+   "name": "TAUNTON",
+   "raw_name": "Taunton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 13348,
+   "votes_R": 12745,
+   "votes_other": 25,
+   "total_votes": 26118,
+   "pct_D": 51.1,
+   "pct_R": 48.8,
+   "modes": {
+    "total": {
+     "votes_D": 13348,
+     "votes_R": 12745,
+     "votes_other": 25
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "templeton": {
+   "name": "TEMPLETON",
+   "raw_name": "Templeton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1787,
+   "votes_R": 2752,
+   "votes_other": 5,
+   "total_votes": 4544,
+   "pct_D": 39.3,
+   "pct_R": 60.6,
+   "modes": {
+    "total": {
+     "votes_D": 1787,
+     "votes_R": 2752,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "tewksbury": {
+   "name": "TEWKSBURY",
+   "raw_name": "Tewksbury",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8520,
+   "votes_R": 9711,
+   "votes_other": 43,
+   "total_votes": 18274,
+   "pct_D": 46.6,
+   "pct_R": 53.1,
+   "modes": {
+    "total": {
+     "votes_D": 8520,
+     "votes_R": 9711,
+     "votes_other": 43
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "tisbury": {
+   "name": "TISBURY",
+   "raw_name": "Tisbury",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1997,
+   "votes_R": 646,
+   "votes_other": 2,
+   "total_votes": 2645,
+   "pct_D": 75.5,
+   "pct_R": 24.4,
+   "modes": {
+    "total": {
+     "votes_D": 1997,
+     "votes_R": 646,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "tolland": {
+   "name": "TOLLAND",
+   "raw_name": "Tolland",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 132,
+   "votes_R": 194,
+   "votes_other": 0,
+   "total_votes": 326,
+   "pct_D": 40.5,
+   "pct_R": 59.5,
+   "modes": {
+    "total": {
+     "votes_D": 132,
+     "votes_R": 194,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "topsfield": {
+   "name": "TOPSFIELD",
+   "raw_name": "Topsfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2201,
+   "votes_R": 2016,
+   "votes_other": 2,
+   "total_votes": 4219,
+   "pct_D": 52.2,
+   "pct_R": 47.8,
+   "modes": {
+    "total": {
+     "votes_D": 2201,
+     "votes_R": 2016,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "townsend": {
+   "name": "TOWNSEND",
+   "raw_name": "Townsend",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2315,
+   "votes_R": 3150,
+   "votes_other": 0,
+   "total_votes": 5465,
+   "pct_D": 42.4,
+   "pct_R": 57.6,
+   "modes": {
+    "total": {
+     "votes_D": 2315,
+     "votes_R": 3150,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "truro": {
+   "name": "TRURO",
+   "raw_name": "Truro",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1378,
+   "votes_R": 440,
+   "votes_other": 0,
+   "total_votes": 1818,
+   "pct_D": 75.8,
+   "pct_R": 24.2,
+   "modes": {
+    "total": {
+     "votes_D": 1378,
+     "votes_R": 440,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "tyngsborough": {
+   "name": "TYNGSBOROUGH",
+   "raw_name": "Tyngsborough",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3618,
+   "votes_R": 3723,
+   "votes_other": 0,
+   "total_votes": 7341,
+   "pct_D": 49.3,
+   "pct_R": 50.7,
+   "modes": {
+    "total": {
+     "votes_D": 3618,
+     "votes_R": 3723,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "tyringham": {
+   "name": "TYRINGHAM",
+   "raw_name": "Tyringham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 211,
+   "votes_R": 101,
+   "votes_other": 0,
+   "total_votes": 312,
+   "pct_D": 67.6,
+   "pct_R": 32.4,
+   "modes": {
+    "total": {
+     "votes_D": 211,
+     "votes_R": 101,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "upton": {
+   "name": "UPTON",
+   "raw_name": "Upton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2822,
+   "votes_R": 2523,
+   "votes_other": 6,
+   "total_votes": 5351,
+   "pct_D": 52.7,
+   "pct_R": 47.2,
+   "modes": {
+    "total": {
+     "votes_D": 2822,
+     "votes_R": 2523,
+     "votes_other": 6
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "uxbridge": {
+   "name": "UXBRIDGE",
+   "raw_name": "Uxbridge",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3819,
+   "votes_R": 5039,
+   "votes_other": 9,
+   "total_votes": 8867,
+   "pct_D": 43.1,
+   "pct_R": 56.8,
+   "modes": {
+    "total": {
+     "votes_D": 3819,
+     "votes_R": 5039,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "wakefield": {
+   "name": "WAKEFIELD",
+   "raw_name": "Wakefield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8832,
+   "votes_R": 7062,
+   "votes_other": 31,
+   "total_votes": 15925,
+   "pct_D": 55.5,
+   "pct_R": 44.3,
+   "modes": {
+    "total": {
+     "votes_D": 8832,
+     "votes_R": 7062,
+     "votes_other": 31
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "wales": {
+   "name": "WALES",
+   "raw_name": "Wales",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 408,
+   "votes_R": 721,
+   "votes_other": 0,
+   "total_votes": 1129,
+   "pct_D": 36.1,
+   "pct_R": 63.9,
+   "modes": {
+    "total": {
+     "votes_D": 408,
+     "votes_R": 721,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "walpole": {
+   "name": "WALPOLE",
+   "raw_name": "Walpole",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 7816,
+   "votes_R": 7796,
+   "votes_other": 13,
+   "total_votes": 15625,
+   "pct_D": 50.0,
+   "pct_R": 49.9,
+   "modes": {
+    "total": {
+     "votes_D": 7816,
+     "votes_R": 7796,
+     "votes_other": 13
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "waltham": {
+   "name": "WALTHAM",
+   "raw_name": "Waltham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 17596,
+   "votes_R": 8517,
+   "votes_other": 0,
+   "total_votes": 26113,
+   "pct_D": 67.4,
+   "pct_R": 32.6,
+   "modes": {
+    "total": {
+     "votes_D": 17596,
+     "votes_R": 8517,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ware": {
+   "name": "WARE",
+   "raw_name": "Ware",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2280,
+   "votes_R": 2754,
+   "votes_other": 1,
+   "total_votes": 5035,
+   "pct_D": 45.3,
+   "pct_R": 54.7,
+   "modes": {
+    "total": {
+     "votes_D": 2280,
+     "votes_R": 2754,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "wareham": {
+   "name": "WAREHAM",
+   "raw_name": "Wareham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6238,
+   "votes_R": 6664,
+   "votes_other": 0,
+   "total_votes": 12902,
+   "pct_D": 48.3,
+   "pct_R": 51.7,
+   "modes": {
+    "total": {
+     "votes_D": 6238,
+     "votes_R": 6664,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "warren": {
+   "name": "WARREN",
+   "raw_name": "Warren",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1043,
+   "votes_R": 1568,
+   "votes_other": 1,
+   "total_votes": 2612,
+   "pct_D": 39.9,
+   "pct_R": 60.0,
+   "modes": {
+    "total": {
+     "votes_D": 1043,
+     "votes_R": 1568,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "warwick": {
+   "name": "WARWICK",
+   "raw_name": "Warwick",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 308,
+   "votes_R": 186,
+   "votes_other": 0,
+   "total_votes": 494,
+   "pct_D": 62.3,
+   "pct_R": 37.7,
+   "modes": {
+    "total": {
+     "votes_D": 308,
+     "votes_R": 186,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "washington": {
+   "name": "WASHINGTON",
+   "raw_name": "Washington",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 217,
+   "votes_R": 133,
+   "votes_other": 0,
+   "total_votes": 350,
+   "pct_D": 62.0,
+   "pct_R": 38.0,
+   "modes": {
+    "total": {
+     "votes_D": 217,
+     "votes_R": 133,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "watertown": {
+   "name": "WATERTOWN",
+   "raw_name": "Watertown",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 13396,
+   "votes_R": 4369,
+   "votes_other": 5,
+   "total_votes": 17770,
+   "pct_D": 75.4,
+   "pct_R": 24.6,
+   "modes": {
+    "total": {
+     "votes_D": 13396,
+     "votes_R": 4369,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "wayland": {
+   "name": "WAYLAND",
+   "raw_name": "Wayland",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6225,
+   "votes_R": 2442,
+   "votes_other": 23,
+   "total_votes": 8690,
+   "pct_D": 71.6,
+   "pct_R": 28.1,
+   "modes": {
+    "total": {
+     "votes_D": 6225,
+     "votes_R": 2442,
+     "votes_other": 23
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "webster": {
+   "name": "WEBSTER",
+   "raw_name": "Webster",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3532,
+   "votes_R": 4522,
+   "votes_other": 9,
+   "total_votes": 8063,
+   "pct_D": 43.8,
+   "pct_R": 56.1,
+   "modes": {
+    "total": {
+     "votes_D": 3532,
+     "votes_R": 4522,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "wellesley": {
+   "name": "WELLESLEY",
+   "raw_name": "Wellesley",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 9790,
+   "votes_R": 5219,
+   "votes_other": 41,
+   "total_votes": 15050,
+   "pct_D": 65.0,
+   "pct_R": 34.7,
+   "modes": {
+    "total": {
+     "votes_D": 9790,
+     "votes_R": 5219,
+     "votes_other": 41
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "wellfleet": {
+   "name": "WELLFLEET",
+   "raw_name": "Wellfleet",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1824,
+   "votes_R": 632,
+   "votes_other": 6,
+   "total_votes": 2462,
+   "pct_D": 74.1,
+   "pct_R": 25.7,
+   "modes": {
+    "total": {
+     "votes_D": 1824,
+     "votes_R": 632,
+     "votes_other": 6
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "wendell": {
+   "name": "WENDELL",
+   "raw_name": "Wendell",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 453,
+   "votes_R": 138,
+   "votes_other": 0,
+   "total_votes": 591,
+   "pct_D": 76.6,
+   "pct_R": 23.4,
+   "modes": {
+    "total": {
+     "votes_D": 453,
+     "votes_R": 138,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "wenham": {
+   "name": "WENHAM",
+   "raw_name": "Wenham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1522,
+   "votes_R": 1051,
+   "votes_other": 2,
+   "total_votes": 2575,
+   "pct_D": 59.1,
+   "pct_R": 40.8,
+   "modes": {
+    "total": {
+     "votes_D": 1522,
+     "votes_R": 1051,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "w_boylston": {
+   "name": "W. BOYLSTON",
+   "raw_name": "West Boylston",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2402,
+   "votes_R": 2165,
+   "votes_other": 12,
+   "total_votes": 4579,
+   "pct_D": 52.5,
+   "pct_R": 47.3,
+   "modes": {
+    "total": {
+     "votes_D": 2402,
+     "votes_R": 2165,
+     "votes_other": 12
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "w_bridgewater": {
+   "name": "W. BRIDGEWATER",
+   "raw_name": "West Bridgewater",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1887,
+   "votes_R": 2596,
+   "votes_other": 3,
+   "total_votes": 4486,
+   "pct_D": 42.1,
+   "pct_R": 57.9,
+   "modes": {
+    "total": {
+     "votes_D": 1887,
+     "votes_R": 2596,
+     "votes_other": 3
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "w_brookfield": {
+   "name": "W. BROOKFIELD",
+   "raw_name": "West Brookfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1038,
+   "votes_R": 1272,
+   "votes_other": 2,
+   "total_votes": 2312,
+   "pct_D": 44.9,
+   "pct_R": 55.0,
+   "modes": {
+    "total": {
+     "votes_D": 1038,
+     "votes_R": 1272,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "w_newbury": {
+   "name": "W. NEWBURY",
+   "raw_name": "West Newbury",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1892,
+   "votes_R": 1332,
+   "votes_other": 7,
+   "total_votes": 3231,
+   "pct_D": 58.6,
+   "pct_R": 41.2,
+   "modes": {
+    "total": {
+     "votes_D": 1892,
+     "votes_R": 1332,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "w_springfield": {
+   "name": "W. SPRINGFIELD",
+   "raw_name": "West Springfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6238,
+   "votes_R": 6205,
+   "votes_other": 16,
+   "total_votes": 12459,
+   "pct_D": 50.1,
+   "pct_R": 49.8,
+   "modes": {
+    "total": {
+     "votes_D": 6238,
+     "votes_R": 6205,
+     "votes_other": 16
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "w_stockbridge": {
+   "name": "W. STOCKBRIDGE",
+   "raw_name": "West Stockbridge",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 729,
+   "votes_R": 186,
+   "votes_other": 2,
+   "total_votes": 917,
+   "pct_D": 79.5,
+   "pct_R": 20.3,
+   "modes": {
+    "total": {
+     "votes_D": 729,
+     "votes_R": 186,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "w_tisbury": {
+   "name": "W. TISBURY",
+   "raw_name": "West Tisbury",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1711,
+   "votes_R": 451,
+   "votes_other": 2,
+   "total_votes": 2164,
+   "pct_D": 79.1,
+   "pct_R": 20.8,
+   "modes": {
+    "total": {
+     "votes_D": 1711,
+     "votes_R": 451,
+     "votes_other": 2
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "westborough": {
+   "name": "WESTBOROUGH",
+   "raw_name": "Westborough",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6778,
+   "votes_R": 3481,
+   "votes_other": 23,
+   "total_votes": 10282,
+   "pct_D": 65.9,
+   "pct_R": 33.9,
+   "modes": {
+    "total": {
+     "votes_D": 6778,
+     "votes_R": 3481,
+     "votes_other": 23
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "westfield": {
+   "name": "WESTFIELD",
+   "raw_name": "Westfield",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 9035,
+   "votes_R": 10756,
+   "votes_other": 12,
+   "total_votes": 19803,
+   "pct_D": 45.6,
+   "pct_R": 54.3,
+   "modes": {
+    "total": {
+     "votes_D": 9035,
+     "votes_R": 10756,
+     "votes_other": 12
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "westford": {
+   "name": "WESTFORD",
+   "raw_name": "Westford",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8855,
+   "votes_R": 5721,
+   "votes_other": 28,
+   "total_votes": 14604,
+   "pct_D": 60.6,
+   "pct_R": 39.2,
+   "modes": {
+    "total": {
+     "votes_D": 8855,
+     "votes_R": 5721,
+     "votes_other": 28
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "westhampton": {
+   "name": "WESTHAMPTON",
+   "raw_name": "Westhampton",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 719,
+   "votes_R": 505,
+   "votes_other": 1,
+   "total_votes": 1225,
+   "pct_D": 58.7,
+   "pct_R": 41.2,
+   "modes": {
+    "total": {
+     "votes_D": 719,
+     "votes_R": 505,
+     "votes_other": 1
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "westminster": {
+   "name": "WESTMINSTER",
+   "raw_name": "Westminster",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2345,
+   "votes_R": 2926,
+   "votes_other": 5,
+   "total_votes": 5276,
+   "pct_D": 44.4,
+   "pct_R": 55.5,
+   "modes": {
+    "total": {
+     "votes_D": 2345,
+     "votes_R": 2926,
+     "votes_other": 5
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "weston": {
+   "name": "WESTON",
+   "raw_name": "Weston",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3853,
+   "votes_R": 2562,
+   "votes_other": 9,
+   "total_votes": 6424,
+   "pct_D": 60.0,
+   "pct_R": 39.9,
+   "modes": {
+    "total": {
+     "votes_D": 3853,
+     "votes_R": 2562,
+     "votes_other": 9
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "westport": {
+   "name": "WESTPORT",
+   "raw_name": "Westport",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4825,
+   "votes_R": 5709,
+   "votes_other": 10,
+   "total_votes": 10544,
+   "pct_D": 45.8,
+   "pct_R": 54.1,
+   "modes": {
+    "total": {
+     "votes_D": 4825,
+     "votes_R": 5709,
+     "votes_other": 10
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "westwood": {
+   "name": "WESTWOOD",
+   "raw_name": "Westwood",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 5543,
+   "votes_R": 4321,
+   "votes_other": 11,
+   "total_votes": 9875,
+   "pct_D": 56.1,
+   "pct_R": 43.8,
+   "modes": {
+    "total": {
+     "votes_D": 5543,
+     "votes_R": 4321,
+     "votes_other": 11
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "weymouth": {
+   "name": "WEYMOUTH",
+   "raw_name": "Weymouth",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 16463,
+   "votes_R": 14573,
+   "votes_other": 77,
+   "total_votes": 31113,
+   "pct_D": 52.9,
+   "pct_R": 46.8,
+   "modes": {
+    "total": {
+     "votes_D": 16463,
+     "votes_R": 14573,
+     "votes_other": 77
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "whately": {
+   "name": "WHATELY",
+   "raw_name": "Whately",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 683,
+   "votes_R": 397,
+   "votes_other": 0,
+   "total_votes": 1080,
+   "pct_D": 63.2,
+   "pct_R": 36.8,
+   "modes": {
+    "total": {
+     "votes_D": 683,
+     "votes_R": 397,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "whitman": {
+   "name": "WHITMAN",
+   "raw_name": "Whitman",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3838,
+   "votes_R": 4652,
+   "votes_other": 28,
+   "total_votes": 8518,
+   "pct_D": 45.1,
+   "pct_R": 54.6,
+   "modes": {
+    "total": {
+     "votes_D": 3838,
+     "votes_R": 4652,
+     "votes_other": 28
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "wilbraham": {
+   "name": "WILBRAHAM",
+   "raw_name": "Wilbraham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4413,
+   "votes_R": 4679,
+   "votes_other": 18,
+   "total_votes": 9110,
+   "pct_D": 48.4,
+   "pct_R": 51.4,
+   "modes": {
+    "total": {
+     "votes_D": 4413,
+     "votes_R": 4679,
+     "votes_other": 18
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "williamsburg": {
+   "name": "WILLIAMSBURG",
+   "raw_name": "Williamsburg",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 1380,
+   "votes_R": 412,
+   "votes_other": 0,
+   "total_votes": 1792,
+   "pct_D": 77.0,
+   "pct_R": 23.0,
+   "modes": {
+    "total": {
+     "votes_D": 1380,
+     "votes_R": 412,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "williamstown": {
+   "name": "WILLIAMSTOWN",
+   "raw_name": "Williamstown",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2969,
+   "votes_R": 589,
+   "votes_other": 8,
+   "total_votes": 3566,
+   "pct_D": 83.3,
+   "pct_R": 16.5,
+   "modes": {
+    "total": {
+     "votes_D": 2969,
+     "votes_R": 589,
+     "votes_other": 8
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "wilmington": {
+   "name": "WILMINGTON",
+   "raw_name": "Wilmington",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 6730,
+   "votes_R": 7261,
+   "votes_other": 15,
+   "total_votes": 14006,
+   "pct_D": 48.1,
+   "pct_R": 51.8,
+   "modes": {
+    "total": {
+     "votes_D": 6730,
+     "votes_R": 7261,
+     "votes_other": 15
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "winchendon": {
+   "name": "WINCHENDON",
+   "raw_name": "Winchendon",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 2048,
+   "votes_R": 3088,
+   "votes_other": 12,
+   "total_votes": 5148,
+   "pct_D": 39.8,
+   "pct_R": 60.0,
+   "modes": {
+    "total": {
+     "votes_D": 2048,
+     "votes_R": 3088,
+     "votes_other": 12
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "winchester": {
+   "name": "WINCHESTER",
+   "raw_name": "Winchester",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8217,
+   "votes_R": 4646,
+   "votes_other": 31,
+   "total_votes": 12894,
+   "pct_D": 63.7,
+   "pct_R": 36.0,
+   "modes": {
+    "total": {
+     "votes_D": 8217,
+     "votes_R": 4646,
+     "votes_other": 31
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "windsor": {
+   "name": "WINDSOR",
+   "raw_name": "Windsor",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 327,
+   "votes_R": 222,
+   "votes_other": 0,
+   "total_votes": 549,
+   "pct_D": 59.6,
+   "pct_R": 40.4,
+   "modes": {
+    "total": {
+     "votes_D": 327,
+     "votes_R": 222,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "winthrop": {
+   "name": "WINTHROP",
+   "raw_name": "Winthrop",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 4955,
+   "votes_R": 4196,
+   "votes_other": 15,
+   "total_votes": 9166,
+   "pct_D": 54.1,
+   "pct_R": 45.8,
+   "modes": {
+    "total": {
+     "votes_D": 4955,
+     "votes_R": 4196,
+     "votes_other": 15
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "woburn": {
+   "name": "WOBURN",
+   "raw_name": "Woburn",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 11785,
+   "votes_R": 9428,
+   "votes_other": 18,
+   "total_votes": 21231,
+   "pct_D": 55.5,
+   "pct_R": 44.4,
+   "modes": {
+    "total": {
+     "votes_D": 11785,
+     "votes_R": 9428,
+     "votes_other": 18
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "worcester": {
+   "name": "WORCESTER",
+   "raw_name": "Worcester",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 41464,
+   "votes_R": 22450,
+   "votes_other": 218,
+   "total_votes": 64132,
+   "pct_D": 64.7,
+   "pct_R": 35.0,
+   "modes": {
+    "total": {
+     "votes_D": 41464,
+     "votes_R": 22450,
+     "votes_other": 218
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "worthington": {
+   "name": "WORTHINGTON",
+   "raw_name": "Worthington",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 530,
+   "votes_R": 327,
+   "votes_other": 0,
+   "total_votes": 857,
+   "pct_D": 61.8,
+   "pct_R": 38.2,
+   "modes": {
+    "total": {
+     "votes_D": 530,
+     "votes_R": 327,
+     "votes_other": 0
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "wrentham": {
+   "name": "WRENTHAM",
+   "raw_name": "Wrentham",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 3548,
+   "votes_R": 4208,
+   "votes_other": 21,
+   "total_votes": 7777,
+   "pct_D": 45.6,
+   "pct_R": 54.1,
+   "modes": {
+    "total": {
+     "votes_D": 3548,
+     "votes_R": 4208,
+     "votes_other": 21
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "yarmouth": {
+   "name": "YARMOUTH",
+   "raw_name": "Yarmouth",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 8100,
+   "votes_R": 7110,
+   "votes_other": 20,
+   "total_votes": 15230,
+   "pct_D": 53.2,
+   "pct_R": 46.7,
+   "modes": {
+    "total": {
+     "votes_D": 8100,
+     "votes_R": 7110,
+     "votes_other": 20
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  }
+ }
+}

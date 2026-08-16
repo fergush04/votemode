@@ -1,0 +1,2731 @@
+{
+ "race": "senate",
+ "race_label": "Senate",
+ "race_type": "senate",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Gloria Johnson",
+ "candidate_R": "Marsha Blackburn",
+ "state": "Tennessee",
+ "state_abbr": "TN",
+ "unit_type": "county",
+ "avg_completeness": "U",
+ "completeness_breakdown": {
+  "C3": 37,
+  "U": 55,
+  "C4": 2,
+  "C2": 1
+ },
+ "votes_D": 1026924,
+ "votes_R": 1918182,
+ "votes_other": 54394,
+ "total_votes": 2999500,
+ "pct_D": 34.2,
+ "pct_R": 64.0,
+ "unit_count": 95,
+ "state_profile": {
+  "voting_summary": "Tennessee votes early: two weeks of no-excuse early in-person voting carried about 40% of the 2024 vote (plus a large totals-only share), with mail excuse-required at 2%. Polls close at 8 p.m. Eastern; early and absentee votes are released first in large county batches, then election day precincts report, with the state near-complete by midnight. Early voting ran R+13 against R+24 on election day, so the first batches modestly understate the final Republican margin.",
+  "reporting_notes": "",
+  "tags": [
+   "Early in-person dominant",
+   "Excuse-required mail",
+   "Fast count"
+  ],
+  "mode_split": {
+   "total": 40.3,
+   "early_in_person": 40.1,
+   "election_day": 15.8,
+   "mail": 1.9,
+   "pre_election_day": 1.8,
+   "provisional": 0.0
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "47001": {
+   "name": "Anderson",
+   "raw_name": "Anderson",
+   "fips": "47001",
+   "is_mappable": true,
+   "votes_D": 11570,
+   "votes_R": 23677,
+   "votes_other": 720,
+   "total_votes": 35967,
+   "pct_D": 32.2,
+   "pct_R": 65.8,
+   "modes": {
+    "mail": {
+     "votes_D": 745,
+     "votes_R": 633,
+     "votes_other": 17
+    },
+    "early_in_person": {
+     "votes_D": 8209,
+     "votes_R": 16815,
+     "votes_other": 374
+    },
+    "election_day": {
+     "votes_D": 2616,
+     "votes_R": 6229,
+     "votes_other": 329
+    }
+   },
+   "data_source": "Anderson County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47003": {
+   "name": "Bedford",
+   "raw_name": "Bedford",
+   "fips": "47003",
+   "is_mappable": true,
+   "votes_D": 4067,
+   "votes_R": 15098,
+   "votes_other": 415,
+   "total_votes": 19580,
+   "pct_D": 20.8,
+   "pct_R": 77.1,
+   "modes": {
+    "total": {
+     "votes_D": 4067,
+     "votes_R": 15098,
+     "votes_other": 415
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47005": {
+   "name": "Benton",
+   "raw_name": "Benton",
+   "fips": "47005",
+   "is_mappable": true,
+   "votes_D": 1283,
+   "votes_R": 5653,
+   "votes_other": 154,
+   "total_votes": 7090,
+   "pct_D": 18.1,
+   "pct_R": 79.7,
+   "modes": {
+    "total": {
+     "votes_D": 1283,
+     "votes_R": 5653,
+     "votes_other": 154
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47007": {
+   "name": "Bledsoe",
+   "raw_name": "Bledsoe",
+   "fips": "47007",
+   "is_mappable": true,
+   "votes_D": 897,
+   "votes_R": 5061,
+   "votes_other": 103,
+   "total_votes": 6061,
+   "pct_D": 14.8,
+   "pct_R": 83.5,
+   "modes": {
+    "total": {
+     "votes_D": 897,
+     "votes_R": 5061,
+     "votes_other": 103
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47009": {
+   "name": "Blount",
+   "raw_name": "Blount",
+   "fips": "47009",
+   "is_mappable": true,
+   "votes_D": 17632,
+   "votes_R": 49551,
+   "votes_other": 1271,
+   "total_votes": 68454,
+   "pct_D": 25.8,
+   "pct_R": 72.4,
+   "modes": {
+    "total": {
+     "votes_D": 17632,
+     "votes_R": 49551,
+     "votes_other": 1271
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47011": {
+   "name": "Bradley",
+   "raw_name": "Bradley",
+   "fips": "47011",
+   "is_mappable": true,
+   "votes_D": 9494,
+   "votes_R": 37622,
+   "votes_other": 1029,
+   "total_votes": 48145,
+   "pct_D": 19.7,
+   "pct_R": 78.1,
+   "modes": {
+    "total": {
+     "votes_D": 9494,
+     "votes_R": 37622,
+     "votes_other": 1029
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47013": {
+   "name": "Campbell",
+   "raw_name": "Campbell",
+   "fips": "47013",
+   "is_mappable": true,
+   "votes_D": 2495,
+   "votes_R": 12250,
+   "votes_other": 289,
+   "total_votes": 15034,
+   "pct_D": 16.6,
+   "pct_R": 81.5,
+   "modes": {
+    "total": {
+     "votes_D": 2495,
+     "votes_R": 12250,
+     "votes_other": 289
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47015": {
+   "name": "Cannon",
+   "raw_name": "Cannon",
+   "fips": "47015",
+   "is_mappable": true,
+   "votes_D": 1171,
+   "votes_R": 5308,
+   "votes_other": 130,
+   "total_votes": 6609,
+   "pct_D": 17.7,
+   "pct_R": 80.3,
+   "modes": {
+    "total": {
+     "votes_D": 1171,
+     "votes_R": 5308,
+     "votes_other": 130
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47017": {
+   "name": "Carroll",
+   "raw_name": "Carroll",
+   "fips": "47017",
+   "is_mappable": true,
+   "votes_D": 2016,
+   "votes_R": 9434,
+   "votes_other": 191,
+   "total_votes": 11641,
+   "pct_D": 17.3,
+   "pct_R": 81.0,
+   "modes": {
+    "mail": {
+     "votes_D": 115,
+     "votes_R": 173,
+     "votes_other": 7
+    },
+    "early_in_person": {
+     "votes_D": 1186,
+     "votes_R": 5838,
+     "votes_other": 104
+    },
+    "election_day": {
+     "votes_D": 715,
+     "votes_R": 3423,
+     "votes_other": 80
+    }
+   },
+   "data_source": "Carroll County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47019": {
+   "name": "Carter",
+   "raw_name": "Carter",
+   "fips": "47019",
+   "is_mappable": true,
+   "votes_D": 4081,
+   "votes_R": 19687,
+   "votes_other": 448,
+   "total_votes": 24216,
+   "pct_D": 16.9,
+   "pct_R": 81.3,
+   "modes": {
+    "total": {
+     "votes_D": 4081,
+     "votes_R": 19687,
+     "votes_other": 448
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47021": {
+   "name": "Cheatham",
+   "raw_name": "Cheatham",
+   "fips": "47021",
+   "is_mappable": true,
+   "votes_D": 5563,
+   "votes_R": 14518,
+   "votes_other": 414,
+   "total_votes": 20495,
+   "pct_D": 27.1,
+   "pct_R": 70.8,
+   "modes": {
+    "total": {
+     "votes_D": 5563,
+     "votes_R": 14518,
+     "votes_other": 414
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47023": {
+   "name": "Chester",
+   "raw_name": "Chester",
+   "fips": "47023",
+   "is_mappable": true,
+   "votes_D": 1135,
+   "votes_R": 6169,
+   "votes_other": 141,
+   "total_votes": 7445,
+   "pct_D": 15.2,
+   "pct_R": 82.9,
+   "modes": {
+    "total": {
+     "votes_D": 1135,
+     "votes_R": 6169,
+     "votes_other": 141
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47025": {
+   "name": "Claiborne",
+   "raw_name": "Claiborne",
+   "fips": "47025",
+   "is_mappable": true,
+   "votes_D": 2118,
+   "votes_R": 10885,
+   "votes_other": 193,
+   "total_votes": 13196,
+   "pct_D": 16.1,
+   "pct_R": 82.5,
+   "modes": {
+    "total": {
+     "votes_D": 2118,
+     "votes_R": 10885,
+     "votes_other": 193
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47027": {
+   "name": "Clay",
+   "raw_name": "Clay",
+   "fips": "47027",
+   "is_mappable": true,
+   "votes_D": 593,
+   "votes_R": 2900,
+   "votes_other": 0,
+   "total_votes": 3493,
+   "pct_D": 17.0,
+   "pct_R": 83.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 193,
+     "votes_R": 1146,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 54,
+     "votes_R": 79,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 346,
+     "votes_R": 1675,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Clay County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47029": {
+   "name": "Cocke",
+   "raw_name": "Cocke",
+   "fips": "47029",
+   "is_mappable": true,
+   "votes_D": 2456,
+   "votes_R": 12471,
+   "votes_other": 296,
+   "total_votes": 15223,
+   "pct_D": 16.1,
+   "pct_R": 81.9,
+   "modes": {
+    "total": {
+     "votes_D": 2456,
+     "votes_R": 12471,
+     "votes_other": 296
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47031": {
+   "name": "Coffee",
+   "raw_name": "Coffee",
+   "fips": "47031",
+   "is_mappable": true,
+   "votes_D": 5428,
+   "votes_R": 18463,
+   "votes_other": 590,
+   "total_votes": 24481,
+   "pct_D": 22.2,
+   "pct_R": 75.4,
+   "modes": {
+    "total": {
+     "votes_D": 5428,
+     "votes_R": 18463,
+     "votes_other": 590
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47033": {
+   "name": "Crockett",
+   "raw_name": "Crockett",
+   "fips": "47033",
+   "is_mappable": true,
+   "votes_D": 1124,
+   "votes_R": 4529,
+   "votes_other": 90,
+   "total_votes": 5743,
+   "pct_D": 19.6,
+   "pct_R": 78.9,
+   "modes": {
+    "mail": {
+     "votes_D": 30,
+     "votes_R": 115,
+     "votes_other": 1
+    },
+    "early_in_person": {
+     "votes_D": 687,
+     "votes_R": 2882,
+     "votes_other": 45
+    },
+    "election_day": {
+     "votes_D": 407,
+     "votes_R": 1532,
+     "votes_other": 44
+    }
+   },
+   "data_source": "Crockett County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47035": {
+   "name": "Cumberland",
+   "raw_name": "Cumberland",
+   "fips": "47035",
+   "is_mappable": true,
+   "votes_D": 6751,
+   "votes_R": 26427,
+   "votes_other": 540,
+   "total_votes": 33718,
+   "pct_D": 20.0,
+   "pct_R": 78.4,
+   "modes": {
+    "total": {
+     "votes_D": 6751,
+     "votes_R": 26427,
+     "votes_other": 540
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47037": {
+   "name": "Davidson",
+   "raw_name": "Davidson",
+   "fips": "47037",
+   "is_mappable": true,
+   "votes_D": 178872,
+   "votes_R": 99814,
+   "votes_other": 6401,
+   "total_votes": 285087,
+   "pct_D": 62.7,
+   "pct_R": 35.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 38768,
+     "votes_R": 27060,
+     "votes_other": 2671
+    },
+    "mail": {
+     "votes_D": 7842,
+     "votes_R": 3731,
+     "votes_other": 189
+    },
+    "early_in_person": {
+     "votes_D": 132262,
+     "votes_R": 69023,
+     "votes_other": 3541
+    }
+   },
+   "data_source": "Davidson County, TN",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47041": {
+   "name": "DeKalb",
+   "raw_name": "DeKalb",
+   "fips": "47041",
+   "is_mappable": true,
+   "votes_D": 1707,
+   "votes_R": 7137,
+   "votes_other": 199,
+   "total_votes": 9043,
+   "pct_D": 18.9,
+   "pct_R": 78.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 508,
+     "votes_R": 2330,
+     "votes_other": 74
+    },
+    "mail": {
+     "votes_D": 101,
+     "votes_R": 181,
+     "votes_other": 7
+    },
+    "early_in_person": {
+     "votes_D": 1098,
+     "votes_R": 4626,
+     "votes_other": 118
+    }
+   },
+   "data_source": "DeKalb County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47039": {
+   "name": "Decatur",
+   "raw_name": "Decatur",
+   "fips": "47039",
+   "is_mappable": true,
+   "votes_D": 811,
+   "votes_R": 4410,
+   "votes_other": 97,
+   "total_votes": 5318,
+   "pct_D": 15.3,
+   "pct_R": 82.9,
+   "modes": {
+    "total": {
+     "votes_D": 811,
+     "votes_R": 4410,
+     "votes_other": 97
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47043": {
+   "name": "Dickson",
+   "raw_name": "Dickson",
+   "fips": "47043",
+   "is_mappable": true,
+   "votes_D": 5966,
+   "votes_R": 18144,
+   "votes_other": 608,
+   "total_votes": 24718,
+   "pct_D": 24.1,
+   "pct_R": 73.4,
+   "modes": {
+    "mail": {
+     "votes_D": 366,
+     "votes_R": 419,
+     "votes_other": 10
+    },
+    "early_in_person": {
+     "votes_D": 3993,
+     "votes_R": 12047,
+     "votes_other": 316
+    },
+    "election_day": {
+     "votes_D": 1607,
+     "votes_R": 5678,
+     "votes_other": 282
+    }
+   },
+   "data_source": "Dickson County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47045": {
+   "name": "Dyer",
+   "raw_name": "Dyer",
+   "fips": "47045",
+   "is_mappable": true,
+   "votes_D": 2556,
+   "votes_R": 11050,
+   "votes_other": 0,
+   "total_votes": 13606,
+   "pct_D": 18.8,
+   "pct_R": 81.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 859,
+     "votes_R": 3518,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 95,
+     "votes_R": 179,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1602,
+     "votes_R": 7353,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Dyer County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47047": {
+   "name": "Fayette",
+   "raw_name": "Fayette",
+   "fips": "47047",
+   "is_mappable": true,
+   "votes_D": 6110,
+   "votes_R": 16585,
+   "votes_other": 0,
+   "total_votes": 22695,
+   "pct_D": 26.9,
+   "pct_R": 73.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 2095,
+     "votes_R": 4576,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 248,
+     "votes_R": 370,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 3767,
+     "votes_R": 11639,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Fayette County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47049": {
+   "name": "Fentress",
+   "raw_name": "Fentress",
+   "fips": "47049",
+   "is_mappable": true,
+   "votes_D": 1188,
+   "votes_R": 8064,
+   "votes_other": 165,
+   "total_votes": 9417,
+   "pct_D": 12.6,
+   "pct_R": 85.6,
+   "modes": {
+    "total": {
+     "votes_D": 1188,
+     "votes_R": 8064,
+     "votes_other": 165
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47051": {
+   "name": "Franklin",
+   "raw_name": "Franklin",
+   "fips": "47051",
+   "is_mappable": true,
+   "votes_D": 4490,
+   "votes_R": 14426,
+   "votes_other": 0,
+   "total_votes": 18916,
+   "pct_D": 23.7,
+   "pct_R": 76.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 1896,
+     "votes_R": 6128,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 282,
+     "votes_R": 309,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 2312,
+     "votes_R": 7989,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Franklin County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47053": {
+   "name": "Gibson",
+   "raw_name": "Gibson",
+   "fips": "47053",
+   "is_mappable": true,
+   "votes_D": 4386,
+   "votes_R": 16078,
+   "votes_other": 0,
+   "total_votes": 20464,
+   "pct_D": 21.4,
+   "pct_R": 78.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 1730,
+     "votes_R": 5235,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 149,
+     "votes_R": 178,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 2507,
+     "votes_R": 10665,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Gibson County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47055": {
+   "name": "Giles",
+   "raw_name": "Giles",
+   "fips": "47055",
+   "is_mappable": true,
+   "votes_D": 2844,
+   "votes_R": 10027,
+   "votes_other": 267,
+   "total_votes": 13138,
+   "pct_D": 21.6,
+   "pct_R": 76.3,
+   "modes": {
+    "total": {
+     "votes_D": 2844,
+     "votes_R": 10027,
+     "votes_other": 267
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47057": {
+   "name": "Grainger",
+   "raw_name": "Grainger",
+   "fips": "47057",
+   "is_mappable": true,
+   "votes_D": 1537,
+   "votes_R": 9226,
+   "votes_other": 146,
+   "total_votes": 10909,
+   "pct_D": 14.1,
+   "pct_R": 84.6,
+   "modes": {
+    "mail": {
+     "votes_D": 134,
+     "votes_R": 294,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 865,
+     "votes_R": 5276,
+     "votes_other": 52
+    },
+    "election_day": {
+     "votes_D": 538,
+     "votes_R": 3656,
+     "votes_other": 94
+    }
+   },
+   "data_source": "Grainger County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47059": {
+   "name": "Greene",
+   "raw_name": "Greene",
+   "fips": "47059",
+   "is_mappable": true,
+   "votes_D": 4841,
+   "votes_R": 25157,
+   "votes_other": 561,
+   "total_votes": 30559,
+   "pct_D": 15.8,
+   "pct_R": 82.3,
+   "modes": {
+    "total": {
+     "votes_D": 4841,
+     "votes_R": 25157,
+     "votes_other": 561
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47061": {
+   "name": "Grundy",
+   "raw_name": "Grundy",
+   "fips": "47061",
+   "is_mappable": true,
+   "votes_D": 960,
+   "votes_R": 4931,
+   "votes_other": 138,
+   "total_votes": 6029,
+   "pct_D": 15.9,
+   "pct_R": 81.8,
+   "modes": {
+    "total": {
+     "votes_D": 960,
+     "votes_R": 4931,
+     "votes_other": 138
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47063": {
+   "name": "Hamblen",
+   "raw_name": "Hamblen",
+   "fips": "47063",
+   "is_mappable": true,
+   "votes_D": 5225,
+   "votes_R": 19382,
+   "votes_other": 370,
+   "total_votes": 24977,
+   "pct_D": 20.9,
+   "pct_R": 77.6,
+   "modes": {
+    "total": {
+     "votes_D": 5225,
+     "votes_R": 19382,
+     "votes_other": 370
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47065": {
+   "name": "Hamilton",
+   "raw_name": "Hamilton",
+   "fips": "47065",
+   "is_mappable": true,
+   "votes_D": 72115,
+   "votes_R": 97475,
+   "votes_other": 3527,
+   "total_votes": 173117,
+   "pct_D": 41.7,
+   "pct_R": 56.3,
+   "modes": {
+    "total": {
+     "votes_D": 72115,
+     "votes_R": 97475,
+     "votes_other": 3527
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47067": {
+   "name": "Hancock",
+   "raw_name": "Hancock",
+   "fips": "47067",
+   "is_mappable": true,
+   "votes_D": 343,
+   "votes_R": 2365,
+   "votes_other": 46,
+   "total_votes": 2754,
+   "pct_D": 12.5,
+   "pct_R": 85.9,
+   "modes": {
+    "total": {
+     "votes_D": 343,
+     "votes_R": 2365,
+     "votes_other": 46
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47069": {
+   "name": "Hardeman",
+   "raw_name": "Hardeman",
+   "fips": "47069",
+   "is_mappable": true,
+   "votes_D": 3204,
+   "votes_R": 5731,
+   "votes_other": 186,
+   "total_votes": 9121,
+   "pct_D": 35.1,
+   "pct_R": 62.8,
+   "modes": {
+    "total": {
+     "votes_D": 3204,
+     "votes_R": 5731,
+     "votes_other": 186
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47071": {
+   "name": "Hardin",
+   "raw_name": "Hardin",
+   "fips": "47071",
+   "is_mappable": true,
+   "votes_D": 1571,
+   "votes_R": 9934,
+   "votes_other": 220,
+   "total_votes": 11725,
+   "pct_D": 13.4,
+   "pct_R": 84.7,
+   "modes": {
+    "mail": {
+     "votes_D": 87,
+     "votes_R": 261,
+     "votes_other": 7
+    },
+    "early_in_person": {
+     "votes_D": 921,
+     "votes_R": 5895,
+     "votes_other": 100
+    },
+    "election_day": {
+     "votes_D": 563,
+     "votes_R": 3778,
+     "votes_other": 113
+    }
+   },
+   "data_source": "Hardin County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47073": {
+   "name": "Hawkins",
+   "raw_name": "Hawkins",
+   "fips": "47073",
+   "is_mappable": true,
+   "votes_D": 3715,
+   "votes_R": 21209,
+   "votes_other": 475,
+   "total_votes": 25399,
+   "pct_D": 14.6,
+   "pct_R": 83.5,
+   "modes": {
+    "total": {
+     "votes_D": 3715,
+     "votes_R": 21209,
+     "votes_other": 475
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47075": {
+   "name": "Haywood",
+   "raw_name": "Haywood",
+   "fips": "47075",
+   "is_mappable": true,
+   "votes_D": 3121,
+   "votes_R": 3268,
+   "votes_other": 120,
+   "total_votes": 6509,
+   "pct_D": 47.9,
+   "pct_R": 50.2,
+   "modes": {
+    "mail": {
+     "votes_D": 248,
+     "votes_R": 186,
+     "votes_other": 3
+    },
+    "early_in_person": {
+     "votes_D": 1823,
+     "votes_R": 2090,
+     "votes_other": 66
+    },
+    "election_day": {
+     "votes_D": 1050,
+     "votes_R": 992,
+     "votes_other": 51
+    }
+   },
+   "data_source": "Haywood County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47077": {
+   "name": "Henderson",
+   "raw_name": "Henderson",
+   "fips": "47077",
+   "is_mappable": true,
+   "votes_D": 1704,
+   "votes_R": 9994,
+   "votes_other": 182,
+   "total_votes": 11880,
+   "pct_D": 14.3,
+   "pct_R": 84.1,
+   "modes": {
+    "total": {
+     "votes_D": 1704,
+     "votes_R": 9994,
+     "votes_other": 182
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47079": {
+   "name": "Henry",
+   "raw_name": "Henry",
+   "fips": "47079",
+   "is_mappable": true,
+   "votes_D": 3085,
+   "votes_R": 11048,
+   "votes_other": 293,
+   "total_votes": 14426,
+   "pct_D": 21.4,
+   "pct_R": 76.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 883,
+     "votes_R": 3457,
+     "votes_other": 129
+    },
+    "mail": {
+     "votes_D": 202,
+     "votes_R": 320,
+     "votes_other": 12
+    },
+    "early_in_person": {
+     "votes_D": 2000,
+     "votes_R": 7271,
+     "votes_other": 152
+    }
+   },
+   "data_source": "Henry County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47081": {
+   "name": "Hickman",
+   "raw_name": "Hickman",
+   "fips": "47081",
+   "is_mappable": true,
+   "votes_D": 1947,
+   "votes_R": 8055,
+   "votes_other": 195,
+   "total_votes": 10197,
+   "pct_D": 19.1,
+   "pct_R": 79.0,
+   "modes": {
+    "total": {
+     "votes_D": 1947,
+     "votes_R": 8055,
+     "votes_other": 195
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47083": {
+   "name": "Houston",
+   "raw_name": "Houston",
+   "fips": "47083",
+   "is_mappable": true,
+   "votes_D": 801,
+   "votes_R": 2814,
+   "votes_other": 69,
+   "total_votes": 3684,
+   "pct_D": 21.7,
+   "pct_R": 76.4,
+   "modes": {
+    "total": {
+     "votes_D": 801,
+     "votes_R": 2814,
+     "votes_other": 69
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47085": {
+   "name": "Humphreys",
+   "raw_name": "Humphreys",
+   "fips": "47085",
+   "is_mappable": true,
+   "votes_D": 1789,
+   "votes_R": 6153,
+   "votes_other": 177,
+   "total_votes": 8119,
+   "pct_D": 22.0,
+   "pct_R": 75.8,
+   "modes": {
+    "total": {
+     "votes_D": 1789,
+     "votes_R": 6153,
+     "votes_other": 177
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47087": {
+   "name": "Jackson",
+   "raw_name": "Jackson",
+   "fips": "47087",
+   "is_mappable": true,
+   "votes_D": 1093,
+   "votes_R": 4279,
+   "votes_other": 96,
+   "total_votes": 5468,
+   "pct_D": 20.0,
+   "pct_R": 78.3,
+   "modes": {
+    "total": {
+     "votes_D": 1093,
+     "votes_R": 4279,
+     "votes_other": 96
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47089": {
+   "name": "Jefferson",
+   "raw_name": "Jefferson",
+   "fips": "47089",
+   "is_mappable": true,
+   "votes_D": 4666,
+   "votes_R": 20239,
+   "votes_other": 443,
+   "total_votes": 25348,
+   "pct_D": 18.4,
+   "pct_R": 79.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 1242,
+     "votes_R": 5685,
+     "votes_other": 199
+    },
+    "pre_election_day": {
+     "votes_D": 3420,
+     "votes_R": 14530,
+     "votes_other": 244
+    },
+    "provisional": {
+     "votes_D": 4,
+     "votes_R": 24,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Jefferson County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47091": {
+   "name": "Johnson",
+   "raw_name": "Johnson",
+   "fips": "47091",
+   "is_mappable": true,
+   "votes_D": 1085,
+   "votes_R": 6666,
+   "votes_other": 98,
+   "total_votes": 7849,
+   "pct_D": 13.8,
+   "pct_R": 84.9,
+   "modes": {
+    "total": {
+     "votes_D": 1085,
+     "votes_R": 6666,
+     "votes_other": 98
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47093": {
+   "name": "Knox",
+   "raw_name": "Knox",
+   "fips": "47093",
+   "is_mappable": true,
+   "votes_D": 88913,
+   "votes_R": 129275,
+   "votes_other": 3373,
+   "total_votes": 221561,
+   "pct_D": 40.1,
+   "pct_R": 58.3,
+   "modes": {
+    "mail": {
+     "votes_D": 4179,
+     "votes_R": 3563,
+     "votes_other": 61
+    },
+    "early_in_person": {
+     "votes_D": 64520,
+     "votes_R": 96468,
+     "votes_other": 1926
+    },
+    "election_day": {
+     "votes_D": 20214,
+     "votes_R": 29244,
+     "votes_other": 1386
+    }
+   },
+   "data_source": "Knox County, TN",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47095": {
+   "name": "Lake",
+   "raw_name": "Lake",
+   "fips": "47095",
+   "is_mappable": true,
+   "votes_D": 384,
+   "votes_R": 1414,
+   "votes_other": 32,
+   "total_votes": 1830,
+   "pct_D": 21.0,
+   "pct_R": 77.3,
+   "modes": {
+    "total": {
+     "votes_D": 384,
+     "votes_R": 1414,
+     "votes_other": 32
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47097": {
+   "name": "Lauderdale",
+   "raw_name": "Lauderdale",
+   "fips": "47097",
+   "is_mappable": true,
+   "votes_D": 2311,
+   "votes_R": 5434,
+   "votes_other": 156,
+   "total_votes": 7901,
+   "pct_D": 29.2,
+   "pct_R": 68.8,
+   "modes": {
+    "total": {
+     "votes_D": 2311,
+     "votes_R": 5434,
+     "votes_other": 156
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47099": {
+   "name": "Lawrence",
+   "raw_name": "Lawrence",
+   "fips": "47099",
+   "is_mappable": true,
+   "votes_D": 2933,
+   "votes_R": 15483,
+   "votes_other": 0,
+   "total_votes": 18416,
+   "pct_D": 15.9,
+   "pct_R": 84.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 1082,
+     "votes_R": 5865,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 138,
+     "votes_R": 257,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1713,
+     "votes_R": 9361,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Lawrence County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47101": {
+   "name": "Lewis",
+   "raw_name": "Lewis",
+   "fips": "47101",
+   "is_mappable": true,
+   "votes_D": 1002,
+   "votes_R": 4613,
+   "votes_other": 134,
+   "total_votes": 5749,
+   "pct_D": 17.4,
+   "pct_R": 80.2,
+   "modes": {
+    "mail": {
+     "votes_D": 62,
+     "votes_R": 105,
+     "votes_other": 2
+    },
+    "early_in_person": {
+     "votes_D": 640,
+     "votes_R": 3190,
+     "votes_other": 70
+    },
+    "election_day": {
+     "votes_D": 300,
+     "votes_R": 1318,
+     "votes_other": 62
+    }
+   },
+   "data_source": "Lewis County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47103": {
+   "name": "Lincoln",
+   "raw_name": "Lincoln",
+   "fips": "47103",
+   "is_mappable": true,
+   "votes_D": 2562,
+   "votes_R": 12744,
+   "votes_other": 307,
+   "total_votes": 15613,
+   "pct_D": 16.4,
+   "pct_R": 81.6,
+   "modes": {
+    "total": {
+     "votes_D": 2562,
+     "votes_R": 12744,
+     "votes_other": 307
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47105": {
+   "name": "Loudon",
+   "raw_name": "Loudon",
+   "fips": "47105",
+   "is_mappable": true,
+   "votes_D": 7428,
+   "votes_R": 24848,
+   "votes_other": 555,
+   "total_votes": 32831,
+   "pct_D": 22.6,
+   "pct_R": 75.7,
+   "modes": {
+    "mail": {
+     "votes_D": 656,
+     "votes_R": 1154,
+     "votes_other": 11
+    },
+    "early_in_person": {
+     "votes_D": 5561,
+     "votes_R": 19027,
+     "votes_other": 341
+    },
+    "election_day": {
+     "votes_D": 1211,
+     "votes_R": 4650,
+     "votes_other": 202
+    },
+    "provisional": {
+     "votes_D": 0,
+     "votes_R": 17,
+     "votes_other": 1
+    }
+   },
+   "data_source": "Loudon County, TN",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "47111": {
+   "name": "Macon",
+   "raw_name": "Macon",
+   "fips": "47111",
+   "is_mappable": true,
+   "votes_D": 1321,
+   "votes_R": 8342,
+   "votes_other": 185,
+   "total_votes": 9848,
+   "pct_D": 13.4,
+   "pct_R": 84.7,
+   "modes": {
+    "total": {
+     "votes_D": 1321,
+     "votes_R": 8342,
+     "votes_other": 185
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47113": {
+   "name": "Madison",
+   "raw_name": "Madison",
+   "fips": "47113",
+   "is_mappable": true,
+   "votes_D": 14807,
+   "votes_R": 23578,
+   "votes_other": 827,
+   "total_votes": 39212,
+   "pct_D": 37.8,
+   "pct_R": 60.1,
+   "modes": {
+    "mail": {
+     "votes_D": 693,
+     "votes_R": 628,
+     "votes_other": 25
+    },
+    "early_in_person": {
+     "votes_D": 9915,
+     "votes_R": 16192,
+     "votes_other": 442
+    },
+    "election_day": {
+     "votes_D": 4199,
+     "votes_R": 6758,
+     "votes_other": 360
+    }
+   },
+   "data_source": "Madison County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47115": {
+   "name": "Marion",
+   "raw_name": "Marion",
+   "fips": "47115",
+   "is_mappable": true,
+   "votes_D": 3042,
+   "votes_R": 10314,
+   "votes_other": 290,
+   "total_votes": 13646,
+   "pct_D": 22.3,
+   "pct_R": 75.6,
+   "modes": {
+    "mail": {
+     "votes_D": 149,
+     "votes_R": 214,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1806,
+     "votes_R": 5953,
+     "votes_other": 119
+    },
+    "election_day": {
+     "votes_D": 1087,
+     "votes_R": 4147,
+     "votes_other": 171
+    }
+   },
+   "data_source": "Marion County, TN",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47117": {
+   "name": "Marshall",
+   "raw_name": "Marshall",
+   "fips": "47117",
+   "is_mappable": true,
+   "votes_D": 3391,
+   "votes_R": 11916,
+   "votes_other": 289,
+   "total_votes": 15596,
+   "pct_D": 21.7,
+   "pct_R": 76.4,
+   "modes": {
+    "total": {
+     "votes_D": 3391,
+     "votes_R": 11916,
+     "votes_other": 289
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47119": {
+   "name": "Maury",
+   "raw_name": "Maury",
+   "fips": "47119",
+   "is_mappable": true,
+   "votes_D": 13998,
+   "votes_R": 36640,
+   "votes_other": 1008,
+   "total_votes": 51646,
+   "pct_D": 27.1,
+   "pct_R": 70.9,
+   "modes": {
+    "pre_election_day": {
+     "votes_D": 9993,
+     "votes_R": 26033,
+     "votes_other": 556
+    },
+    "election_day": {
+     "votes_D": 4005,
+     "votes_R": 10607,
+     "votes_other": 452
+    }
+   },
+   "data_source": "Maury County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "47107": {
+   "name": "McMinn",
+   "raw_name": "McMinn",
+   "fips": "47107",
+   "is_mappable": true,
+   "votes_D": 4201,
+   "votes_R": 18911,
+   "votes_other": 502,
+   "total_votes": 23614,
+   "pct_D": 17.8,
+   "pct_R": 80.1,
+   "modes": {
+    "mail": {
+     "votes_D": 248,
+     "votes_R": 408,
+     "votes_other": 8
+    },
+    "early_in_person": {
+     "votes_D": 2709,
+     "votes_R": 12228,
+     "votes_other": 273
+    },
+    "election_day": {
+     "votes_D": 1244,
+     "votes_R": 6275,
+     "votes_other": 221
+    }
+   },
+   "data_source": "McMinn County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47109": {
+   "name": "McNairy",
+   "raw_name": "McNairy",
+   "fips": "47109",
+   "is_mappable": true,
+   "votes_D": 1680,
+   "votes_R": 9155,
+   "votes_other": 165,
+   "total_votes": 11000,
+   "pct_D": 15.3,
+   "pct_R": 83.2,
+   "modes": {
+    "total": {
+     "votes_D": 1680,
+     "votes_R": 9155,
+     "votes_other": 165
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47121": {
+   "name": "Meigs",
+   "raw_name": "Meigs",
+   "fips": "47121",
+   "is_mappable": true,
+   "votes_D": 985,
+   "votes_R": 4810,
+   "votes_other": 109,
+   "total_votes": 5904,
+   "pct_D": 16.7,
+   "pct_R": 81.5,
+   "modes": {
+    "total": {
+     "votes_D": 985,
+     "votes_R": 4810,
+     "votes_other": 109
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47123": {
+   "name": "Monroe",
+   "raw_name": "Monroe",
+   "fips": "47123",
+   "is_mappable": true,
+   "votes_D": 3694,
+   "votes_R": 17759,
+   "votes_other": 449,
+   "total_votes": 21902,
+   "pct_D": 16.9,
+   "pct_R": 81.1,
+   "modes": {
+    "total": {
+     "votes_D": 3694,
+     "votes_R": 17759,
+     "votes_other": 449
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47125": {
+   "name": "Montgomery",
+   "raw_name": "Montgomery",
+   "fips": "47125",
+   "is_mappable": true,
+   "votes_D": 30669,
+   "votes_R": 46104,
+   "votes_other": 0,
+   "total_votes": 76773,
+   "pct_D": 39.9,
+   "pct_R": 60.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 10677,
+     "votes_R": 17705,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1454,
+     "votes_R": 1582,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 18538,
+     "votes_R": 26817,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Montgomery County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47127": {
+   "name": "Moore",
+   "raw_name": "Moore",
+   "fips": "47127",
+   "is_mappable": true,
+   "votes_D": 545,
+   "votes_R": 2954,
+   "votes_other": 87,
+   "total_votes": 3586,
+   "pct_D": 15.2,
+   "pct_R": 82.4,
+   "modes": {
+    "total": {
+     "votes_D": 545,
+     "votes_R": 2954,
+     "votes_other": 87
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47129": {
+   "name": "Morgan",
+   "raw_name": "Morgan",
+   "fips": "47129",
+   "is_mappable": true,
+   "votes_D": 1214,
+   "votes_R": 7071,
+   "votes_other": 130,
+   "total_votes": 8415,
+   "pct_D": 14.4,
+   "pct_R": 84.0,
+   "modes": {
+    "mail": {
+     "votes_D": 78,
+     "votes_R": 159,
+     "votes_other": 4
+    },
+    "early_in_person": {
+     "votes_D": 618,
+     "votes_R": 3958,
+     "votes_other": 55
+    },
+    "election_day": {
+     "votes_D": 518,
+     "votes_R": 2954,
+     "votes_other": 71
+    }
+   },
+   "data_source": "Morgan County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47131": {
+   "name": "Obion",
+   "raw_name": "Obion",
+   "fips": "47131",
+   "is_mappable": true,
+   "votes_D": 2041,
+   "votes_R": 10378,
+   "votes_other": 179,
+   "total_votes": 12598,
+   "pct_D": 16.2,
+   "pct_R": 82.4,
+   "modes": {
+    "total": {
+     "votes_D": 2041,
+     "votes_R": 10378,
+     "votes_other": 179
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47133": {
+   "name": "Overton",
+   "raw_name": "Overton",
+   "fips": "47133",
+   "is_mappable": true,
+   "votes_D": 1969,
+   "votes_R": 8411,
+   "votes_other": 0,
+   "total_votes": 10380,
+   "pct_D": 19.0,
+   "pct_R": 81.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 554,
+     "votes_R": 2787,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 116,
+     "votes_R": 171,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1299,
+     "votes_R": 5453,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Overton County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47135": {
+   "name": "Perry",
+   "raw_name": "Perry",
+   "fips": "47135",
+   "is_mappable": true,
+   "votes_D": 569,
+   "votes_R": 2906,
+   "votes_other": 65,
+   "total_votes": 3540,
+   "pct_D": 16.1,
+   "pct_R": 82.1,
+   "modes": {
+    "total": {
+     "votes_D": 569,
+     "votes_R": 2906,
+     "votes_other": 65
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47137": {
+   "name": "Pickett",
+   "raw_name": "Pickett",
+   "fips": "47137",
+   "is_mappable": true,
+   "votes_D": 513,
+   "votes_R": 2306,
+   "votes_other": 64,
+   "total_votes": 2883,
+   "pct_D": 17.8,
+   "pct_R": 80.0,
+   "modes": {
+    "total": {
+     "votes_D": 513,
+     "votes_R": 2306,
+     "votes_other": 64
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47139": {
+   "name": "Polk",
+   "raw_name": "Polk",
+   "fips": "47139",
+   "is_mappable": true,
+   "votes_D": 1429,
+   "votes_R": 7041,
+   "votes_other": 131,
+   "total_votes": 8601,
+   "pct_D": 16.6,
+   "pct_R": 81.9,
+   "modes": {
+    "total": {
+     "votes_D": 1429,
+     "votes_R": 7041,
+     "votes_other": 131
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47141": {
+   "name": "Putnam",
+   "raw_name": "Putnam",
+   "fips": "47141",
+   "is_mappable": true,
+   "votes_D": 8960,
+   "votes_R": 24520,
+   "votes_other": 727,
+   "total_votes": 34207,
+   "pct_D": 26.2,
+   "pct_R": 71.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 3049,
+     "votes_R": 9261,
+     "votes_other": 409
+    },
+    "mail": {
+     "votes_D": 493,
+     "votes_R": 646,
+     "votes_other": 21
+    },
+    "early_in_person": {
+     "votes_D": 5418,
+     "votes_R": 14613,
+     "votes_other": 297
+    }
+   },
+   "data_source": "Putnam County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47143": {
+   "name": "Rhea",
+   "raw_name": "Rhea",
+   "fips": "47143",
+   "is_mappable": true,
+   "votes_D": 2284,
+   "votes_R": 11553,
+   "votes_other": 292,
+   "total_votes": 14129,
+   "pct_D": 16.2,
+   "pct_R": 81.8,
+   "modes": {
+    "total": {
+     "votes_D": 2284,
+     "votes_R": 11553,
+     "votes_other": 292
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47145": {
+   "name": "Roane",
+   "raw_name": "Roane",
+   "fips": "47145",
+   "is_mappable": true,
+   "votes_D": 6255,
+   "votes_R": 20207,
+   "votes_other": 554,
+   "total_votes": 27016,
+   "pct_D": 23.2,
+   "pct_R": 74.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 1462,
+     "votes_R": 5582,
+     "votes_other": 216
+    },
+    "mail": {
+     "votes_D": 390,
+     "votes_R": 571,
+     "votes_other": 15
+    },
+    "early_in_person": {
+     "votes_D": 4403,
+     "votes_R": 14054,
+     "votes_other": 323
+    }
+   },
+   "data_source": "Roane County, TN",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47147": {
+   "name": "Robertson",
+   "raw_name": "Robertson",
+   "fips": "47147",
+   "is_mappable": true,
+   "votes_D": 8322,
+   "votes_R": 25146,
+   "votes_other": 459,
+   "total_votes": 33927,
+   "pct_D": 24.5,
+   "pct_R": 74.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 2861,
+     "votes_R": 8927,
+     "votes_other": 217
+    },
+    "mail": {
+     "votes_D": 390,
+     "votes_R": 529,
+     "votes_other": 4
+    },
+    "early_in_person": {
+     "votes_D": 5071,
+     "votes_R": 15690,
+     "votes_other": 238
+    }
+   },
+   "data_source": "Robertson County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47149": {
+   "name": "Rutherford",
+   "raw_name": "Rutherford",
+   "fips": "47149",
+   "is_mappable": true,
+   "votes_D": 55553,
+   "votes_R": 85972,
+   "votes_other": 3611,
+   "total_votes": 145136,
+   "pct_D": 38.3,
+   "pct_R": 59.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 11807,
+     "votes_R": 16860,
+     "votes_other": 1354
+    },
+    "mail": {
+     "votes_D": 1531,
+     "votes_R": 1444,
+     "votes_other": 42
+    },
+    "early_in_person": {
+     "votes_D": 42215,
+     "votes_R": 67668,
+     "votes_other": 2215
+    }
+   },
+   "data_source": "Rutherford County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47151": {
+   "name": "Scott",
+   "raw_name": "Scott",
+   "fips": "47151",
+   "is_mappable": true,
+   "votes_D": 1062,
+   "votes_R": 7924,
+   "votes_other": 160,
+   "total_votes": 9146,
+   "pct_D": 11.6,
+   "pct_R": 86.6,
+   "modes": {
+    "total": {
+     "votes_D": 1062,
+     "votes_R": 7924,
+     "votes_other": 160
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47153": {
+   "name": "Sequatchie",
+   "raw_name": "Sequatchie",
+   "fips": "47153",
+   "is_mappable": true,
+   "votes_D": 1274,
+   "votes_R": 6243,
+   "votes_other": 167,
+   "total_votes": 7684,
+   "pct_D": 16.6,
+   "pct_R": 81.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 379,
+     "votes_R": 1905,
+     "votes_other": 80
+    },
+    "mail": {
+     "votes_D": 57,
+     "votes_R": 101,
+     "votes_other": 4
+    },
+    "early_in_person": {
+     "votes_D": 838,
+     "votes_R": 4237,
+     "votes_other": 83
+    }
+   },
+   "data_source": "Sequatchie County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47155": {
+   "name": "Sevier",
+   "raw_name": "Sevier",
+   "fips": "47155",
+   "is_mappable": true,
+   "votes_D": 8399,
+   "votes_R": 34101,
+   "votes_other": 770,
+   "total_votes": 43270,
+   "pct_D": 19.4,
+   "pct_R": 78.8,
+   "modes": {
+    "total": {
+     "votes_D": 8399,
+     "votes_R": 34101,
+     "votes_other": 770
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47157": {
+   "name": "Shelby",
+   "raw_name": "Shelby",
+   "fips": "47157",
+   "is_mappable": true,
+   "votes_D": 189954,
+   "votes_R": 120568,
+   "votes_other": 8957,
+   "total_votes": 319479,
+   "pct_D": 59.5,
+   "pct_R": 37.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 40892,
+     "votes_R": 22551,
+     "votes_other": 3248
+    },
+    "early_in_person": {
+     "votes_D": 142463,
+     "votes_R": 95044,
+     "votes_other": 5569
+    },
+    "mail": {
+     "votes_D": 6444,
+     "votes_R": 2893,
+     "votes_other": 130
+    },
+    "provisional": {
+     "votes_D": 155,
+     "votes_R": 80,
+     "votes_other": 10
+    }
+   },
+   "data_source": "Shelby County, TN",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "47159": {
+   "name": "Smith",
+   "raw_name": "Smith",
+   "fips": "47159",
+   "is_mappable": true,
+   "votes_D": 1576,
+   "votes_R": 7255,
+   "votes_other": 188,
+   "total_votes": 9019,
+   "pct_D": 17.5,
+   "pct_R": 80.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 492,
+     "votes_R": 2445,
+     "votes_other": 84
+    },
+    "mail": {
+     "votes_D": 54,
+     "votes_R": 99,
+     "votes_other": 5
+    },
+    "early_in_person": {
+     "votes_D": 1030,
+     "votes_R": 4711,
+     "votes_other": 99
+    }
+   },
+   "data_source": "Smith County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47161": {
+   "name": "Stewart",
+   "raw_name": "Stewart",
+   "fips": "47161",
+   "is_mappable": true,
+   "votes_D": 1100,
+   "votes_R": 5191,
+   "votes_other": 0,
+   "total_votes": 6291,
+   "pct_D": 17.5,
+   "pct_R": 82.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 310,
+     "votes_R": 1517,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 61,
+     "votes_R": 126,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 729,
+     "votes_R": 3548,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Stewart County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47163": {
+   "name": "Sullivan",
+   "raw_name": "Sullivan",
+   "fips": "47163",
+   "is_mappable": true,
+   "votes_D": 15646,
+   "votes_R": 57989,
+   "votes_other": 1267,
+   "total_votes": 74902,
+   "pct_D": 20.9,
+   "pct_R": 77.4,
+   "modes": {
+    "total": {
+     "votes_D": 15646,
+     "votes_R": 57989,
+     "votes_other": 1267
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47165": {
+   "name": "Sumner",
+   "raw_name": "Sumner",
+   "fips": "47165",
+   "is_mappable": true,
+   "votes_D": 27119,
+   "votes_R": 66413,
+   "votes_other": 0,
+   "total_votes": 93532,
+   "pct_D": 29.0,
+   "pct_R": 71.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 8263,
+     "votes_R": 20717,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1653,
+     "votes_R": 1853,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 17203,
+     "votes_R": 43843,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Sumner County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47167": {
+   "name": "Tipton",
+   "raw_name": "Tipton",
+   "fips": "47167",
+   "is_mappable": true,
+   "votes_D": 5839,
+   "votes_R": 19625,
+   "votes_other": 539,
+   "total_votes": 26003,
+   "pct_D": 22.5,
+   "pct_R": 75.5,
+   "modes": {
+    "total": {
+     "votes_D": 5839,
+     "votes_R": 19625,
+     "votes_other": 539
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47169": {
+   "name": "Trousdale",
+   "raw_name": "Trousdale",
+   "fips": "47169",
+   "is_mappable": true,
+   "votes_D": 842,
+   "votes_R": 3079,
+   "votes_other": 89,
+   "total_votes": 4010,
+   "pct_D": 21.0,
+   "pct_R": 76.8,
+   "modes": {
+    "total": {
+     "votes_D": 842,
+     "votes_R": 3079,
+     "votes_other": 89
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47171": {
+   "name": "Unicoi",
+   "raw_name": "Unicoi",
+   "fips": "47171",
+   "is_mappable": true,
+   "votes_D": 1401,
+   "votes_R": 6748,
+   "votes_other": 163,
+   "total_votes": 8312,
+   "pct_D": 16.9,
+   "pct_R": 81.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 418,
+     "votes_R": 1930,
+     "votes_other": 67
+    },
+    "mail": {
+     "votes_D": 94,
+     "votes_R": 203,
+     "votes_other": 6
+    },
+    "early_in_person": {
+     "votes_D": 889,
+     "votes_R": 4615,
+     "votes_other": 90
+    }
+   },
+   "data_source": "Unicoi County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47173": {
+   "name": "Union",
+   "raw_name": "Union",
+   "fips": "47173",
+   "is_mappable": true,
+   "votes_D": 1315,
+   "votes_R": 6830,
+   "votes_other": 0,
+   "total_votes": 8145,
+   "pct_D": 16.1,
+   "pct_R": 83.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 613,
+     "votes_R": 3408,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 93,
+     "votes_R": 230,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 609,
+     "votes_R": 3192,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Union County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47175": {
+   "name": "Van Buren",
+   "raw_name": "Van Buren",
+   "fips": "47175",
+   "is_mappable": true,
+   "votes_D": 532,
+   "votes_R": 2533,
+   "votes_other": 79,
+   "total_votes": 3144,
+   "pct_D": 16.9,
+   "pct_R": 80.6,
+   "modes": {
+    "total": {
+     "votes_D": 532,
+     "votes_R": 2533,
+     "votes_other": 79
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47177": {
+   "name": "Warren",
+   "raw_name": "Warren",
+   "fips": "47177",
+   "is_mappable": true,
+   "votes_D": 3648,
+   "votes_R": 12287,
+   "votes_other": 399,
+   "total_votes": 16334,
+   "pct_D": 22.3,
+   "pct_R": 75.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 999,
+     "votes_R": 3596,
+     "votes_other": 158
+    },
+    "mail": {
+     "votes_D": 158,
+     "votes_R": 185,
+     "votes_other": 8
+    },
+    "early_in_person": {
+     "votes_D": 2491,
+     "votes_R": 8506,
+     "votes_other": 233
+    }
+   },
+   "data_source": "Warren County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47179": {
+   "name": "Washington",
+   "raw_name": "Washington",
+   "fips": "47179",
+   "is_mappable": true,
+   "votes_D": 16872,
+   "votes_R": 42160,
+   "votes_other": 0,
+   "total_votes": 59032,
+   "pct_D": 28.6,
+   "pct_R": 71.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 4404,
+     "votes_R": 10315,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1066,
+     "votes_R": 1342,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 11402,
+     "votes_R": 30503,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Washington County, TN",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "47181": {
+   "name": "Wayne",
+   "raw_name": "Wayne",
+   "fips": "47181",
+   "is_mappable": true,
+   "votes_D": 755,
+   "votes_R": 5690,
+   "votes_other": 120,
+   "total_votes": 6565,
+   "pct_D": 11.5,
+   "pct_R": 86.7,
+   "modes": {
+    "total": {
+     "votes_D": 755,
+     "votes_R": 5690,
+     "votes_other": 120
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47183": {
+   "name": "Weakley",
+   "raw_name": "Weakley",
+   "fips": "47183",
+   "is_mappable": true,
+   "votes_D": 2494,
+   "votes_R": 10375,
+   "votes_other": 238,
+   "total_votes": 13107,
+   "pct_D": 19.0,
+   "pct_R": 79.2,
+   "modes": {
+    "total": {
+     "votes_D": 2494,
+     "votes_R": 10375,
+     "votes_other": 238
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47185": {
+   "name": "White",
+   "raw_name": "White",
+   "fips": "47185",
+   "is_mappable": true,
+   "votes_D": 2174,
+   "votes_R": 10316,
+   "votes_other": 246,
+   "total_votes": 12736,
+   "pct_D": 17.1,
+   "pct_R": 81.0,
+   "modes": {
+    "total": {
+     "votes_D": 2174,
+     "votes_R": 10316,
+     "votes_other": 246
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47187": {
+   "name": "Williamson",
+   "raw_name": "Williamson",
+   "fips": "47187",
+   "is_mappable": true,
+   "votes_D": 46785,
+   "votes_R": 94791,
+   "votes_other": 2558,
+   "total_votes": 144134,
+   "pct_D": 32.5,
+   "pct_R": 65.8,
+   "modes": {
+    "total": {
+     "votes_D": 46785,
+     "votes_R": 94791,
+     "votes_other": 2558
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "47189": {
+   "name": "Wilson",
+   "raw_name": "Wilson",
+   "fips": "47189",
+   "is_mappable": true,
+   "votes_D": 23556,
+   "votes_R": 54895,
+   "votes_other": 1681,
+   "total_votes": 80132,
+   "pct_D": 29.4,
+   "pct_R": 68.5,
+   "modes": {
+    "total": {
+     "votes_D": 23556,
+     "votes_R": 54895,
+     "votes_other": 1681
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  }
+ }
+}

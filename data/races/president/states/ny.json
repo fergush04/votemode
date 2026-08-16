@@ -1,0 +1,1832 @@
+{
+ "race": "president",
+ "race_label": "President",
+ "race_type": "president",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Kamala D. Harris",
+ "candidate_R": "Donald J. Trump",
+ "state": "New York",
+ "state_abbr": "NY",
+ "unit_type": "county",
+ "avg_completeness": "U",
+ "completeness_breakdown": {
+  "C3": 11,
+  "C4": 10,
+  "U": 37,
+  "C5": 1,
+  "C2": 3
+ },
+ "votes_D": 4613974,
+ "votes_R": 3575310,
+ "votes_other": 100386,
+ "total_votes": 8289670,
+ "pct_D": 55.7,
+ "pct_R": 43.1,
+ "unit_count": 62,
+ "state_profile": {
+  "voting_summary": "New York offers 9 days of early voting and, since 2023, no-excuse mail voting; three-quarters of published results carry no method breakdown. Polls close at 9 p.m. Eastern; election day and early votes report through the night, while absentee and mail ballots (postmarked by election day, accepted for a week) are canvassed over the following one to two weeks. Mail ran D+34 where broken out, so close downstate races routinely tighten for Democrats well after election night.",
+  "reporting_notes": "",
+  "tags": [
+   "Early in-person",
+   "No-excuse mail",
+   "Multi-week canvass"
+  ],
+  "mode_split": {
+   "total": 75.3,
+   "election_day": 12.8,
+   "early_in_person": 7.8,
+   "mail": 2.7,
+   "in_person": 1.2,
+   "provisional": 0.1,
+   "late_mail": 0.0,
+   "unallocated": 0.0
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "36001": {
+   "name": "Albany",
+   "raw_name": "Albany",
+   "fips": "36001",
+   "is_mappable": true,
+   "votes_D": 92589,
+   "votes_R": 54560,
+   "votes_other": 2528,
+   "total_votes": 149677,
+   "pct_D": 61.9,
+   "pct_R": 36.5,
+   "modes": {
+    "mail": {
+     "votes_D": 12893,
+     "votes_R": 4599,
+     "votes_other": 303
+    },
+    "early_in_person": {
+     "votes_D": 37630,
+     "votes_R": 18911,
+     "votes_other": 624
+    },
+    "election_day": {
+     "votes_D": 42066,
+     "votes_R": 31050,
+     "votes_other": 1601
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "36003": {
+   "name": "Allegany",
+   "raw_name": "Allegany",
+   "fips": "36003",
+   "is_mappable": true,
+   "votes_D": 5803,
+   "votes_R": 14428,
+   "votes_other": 224,
+   "total_votes": 20455,
+   "pct_D": 28.4,
+   "pct_R": 70.5,
+   "modes": {
+    "mail": {
+     "votes_D": 703,
+     "votes_R": 663,
+     "votes_other": 16
+    },
+    "provisional": {
+     "votes_D": 155,
+     "votes_R": 310,
+     "votes_other": 4
+    },
+    "early_in_person": {
+     "votes_D": 1929,
+     "votes_R": 3127,
+     "votes_other": 39
+    },
+    "election_day": {
+     "votes_D": 3016,
+     "votes_R": 10328,
+     "votes_other": 165
+    }
+   },
+   "data_source": "Allegany County, NY",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "36005": {
+   "name": "Bronx",
+   "raw_name": "Bronx",
+   "fips": "36005",
+   "is_mappable": true,
+   "votes_D": 261670,
+   "votes_R": 98174,
+   "votes_other": 4217,
+   "total_votes": 364061,
+   "pct_D": 71.9,
+   "pct_R": 27.0,
+   "modes": {
+    "total": {
+     "votes_D": 261670,
+     "votes_R": 98174,
+     "votes_other": 4217
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36007": {
+   "name": "Broome",
+   "raw_name": "Broome",
+   "fips": "36007",
+   "is_mappable": true,
+   "votes_D": 45126,
+   "votes_R": 44746,
+   "votes_other": 1129,
+   "total_votes": 91001,
+   "pct_D": 49.6,
+   "pct_R": 49.2,
+   "modes": {
+    "mail": {
+     "votes_D": 7037,
+     "votes_R": 3046,
+     "votes_other": 124
+    },
+    "provisional": {
+     "votes_D": 1330,
+     "votes_R": 1025,
+     "votes_other": 42
+    },
+    "early_in_person": {
+     "votes_D": 15109,
+     "votes_R": 12344,
+     "votes_other": 227
+    },
+    "election_day": {
+     "votes_D": 21650,
+     "votes_R": 28331,
+     "votes_other": 736
+    }
+   },
+   "data_source": "Broome County, NY",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "36009": {
+   "name": "Cattaraugus",
+   "raw_name": "Cattaraugus",
+   "fips": "36009",
+   "is_mappable": true,
+   "votes_D": 11424,
+   "votes_R": 22586,
+   "votes_other": 194,
+   "total_votes": 34204,
+   "pct_D": 33.4,
+   "pct_R": 66.0,
+   "modes": {
+    "mail": {
+     "votes_D": 866,
+     "votes_R": 690,
+     "votes_other": 12
+    },
+    "late_mail": {
+     "votes_D": 373,
+     "votes_R": 511,
+     "votes_other": 8
+    },
+    "early_in_person": {
+     "votes_D": 2879,
+     "votes_R": 3517,
+     "votes_other": 22
+    },
+    "election_day": {
+     "votes_D": 7170,
+     "votes_R": 17736,
+     "votes_other": 140
+    },
+    "unallocated": {
+     "votes_D": 136,
+     "votes_R": 132,
+     "votes_other": 12
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "36011": {
+   "name": "Cayuga",
+   "raw_name": "Cayuga",
+   "fips": "36011",
+   "is_mappable": true,
+   "votes_D": 15772,
+   "votes_R": 20482,
+   "votes_other": 263,
+   "total_votes": 36517,
+   "pct_D": 43.2,
+   "pct_R": 56.1,
+   "modes": {
+    "total": {
+     "votes_D": 15772,
+     "votes_R": 20482,
+     "votes_other": 263
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36013": {
+   "name": "Chautauqua",
+   "raw_name": "Chautauqua",
+   "fips": "36013",
+   "is_mappable": true,
+   "votes_D": 22085,
+   "votes_R": 34528,
+   "votes_other": 433,
+   "total_votes": 57046,
+   "pct_D": 38.7,
+   "pct_R": 60.5,
+   "modes": {
+    "total": {
+     "votes_D": 22085,
+     "votes_R": 34528,
+     "votes_other": 433
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36015": {
+   "name": "Chemung",
+   "raw_name": "Chemung",
+   "fips": "36015",
+   "is_mappable": true,
+   "votes_D": 15572,
+   "votes_R": 21861,
+   "votes_other": 127,
+   "total_votes": 37560,
+   "pct_D": 41.5,
+   "pct_R": 58.2,
+   "modes": {
+    "total": {
+     "votes_D": 15572,
+     "votes_R": 21861,
+     "votes_other": 127
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36017": {
+   "name": "Chenango",
+   "raw_name": "Chenango",
+   "fips": "36017",
+   "is_mappable": true,
+   "votes_D": 8177,
+   "votes_R": 14294,
+   "votes_other": 184,
+   "total_votes": 22655,
+   "pct_D": 36.1,
+   "pct_R": 63.1,
+   "modes": {
+    "mail": {
+     "votes_D": 1676,
+     "votes_R": 1211,
+     "votes_other": 24
+    },
+    "early_in_person": {
+     "votes_D": 2083,
+     "votes_R": 2845,
+     "votes_other": 25
+    },
+    "election_day": {
+     "votes_D": 4418,
+     "votes_R": 10238,
+     "votes_other": 135
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "36019": {
+   "name": "Clinton",
+   "raw_name": "Clinton",
+   "fips": "36019",
+   "is_mappable": true,
+   "votes_D": 17478,
+   "votes_R": 18247,
+   "votes_other": 253,
+   "total_votes": 35978,
+   "pct_D": 48.6,
+   "pct_R": 50.7,
+   "modes": {
+    "mail": {
+     "votes_D": 3066,
+     "votes_R": 1871,
+     "votes_other": 31
+    },
+    "in_person": {
+     "votes_D": 14412,
+     "votes_R": 16376,
+     "votes_other": 222
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "36021": {
+   "name": "Columbia",
+   "raw_name": "Columbia",
+   "fips": "36021",
+   "is_mappable": true,
+   "votes_D": 20396,
+   "votes_R": 15168,
+   "votes_other": 333,
+   "total_votes": 35897,
+   "pct_D": 56.8,
+   "pct_R": 42.3,
+   "modes": {
+    "mail": {
+     "votes_D": 3998,
+     "votes_R": 1299,
+     "votes_other": 38
+    },
+    "in_person": {
+     "votes_D": 16398,
+     "votes_R": 13869,
+     "votes_other": 295
+    }
+   },
+   "data_source": "Columbia County, NY",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "36023": {
+   "name": "Cortland",
+   "raw_name": "Cortland",
+   "fips": "36023",
+   "is_mappable": true,
+   "votes_D": 10290,
+   "votes_R": 11706,
+   "votes_other": 67,
+   "total_votes": 22063,
+   "pct_D": 46.6,
+   "pct_R": 53.1,
+   "modes": {
+    "mail": {
+     "votes_D": 1861,
+     "votes_R": 1102,
+     "votes_other": 7
+    },
+    "early_in_person": {
+     "votes_D": 3516,
+     "votes_R": 2851,
+     "votes_other": 26
+    },
+    "election_day": {
+     "votes_D": 4913,
+     "votes_R": 7753,
+     "votes_other": 34
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "36025": {
+   "name": "Delaware",
+   "raw_name": "Delaware",
+   "fips": "36025",
+   "is_mappable": true,
+   "votes_D": 9237,
+   "votes_R": 13789,
+   "votes_other": 234,
+   "total_votes": 23260,
+   "pct_D": 39.7,
+   "pct_R": 59.3,
+   "modes": {
+    "mail": {
+     "votes_D": 1840,
+     "votes_R": 1015,
+     "votes_other": 26
+    },
+    "early_in_person": {
+     "votes_D": 2109,
+     "votes_R": 1854,
+     "votes_other": 43
+    },
+    "election_day": {
+     "votes_D": 5288,
+     "votes_R": 10920,
+     "votes_other": 165
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "36027": {
+   "name": "Dutchess",
+   "raw_name": "Dutchess",
+   "fips": "36027",
+   "is_mappable": true,
+   "votes_D": 79994,
+   "votes_R": 71778,
+   "votes_other": 1641,
+   "total_votes": 153413,
+   "pct_D": 52.1,
+   "pct_R": 46.8,
+   "modes": {
+    "mail": {
+     "votes_D": 14049,
+     "votes_R": 6173,
+     "votes_other": 266
+    },
+    "early_in_person": {
+     "votes_D": 34607,
+     "votes_R": 28850,
+     "votes_other": 437
+    },
+    "election_day": {
+     "votes_D": 31338,
+     "votes_R": 36755,
+     "votes_other": 938
+    }
+   },
+   "data_source": "Dutchess County, NY",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "36029": {
+   "name": "Erie",
+   "raw_name": "Erie",
+   "fips": "36029",
+   "is_mappable": true,
+   "votes_D": 243144,
+   "votes_R": 200614,
+   "votes_other": 6364,
+   "total_votes": 450122,
+   "pct_D": 54.0,
+   "pct_R": 44.6,
+   "modes": {
+    "mail": {
+     "votes_D": 22601,
+     "votes_R": 9735,
+     "votes_other": 366
+    },
+    "early_in_person": {
+     "votes_D": 87689,
+     "votes_R": 62255,
+     "votes_other": 1206
+    },
+    "election_day": {
+     "votes_D": 132854,
+     "votes_R": 128624,
+     "votes_other": 4792
+    }
+   },
+   "data_source": "Erie County, NY",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "36031": {
+   "name": "Essex",
+   "raw_name": "Essex",
+   "fips": "36031",
+   "is_mappable": true,
+   "votes_D": 9629,
+   "votes_R": 9533,
+   "votes_other": 74,
+   "total_votes": 19236,
+   "pct_D": 50.1,
+   "pct_R": 49.6,
+   "modes": {
+    "total": {
+     "votes_D": 9629,
+     "votes_R": 9533,
+     "votes_other": 74
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36033": {
+   "name": "Franklin",
+   "raw_name": "Franklin",
+   "fips": "36033",
+   "is_mappable": true,
+   "votes_D": 8821,
+   "votes_R": 10569,
+   "votes_other": 68,
+   "total_votes": 19458,
+   "pct_D": 45.3,
+   "pct_R": 54.3,
+   "modes": {
+    "total": {
+     "votes_D": 8821,
+     "votes_R": 10569,
+     "votes_other": 68
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36035": {
+   "name": "Fulton",
+   "raw_name": "Fulton",
+   "fips": "36035",
+   "is_mappable": true,
+   "votes_D": 7666,
+   "votes_R": 16237,
+   "votes_other": 150,
+   "total_votes": 24053,
+   "pct_D": 31.9,
+   "pct_R": 67.5,
+   "modes": {
+    "total": {
+     "votes_D": 7666,
+     "votes_R": 16237,
+     "votes_other": 150
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36037": {
+   "name": "Genesee",
+   "raw_name": "Genesee",
+   "fips": "36037",
+   "is_mappable": true,
+   "votes_D": 9367,
+   "votes_R": 18997,
+   "votes_other": 80,
+   "total_votes": 28444,
+   "pct_D": 32.9,
+   "pct_R": 66.8,
+   "modes": {
+    "total": {
+     "votes_D": 9367,
+     "votes_R": 18997,
+     "votes_other": 80
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36039": {
+   "name": "Greene",
+   "raw_name": "Greene",
+   "fips": "36039",
+   "is_mappable": true,
+   "votes_D": 10436,
+   "votes_R": 14702,
+   "votes_other": 302,
+   "total_votes": 25440,
+   "pct_D": 41.0,
+   "pct_R": 57.8,
+   "modes": {
+    "total": {
+     "votes_D": 10436,
+     "votes_R": 14702,
+     "votes_other": 302
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36041": {
+   "name": "Hamilton",
+   "raw_name": "Hamilton",
+   "fips": "36041",
+   "is_mappable": true,
+   "votes_D": 1211,
+   "votes_R": 2223,
+   "votes_other": 5,
+   "total_votes": 3439,
+   "pct_D": 35.2,
+   "pct_R": 64.6,
+   "modes": {
+    "total": {
+     "votes_D": 1211,
+     "votes_R": 2223,
+     "votes_other": 5
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36043": {
+   "name": "Herkimer",
+   "raw_name": "Herkimer",
+   "fips": "36043",
+   "is_mappable": true,
+   "votes_D": 9110,
+   "votes_R": 19557,
+   "votes_other": 190,
+   "total_votes": 28857,
+   "pct_D": 31.6,
+   "pct_R": 67.8,
+   "modes": {
+    "total": {
+     "votes_D": 9110,
+     "votes_R": 19557,
+     "votes_other": 190
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36045": {
+   "name": "Jefferson",
+   "raw_name": "Jefferson",
+   "fips": "36045",
+   "is_mappable": true,
+   "votes_D": 16315,
+   "votes_R": 26408,
+   "votes_other": 333,
+   "total_votes": 43056,
+   "pct_D": 37.9,
+   "pct_R": 61.3,
+   "modes": {
+    "mail": {
+     "votes_D": 2393,
+     "votes_R": 2102,
+     "votes_other": 34
+    },
+    "in_person": {
+     "votes_D": 13922,
+     "votes_R": 24306,
+     "votes_other": 299
+    }
+   },
+   "data_source": "Jefferson County, NY",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "36047": {
+   "name": "Kings",
+   "raw_name": "Kings",
+   "fips": "36047",
+   "is_mappable": true,
+   "votes_D": 601265,
+   "votes_R": 233964,
+   "votes_other": 18515,
+   "total_votes": 853744,
+   "pct_D": 70.4,
+   "pct_R": 27.4,
+   "modes": {
+    "total": {
+     "votes_D": 601265,
+     "votes_R": 233964,
+     "votes_other": 18515
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36049": {
+   "name": "Lewis",
+   "raw_name": "Lewis",
+   "fips": "36049",
+   "is_mappable": true,
+   "votes_D": 3600,
+   "votes_R": 9353,
+   "votes_other": 79,
+   "total_votes": 13032,
+   "pct_D": 27.6,
+   "pct_R": 71.8,
+   "modes": {
+    "total": {
+     "votes_D": 3600,
+     "votes_R": 9353,
+     "votes_other": 79
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36051": {
+   "name": "Livingston",
+   "raw_name": "Livingston",
+   "fips": "36051",
+   "is_mappable": true,
+   "votes_D": 12148,
+   "votes_R": 18780,
+   "votes_other": 107,
+   "total_votes": 31035,
+   "pct_D": 39.1,
+   "pct_R": 60.5,
+   "modes": {
+    "mail": {
+     "votes_D": 1403,
+     "votes_R": 979,
+     "votes_other": 18
+    },
+    "provisional": {
+     "votes_D": 165,
+     "votes_R": 230,
+     "votes_other": 2
+    },
+    "early_in_person": {
+     "votes_D": 3339,
+     "votes_R": 3933,
+     "votes_other": 9
+    },
+    "election_day": {
+     "votes_D": 7241,
+     "votes_R": 13638,
+     "votes_other": 78
+    }
+   },
+   "data_source": "Livingston County, NY",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "36053": {
+   "name": "Madison",
+   "raw_name": "Madison",
+   "fips": "36053",
+   "is_mappable": true,
+   "votes_D": 14629,
+   "votes_R": 19025,
+   "votes_other": 365,
+   "total_votes": 34019,
+   "pct_D": 43.0,
+   "pct_R": 55.9,
+   "modes": {
+    "mail": {
+     "votes_D": 2609,
+     "votes_R": 1719,
+     "votes_other": 44
+    },
+    "early_in_person": {
+     "votes_D": 3009,
+     "votes_R": 3441,
+     "votes_other": 36
+    },
+    "election_day": {
+     "votes_D": 9011,
+     "votes_R": 13865,
+     "votes_other": 285
+    }
+   },
+   "data_source": "Madison County, NY",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "36055": {
+   "name": "Monroe",
+   "raw_name": "Monroe",
+   "fips": "36055",
+   "is_mappable": true,
+   "votes_D": 214757,
+   "votes_R": 145940,
+   "votes_other": 3893,
+   "total_votes": 364590,
+   "pct_D": 58.9,
+   "pct_R": 40.0,
+   "modes": {
+    "total": {
+     "votes_D": 214757,
+     "votes_R": 145940,
+     "votes_other": 3893
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36057": {
+   "name": "Montgomery",
+   "raw_name": "Montgomery",
+   "fips": "36057",
+   "is_mappable": true,
+   "votes_D": 7356,
+   "votes_R": 13286,
+   "votes_other": 140,
+   "total_votes": 20782,
+   "pct_D": 35.4,
+   "pct_R": 63.9,
+   "modes": {
+    "total": {
+     "votes_D": 7356,
+     "votes_R": 13286,
+     "votes_other": 140
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36059": {
+   "name": "Nassau",
+   "raw_name": "Nassau",
+   "fips": "36059",
+   "is_mappable": true,
+   "votes_D": 338424,
+   "votes_R": 368117,
+   "votes_other": 9124,
+   "total_votes": 715665,
+   "pct_D": 47.3,
+   "pct_R": 51.4,
+   "modes": {
+    "total": {
+     "votes_D": 338424,
+     "votes_R": 368117,
+     "votes_other": 9124
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36061": {
+   "name": "New York",
+   "raw_name": "New York",
+   "fips": "36061",
+   "is_mappable": true,
+   "votes_D": 533782,
+   "votes_R": 113921,
+   "votes_other": 12930,
+   "total_votes": 660633,
+   "pct_D": 80.8,
+   "pct_R": 17.2,
+   "modes": {
+    "total": {
+     "votes_D": 533782,
+     "votes_R": 113921,
+     "votes_other": 12930
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36063": {
+   "name": "Niagara",
+   "raw_name": "Niagara",
+   "fips": "36063",
+   "is_mappable": true,
+   "votes_D": 43438,
+   "votes_R": 58678,
+   "votes_other": 802,
+   "total_votes": 102918,
+   "pct_D": 42.2,
+   "pct_R": 57.0,
+   "modes": {
+    "total": {
+     "votes_D": 43438,
+     "votes_R": 58678,
+     "votes_other": 802
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36065": {
+   "name": "Oneida",
+   "raw_name": "Oneida",
+   "fips": "36065",
+   "is_mappable": true,
+   "votes_D": 39415,
+   "votes_R": 60687,
+   "votes_other": 229,
+   "total_votes": 100331,
+   "pct_D": 39.3,
+   "pct_R": 60.5,
+   "modes": {
+    "mail": {
+     "votes_D": 6304,
+     "votes_R": 4018,
+     "votes_other": 45
+    },
+    "provisional": {
+     "votes_D": 788,
+     "votes_R": 1207,
+     "votes_other": 8
+    },
+    "early_in_person": {
+     "votes_D": 11792,
+     "votes_R": 15623,
+     "votes_other": 6
+    },
+    "election_day": {
+     "votes_D": 20531,
+     "votes_R": 39839,
+     "votes_other": 170
+    }
+   },
+   "data_source": "Oneida County, NY",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "36067": {
+   "name": "Onondaga",
+   "raw_name": "Onondaga",
+   "fips": "36067",
+   "is_mappable": true,
+   "votes_D": 133155,
+   "votes_R": 93916,
+   "votes_other": 1310,
+   "total_votes": 228381,
+   "pct_D": 58.3,
+   "pct_R": 41.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 46425,
+     "votes_R": 30563,
+     "votes_other": 270
+    },
+    "election_day": {
+     "votes_D": 62749,
+     "votes_R": 53740,
+     "votes_other": 825
+    },
+    "mail": {
+     "votes_D": 23981,
+     "votes_R": 9613,
+     "votes_other": 215
+    }
+   },
+   "data_source": "Onondaga County, NY",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "36069": {
+   "name": "Ontario",
+   "raw_name": "Ontario",
+   "fips": "36069",
+   "is_mappable": true,
+   "votes_D": 29517,
+   "votes_R": 30215,
+   "votes_other": 612,
+   "total_votes": 60344,
+   "pct_D": 48.9,
+   "pct_R": 50.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 9950,
+     "votes_R": 7677,
+     "votes_other": 115
+    },
+    "election_day": {
+     "votes_D": 15582,
+     "votes_R": 20216,
+     "votes_other": 438
+    },
+    "mail": {
+     "votes_D": 3985,
+     "votes_R": 2322,
+     "votes_other": 59
+    }
+   },
+   "data_source": "Ontario County, NY",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "36071": {
+   "name": "Orange",
+   "raw_name": "Orange",
+   "fips": "36071",
+   "is_mappable": true,
+   "votes_D": 80253,
+   "votes_R": 94936,
+   "votes_other": 471,
+   "total_votes": 175660,
+   "pct_D": 45.7,
+   "pct_R": 54.0,
+   "modes": {
+    "mail": {
+     "votes_D": 12674,
+     "votes_R": 7184,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 2074,
+     "votes_R": 2374,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 32394,
+     "votes_R": 35069,
+     "votes_other": 76
+    },
+    "election_day": {
+     "votes_D": 33111,
+     "votes_R": 50309,
+     "votes_other": 395
+    }
+   },
+   "data_source": "Orange County, NY",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "36073": {
+   "name": "Orleans",
+   "raw_name": "Orleans",
+   "fips": "36073",
+   "is_mappable": true,
+   "votes_D": 5366,
+   "votes_R": 12659,
+   "votes_other": 46,
+   "total_votes": 18071,
+   "pct_D": 29.7,
+   "pct_R": 70.1,
+   "modes": {
+    "total": {
+     "votes_D": 5366,
+     "votes_R": 12659,
+     "votes_other": 46
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36075": {
+   "name": "Oswego",
+   "raw_name": "Oswego",
+   "fips": "36075",
+   "is_mappable": true,
+   "votes_D": 20483,
+   "votes_R": 33548,
+   "votes_other": 132,
+   "total_votes": 54163,
+   "pct_D": 37.8,
+   "pct_R": 61.9,
+   "modes": {
+    "total": {
+     "votes_D": 20483,
+     "votes_R": 33548,
+     "votes_other": 132
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36077": {
+   "name": "Otsego",
+   "raw_name": "Otsego",
+   "fips": "36077",
+   "is_mappable": true,
+   "votes_D": 13031,
+   "votes_R": 15256,
+   "votes_other": 149,
+   "total_votes": 28436,
+   "pct_D": 45.8,
+   "pct_R": 53.7,
+   "modes": {
+    "mail": {
+     "votes_D": 2115,
+     "votes_R": 1038,
+     "votes_other": 27
+    },
+    "early_in_person": {
+     "votes_D": 4259,
+     "votes_R": 3023,
+     "votes_other": 35
+    },
+    "election_day": {
+     "votes_D": 6269,
+     "votes_R": 10748,
+     "votes_other": 80
+    },
+    "provisional": {
+     "votes_D": 388,
+     "votes_R": 447,
+     "votes_other": 7
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "36079": {
+   "name": "Putnam",
+   "raw_name": "Putnam",
+   "fips": "36079",
+   "is_mappable": true,
+   "votes_D": 23956,
+   "votes_R": 31553,
+   "votes_other": 505,
+   "total_votes": 56014,
+   "pct_D": 42.8,
+   "pct_R": 56.3,
+   "modes": {
+    "total": {
+     "votes_D": 23956,
+     "votes_R": 31553,
+     "votes_other": 505
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36081": {
+   "name": "Queens",
+   "raw_name": "Queens",
+   "fips": "36081",
+   "is_mappable": true,
+   "votes_D": 437282,
+   "votes_R": 264628,
+   "votes_other": 14054,
+   "total_votes": 715964,
+   "pct_D": 61.1,
+   "pct_R": 37.0,
+   "modes": {
+    "total": {
+     "votes_D": 437282,
+     "votes_R": 264628,
+     "votes_other": 14054
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36083": {
+   "name": "Rensselaer",
+   "raw_name": "Rensselaer",
+   "fips": "36083",
+   "is_mappable": true,
+   "votes_D": 39668,
+   "votes_R": 38601,
+   "votes_other": 882,
+   "total_votes": 79151,
+   "pct_D": 50.1,
+   "pct_R": 48.8,
+   "modes": {
+    "total": {
+     "votes_D": 39668,
+     "votes_R": 38601,
+     "votes_other": 882
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36085": {
+   "name": "Richmond",
+   "raw_name": "Richmond",
+   "fips": "36085",
+   "is_mappable": true,
+   "votes_D": 69345,
+   "votes_R": 128151,
+   "votes_other": 3062,
+   "total_votes": 200558,
+   "pct_D": 34.6,
+   "pct_R": 63.9,
+   "modes": {
+    "total": {
+     "votes_D": 69345,
+     "votes_R": 128151,
+     "votes_other": 3062
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36087": {
+   "name": "Rockland",
+   "raw_name": "Rockland",
+   "fips": "36087",
+   "is_mappable": true,
+   "votes_D": 65880,
+   "votes_R": 83543,
+   "votes_other": 1402,
+   "total_votes": 150825,
+   "pct_D": 43.7,
+   "pct_R": 55.4,
+   "modes": {
+    "mail": {
+     "votes_D": 12973,
+     "votes_R": 8137,
+     "votes_other": 253
+    },
+    "early_in_person": {
+     "votes_D": 26870,
+     "votes_R": 33115,
+     "votes_other": 354
+    },
+    "election_day": {
+     "votes_D": 26037,
+     "votes_R": 42291,
+     "votes_other": 795
+    }
+   },
+   "data_source": "Rockland County, NY",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "36091": {
+   "name": "Saratoga",
+   "raw_name": "Saratoga",
+   "fips": "36091",
+   "is_mappable": true,
+   "votes_D": 66321,
+   "votes_R": 63940,
+   "votes_other": 551,
+   "total_votes": 130812,
+   "pct_D": 50.7,
+   "pct_R": 48.9,
+   "modes": {
+    "total": {
+     "votes_D": 66321,
+     "votes_R": 63940,
+     "votes_other": 551
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36093": {
+   "name": "Schenectady",
+   "raw_name": "Schenectady",
+   "fips": "36093",
+   "is_mappable": true,
+   "votes_D": 39733,
+   "votes_R": 31975,
+   "votes_other": 902,
+   "total_votes": 72610,
+   "pct_D": 54.7,
+   "pct_R": 44.0,
+   "modes": {
+    "mail": {
+     "votes_D": 4176,
+     "votes_R": 1742,
+     "votes_other": 70
+    },
+    "provisional": {
+     "votes_D": 617,
+     "votes_R": 498,
+     "votes_other": 16
+    },
+    "early_in_person": {
+     "votes_D": 15453,
+     "votes_R": 10425,
+     "votes_other": 242
+    },
+    "election_day": {
+     "votes_D": 19487,
+     "votes_R": 19310,
+     "votes_other": 574
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "36095": {
+   "name": "Schoharie",
+   "raw_name": "Schoharie",
+   "fips": "36095",
+   "is_mappable": true,
+   "votes_D": 5547,
+   "votes_R": 10423,
+   "votes_other": 142,
+   "total_votes": 16112,
+   "pct_D": 34.4,
+   "pct_R": 64.7,
+   "modes": {
+    "total": {
+     "votes_D": 5547,
+     "votes_R": 10423,
+     "votes_other": 142
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36097": {
+   "name": "Schuyler",
+   "raw_name": "Schuyler",
+   "fips": "36097",
+   "is_mappable": true,
+   "votes_D": 3736,
+   "votes_R": 5715,
+   "votes_other": 81,
+   "total_votes": 9532,
+   "pct_D": 39.2,
+   "pct_R": 60.0,
+   "modes": {
+    "mail": {
+     "votes_D": 413,
+     "votes_R": 248,
+     "votes_other": 7
+    },
+    "provisional": {
+     "votes_D": 33,
+     "votes_R": 85,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1111,
+     "votes_R": 1090,
+     "votes_other": 13
+    },
+    "election_day": {
+     "votes_D": 2179,
+     "votes_R": 4292,
+     "votes_other": 61
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "36099": {
+   "name": "Seneca",
+   "raw_name": "Seneca",
+   "fips": "36099",
+   "is_mappable": true,
+   "votes_D": 6610,
+   "votes_R": 8379,
+   "votes_other": 116,
+   "total_votes": 15105,
+   "pct_D": 43.8,
+   "pct_R": 55.5,
+   "modes": {
+    "total": {
+     "votes_D": 6610,
+     "votes_R": 8379,
+     "votes_other": 116
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36089": {
+   "name": "St. Lawrence",
+   "raw_name": "St. Lawrence",
+   "fips": "36089",
+   "is_mappable": true,
+   "votes_D": 18010,
+   "votes_R": 25919,
+   "votes_other": 239,
+   "total_votes": 44168,
+   "pct_D": 40.8,
+   "pct_R": 58.7,
+   "modes": {
+    "total": {
+     "votes_D": 18010,
+     "votes_R": 25919,
+     "votes_other": 239
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36101": {
+   "name": "Steuben",
+   "raw_name": "Steuben",
+   "fips": "36101",
+   "is_mappable": true,
+   "votes_D": 15413,
+   "votes_R": 29777,
+   "votes_other": 385,
+   "total_votes": 45575,
+   "pct_D": 33.8,
+   "pct_R": 65.3,
+   "modes": {
+    "total": {
+     "votes_D": 15413,
+     "votes_R": 29777,
+     "votes_other": 385
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36103": {
+   "name": "Suffolk",
+   "raw_name": "Suffolk",
+   "fips": "36103",
+   "is_mappable": true,
+   "votes_D": 341812,
+   "votes_R": 417549,
+   "votes_other": 3488,
+   "total_votes": 762849,
+   "pct_D": 44.8,
+   "pct_R": 54.7,
+   "modes": {
+    "total": {
+     "votes_D": 341812,
+     "votes_R": 417549,
+     "votes_other": 3488
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36105": {
+   "name": "Sullivan",
+   "raw_name": "Sullivan",
+   "fips": "36105",
+   "is_mappable": true,
+   "votes_D": 14549,
+   "votes_R": 20386,
+   "votes_other": 127,
+   "total_votes": 35062,
+   "pct_D": 41.5,
+   "pct_R": 58.1,
+   "modes": {
+    "total": {
+     "votes_D": 14549,
+     "votes_R": 20386,
+     "votes_other": 127
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36107": {
+   "name": "Tioga",
+   "raw_name": "Tioga",
+   "fips": "36107",
+   "is_mappable": true,
+   "votes_D": 9437,
+   "votes_R": 15038,
+   "votes_other": 84,
+   "total_votes": 24559,
+   "pct_D": 38.4,
+   "pct_R": 61.2,
+   "modes": {
+    "total": {
+     "votes_D": 9437,
+     "votes_R": 15038,
+     "votes_other": 84
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36109": {
+   "name": "Tompkins",
+   "raw_name": "Tompkins",
+   "fips": "36109",
+   "is_mappable": true,
+   "votes_D": 34631,
+   "votes_R": 11354,
+   "votes_other": 917,
+   "total_votes": 46902,
+   "pct_D": 73.8,
+   "pct_R": 24.2,
+   "modes": {
+    "total": {
+     "votes_D": 34631,
+     "votes_R": 11354,
+     "votes_other": 917
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36111": {
+   "name": "Ulster",
+   "raw_name": "Ulster",
+   "fips": "36111",
+   "is_mappable": true,
+   "votes_D": 57974,
+   "votes_R": 39743,
+   "votes_other": 1455,
+   "total_votes": 99172,
+   "pct_D": 58.5,
+   "pct_R": 40.1,
+   "modes": {
+    "total": {
+     "votes_D": 57974,
+     "votes_R": 39743,
+     "votes_other": 1455
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36113": {
+   "name": "Warren",
+   "raw_name": "Warren",
+   "fips": "36113",
+   "is_mappable": true,
+   "votes_D": 17099,
+   "votes_R": 18606,
+   "votes_other": 370,
+   "total_votes": 36075,
+   "pct_D": 47.4,
+   "pct_R": 51.6,
+   "modes": {
+    "mail": {
+     "votes_D": 2790,
+     "votes_R": 1864,
+     "votes_other": 55
+    },
+    "early_in_person": {
+     "votes_D": 6304,
+     "votes_R": 5313,
+     "votes_other": 79
+    },
+    "election_day": {
+     "votes_D": 8005,
+     "votes_R": 11429,
+     "votes_other": 236
+    }
+   },
+   "data_source": "Warren County, NY",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "36115": {
+   "name": "Washington",
+   "raw_name": "Washington",
+   "fips": "36115",
+   "is_mappable": true,
+   "votes_D": 11224,
+   "votes_R": 17268,
+   "votes_other": 224,
+   "total_votes": 28716,
+   "pct_D": 39.1,
+   "pct_R": 60.1,
+   "modes": {
+    "mail": {
+     "votes_D": 1410,
+     "votes_R": 1016,
+     "votes_other": 20
+    },
+    "provisional": {
+     "votes_D": 93,
+     "votes_R": 264,
+     "votes_other": 4
+    },
+    "early_in_person": {
+     "votes_D": 2960,
+     "votes_R": 3904,
+     "votes_other": 31
+    },
+    "election_day": {
+     "votes_D": 6761,
+     "votes_R": 12084,
+     "votes_other": 169
+    }
+   },
+   "data_source": "Washington County, NY",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "36117": {
+   "name": "Wayne",
+   "raw_name": "Wayne",
+   "fips": "36117",
+   "is_mappable": true,
+   "votes_D": 17056,
+   "votes_R": 27286,
+   "votes_other": 326,
+   "total_votes": 44668,
+   "pct_D": 38.2,
+   "pct_R": 61.1,
+   "modes": {
+    "total": {
+     "votes_D": 17056,
+     "votes_R": 27286,
+     "votes_other": 326
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36119": {
+   "name": "Westchester",
+   "raw_name": "Westchester",
+   "fips": "36119",
+   "is_mappable": true,
+   "votes_D": 287434,
+   "votes_R": 167795,
+   "votes_other": 2609,
+   "total_votes": 457838,
+   "pct_D": 62.8,
+   "pct_R": 36.6,
+   "modes": {
+    "total": {
+     "votes_D": 287434,
+     "votes_R": 167795,
+     "votes_other": 2609
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36121": {
+   "name": "Wyoming",
+   "raw_name": "Wyoming",
+   "fips": "36121",
+   "is_mappable": true,
+   "votes_D": 4929,
+   "votes_R": 14112,
+   "votes_other": 125,
+   "total_votes": 19166,
+   "pct_D": 25.7,
+   "pct_R": 73.6,
+   "modes": {
+    "total": {
+     "votes_D": 4929,
+     "votes_R": 14112,
+     "votes_other": 125
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "36123": {
+   "name": "Yates",
+   "raw_name": "Yates",
+   "fips": "36123",
+   "is_mappable": true,
+   "votes_D": 4397,
+   "votes_R": 6101,
+   "votes_other": 43,
+   "total_votes": 10541,
+   "pct_D": 41.7,
+   "pct_R": 57.9,
+   "modes": {
+    "provisional": {
+     "votes_D": 70,
+     "votes_R": 83,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1683,
+     "votes_R": 1581,
+     "votes_other": 9
+    },
+    "election_day": {
+     "votes_D": 2050,
+     "votes_R": 4055,
+     "votes_other": 31
+    },
+    "mail": {
+     "votes_D": 594,
+     "votes_R": 382,
+     "votes_other": 3
+    }
+   },
+   "data_source": "Yates County, NY",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  }
+ }
+}

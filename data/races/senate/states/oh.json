@@ -1,0 +1,2896 @@
+{
+ "race": "senate",
+ "race_label": "Senate",
+ "race_type": "senate",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Sherrod Brown",
+ "candidate_R": "Bernie Moreno",
+ "state": "Ohio",
+ "state_abbr": "OH",
+ "unit_type": "county",
+ "avg_completeness": "U",
+ "completeness_breakdown": {
+  "U": 33,
+  "C3": 20,
+  "C5": 4,
+  "C4": 30,
+  "C2": 1
+ },
+ "votes_D": 2650802,
+ "votes_R": 2856945,
+ "votes_other": 57284,
+ "total_votes": 5565031,
+ "pct_D": 47.6,
+ "pct_R": 51.3,
+ "unit_count": 88,
+ "state_profile": {
+  "voting_summary": "Ohio pairs four weeks of no-excuse early and mail voting with an election day majority; about half of published results carry a method breakdown. Polls close at 7:30 p.m. Eastern; pre-processed early and mail ballots are released almost immediately, a Democratic-leaning first dump (early in-person D+14, mail D+30), before election day precincts (R+4) pull the state back through the night. Mail postmarked the day before election day is accepted for four days, leaving a small late blue tail plus provisionals counted over ten days.",
+  "reporting_notes": "",
+  "tags": [
+   "Pre-processed",
+   "Blue mirage",
+   "No-excuse mail",
+   "Fast count"
+  ],
+  "mode_split": {
+   "election_day": 38.5,
+   "total": 29.6,
+   "early_in_person": 16.2,
+   "mail": 11.2,
+   "pre_election_day": 3.4,
+   "provisional": 1.1,
+   "late_mail": 0.1
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "39001": {
+   "name": "Adams",
+   "raw_name": "Adams",
+   "fips": "39001",
+   "is_mappable": true,
+   "votes_D": 2447,
+   "votes_R": 9325,
+   "votes_other": 400,
+   "total_votes": 12172,
+   "pct_D": 20.1,
+   "pct_R": 76.6,
+   "modes": {
+    "total": {
+     "votes_D": 2447,
+     "votes_R": 9325,
+     "votes_other": 400
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39003": {
+   "name": "Allen",
+   "raw_name": "Allen",
+   "fips": "39003",
+   "is_mappable": true,
+   "votes_D": 14120,
+   "votes_R": 30208,
+   "votes_other": 0,
+   "total_votes": 44328,
+   "pct_D": 31.9,
+   "pct_R": 68.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 7436,
+     "votes_R": 18305,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 6489,
+     "votes_R": 11495,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 195,
+     "votes_R": 408,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Allen County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39005": {
+   "name": "Ashland",
+   "raw_name": "Ashland",
+   "fips": "39005",
+   "is_mappable": true,
+   "votes_D": 7280,
+   "votes_R": 17894,
+   "votes_other": 0,
+   "total_votes": 25174,
+   "pct_D": 28.9,
+   "pct_R": 71.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 2956,
+     "votes_R": 9095,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 4250,
+     "votes_R": 8433,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 74,
+     "votes_R": 366,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Ashland County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39007": {
+   "name": "Ashtabula",
+   "raw_name": "Ashtabula",
+   "fips": "39007",
+   "is_mappable": true,
+   "votes_D": 16785,
+   "votes_R": 24117,
+   "votes_other": 0,
+   "total_votes": 40902,
+   "pct_D": 41.0,
+   "pct_R": 59.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 9508,
+     "votes_R": 15294,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 3297,
+     "votes_R": 5827,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 3779,
+     "votes_R": 2595,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 180,
+     "votes_R": 388,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 21,
+     "votes_R": 13,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Ashtabula County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "39009": {
+   "name": "Athens",
+   "raw_name": "Athens",
+   "fips": "39009",
+   "is_mappable": true,
+   "votes_D": 14696,
+   "votes_R": 10013,
+   "votes_other": 916,
+   "total_votes": 25625,
+   "pct_D": 57.4,
+   "pct_R": 39.1,
+   "modes": {
+    "total": {
+     "votes_D": 14696,
+     "votes_R": 10013,
+     "votes_other": 916
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39011": {
+   "name": "Auglaize",
+   "raw_name": "Auglaize",
+   "fips": "39011",
+   "is_mappable": true,
+   "votes_D": 5248,
+   "votes_R": 19363,
+   "votes_other": 0,
+   "total_votes": 24611,
+   "pct_D": 21.3,
+   "pct_R": 78.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 2435,
+     "votes_R": 11089,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1680,
+     "votes_R": 6156,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1085,
+     "votes_R": 1883,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 48,
+     "votes_R": 235,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Auglaize County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39013": {
+   "name": "Belmont",
+   "raw_name": "Belmont",
+   "fips": "39013",
+   "is_mappable": true,
+   "votes_D": 9476,
+   "votes_R": 20146,
+   "votes_other": 1125,
+   "total_votes": 30747,
+   "pct_D": 30.8,
+   "pct_R": 65.5,
+   "modes": {
+    "total": {
+     "votes_D": 9476,
+     "votes_R": 20146,
+     "votes_other": 1125
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39015": {
+   "name": "Brown",
+   "raw_name": "Brown",
+   "fips": "39015",
+   "is_mappable": true,
+   "votes_D": 4610,
+   "votes_R": 15622,
+   "votes_other": 746,
+   "total_votes": 20978,
+   "pct_D": 22.0,
+   "pct_R": 74.5,
+   "modes": {
+    "total": {
+     "votes_D": 4610,
+     "votes_R": 15622,
+     "votes_other": 746
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39017": {
+   "name": "Butler",
+   "raw_name": "Butler",
+   "fips": "39017",
+   "is_mappable": true,
+   "votes_D": 69734,
+   "votes_R": 104952,
+   "votes_other": 6546,
+   "total_votes": 181232,
+   "pct_D": 38.5,
+   "pct_R": 57.9,
+   "modes": {
+    "total": {
+     "votes_D": 69734,
+     "votes_R": 104952,
+     "votes_other": 6546
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39019": {
+   "name": "Carroll",
+   "raw_name": "Carroll",
+   "fips": "39019",
+   "is_mappable": true,
+   "votes_D": 3545,
+   "votes_R": 9543,
+   "votes_other": 571,
+   "total_votes": 13659,
+   "pct_D": 26.0,
+   "pct_R": 69.9,
+   "modes": {
+    "total": {
+     "votes_D": 3545,
+     "votes_R": 9543,
+     "votes_other": 571
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39021": {
+   "name": "Champaign",
+   "raw_name": "Champaign",
+   "fips": "39021",
+   "is_mappable": true,
+   "votes_D": 5547,
+   "votes_R": 13917,
+   "votes_other": 0,
+   "total_votes": 19464,
+   "pct_D": 28.5,
+   "pct_R": 71.5,
+   "modes": {
+    "mail": {
+     "votes_D": 999,
+     "votes_R": 1343,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 2197,
+     "votes_R": 7047,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 2296,
+     "votes_R": 5358,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 55,
+     "votes_R": 169,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Champaign County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39023": {
+   "name": "Clark",
+   "raw_name": "Clark",
+   "fips": "39023",
+   "is_mappable": true,
+   "votes_D": 23630,
+   "votes_R": 36611,
+   "votes_other": 0,
+   "total_votes": 60241,
+   "pct_D": 39.2,
+   "pct_R": 60.8,
+   "modes": {
+    "mail": {
+     "votes_D": 4611,
+     "votes_R": 3882,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 10272,
+     "votes_R": 20351,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 8411,
+     "votes_R": 11788,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 336,
+     "votes_R": 590,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Clark County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39025": {
+   "name": "Clermont",
+   "raw_name": "Clermont",
+   "fips": "39025",
+   "is_mappable": true,
+   "votes_D": 37825,
+   "votes_R": 70592,
+   "votes_other": 0,
+   "total_votes": 108417,
+   "pct_D": 34.9,
+   "pct_R": 65.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 19112,
+     "votes_R": 41718,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 9348,
+     "votes_R": 10336,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 8894,
+     "votes_R": 17467,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 471,
+     "votes_R": 1071,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Clermont County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39027": {
+   "name": "Clinton",
+   "raw_name": "Clinton",
+   "fips": "39027",
+   "is_mappable": true,
+   "votes_D": 5154,
+   "votes_R": 14513,
+   "votes_other": 0,
+   "total_votes": 19667,
+   "pct_D": 26.2,
+   "pct_R": 73.8,
+   "modes": {
+    "mail": {
+     "votes_D": 915,
+     "votes_R": 1380,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 2144,
+     "votes_R": 7608,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 2019,
+     "votes_R": 5248,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 76,
+     "votes_R": 277,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Clinton County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39029": {
+   "name": "Columbiana",
+   "raw_name": "Columbiana",
+   "fips": "39029",
+   "is_mappable": true,
+   "votes_D": 13902,
+   "votes_R": 31757,
+   "votes_other": 0,
+   "total_votes": 45659,
+   "pct_D": 30.4,
+   "pct_R": 69.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 7706,
+     "votes_R": 19863,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 3056,
+     "votes_R": 3233,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 3030,
+     "votes_R": 8257,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 110,
+     "votes_R": 404,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Columbiana County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39031": {
+   "name": "Coshocton",
+   "raw_name": "Coshocton",
+   "fips": "39031",
+   "is_mappable": true,
+   "votes_D": 4457,
+   "votes_R": 11011,
+   "votes_other": 716,
+   "total_votes": 16184,
+   "pct_D": 27.5,
+   "pct_R": 68.0,
+   "modes": {
+    "total": {
+     "votes_D": 4457,
+     "votes_R": 11011,
+     "votes_other": 716
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39033": {
+   "name": "Crawford",
+   "raw_name": "Crawford",
+   "fips": "39033",
+   "is_mappable": true,
+   "votes_D": 5400,
+   "votes_R": 13938,
+   "votes_other": 0,
+   "total_votes": 19338,
+   "pct_D": 27.9,
+   "pct_R": 72.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 2485,
+     "votes_R": 7423,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1511,
+     "votes_R": 4606,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 66,
+     "votes_R": 246,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 7,
+     "votes_R": 4,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1331,
+     "votes_R": 1659,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Crawford County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "39035": {
+   "name": "Cuyahoga",
+   "raw_name": "Cuyahoga",
+   "fips": "39035",
+   "is_mappable": true,
+   "votes_D": 384043,
+   "votes_R": 170671,
+   "votes_other": 0,
+   "total_votes": 554714,
+   "pct_D": 69.2,
+   "pct_R": 30.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 47278,
+     "votes_R": 13573,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 113947,
+     "votes_R": 42154,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 213459,
+     "votes_R": 111292,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 2247,
+     "votes_R": 627,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 7112,
+     "votes_R": 3025,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Cuyahoga County, OH",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "39037": {
+   "name": "Darke",
+   "raw_name": "Darke",
+   "fips": "39037",
+   "is_mappable": true,
+   "votes_D": 5359,
+   "votes_R": 20615,
+   "votes_other": 0,
+   "total_votes": 25974,
+   "pct_D": 20.6,
+   "pct_R": 79.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 2291,
+     "votes_R": 10914,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 962,
+     "votes_R": 1726,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 2060,
+     "votes_R": 7669,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 46,
+     "votes_R": 306,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Darke County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39039": {
+   "name": "Defiance",
+   "raw_name": "Defiance",
+   "fips": "39039",
+   "is_mappable": true,
+   "votes_D": 5880,
+   "votes_R": 12028,
+   "votes_other": 0,
+   "total_votes": 17908,
+   "pct_D": 32.8,
+   "pct_R": 67.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 2128,
+     "votes_R": 5761,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 3684,
+     "votes_R": 6106,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 68,
+     "votes_R": 161,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Defiance County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39041": {
+   "name": "Delaware",
+   "raw_name": "Delaware",
+   "fips": "39041",
+   "is_mappable": true,
+   "votes_D": 63697,
+   "votes_R": 65715,
+   "votes_other": 3562,
+   "total_votes": 132974,
+   "pct_D": 47.9,
+   "pct_R": 49.4,
+   "modes": {
+    "total": {
+     "votes_D": 63697,
+     "votes_R": 65715,
+     "votes_other": 3562
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39043": {
+   "name": "Erie",
+   "raw_name": "Erie",
+   "fips": "39043",
+   "is_mappable": true,
+   "votes_D": 18117,
+   "votes_R": 19654,
+   "votes_other": 0,
+   "total_votes": 37771,
+   "pct_D": 48.0,
+   "pct_R": 52.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 8136,
+     "votes_R": 10354,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 9759,
+     "votes_R": 9015,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 222,
+     "votes_R": 285,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Erie County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39045": {
+   "name": "Fairfield",
+   "raw_name": "Fairfield",
+   "fips": "39045",
+   "is_mappable": true,
+   "votes_D": 33697,
+   "votes_R": 47342,
+   "votes_other": 2812,
+   "total_votes": 83851,
+   "pct_D": 40.2,
+   "pct_R": 56.5,
+   "modes": {
+    "total": {
+     "votes_D": 33697,
+     "votes_R": 47342,
+     "votes_other": 2812
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39047": {
+   "name": "Fayette",
+   "raw_name": "Fayette",
+   "fips": "39047",
+   "is_mappable": true,
+   "votes_D": 3162,
+   "votes_R": 8587,
+   "votes_other": 0,
+   "total_votes": 11749,
+   "pct_D": 26.9,
+   "pct_R": 73.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 1456,
+     "votes_R": 4698,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1181,
+     "votes_R": 3153,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 525,
+     "votes_R": 736,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Fayette County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39049": {
+   "name": "Franklin",
+   "raw_name": "Franklin",
+   "fips": "39049",
+   "is_mappable": true,
+   "votes_D": 385850,
+   "votes_R": 186441,
+   "votes_other": 0,
+   "total_votes": 572291,
+   "pct_D": 67.4,
+   "pct_R": 32.6,
+   "modes": {
+    "mail": {
+     "votes_D": 83982,
+     "votes_R": 36825,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 91224,
+     "votes_R": 31110,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 201384,
+     "votes_R": 114206,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 9260,
+     "votes_R": 4300,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Franklin County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39051": {
+   "name": "Fulton",
+   "raw_name": "Fulton",
+   "fips": "39051",
+   "is_mappable": true,
+   "votes_D": 6764,
+   "votes_R": 14450,
+   "votes_other": 0,
+   "total_votes": 21214,
+   "pct_D": 31.9,
+   "pct_R": 68.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 3266,
+     "votes_R": 8066,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 3434,
+     "votes_R": 6157,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 64,
+     "votes_R": 227,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Fulton County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39053": {
+   "name": "Gallia",
+   "raw_name": "Gallia",
+   "fips": "39053",
+   "is_mappable": true,
+   "votes_D": 2912,
+   "votes_R": 9316,
+   "votes_other": 491,
+   "total_votes": 12719,
+   "pct_D": 22.9,
+   "pct_R": 73.2,
+   "modes": {
+    "total": {
+     "votes_D": 2912,
+     "votes_R": 9316,
+     "votes_other": 491
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39055": {
+   "name": "Geauga",
+   "raw_name": "Geauga",
+   "fips": "39055",
+   "is_mappable": true,
+   "votes_D": 22315,
+   "votes_R": 30987,
+   "votes_other": 1328,
+   "total_votes": 54630,
+   "pct_D": 40.8,
+   "pct_R": 56.7,
+   "modes": {
+    "total": {
+     "votes_D": 22315,
+     "votes_R": 30987,
+     "votes_other": 1328
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39057": {
+   "name": "Greene",
+   "raw_name": "Greene",
+   "fips": "39057",
+   "is_mappable": true,
+   "votes_D": 37327,
+   "votes_R": 49477,
+   "votes_other": 3052,
+   "total_votes": 89856,
+   "pct_D": 41.5,
+   "pct_R": 55.1,
+   "modes": {
+    "total": {
+     "votes_D": 37327,
+     "votes_R": 49477,
+     "votes_other": 3052
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39059": {
+   "name": "Guernsey",
+   "raw_name": "Guernsey",
+   "fips": "39059",
+   "is_mappable": true,
+   "votes_D": 4839,
+   "votes_R": 11836,
+   "votes_other": 0,
+   "total_votes": 16675,
+   "pct_D": 29.0,
+   "pct_R": 71.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 2283,
+     "votes_R": 6672,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 2488,
+     "votes_R": 4968,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 68,
+     "votes_R": 196,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Guernsey County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39061": {
+   "name": "Hamilton",
+   "raw_name": "Hamilton",
+   "fips": "39061",
+   "is_mappable": true,
+   "votes_D": 235825,
+   "votes_R": 158523,
+   "votes_other": 0,
+   "total_votes": 394348,
+   "pct_D": 59.8,
+   "pct_R": 40.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 107631,
+     "votes_R": 55344,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 128194,
+     "votes_R": 103179,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Hamilton County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "39063": {
+   "name": "Hancock",
+   "raw_name": "Hancock",
+   "fips": "39063",
+   "is_mappable": true,
+   "votes_D": 12170,
+   "votes_R": 23803,
+   "votes_other": 1547,
+   "total_votes": 37520,
+   "pct_D": 32.4,
+   "pct_R": 63.4,
+   "modes": {
+    "total": {
+     "votes_D": 12170,
+     "votes_R": 23803,
+     "votes_other": 1547
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39065": {
+   "name": "Hardin",
+   "raw_name": "Hardin",
+   "fips": "39065",
+   "is_mappable": true,
+   "votes_D": 3367,
+   "votes_R": 8839,
+   "votes_other": 0,
+   "total_votes": 12206,
+   "pct_D": 27.6,
+   "pct_R": 72.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 1507,
+     "votes_R": 4967,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 741,
+     "votes_R": 852,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 19,
+     "votes_R": 158,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1100,
+     "votes_R": 2862,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Hardin County, OH",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39067": {
+   "name": "Harrison",
+   "raw_name": "Harrison",
+   "fips": "39067",
+   "is_mappable": true,
+   "votes_D": 1857,
+   "votes_R": 4891,
+   "votes_other": 0,
+   "total_votes": 6748,
+   "pct_D": 27.5,
+   "pct_R": 72.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 944,
+     "votes_R": 3038,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 12,
+     "votes_R": 81,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 901,
+     "votes_R": 1772,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Harrison County, OH",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39069": {
+   "name": "Henry",
+   "raw_name": "Henry",
+   "fips": "39069",
+   "is_mappable": true,
+   "votes_D": 4356,
+   "votes_R": 9685,
+   "votes_other": 0,
+   "total_votes": 14041,
+   "pct_D": 31.0,
+   "pct_R": 69.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 1827,
+     "votes_R": 5020,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 2486,
+     "votes_R": 4529,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 43,
+     "votes_R": 136,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Henry County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39071": {
+   "name": "Highland",
+   "raw_name": "Highland",
+   "fips": "39071",
+   "is_mappable": true,
+   "votes_D": 4152,
+   "votes_R": 14884,
+   "votes_other": 0,
+   "total_votes": 19036,
+   "pct_D": 21.8,
+   "pct_R": 78.2,
+   "modes": {
+    "mail": {
+     "votes_D": 799,
+     "votes_R": 1367,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 1840,
+     "votes_R": 7956,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1478,
+     "votes_R": 5341,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 35,
+     "votes_R": 220,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Highland County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39073": {
+   "name": "Hocking",
+   "raw_name": "Hocking",
+   "fips": "39073",
+   "is_mappable": true,
+   "votes_D": 4125,
+   "votes_R": 8599,
+   "votes_other": 0,
+   "total_votes": 12724,
+   "pct_D": 32.4,
+   "pct_R": 67.6,
+   "modes": {
+    "mail": {
+     "votes_D": 900,
+     "votes_R": 1046,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 1393,
+     "votes_R": 3839,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1799,
+     "votes_R": 3561,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 33,
+     "votes_R": 153,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Hocking County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39075": {
+   "name": "Holmes",
+   "raw_name": "Holmes",
+   "fips": "39075",
+   "is_mappable": true,
+   "votes_D": 2117,
+   "votes_R": 9699,
+   "votes_other": 380,
+   "total_votes": 12196,
+   "pct_D": 17.4,
+   "pct_R": 79.5,
+   "modes": {
+    "total": {
+     "votes_D": 2117,
+     "votes_R": 9699,
+     "votes_other": 380
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39077": {
+   "name": "Huron",
+   "raw_name": "Huron",
+   "fips": "39077",
+   "is_mappable": true,
+   "votes_D": 8454,
+   "votes_R": 17093,
+   "votes_other": 0,
+   "total_votes": 25547,
+   "pct_D": 33.1,
+   "pct_R": 66.9,
+   "modes": {
+    "mail": {
+     "votes_D": 1809,
+     "votes_R": 1719,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 3734,
+     "votes_R": 9700,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 2838,
+     "votes_R": 5410,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 73,
+     "votes_R": 264,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Huron County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39079": {
+   "name": "Jackson",
+   "raw_name": "Jackson",
+   "fips": "39079",
+   "is_mappable": true,
+   "votes_D": 3346,
+   "votes_R": 10299,
+   "votes_other": 472,
+   "total_votes": 14117,
+   "pct_D": 23.7,
+   "pct_R": 73.0,
+   "modes": {
+    "total": {
+     "votes_D": 3346,
+     "votes_R": 10299,
+     "votes_other": 472
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39081": {
+   "name": "Jefferson",
+   "raw_name": "Jefferson",
+   "fips": "39081",
+   "is_mappable": true,
+   "votes_D": 9819,
+   "votes_R": 19795,
+   "votes_other": 0,
+   "total_votes": 29614,
+   "pct_D": 33.2,
+   "pct_R": 66.8,
+   "modes": {
+    "mail": {
+     "votes_D": 2641,
+     "votes_R": 2653,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 4285,
+     "votes_R": 11365,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 2771,
+     "votes_R": 5535,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 122,
+     "votes_R": 242,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Jefferson County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39083": {
+   "name": "Knox",
+   "raw_name": "Knox",
+   "fips": "39083",
+   "is_mappable": true,
+   "votes_D": 9537,
+   "votes_R": 21363,
+   "votes_other": 1060,
+   "total_votes": 31960,
+   "pct_D": 29.8,
+   "pct_R": 66.8,
+   "modes": {
+    "total": {
+     "votes_D": 9537,
+     "votes_R": 21363,
+     "votes_other": 1060
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39085": {
+   "name": "Lake",
+   "raw_name": "Lake",
+   "fips": "39085",
+   "is_mappable": true,
+   "votes_D": 58125,
+   "votes_R": 64089,
+   "votes_other": 0,
+   "total_votes": 122214,
+   "pct_D": 47.6,
+   "pct_R": 52.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 27624,
+     "votes_R": 35527,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 14415,
+     "votes_R": 17096,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 15298,
+     "votes_R": 10516,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 788,
+     "votes_R": 950,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Lake County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39087": {
+   "name": "Lawrence",
+   "raw_name": "Lawrence",
+   "fips": "39087",
+   "is_mappable": true,
+   "votes_D": 7086,
+   "votes_R": 17760,
+   "votes_other": 0,
+   "total_votes": 24846,
+   "pct_D": 28.5,
+   "pct_R": 71.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 3862,
+     "votes_R": 11092,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1747,
+     "votes_R": 4322,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1477,
+     "votes_R": 2346,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Lawrence County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39089": {
+   "name": "Licking",
+   "raw_name": "Licking",
+   "fips": "39089",
+   "is_mappable": true,
+   "votes_D": 35373,
+   "votes_R": 55320,
+   "votes_other": 0,
+   "total_votes": 90693,
+   "pct_D": 39.0,
+   "pct_R": 61.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 15050,
+     "votes_R": 27654,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 9022,
+     "votes_R": 8116,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 10787,
+     "votes_R": 18626,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 514,
+     "votes_R": 924,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Licking County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39091": {
+   "name": "Logan",
+   "raw_name": "Logan",
+   "fips": "39091",
+   "is_mappable": true,
+   "votes_D": 5614,
+   "votes_R": 16763,
+   "votes_other": 0,
+   "total_votes": 22377,
+   "pct_D": 25.1,
+   "pct_R": 74.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 1371,
+     "votes_R": 5366,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 3062,
+     "votes_R": 9503,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1113,
+     "votes_R": 1606,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 68,
+     "votes_R": 288,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Logan County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39093": {
+   "name": "Lorain",
+   "raw_name": "Lorain",
+   "fips": "39093",
+   "is_mappable": true,
+   "votes_D": 79307,
+   "votes_R": 71759,
+   "votes_other": 5098,
+   "total_votes": 156164,
+   "pct_D": 50.8,
+   "pct_R": 46.0,
+   "modes": {
+    "total": {
+     "votes_D": 79307,
+     "votes_R": 71759,
+     "votes_other": 5098
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39095": {
+   "name": "Lucas",
+   "raw_name": "Lucas",
+   "fips": "39095",
+   "is_mappable": true,
+   "votes_D": 107783,
+   "votes_R": 72544,
+   "votes_other": 0,
+   "total_votes": 180327,
+   "pct_D": 59.8,
+   "pct_R": 40.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 54292,
+     "votes_R": 44131,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 30559,
+     "votes_R": 17598,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 1802,
+     "votes_R": 1017,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 21130,
+     "votes_R": 9798,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Lucas County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39097": {
+   "name": "Madison",
+   "raw_name": "Madison",
+   "fips": "39097",
+   "is_mappable": true,
+   "votes_D": 6322,
+   "votes_R": 13347,
+   "votes_other": 0,
+   "total_votes": 19669,
+   "pct_D": 32.1,
+   "pct_R": 67.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 2631,
+     "votes_R": 6509,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1461,
+     "votes_R": 1787,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 2167,
+     "votes_R": 4838,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 63,
+     "votes_R": 213,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Madison County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39099": {
+   "name": "Mahoning",
+   "raw_name": "Mahoning",
+   "fips": "39099",
+   "is_mappable": true,
+   "votes_D": 53847,
+   "votes_R": 54067,
+   "votes_other": 0,
+   "total_votes": 107914,
+   "pct_D": 49.9,
+   "pct_R": 50.1,
+   "modes": {
+    "mail": {
+     "votes_D": 13590,
+     "votes_R": 8054,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 14111,
+     "votes_R": 12198,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 794,
+     "votes_R": 780,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 25352,
+     "votes_R": 33035,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Mahoning County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39101": {
+   "name": "Marion",
+   "raw_name": "Marion",
+   "fips": "39101",
+   "is_mappable": true,
+   "votes_D": 8824,
+   "votes_R": 16763,
+   "votes_other": 1192,
+   "total_votes": 26779,
+   "pct_D": 33.0,
+   "pct_R": 62.6,
+   "modes": {
+    "total": {
+     "votes_D": 8824,
+     "votes_R": 16763,
+     "votes_other": 1192
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39103": {
+   "name": "Medina",
+   "raw_name": "Medina",
+   "fips": "39103",
+   "is_mappable": true,
+   "votes_D": 43174,
+   "votes_R": 58915,
+   "votes_other": 0,
+   "total_votes": 102089,
+   "pct_D": 42.3,
+   "pct_R": 57.7,
+   "modes": {
+    "mail": {
+     "votes_D": 10371,
+     "votes_R": 7790,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 15026,
+     "votes_R": 20835,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 17288,
+     "votes_R": 29505,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 489,
+     "votes_R": 785,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Medina County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39105": {
+   "name": "Meigs",
+   "raw_name": "Meigs",
+   "fips": "39105",
+   "is_mappable": true,
+   "votes_D": 2456,
+   "votes_R": 7385,
+   "votes_other": 374,
+   "total_votes": 10215,
+   "pct_D": 24.0,
+   "pct_R": 72.3,
+   "modes": {
+    "total": {
+     "votes_D": 2456,
+     "votes_R": 7385,
+     "votes_other": 374
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39107": {
+   "name": "Mercer",
+   "raw_name": "Mercer",
+   "fips": "39107",
+   "is_mappable": true,
+   "votes_D": 4337,
+   "votes_R": 18432,
+   "votes_other": 698,
+   "total_votes": 23467,
+   "pct_D": 18.5,
+   "pct_R": 78.5,
+   "modes": {
+    "total": {
+     "votes_D": 4337,
+     "votes_R": 18432,
+     "votes_other": 698
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39109": {
+   "name": "Miami",
+   "raw_name": "Miami",
+   "fips": "39109",
+   "is_mappable": true,
+   "votes_D": 17525,
+   "votes_R": 39225,
+   "votes_other": 0,
+   "total_votes": 56750,
+   "pct_D": 30.9,
+   "pct_R": 69.1,
+   "modes": {
+    "mail": {
+     "votes_D": 3634,
+     "votes_R": 4098,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 6864,
+     "votes_R": 19050,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 6822,
+     "votes_R": 15499,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 205,
+     "votes_R": 578,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Miami County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39111": {
+   "name": "Monroe",
+   "raw_name": "Monroe",
+   "fips": "39111",
+   "is_mappable": true,
+   "votes_D": 1725,
+   "votes_R": 4715,
+   "votes_other": 0,
+   "total_votes": 6440,
+   "pct_D": 26.8,
+   "pct_R": 73.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 686,
+     "votes_R": 2581,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 1018,
+     "votes_R": 2068,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 21,
+     "votes_R": 66,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Monroe County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39113": {
+   "name": "Montgomery",
+   "raw_name": "Montgomery",
+   "fips": "39113",
+   "is_mappable": true,
+   "votes_D": 130464,
+   "votes_R": 112324,
+   "votes_other": 0,
+   "total_votes": 242788,
+   "pct_D": 53.7,
+   "pct_R": 46.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 64821,
+     "votes_R": 72174,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 26550,
+     "votes_R": 16727,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 36666,
+     "votes_R": 21587,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 2427,
+     "votes_R": 1836,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Montgomery County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39115": {
+   "name": "Morgan",
+   "raw_name": "Morgan",
+   "fips": "39115",
+   "is_mappable": true,
+   "votes_D": 1802,
+   "votes_R": 4587,
+   "votes_other": 252,
+   "total_votes": 6641,
+   "pct_D": 27.1,
+   "pct_R": 69.1,
+   "modes": {
+    "total": {
+     "votes_D": 1802,
+     "votes_R": 4587,
+     "votes_other": 252
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39117": {
+   "name": "Morrow",
+   "raw_name": "Morrow",
+   "fips": "39117",
+   "is_mappable": true,
+   "votes_D": 4610,
+   "votes_R": 13197,
+   "votes_other": 727,
+   "total_votes": 18534,
+   "pct_D": 24.9,
+   "pct_R": 71.2,
+   "modes": {
+    "total": {
+     "votes_D": 4610,
+     "votes_R": 13197,
+     "votes_other": 727
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39119": {
+   "name": "Muskingum",
+   "raw_name": "Muskingum",
+   "fips": "39119",
+   "is_mappable": true,
+   "votes_D": 11852,
+   "votes_R": 25408,
+   "votes_other": 1677,
+   "total_votes": 38937,
+   "pct_D": 30.4,
+   "pct_R": 65.3,
+   "modes": {
+    "total": {
+     "votes_D": 11852,
+     "votes_R": 25408,
+     "votes_other": 1677
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39121": {
+   "name": "Noble",
+   "raw_name": "Noble",
+   "fips": "39121",
+   "is_mappable": true,
+   "votes_D": 1316,
+   "votes_R": 4555,
+   "votes_other": 0,
+   "total_votes": 5871,
+   "pct_D": 22.4,
+   "pct_R": 77.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 532,
+     "votes_R": 2271,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 775,
+     "votes_R": 2228,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 9,
+     "votes_R": 56,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Noble County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39123": {
+   "name": "Ottawa",
+   "raw_name": "Ottawa",
+   "fips": "39123",
+   "is_mappable": true,
+   "votes_D": 9460,
+   "votes_R": 13317,
+   "votes_other": 0,
+   "total_votes": 22777,
+   "pct_D": 41.5,
+   "pct_R": 58.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 4209,
+     "votes_R": 6943,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 5160,
+     "votes_R": 6223,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 91,
+     "votes_R": 151,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Ottawa County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39125": {
+   "name": "Paulding",
+   "raw_name": "Paulding",
+   "fips": "39125",
+   "is_mappable": true,
+   "votes_D": 2056,
+   "votes_R": 6678,
+   "votes_other": 0,
+   "total_votes": 8734,
+   "pct_D": 23.5,
+   "pct_R": 76.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 837,
+     "votes_R": 3277,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 1201,
+     "votes_R": 3304,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 18,
+     "votes_R": 97,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Paulding County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39127": {
+   "name": "Perry",
+   "raw_name": "Perry",
+   "fips": "39127",
+   "is_mappable": true,
+   "votes_D": 4492,
+   "votes_R": 11626,
+   "votes_other": 654,
+   "total_votes": 16772,
+   "pct_D": 26.8,
+   "pct_R": 69.3,
+   "modes": {
+    "total": {
+     "votes_D": 4492,
+     "votes_R": 11626,
+     "votes_other": 654
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39129": {
+   "name": "Pickaway",
+   "raw_name": "Pickaway",
+   "fips": "39129",
+   "is_mappable": true,
+   "votes_D": 8452,
+   "votes_R": 19613,
+   "votes_other": 985,
+   "total_votes": 29050,
+   "pct_D": 29.1,
+   "pct_R": 67.5,
+   "modes": {
+    "total": {
+     "votes_D": 8452,
+     "votes_R": 19613,
+     "votes_other": 985
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39131": {
+   "name": "Pike",
+   "raw_name": "Pike",
+   "fips": "39131",
+   "is_mappable": true,
+   "votes_D": 3364,
+   "votes_R": 8264,
+   "votes_other": 0,
+   "total_votes": 11628,
+   "pct_D": 28.9,
+   "pct_R": 71.1,
+   "modes": {
+    "mail": {
+     "votes_D": 862,
+     "votes_R": 1135,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 1196,
+     "votes_R": 3693,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1263,
+     "votes_R": 3233,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 43,
+     "votes_R": 203,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Pike County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39133": {
+   "name": "Portage",
+   "raw_name": "Portage",
+   "fips": "39133",
+   "is_mappable": true,
+   "votes_D": 37082,
+   "votes_R": 42163,
+   "votes_other": 2991,
+   "total_votes": 82236,
+   "pct_D": 45.1,
+   "pct_R": 51.3,
+   "modes": {
+    "total": {
+     "votes_D": 37082,
+     "votes_R": 42163,
+     "votes_other": 2991
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39135": {
+   "name": "Preble",
+   "raw_name": "Preble",
+   "fips": "39135",
+   "is_mappable": true,
+   "votes_D": 4940,
+   "votes_R": 15806,
+   "votes_other": 0,
+   "total_votes": 20746,
+   "pct_D": 23.8,
+   "pct_R": 76.2,
+   "modes": {
+    "mail": {
+     "votes_D": 870,
+     "votes_R": 1208,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1428,
+     "votes_R": 5192,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 2595,
+     "votes_R": 9209,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 39,
+     "votes_R": 188,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 8,
+     "votes_R": 9,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Preble County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "39137": {
+   "name": "Putnam",
+   "raw_name": "Putnam",
+   "fips": "39137",
+   "is_mappable": true,
+   "votes_D": 3573,
+   "votes_R": 15582,
+   "votes_other": 0,
+   "total_votes": 19155,
+   "pct_D": 18.7,
+   "pct_R": 81.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 1685,
+     "votes_R": 7568,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 1851,
+     "votes_R": 7882,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 37,
+     "votes_R": 132,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Putnam County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39139": {
+   "name": "Richland",
+   "raw_name": "Richland",
+   "fips": "39139",
+   "is_mappable": true,
+   "votes_D": 18488,
+   "votes_R": 37368,
+   "votes_other": 1887,
+   "total_votes": 57743,
+   "pct_D": 32.0,
+   "pct_R": 64.7,
+   "modes": {
+    "total": {
+     "votes_D": 18488,
+     "votes_R": 37368,
+     "votes_other": 1887
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39141": {
+   "name": "Ross",
+   "raw_name": "Ross",
+   "fips": "39141",
+   "is_mappable": true,
+   "votes_D": 11125,
+   "votes_R": 20402,
+   "votes_other": 0,
+   "total_votes": 31527,
+   "pct_D": 35.3,
+   "pct_R": 64.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 4404,
+     "votes_R": 10207,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 6517,
+     "votes_R": 9758,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 204,
+     "votes_R": 437,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Ross County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39143": {
+   "name": "Sandusky",
+   "raw_name": "Sandusky",
+   "fips": "39143",
+   "is_mappable": true,
+   "votes_D": 10782,
+   "votes_R": 16951,
+   "votes_other": 0,
+   "total_votes": 27733,
+   "pct_D": 38.9,
+   "pct_R": 61.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 5723,
+     "votes_R": 10758,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 2879,
+     "votes_R": 4444,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 2034,
+     "votes_R": 1509,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 146,
+     "votes_R": 240,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Sandusky County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39145": {
+   "name": "Scioto",
+   "raw_name": "Scioto",
+   "fips": "39145",
+   "is_mappable": true,
+   "votes_D": 8935,
+   "votes_R": 20509,
+   "votes_other": 1075,
+   "total_votes": 30519,
+   "pct_D": 29.3,
+   "pct_R": 67.2,
+   "modes": {
+    "total": {
+     "votes_D": 8935,
+     "votes_R": 20509,
+     "votes_other": 1075
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39147": {
+   "name": "Seneca",
+   "raw_name": "Seneca",
+   "fips": "39147",
+   "is_mappable": true,
+   "votes_D": 8509,
+   "votes_R": 15420,
+   "votes_other": 0,
+   "total_votes": 23929,
+   "pct_D": 35.6,
+   "pct_R": 64.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 4358,
+     "votes_R": 9526,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 4067,
+     "votes_R": 5650,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 84,
+     "votes_R": 244,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Seneca County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39149": {
+   "name": "Shelby",
+   "raw_name": "Shelby",
+   "fips": "39149",
+   "is_mappable": true,
+   "votes_D": 4927,
+   "votes_R": 19275,
+   "votes_other": 865,
+   "total_votes": 25067,
+   "pct_D": 19.7,
+   "pct_R": 76.9,
+   "modes": {
+    "total": {
+     "votes_D": 4927,
+     "votes_R": 19275,
+     "votes_other": 865
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39151": {
+   "name": "Stark",
+   "raw_name": "Stark",
+   "fips": "39151",
+   "is_mappable": true,
+   "votes_D": 75434,
+   "votes_R": 99365,
+   "votes_other": 0,
+   "total_votes": 174799,
+   "pct_D": 43.2,
+   "pct_R": 56.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 37624,
+     "votes_R": 59973,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 18616,
+     "votes_R": 24037,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 17987,
+     "votes_R": 13780,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 1207,
+     "votes_R": 1575,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Stark County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39153": {
+   "name": "Summit",
+   "raw_name": "Summit",
+   "fips": "39153",
+   "is_mappable": true,
+   "votes_D": 150517,
+   "votes_R": 111574,
+   "votes_other": 0,
+   "total_votes": 262091,
+   "pct_D": 57.4,
+   "pct_R": 42.6,
+   "modes": {
+    "mail": {
+     "votes_D": 36993,
+     "votes_R": 19001,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 79905,
+     "votes_R": 73148,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 31246,
+     "votes_R": 17702,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 2373,
+     "votes_R": 1723,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Summit County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39155": {
+   "name": "Trumbull",
+   "raw_name": "Trumbull",
+   "fips": "39155",
+   "is_mappable": true,
+   "votes_D": 43178,
+   "votes_R": 48755,
+   "votes_other": 3716,
+   "total_votes": 95649,
+   "pct_D": 45.1,
+   "pct_R": 51.0,
+   "modes": {
+    "total": {
+     "votes_D": 43178,
+     "votes_R": 48755,
+     "votes_other": 3716
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39157": {
+   "name": "Tuscarawas",
+   "raw_name": "Tuscarawas",
+   "fips": "39157",
+   "is_mappable": true,
+   "votes_D": 13501,
+   "votes_R": 27395,
+   "votes_other": 0,
+   "total_votes": 40896,
+   "pct_D": 33.0,
+   "pct_R": 67.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 6756,
+     "votes_R": 16900,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 6600,
+     "votes_R": 10009,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 116,
+     "votes_R": 456,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 29,
+     "votes_R": 30,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Tuscarawas County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39159": {
+   "name": "Union",
+   "raw_name": "Union",
+   "fips": "39159",
+   "is_mappable": true,
+   "votes_D": 13719,
+   "votes_R": 21926,
+   "votes_other": 0,
+   "total_votes": 35645,
+   "pct_D": 38.5,
+   "pct_R": 61.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 4845,
+     "votes_R": 8924,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 8694,
+     "votes_R": 12706,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 180,
+     "votes_R": 296,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Union County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39161": {
+   "name": "Van Wert",
+   "raw_name": "Van Wert",
+   "fips": "39161",
+   "is_mappable": true,
+   "votes_D": 3204,
+   "votes_R": 10826,
+   "votes_other": 0,
+   "total_votes": 14030,
+   "pct_D": 22.8,
+   "pct_R": 77.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 1058,
+     "votes_R": 4317,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 538,
+     "votes_R": 1011,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1595,
+     "votes_R": 5436,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 13,
+     "votes_R": 62,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Van Wert County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39163": {
+   "name": "Vinton",
+   "raw_name": "Vinton",
+   "fips": "39163",
+   "is_mappable": true,
+   "votes_D": 1360,
+   "votes_R": 4018,
+   "votes_other": 0,
+   "total_votes": 5378,
+   "pct_D": 25.3,
+   "pct_R": 74.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 566,
+     "votes_R": 2035,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 784,
+     "votes_R": 1927,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 10,
+     "votes_R": 56,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Vinton County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "39165": {
+   "name": "Warren",
+   "raw_name": "Warren",
+   "fips": "39165",
+   "is_mappable": true,
+   "votes_D": 49350,
+   "votes_R": 84796,
+   "votes_other": 4719,
+   "total_votes": 138865,
+   "pct_D": 35.5,
+   "pct_R": 61.1,
+   "modes": {
+    "total": {
+     "votes_D": 49350,
+     "votes_R": 84796,
+     "votes_other": 4719
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39167": {
+   "name": "Washington",
+   "raw_name": "Washington",
+   "fips": "39167",
+   "is_mappable": true,
+   "votes_D": 9275,
+   "votes_R": 19865,
+   "votes_other": 0,
+   "total_votes": 29140,
+   "pct_D": 31.8,
+   "pct_R": 68.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 3099,
+     "votes_R": 8554,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 4121,
+     "votes_R": 8758,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 116,
+     "votes_R": 348,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1939,
+     "votes_R": 2205,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Washington County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39169": {
+   "name": "Wayne",
+   "raw_name": "Wayne",
+   "fips": "39169",
+   "is_mappable": true,
+   "votes_D": 17313,
+   "votes_R": 33532,
+   "votes_other": 1898,
+   "total_votes": 52743,
+   "pct_D": 32.8,
+   "pct_R": 63.6,
+   "modes": {
+    "total": {
+     "votes_D": 17313,
+     "votes_R": 33532,
+     "votes_other": 1898
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39171": {
+   "name": "Williams",
+   "raw_name": "Williams",
+   "fips": "39171",
+   "is_mappable": true,
+   "votes_D": 5043,
+   "votes_R": 12036,
+   "votes_other": 0,
+   "total_votes": 17079,
+   "pct_D": 29.5,
+   "pct_R": 70.5,
+   "modes": {
+    "mail": {
+     "votes_D": 879,
+     "votes_R": 1007,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1775,
+     "votes_R": 4030,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 2350,
+     "votes_R": 6833,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 39,
+     "votes_R": 166,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Williams County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "39173": {
+   "name": "Wood",
+   "raw_name": "Wood",
+   "fips": "39173",
+   "is_mappable": true,
+   "votes_D": 31242,
+   "votes_R": 32801,
+   "votes_other": 2752,
+   "total_votes": 66795,
+   "pct_D": 46.8,
+   "pct_R": 49.1,
+   "modes": {
+    "total": {
+     "votes_D": 31242,
+     "votes_R": 32801,
+     "votes_other": 2752
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "39175": {
+   "name": "Wyandot",
+   "raw_name": "Wyandot",
+   "fips": "39175",
+   "is_mappable": true,
+   "votes_D": 2996,
+   "votes_R": 7813,
+   "votes_other": 0,
+   "total_votes": 10809,
+   "pct_D": 27.7,
+   "pct_R": 72.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 1109,
+     "votes_R": 3836,
+     "votes_other": 0
+    },
+    "pre_election_day": {
+     "votes_D": 1843,
+     "votes_R": 3834,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 44,
+     "votes_R": 143,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Wyandot County, OH",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  }
+ }
+}

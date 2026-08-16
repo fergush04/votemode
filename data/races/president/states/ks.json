@@ -1,0 +1,2558 @@
+{
+ "race": "president",
+ "race_label": "President",
+ "race_type": "president",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Kamala D. Harris",
+ "candidate_R": "Donald J. Trump",
+ "state": "Kansas",
+ "state_abbr": "KS",
+ "unit_type": "county",
+ "avg_completeness": "U",
+ "completeness_breakdown": {
+  "U": 105
+ },
+ "votes_D": 544853,
+ "votes_R": 758802,
+ "votes_other": 23936,
+ "total_votes": 1327591,
+ "pct_D": 41.0,
+ "pct_R": 57.2,
+ "unit_count": 105,
+ "state_profile": {
+  "voting_summary": "Kansas offers up to 20 days of in-person advance voting and no-excuse mail voting, with mail postmarked by election day accepted three days late. Polls close at 9 p.m. Eastern; advance votes are released first, then election day precincts, with most results in by early morning. Official results report combined totals only, so no method breakdown is available in this data.",
+  "reporting_notes": "",
+  "tags": [
+   "Advance voting",
+   "No-excuse mail",
+   "Totals only"
+  ],
+  "mode_split": {
+   "total": 100.0
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "20001": {
+   "name": "Allen",
+   "raw_name": "Allen",
+   "fips": "20001",
+   "is_mappable": true,
+   "votes_D": 1445,
+   "votes_R": 4029,
+   "votes_other": 126,
+   "total_votes": 5600,
+   "pct_D": 25.8,
+   "pct_R": 71.9,
+   "modes": {
+    "total": {
+     "votes_D": 1445,
+     "votes_R": 4029,
+     "votes_other": 126
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20003": {
+   "name": "Anderson",
+   "raw_name": "Anderson",
+   "fips": "20003",
+   "is_mappable": true,
+   "votes_D": 732,
+   "votes_R": 2998,
+   "votes_other": 61,
+   "total_votes": 3791,
+   "pct_D": 19.3,
+   "pct_R": 79.1,
+   "modes": {
+    "total": {
+     "votes_D": 732,
+     "votes_R": 2998,
+     "votes_other": 61
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20005": {
+   "name": "Atchison",
+   "raw_name": "Atchison",
+   "fips": "20005",
+   "is_mappable": true,
+   "votes_D": 2201,
+   "votes_R": 4911,
+   "votes_other": 143,
+   "total_votes": 7255,
+   "pct_D": 30.3,
+   "pct_R": 67.7,
+   "modes": {
+    "total": {
+     "votes_D": 2201,
+     "votes_R": 4911,
+     "votes_other": 143
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20007": {
+   "name": "Barber",
+   "raw_name": "Barber",
+   "fips": "20007",
+   "is_mappable": true,
+   "votes_D": 288,
+   "votes_R": 1854,
+   "votes_other": 28,
+   "total_votes": 2170,
+   "pct_D": 13.3,
+   "pct_R": 85.4,
+   "modes": {
+    "total": {
+     "votes_D": 288,
+     "votes_R": 1854,
+     "votes_other": 28
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20009": {
+   "name": "Barton",
+   "raw_name": "Barton",
+   "fips": "20009",
+   "is_mappable": true,
+   "votes_D": 2207,
+   "votes_R": 8205,
+   "votes_other": 158,
+   "total_votes": 10570,
+   "pct_D": 20.9,
+   "pct_R": 77.6,
+   "modes": {
+    "total": {
+     "votes_D": 2207,
+     "votes_R": 8205,
+     "votes_other": 158
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20011": {
+   "name": "Bourbon",
+   "raw_name": "Bourbon",
+   "fips": "20011",
+   "is_mappable": true,
+   "votes_D": 1444,
+   "votes_R": 5003,
+   "votes_other": 125,
+   "total_votes": 6572,
+   "pct_D": 22.0,
+   "pct_R": 76.1,
+   "modes": {
+    "total": {
+     "votes_D": 1444,
+     "votes_R": 5003,
+     "votes_other": 125
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20013": {
+   "name": "Brown",
+   "raw_name": "Brown",
+   "fips": "20013",
+   "is_mappable": true,
+   "votes_D": 1065,
+   "votes_R": 3106,
+   "votes_other": 87,
+   "total_votes": 4258,
+   "pct_D": 25.0,
+   "pct_R": 72.9,
+   "modes": {
+    "total": {
+     "votes_D": 1065,
+     "votes_R": 3106,
+     "votes_other": 87
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20015": {
+   "name": "Butler",
+   "raw_name": "Butler",
+   "fips": "20015",
+   "is_mappable": true,
+   "votes_D": 9150,
+   "votes_R": 22426,
+   "votes_other": 660,
+   "total_votes": 32236,
+   "pct_D": 28.4,
+   "pct_R": 69.6,
+   "modes": {
+    "total": {
+     "votes_D": 9150,
+     "votes_R": 22426,
+     "votes_other": 660
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20017": {
+   "name": "Chase",
+   "raw_name": "Chase",
+   "fips": "20017",
+   "is_mappable": true,
+   "votes_D": 348,
+   "votes_R": 1090,
+   "votes_other": 24,
+   "total_votes": 1462,
+   "pct_D": 23.8,
+   "pct_R": 74.6,
+   "modes": {
+    "total": {
+     "votes_D": 348,
+     "votes_R": 1090,
+     "votes_other": 24
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20019": {
+   "name": "Chautauqua",
+   "raw_name": "Chautauqua",
+   "fips": "20019",
+   "is_mappable": true,
+   "votes_D": 211,
+   "votes_R": 1299,
+   "votes_other": 17,
+   "total_votes": 1527,
+   "pct_D": 13.8,
+   "pct_R": 85.1,
+   "modes": {
+    "total": {
+     "votes_D": 211,
+     "votes_R": 1299,
+     "votes_other": 17
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20021": {
+   "name": "Cherokee",
+   "raw_name": "Cherokee",
+   "fips": "20021",
+   "is_mappable": true,
+   "votes_D": 1970,
+   "votes_R": 6584,
+   "votes_other": 163,
+   "total_votes": 8717,
+   "pct_D": 22.6,
+   "pct_R": 75.5,
+   "modes": {
+    "total": {
+     "votes_D": 1970,
+     "votes_R": 6584,
+     "votes_other": 163
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20023": {
+   "name": "Cheyenne",
+   "raw_name": "Cheyenne",
+   "fips": "20023",
+   "is_mappable": true,
+   "votes_D": 206,
+   "votes_R": 1185,
+   "votes_other": 31,
+   "total_votes": 1422,
+   "pct_D": 14.5,
+   "pct_R": 83.3,
+   "modes": {
+    "total": {
+     "votes_D": 206,
+     "votes_R": 1185,
+     "votes_other": 31
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20025": {
+   "name": "Clark",
+   "raw_name": "Clark",
+   "fips": "20025",
+   "is_mappable": true,
+   "votes_D": 129,
+   "votes_R": 867,
+   "votes_other": 18,
+   "total_votes": 1014,
+   "pct_D": 12.7,
+   "pct_R": 85.5,
+   "modes": {
+    "total": {
+     "votes_D": 129,
+     "votes_R": 867,
+     "votes_other": 18
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20027": {
+   "name": "Clay",
+   "raw_name": "Clay",
+   "fips": "20027",
+   "is_mappable": true,
+   "votes_D": 867,
+   "votes_R": 3150,
+   "votes_other": 96,
+   "total_votes": 4113,
+   "pct_D": 21.1,
+   "pct_R": 76.6,
+   "modes": {
+    "total": {
+     "votes_D": 867,
+     "votes_R": 3150,
+     "votes_other": 96
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20029": {
+   "name": "Cloud",
+   "raw_name": "Cloud",
+   "fips": "20029",
+   "is_mappable": true,
+   "votes_D": 767,
+   "votes_R": 3218,
+   "votes_other": 62,
+   "total_votes": 4047,
+   "pct_D": 19.0,
+   "pct_R": 79.5,
+   "modes": {
+    "total": {
+     "votes_D": 767,
+     "votes_R": 3218,
+     "votes_other": 62
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20031": {
+   "name": "Coffey",
+   "raw_name": "Coffey",
+   "fips": "20031",
+   "is_mappable": true,
+   "votes_D": 934,
+   "votes_R": 3371,
+   "votes_other": 72,
+   "total_votes": 4377,
+   "pct_D": 21.3,
+   "pct_R": 77.0,
+   "modes": {
+    "total": {
+     "votes_D": 934,
+     "votes_R": 3371,
+     "votes_other": 72
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20033": {
+   "name": "Comanche",
+   "raw_name": "Comanche",
+   "fips": "20033",
+   "is_mappable": true,
+   "votes_D": 130,
+   "votes_R": 727,
+   "votes_other": 17,
+   "total_votes": 874,
+   "pct_D": 14.9,
+   "pct_R": 83.2,
+   "modes": {
+    "total": {
+     "votes_D": 130,
+     "votes_R": 727,
+     "votes_other": 17
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20035": {
+   "name": "Cowley",
+   "raw_name": "Cowley",
+   "fips": "20035",
+   "is_mappable": true,
+   "votes_D": 3919,
+   "votes_R": 9360,
+   "votes_other": 226,
+   "total_votes": 13505,
+   "pct_D": 29.0,
+   "pct_R": 69.3,
+   "modes": {
+    "total": {
+     "votes_D": 3919,
+     "votes_R": 9360,
+     "votes_other": 226
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20037": {
+   "name": "Crawford",
+   "raw_name": "Crawford",
+   "fips": "20037",
+   "is_mappable": true,
+   "votes_D": 5956,
+   "votes_R": 10084,
+   "votes_other": 294,
+   "total_votes": 16334,
+   "pct_D": 36.5,
+   "pct_R": 61.7,
+   "modes": {
+    "total": {
+     "votes_D": 5956,
+     "votes_R": 10084,
+     "votes_other": 294
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20039": {
+   "name": "Decatur",
+   "raw_name": "Decatur",
+   "fips": "20039",
+   "is_mappable": true,
+   "votes_D": 215,
+   "votes_R": 1217,
+   "votes_other": 20,
+   "total_votes": 1452,
+   "pct_D": 14.8,
+   "pct_R": 83.8,
+   "modes": {
+    "total": {
+     "votes_D": 215,
+     "votes_R": 1217,
+     "votes_other": 20
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20041": {
+   "name": "Dickinson",
+   "raw_name": "Dickinson",
+   "fips": "20041",
+   "is_mappable": true,
+   "votes_D": 1989,
+   "votes_R": 7014,
+   "votes_other": 141,
+   "total_votes": 9144,
+   "pct_D": 21.8,
+   "pct_R": 76.7,
+   "modes": {
+    "total": {
+     "votes_D": 1989,
+     "votes_R": 7014,
+     "votes_other": 141
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20043": {
+   "name": "Doniphan",
+   "raw_name": "Doniphan",
+   "fips": "20043",
+   "is_mappable": true,
+   "votes_D": 626,
+   "votes_R": 2899,
+   "votes_other": 52,
+   "total_votes": 3577,
+   "pct_D": 17.5,
+   "pct_R": 81.0,
+   "modes": {
+    "total": {
+     "votes_D": 626,
+     "votes_R": 2899,
+     "votes_other": 52
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20045": {
+   "name": "Douglas",
+   "raw_name": "Douglas",
+   "fips": "20045",
+   "is_mappable": true,
+   "votes_D": 39582,
+   "votes_R": 17523,
+   "votes_other": 936,
+   "total_votes": 58041,
+   "pct_D": 68.2,
+   "pct_R": 30.2,
+   "modes": {
+    "total": {
+     "votes_D": 39582,
+     "votes_R": 17523,
+     "votes_other": 936
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20047": {
+   "name": "Edwards",
+   "raw_name": "Edwards",
+   "fips": "20047",
+   "is_mappable": true,
+   "votes_D": 213,
+   "votes_R": 1042,
+   "votes_other": 14,
+   "total_votes": 1269,
+   "pct_D": 16.8,
+   "pct_R": 82.1,
+   "modes": {
+    "total": {
+     "votes_D": 213,
+     "votes_R": 1042,
+     "votes_other": 14
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20049": {
+   "name": "Elk",
+   "raw_name": "Elk",
+   "fips": "20049",
+   "is_mappable": true,
+   "votes_D": 191,
+   "votes_R": 1123,
+   "votes_other": 24,
+   "total_votes": 1338,
+   "pct_D": 14.3,
+   "pct_R": 83.9,
+   "modes": {
+    "total": {
+     "votes_D": 191,
+     "votes_R": 1123,
+     "votes_other": 24
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20051": {
+   "name": "Ellis",
+   "raw_name": "Ellis",
+   "fips": "20051",
+   "is_mappable": true,
+   "votes_D": 3511,
+   "votes_R": 9743,
+   "votes_other": 257,
+   "total_votes": 13511,
+   "pct_D": 26.0,
+   "pct_R": 72.1,
+   "modes": {
+    "total": {
+     "votes_D": 3511,
+     "votes_R": 9743,
+     "votes_other": 257
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20053": {
+   "name": "Ellsworth",
+   "raw_name": "Ellsworth",
+   "fips": "20053",
+   "is_mappable": true,
+   "votes_D": 636,
+   "votes_R": 2078,
+   "votes_other": 44,
+   "total_votes": 2758,
+   "pct_D": 23.1,
+   "pct_R": 75.3,
+   "modes": {
+    "total": {
+     "votes_D": 636,
+     "votes_R": 2078,
+     "votes_other": 44
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20055": {
+   "name": "Finney",
+   "raw_name": "Finney",
+   "fips": "20055",
+   "is_mappable": true,
+   "votes_D": 3425,
+   "votes_R": 7166,
+   "votes_other": 191,
+   "total_votes": 10782,
+   "pct_D": 31.8,
+   "pct_R": 66.5,
+   "modes": {
+    "total": {
+     "votes_D": 3425,
+     "votes_R": 7166,
+     "votes_other": 191
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20057": {
+   "name": "Ford",
+   "raw_name": "Ford",
+   "fips": "20057",
+   "is_mappable": true,
+   "votes_D": 2461,
+   "votes_R": 5616,
+   "votes_other": 147,
+   "total_votes": 8224,
+   "pct_D": 29.9,
+   "pct_R": 68.3,
+   "modes": {
+    "total": {
+     "votes_D": 2461,
+     "votes_R": 5616,
+     "votes_other": 147
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20059": {
+   "name": "Franklin",
+   "raw_name": "Franklin",
+   "fips": "20059",
+   "is_mappable": true,
+   "votes_D": 3676,
+   "votes_R": 8773,
+   "votes_other": 259,
+   "total_votes": 12708,
+   "pct_D": 28.9,
+   "pct_R": 69.0,
+   "modes": {
+    "total": {
+     "votes_D": 3676,
+     "votes_R": 8773,
+     "votes_other": 259
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20061": {
+   "name": "Geary",
+   "raw_name": "Geary",
+   "fips": "20061",
+   "is_mappable": true,
+   "votes_D": 3674,
+   "votes_R": 5288,
+   "votes_other": 201,
+   "total_votes": 9163,
+   "pct_D": 40.1,
+   "pct_R": 57.7,
+   "modes": {
+    "total": {
+     "votes_D": 3674,
+     "votes_R": 5288,
+     "votes_other": 201
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20063": {
+   "name": "Gove",
+   "raw_name": "Gove",
+   "fips": "20063",
+   "is_mappable": true,
+   "votes_D": 150,
+   "votes_R": 1227,
+   "votes_other": 19,
+   "total_votes": 1396,
+   "pct_D": 10.7,
+   "pct_R": 87.9,
+   "modes": {
+    "total": {
+     "votes_D": 150,
+     "votes_R": 1227,
+     "votes_other": 19
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20065": {
+   "name": "Graham",
+   "raw_name": "Graham",
+   "fips": "20065",
+   "is_mappable": true,
+   "votes_D": 210,
+   "votes_R": 1055,
+   "votes_other": 22,
+   "total_votes": 1287,
+   "pct_D": 16.3,
+   "pct_R": 82.0,
+   "modes": {
+    "total": {
+     "votes_D": 210,
+     "votes_R": 1055,
+     "votes_other": 22
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20067": {
+   "name": "Grant",
+   "raw_name": "Grant",
+   "fips": "20067",
+   "is_mappable": true,
+   "votes_D": 395,
+   "votes_R": 1793,
+   "votes_other": 32,
+   "total_votes": 2220,
+   "pct_D": 17.8,
+   "pct_R": 80.8,
+   "modes": {
+    "total": {
+     "votes_D": 395,
+     "votes_R": 1793,
+     "votes_other": 32
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20069": {
+   "name": "Gray",
+   "raw_name": "Gray",
+   "fips": "20069",
+   "is_mappable": true,
+   "votes_D": 324,
+   "votes_R": 1837,
+   "votes_other": 32,
+   "total_votes": 2193,
+   "pct_D": 14.8,
+   "pct_R": 83.8,
+   "modes": {
+    "total": {
+     "votes_D": 324,
+     "votes_R": 1837,
+     "votes_other": 32
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20071": {
+   "name": "Greeley",
+   "raw_name": "Greeley",
+   "fips": "20071",
+   "is_mappable": true,
+   "votes_D": 75,
+   "votes_R": 510,
+   "votes_other": 8,
+   "total_votes": 593,
+   "pct_D": 12.6,
+   "pct_R": 86.0,
+   "modes": {
+    "total": {
+     "votes_D": 75,
+     "votes_R": 510,
+     "votes_other": 8
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20073": {
+   "name": "Greenwood",
+   "raw_name": "Greenwood",
+   "fips": "20073",
+   "is_mappable": true,
+   "votes_D": 541,
+   "votes_R": 2299,
+   "votes_other": 44,
+   "total_votes": 2884,
+   "pct_D": 18.8,
+   "pct_R": 79.7,
+   "modes": {
+    "total": {
+     "votes_D": 541,
+     "votes_R": 2299,
+     "votes_other": 44
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20075": {
+   "name": "Hamilton",
+   "raw_name": "Hamilton",
+   "fips": "20075",
+   "is_mappable": true,
+   "votes_D": 131,
+   "votes_R": 671,
+   "votes_other": 13,
+   "total_votes": 815,
+   "pct_D": 16.1,
+   "pct_R": 82.3,
+   "modes": {
+    "total": {
+     "votes_D": 131,
+     "votes_R": 671,
+     "votes_other": 13
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20077": {
+   "name": "Harper",
+   "raw_name": "Harper",
+   "fips": "20077",
+   "is_mappable": true,
+   "votes_D": 437,
+   "votes_R": 2072,
+   "votes_other": 46,
+   "total_votes": 2555,
+   "pct_D": 17.1,
+   "pct_R": 81.1,
+   "modes": {
+    "total": {
+     "votes_D": 437,
+     "votes_R": 2072,
+     "votes_other": 46
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20079": {
+   "name": "Harvey",
+   "raw_name": "Harvey",
+   "fips": "20079",
+   "is_mappable": true,
+   "votes_D": 6202,
+   "votes_R": 9591,
+   "votes_other": 293,
+   "total_votes": 16086,
+   "pct_D": 38.6,
+   "pct_R": 59.6,
+   "modes": {
+    "total": {
+     "votes_D": 6202,
+     "votes_R": 9591,
+     "votes_other": 293
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20081": {
+   "name": "Haskell",
+   "raw_name": "Haskell",
+   "fips": "20081",
+   "is_mappable": true,
+   "votes_D": 221,
+   "votes_R": 1045,
+   "votes_other": 12,
+   "total_votes": 1278,
+   "pct_D": 17.3,
+   "pct_R": 81.8,
+   "modes": {
+    "total": {
+     "votes_D": 221,
+     "votes_R": 1045,
+     "votes_other": 12
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20083": {
+   "name": "Hodgeman",
+   "raw_name": "Hodgeman",
+   "fips": "20083",
+   "is_mappable": true,
+   "votes_D": 136,
+   "votes_R": 817,
+   "votes_other": 13,
+   "total_votes": 966,
+   "pct_D": 14.1,
+   "pct_R": 84.6,
+   "modes": {
+    "total": {
+     "votes_D": 136,
+     "votes_R": 817,
+     "votes_other": 13
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20085": {
+   "name": "Jackson",
+   "raw_name": "Jackson",
+   "fips": "20085",
+   "is_mappable": true,
+   "votes_D": 1799,
+   "votes_R": 4557,
+   "votes_other": 118,
+   "total_votes": 6474,
+   "pct_D": 27.8,
+   "pct_R": 70.4,
+   "modes": {
+    "total": {
+     "votes_D": 1799,
+     "votes_R": 4557,
+     "votes_other": 118
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20087": {
+   "name": "Jefferson",
+   "raw_name": "Jefferson",
+   "fips": "20087",
+   "is_mappable": true,
+   "votes_D": 3030,
+   "votes_R": 6694,
+   "votes_other": 203,
+   "total_votes": 9927,
+   "pct_D": 30.5,
+   "pct_R": 67.4,
+   "modes": {
+    "total": {
+     "votes_D": 3030,
+     "votes_R": 6694,
+     "votes_other": 203
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20089": {
+   "name": "Jewell",
+   "raw_name": "Jewell",
+   "fips": "20089",
+   "is_mappable": true,
+   "votes_D": 176,
+   "votes_R": 1370,
+   "votes_other": 28,
+   "total_votes": 1574,
+   "pct_D": 11.2,
+   "pct_R": 87.0,
+   "modes": {
+    "total": {
+     "votes_D": 176,
+     "votes_R": 1370,
+     "votes_other": 28
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20091": {
+   "name": "Johnson",
+   "raw_name": "Johnson",
+   "fips": "20091",
+   "is_mappable": true,
+   "votes_D": 183451,
+   "votes_R": 154247,
+   "votes_other": 6082,
+   "total_votes": 343780,
+   "pct_D": 53.4,
+   "pct_R": 44.9,
+   "modes": {
+    "total": {
+     "votes_D": 183451,
+     "votes_R": 154247,
+     "votes_other": 6082
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20093": {
+   "name": "Kearny",
+   "raw_name": "Kearny",
+   "fips": "20093",
+   "is_mappable": true,
+   "votes_D": 192,
+   "votes_R": 1082,
+   "votes_other": 27,
+   "total_votes": 1301,
+   "pct_D": 14.8,
+   "pct_R": 83.2,
+   "modes": {
+    "total": {
+     "votes_D": 192,
+     "votes_R": 1082,
+     "votes_other": 27
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20095": {
+   "name": "Kingman",
+   "raw_name": "Kingman",
+   "fips": "20095",
+   "is_mappable": true,
+   "votes_D": 753,
+   "votes_R": 3119,
+   "votes_other": 75,
+   "total_votes": 3947,
+   "pct_D": 19.1,
+   "pct_R": 79.0,
+   "modes": {
+    "total": {
+     "votes_D": 753,
+     "votes_R": 3119,
+     "votes_other": 75
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20097": {
+   "name": "Kiowa",
+   "raw_name": "Kiowa",
+   "fips": "20097",
+   "is_mappable": true,
+   "votes_D": 151,
+   "votes_R": 941,
+   "votes_other": 15,
+   "total_votes": 1107,
+   "pct_D": 13.6,
+   "pct_R": 85.0,
+   "modes": {
+    "total": {
+     "votes_D": 151,
+     "votes_R": 941,
+     "votes_other": 15
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20099": {
+   "name": "Labette",
+   "raw_name": "Labette",
+   "fips": "20099",
+   "is_mappable": true,
+   "votes_D": 2385,
+   "votes_R": 5410,
+   "votes_other": 126,
+   "total_votes": 7921,
+   "pct_D": 30.1,
+   "pct_R": 68.3,
+   "modes": {
+    "total": {
+     "votes_D": 2385,
+     "votes_R": 5410,
+     "votes_other": 126
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20101": {
+   "name": "Lane",
+   "raw_name": "Lane",
+   "fips": "20101",
+   "is_mappable": true,
+   "votes_D": 111,
+   "votes_R": 709,
+   "votes_other": 23,
+   "total_votes": 843,
+   "pct_D": 13.2,
+   "pct_R": 84.1,
+   "modes": {
+    "total": {
+     "votes_D": 111,
+     "votes_R": 709,
+     "votes_other": 23
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20103": {
+   "name": "Leavenworth",
+   "raw_name": "Leavenworth",
+   "fips": "20103",
+   "is_mappable": true,
+   "votes_D": 13732,
+   "votes_R": 22055,
+   "votes_other": 760,
+   "total_votes": 36547,
+   "pct_D": 37.6,
+   "pct_R": 60.3,
+   "modes": {
+    "total": {
+     "votes_D": 13732,
+     "votes_R": 22055,
+     "votes_other": 760
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20105": {
+   "name": "Lincoln",
+   "raw_name": "Lincoln",
+   "fips": "20105",
+   "is_mappable": true,
+   "votes_D": 250,
+   "votes_R": 1233,
+   "votes_other": 24,
+   "total_votes": 1507,
+   "pct_D": 16.6,
+   "pct_R": 81.8,
+   "modes": {
+    "total": {
+     "votes_D": 250,
+     "votes_R": 1233,
+     "votes_other": 24
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20107": {
+   "name": "Linn",
+   "raw_name": "Linn",
+   "fips": "20107",
+   "is_mappable": true,
+   "votes_D": 854,
+   "votes_R": 4093,
+   "votes_other": 69,
+   "total_votes": 5016,
+   "pct_D": 17.0,
+   "pct_R": 81.6,
+   "modes": {
+    "total": {
+     "votes_D": 854,
+     "votes_R": 4093,
+     "votes_other": 69
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20109": {
+   "name": "Logan",
+   "raw_name": "Logan",
+   "fips": "20109",
+   "is_mappable": true,
+   "votes_D": 183,
+   "votes_R": 1186,
+   "votes_other": 31,
+   "total_votes": 1400,
+   "pct_D": 13.1,
+   "pct_R": 84.7,
+   "modes": {
+    "total": {
+     "votes_D": 183,
+     "votes_R": 1186,
+     "votes_other": 31
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20111": {
+   "name": "Lyon",
+   "raw_name": "Lyon",
+   "fips": "20111",
+   "is_mappable": true,
+   "votes_D": 5515,
+   "votes_R": 7462,
+   "votes_other": 279,
+   "total_votes": 13256,
+   "pct_D": 41.6,
+   "pct_R": 56.3,
+   "modes": {
+    "total": {
+     "votes_D": 5515,
+     "votes_R": 7462,
+     "votes_other": 279
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20115": {
+   "name": "Marion",
+   "raw_name": "Marion",
+   "fips": "20115",
+   "is_mappable": true,
+   "votes_D": 1429,
+   "votes_R": 4312,
+   "votes_other": 129,
+   "total_votes": 5870,
+   "pct_D": 24.3,
+   "pct_R": 73.5,
+   "modes": {
+    "total": {
+     "votes_D": 1429,
+     "votes_R": 4312,
+     "votes_other": 129
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20117": {
+   "name": "Marshall",
+   "raw_name": "Marshall",
+   "fips": "20117",
+   "is_mappable": true,
+   "votes_D": 1205,
+   "votes_R": 3644,
+   "votes_other": 119,
+   "total_votes": 4968,
+   "pct_D": 24.3,
+   "pct_R": 73.3,
+   "modes": {
+    "total": {
+     "votes_D": 1205,
+     "votes_R": 3644,
+     "votes_other": 119
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20113": {
+   "name": "McPherson",
+   "raw_name": "McPherson",
+   "fips": "20113",
+   "is_mappable": true,
+   "votes_D": 4021,
+   "votes_R": 9816,
+   "votes_other": 267,
+   "total_votes": 14104,
+   "pct_D": 28.5,
+   "pct_R": 69.6,
+   "modes": {
+    "total": {
+     "votes_D": 4021,
+     "votes_R": 9816,
+     "votes_other": 267
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20119": {
+   "name": "Meade",
+   "raw_name": "Meade",
+   "fips": "20119",
+   "is_mappable": true,
+   "votes_D": 247,
+   "votes_R": 1427,
+   "votes_other": 21,
+   "total_votes": 1695,
+   "pct_D": 14.6,
+   "pct_R": 84.2,
+   "modes": {
+    "total": {
+     "votes_D": 247,
+     "votes_R": 1427,
+     "votes_other": 21
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20121": {
+   "name": "Miami",
+   "raw_name": "Miami",
+   "fips": "20121",
+   "is_mappable": true,
+   "votes_D": 5472,
+   "votes_R": 12854,
+   "votes_other": 359,
+   "total_votes": 18685,
+   "pct_D": 29.3,
+   "pct_R": 68.8,
+   "modes": {
+    "total": {
+     "votes_D": 5472,
+     "votes_R": 12854,
+     "votes_other": 359
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20123": {
+   "name": "Mitchell",
+   "raw_name": "Mitchell",
+   "fips": "20123",
+   "is_mappable": true,
+   "votes_D": 528,
+   "votes_R": 2608,
+   "votes_other": 36,
+   "total_votes": 3172,
+   "pct_D": 16.6,
+   "pct_R": 82.2,
+   "modes": {
+    "total": {
+     "votes_D": 528,
+     "votes_R": 2608,
+     "votes_other": 36
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20125": {
+   "name": "Montgomery",
+   "raw_name": "Montgomery",
+   "fips": "20125",
+   "is_mappable": true,
+   "votes_D": 2934,
+   "votes_R": 9287,
+   "votes_other": 220,
+   "total_votes": 12441,
+   "pct_D": 23.6,
+   "pct_R": 74.6,
+   "modes": {
+    "total": {
+     "votes_D": 2934,
+     "votes_R": 9287,
+     "votes_other": 220
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20127": {
+   "name": "Morris",
+   "raw_name": "Morris",
+   "fips": "20127",
+   "is_mappable": true,
+   "votes_D": 721,
+   "votes_R": 2021,
+   "votes_other": 50,
+   "total_votes": 2792,
+   "pct_D": 25.8,
+   "pct_R": 72.4,
+   "modes": {
+    "total": {
+     "votes_D": 721,
+     "votes_R": 2021,
+     "votes_other": 50
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20129": {
+   "name": "Morton",
+   "raw_name": "Morton",
+   "fips": "20129",
+   "is_mappable": true,
+   "votes_D": 131,
+   "votes_R": 909,
+   "votes_other": 20,
+   "total_votes": 1060,
+   "pct_D": 12.4,
+   "pct_R": 85.8,
+   "modes": {
+    "total": {
+     "votes_D": 131,
+     "votes_R": 909,
+     "votes_other": 20
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20131": {
+   "name": "Nemaha",
+   "raw_name": "Nemaha",
+   "fips": "20131",
+   "is_mappable": true,
+   "votes_D": 888,
+   "votes_R": 4655,
+   "votes_other": 77,
+   "total_votes": 5620,
+   "pct_D": 15.8,
+   "pct_R": 82.8,
+   "modes": {
+    "total": {
+     "votes_D": 888,
+     "votes_R": 4655,
+     "votes_other": 77
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20133": {
+   "name": "Neosho",
+   "raw_name": "Neosho",
+   "fips": "20133",
+   "is_mappable": true,
+   "votes_D": 1696,
+   "votes_R": 4961,
+   "votes_other": 127,
+   "total_votes": 6784,
+   "pct_D": 25.0,
+   "pct_R": 73.1,
+   "modes": {
+    "total": {
+     "votes_D": 1696,
+     "votes_R": 4961,
+     "votes_other": 127
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20135": {
+   "name": "Ness",
+   "raw_name": "Ness",
+   "fips": "20135",
+   "is_mappable": true,
+   "votes_D": 129,
+   "votes_R": 1205,
+   "votes_other": 29,
+   "total_votes": 1363,
+   "pct_D": 9.5,
+   "pct_R": 88.4,
+   "modes": {
+    "total": {
+     "votes_D": 129,
+     "votes_R": 1205,
+     "votes_other": 29
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20137": {
+   "name": "Norton",
+   "raw_name": "Norton",
+   "fips": "20137",
+   "is_mappable": true,
+   "votes_D": 346,
+   "votes_R": 1882,
+   "votes_other": 42,
+   "total_votes": 2270,
+   "pct_D": 15.2,
+   "pct_R": 82.9,
+   "modes": {
+    "total": {
+     "votes_D": 346,
+     "votes_R": 1882,
+     "votes_other": 42
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20139": {
+   "name": "Osage",
+   "raw_name": "Osage",
+   "fips": "20139",
+   "is_mappable": true,
+   "votes_D": 1946,
+   "votes_R": 5736,
+   "votes_other": 210,
+   "total_votes": 7892,
+   "pct_D": 24.7,
+   "pct_R": 72.7,
+   "modes": {
+    "total": {
+     "votes_D": 1946,
+     "votes_R": 5736,
+     "votes_other": 210
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20141": {
+   "name": "Osborne",
+   "raw_name": "Osborne",
+   "fips": "20141",
+   "is_mappable": true,
+   "votes_D": 261,
+   "votes_R": 1477,
+   "votes_other": 36,
+   "total_votes": 1774,
+   "pct_D": 14.7,
+   "pct_R": 83.3,
+   "modes": {
+    "total": {
+     "votes_D": 261,
+     "votes_R": 1477,
+     "votes_other": 36
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20143": {
+   "name": "Ottawa",
+   "raw_name": "Ottawa",
+   "fips": "20143",
+   "is_mappable": true,
+   "votes_D": 476,
+   "votes_R": 2475,
+   "votes_other": 52,
+   "total_votes": 3003,
+   "pct_D": 15.9,
+   "pct_R": 82.4,
+   "modes": {
+    "total": {
+     "votes_D": 476,
+     "votes_R": 2475,
+     "votes_other": 52
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20145": {
+   "name": "Pawnee",
+   "raw_name": "Pawnee",
+   "fips": "20145",
+   "is_mappable": true,
+   "votes_D": 625,
+   "votes_R": 2003,
+   "votes_other": 47,
+   "total_votes": 2675,
+   "pct_D": 23.4,
+   "pct_R": 74.9,
+   "modes": {
+    "total": {
+     "votes_D": 625,
+     "votes_R": 2003,
+     "votes_other": 47
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20147": {
+   "name": "Phillips",
+   "raw_name": "Phillips",
+   "fips": "20147",
+   "is_mappable": true,
+   "votes_D": 331,
+   "votes_R": 2356,
+   "votes_other": 60,
+   "total_votes": 2747,
+   "pct_D": 12.0,
+   "pct_R": 85.8,
+   "modes": {
+    "total": {
+     "votes_D": 331,
+     "votes_R": 2356,
+     "votes_other": 60
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20149": {
+   "name": "Pottawatomie",
+   "raw_name": "Pottawatomie",
+   "fips": "20149",
+   "is_mappable": true,
+   "votes_D": 3394,
+   "votes_R": 9811,
+   "votes_other": 267,
+   "total_votes": 13472,
+   "pct_D": 25.2,
+   "pct_R": 72.8,
+   "modes": {
+    "total": {
+     "votes_D": 3394,
+     "votes_R": 9811,
+     "votes_other": 267
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20151": {
+   "name": "Pratt",
+   "raw_name": "Pratt",
+   "fips": "20151",
+   "is_mappable": true,
+   "votes_D": 954,
+   "votes_R": 3054,
+   "votes_other": 74,
+   "total_votes": 4082,
+   "pct_D": 23.4,
+   "pct_R": 74.8,
+   "modes": {
+    "total": {
+     "votes_D": 954,
+     "votes_R": 3054,
+     "votes_other": 74
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20153": {
+   "name": "Rawlins",
+   "raw_name": "Rawlins",
+   "fips": "20153",
+   "is_mappable": true,
+   "votes_D": 176,
+   "votes_R": 1194,
+   "votes_other": 33,
+   "total_votes": 1403,
+   "pct_D": 12.5,
+   "pct_R": 85.1,
+   "modes": {
+    "total": {
+     "votes_D": 176,
+     "votes_R": 1194,
+     "votes_other": 33
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20155": {
+   "name": "Reno",
+   "raw_name": "Reno",
+   "fips": "20155",
+   "is_mappable": true,
+   "votes_D": 8554,
+   "votes_R": 17847,
+   "votes_other": 539,
+   "total_votes": 26940,
+   "pct_D": 31.8,
+   "pct_R": 66.2,
+   "modes": {
+    "total": {
+     "votes_D": 8554,
+     "votes_R": 17847,
+     "votes_other": 539
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20157": {
+   "name": "Republic",
+   "raw_name": "Republic",
+   "fips": "20157",
+   "is_mappable": true,
+   "votes_D": 396,
+   "votes_R": 2001,
+   "votes_other": 46,
+   "total_votes": 2443,
+   "pct_D": 16.2,
+   "pct_R": 81.9,
+   "modes": {
+    "total": {
+     "votes_D": 396,
+     "votes_R": 2001,
+     "votes_other": 46
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20159": {
+   "name": "Rice",
+   "raw_name": "Rice",
+   "fips": "20159",
+   "is_mappable": true,
+   "votes_D": 825,
+   "votes_R": 3073,
+   "votes_other": 68,
+   "total_votes": 3966,
+   "pct_D": 20.8,
+   "pct_R": 77.5,
+   "modes": {
+    "total": {
+     "votes_D": 825,
+     "votes_R": 3073,
+     "votes_other": 68
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20161": {
+   "name": "Riley",
+   "raw_name": "Riley",
+   "fips": "20161",
+   "is_mappable": true,
+   "votes_D": 12063,
+   "votes_R": 11630,
+   "votes_other": 620,
+   "total_votes": 24313,
+   "pct_D": 49.6,
+   "pct_R": 47.8,
+   "modes": {
+    "total": {
+     "votes_D": 12063,
+     "votes_R": 11630,
+     "votes_other": 620
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20163": {
+   "name": "Rooks",
+   "raw_name": "Rooks",
+   "fips": "20163",
+   "is_mappable": true,
+   "votes_D": 349,
+   "votes_R": 2153,
+   "votes_other": 32,
+   "total_votes": 2534,
+   "pct_D": 13.8,
+   "pct_R": 85.0,
+   "modes": {
+    "total": {
+     "votes_D": 349,
+     "votes_R": 2153,
+     "votes_other": 32
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20165": {
+   "name": "Rush",
+   "raw_name": "Rush",
+   "fips": "20165",
+   "is_mappable": true,
+   "votes_D": 264,
+   "votes_R": 1315,
+   "votes_other": 27,
+   "total_votes": 1606,
+   "pct_D": 16.4,
+   "pct_R": 81.9,
+   "modes": {
+    "total": {
+     "votes_D": 264,
+     "votes_R": 1315,
+     "votes_other": 27
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20167": {
+   "name": "Russell",
+   "raw_name": "Russell",
+   "fips": "20167",
+   "is_mappable": true,
+   "votes_D": 608,
+   "votes_R": 2632,
+   "votes_other": 61,
+   "total_votes": 3301,
+   "pct_D": 18.4,
+   "pct_R": 79.7,
+   "modes": {
+    "total": {
+     "votes_D": 608,
+     "votes_R": 2632,
+     "votes_other": 61
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20169": {
+   "name": "Saline",
+   "raw_name": "Saline",
+   "fips": "20169",
+   "is_mappable": true,
+   "votes_D": 7734,
+   "votes_R": 15069,
+   "votes_other": 423,
+   "total_votes": 23226,
+   "pct_D": 33.3,
+   "pct_R": 64.9,
+   "modes": {
+    "total": {
+     "votes_D": 7734,
+     "votes_R": 15069,
+     "votes_other": 423
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20171": {
+   "name": "Scott",
+   "raw_name": "Scott",
+   "fips": "20171",
+   "is_mappable": true,
+   "votes_D": 248,
+   "votes_R": 1843,
+   "votes_other": 44,
+   "total_votes": 2135,
+   "pct_D": 11.6,
+   "pct_R": 86.3,
+   "modes": {
+    "total": {
+     "votes_D": 248,
+     "votes_R": 1843,
+     "votes_other": 44
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20173": {
+   "name": "Sedgwick",
+   "raw_name": "Sedgwick",
+   "fips": "20173",
+   "is_mappable": true,
+   "votes_D": 90506,
+   "votes_R": 120118,
+   "votes_other": 3528,
+   "total_votes": 214152,
+   "pct_D": 42.3,
+   "pct_R": 56.1,
+   "modes": {
+    "total": {
+     "votes_D": 90506,
+     "votes_R": 120118,
+     "votes_other": 3528
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20175": {
+   "name": "Seward",
+   "raw_name": "Seward",
+   "fips": "20175",
+   "is_mappable": true,
+   "votes_D": 1354,
+   "votes_R": 3133,
+   "votes_other": 78,
+   "total_votes": 4565,
+   "pct_D": 29.7,
+   "pct_R": 68.6,
+   "modes": {
+    "total": {
+     "votes_D": 1354,
+     "votes_R": 3133,
+     "votes_other": 78
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20177": {
+   "name": "Shawnee",
+   "raw_name": "Shawnee",
+   "fips": "20177",
+   "is_mappable": true,
+   "votes_D": 40308,
+   "votes_R": 39901,
+   "votes_other": 1610,
+   "total_votes": 81819,
+   "pct_D": 49.3,
+   "pct_R": 48.8,
+   "modes": {
+    "total": {
+     "votes_D": 40308,
+     "votes_R": 39901,
+     "votes_other": 1610
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20179": {
+   "name": "Sheridan",
+   "raw_name": "Sheridan",
+   "fips": "20179",
+   "is_mappable": true,
+   "votes_D": 126,
+   "votes_R": 1229,
+   "votes_other": 18,
+   "total_votes": 1373,
+   "pct_D": 9.2,
+   "pct_R": 89.5,
+   "modes": {
+    "total": {
+     "votes_D": 126,
+     "votes_R": 1229,
+     "votes_other": 18
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20181": {
+   "name": "Sherman",
+   "raw_name": "Sherman",
+   "fips": "20181",
+   "is_mappable": true,
+   "votes_D": 379,
+   "votes_R": 2161,
+   "votes_other": 53,
+   "total_votes": 2593,
+   "pct_D": 14.6,
+   "pct_R": 83.3,
+   "modes": {
+    "total": {
+     "votes_D": 379,
+     "votes_R": 2161,
+     "votes_other": 53
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20183": {
+   "name": "Smith",
+   "raw_name": "Smith",
+   "fips": "20183",
+   "is_mappable": true,
+   "votes_D": 300,
+   "votes_R": 1675,
+   "votes_other": 31,
+   "total_votes": 2006,
+   "pct_D": 15.0,
+   "pct_R": 83.5,
+   "modes": {
+    "total": {
+     "votes_D": 300,
+     "votes_R": 1675,
+     "votes_other": 31
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20185": {
+   "name": "Stafford",
+   "raw_name": "Stafford",
+   "fips": "20185",
+   "is_mappable": true,
+   "votes_D": 326,
+   "votes_R": 1548,
+   "votes_other": 35,
+   "total_votes": 1909,
+   "pct_D": 17.1,
+   "pct_R": 81.1,
+   "modes": {
+    "total": {
+     "votes_D": 326,
+     "votes_R": 1548,
+     "votes_other": 35
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20187": {
+   "name": "Stanton",
+   "raw_name": "Stanton",
+   "fips": "20187",
+   "is_mappable": true,
+   "votes_D": 115,
+   "votes_R": 537,
+   "votes_other": 12,
+   "total_votes": 664,
+   "pct_D": 17.3,
+   "pct_R": 80.9,
+   "modes": {
+    "total": {
+     "votes_D": 115,
+     "votes_R": 537,
+     "votes_other": 12
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20189": {
+   "name": "Stevens",
+   "raw_name": "Stevens",
+   "fips": "20189",
+   "is_mappable": true,
+   "votes_D": 210,
+   "votes_R": 1595,
+   "votes_other": 30,
+   "total_votes": 1835,
+   "pct_D": 11.4,
+   "pct_R": 86.9,
+   "modes": {
+    "total": {
+     "votes_D": 210,
+     "votes_R": 1595,
+     "votes_other": 30
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20191": {
+   "name": "Sumner",
+   "raw_name": "Sumner",
+   "fips": "20191",
+   "is_mappable": true,
+   "votes_D": 2527,
+   "votes_R": 7810,
+   "votes_other": 212,
+   "total_votes": 10549,
+   "pct_D": 24.0,
+   "pct_R": 74.0,
+   "modes": {
+    "total": {
+     "votes_D": 2527,
+     "votes_R": 7810,
+     "votes_other": 212
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20193": {
+   "name": "Thomas",
+   "raw_name": "Thomas",
+   "fips": "20193",
+   "is_mappable": true,
+   "votes_D": 597,
+   "votes_R": 3007,
+   "votes_other": 60,
+   "total_votes": 3664,
+   "pct_D": 16.3,
+   "pct_R": 82.1,
+   "modes": {
+    "total": {
+     "votes_D": 597,
+     "votes_R": 3007,
+     "votes_other": 60
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20195": {
+   "name": "Trego",
+   "raw_name": "Trego",
+   "fips": "20195",
+   "is_mappable": true,
+   "votes_D": 216,
+   "votes_R": 1343,
+   "votes_other": 28,
+   "total_votes": 1587,
+   "pct_D": 13.6,
+   "pct_R": 84.6,
+   "modes": {
+    "total": {
+     "votes_D": 216,
+     "votes_R": 1343,
+     "votes_other": 28
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20197": {
+   "name": "Wabaunsee",
+   "raw_name": "Wabaunsee",
+   "fips": "20197",
+   "is_mappable": true,
+   "votes_D": 944,
+   "votes_R": 2816,
+   "votes_other": 76,
+   "total_votes": 3836,
+   "pct_D": 24.6,
+   "pct_R": 73.4,
+   "modes": {
+    "total": {
+     "votes_D": 944,
+     "votes_R": 2816,
+     "votes_other": 76
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20199": {
+   "name": "Wallace",
+   "raw_name": "Wallace",
+   "fips": "20199",
+   "is_mappable": true,
+   "votes_D": 52,
+   "votes_R": 686,
+   "votes_other": 10,
+   "total_votes": 748,
+   "pct_D": 7.0,
+   "pct_R": 91.7,
+   "modes": {
+    "total": {
+     "votes_D": 52,
+     "votes_R": 686,
+     "votes_other": 10
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20201": {
+   "name": "Washington",
+   "raw_name": "Washington",
+   "fips": "20201",
+   "is_mappable": true,
+   "votes_D": 396,
+   "votes_R": 2263,
+   "votes_other": 41,
+   "total_votes": 2700,
+   "pct_D": 14.7,
+   "pct_R": 83.8,
+   "modes": {
+    "total": {
+     "votes_D": 396,
+     "votes_R": 2263,
+     "votes_other": 41
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20203": {
+   "name": "Wichita",
+   "raw_name": "Wichita",
+   "fips": "20203",
+   "is_mappable": true,
+   "votes_D": 107,
+   "votes_R": 740,
+   "votes_other": 13,
+   "total_votes": 860,
+   "pct_D": 12.4,
+   "pct_R": 86.0,
+   "modes": {
+    "total": {
+     "votes_D": 107,
+     "votes_R": 740,
+     "votes_other": 13
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20205": {
+   "name": "Wilson",
+   "raw_name": "Wilson",
+   "fips": "20205",
+   "is_mappable": true,
+   "votes_D": 647,
+   "votes_R": 2894,
+   "votes_other": 62,
+   "total_votes": 3603,
+   "pct_D": 18.0,
+   "pct_R": 80.3,
+   "modes": {
+    "total": {
+     "votes_D": 647,
+     "votes_R": 2894,
+     "votes_other": 62
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20207": {
+   "name": "Woodson",
+   "raw_name": "Woodson",
+   "fips": "20207",
+   "is_mappable": true,
+   "votes_D": 282,
+   "votes_R": 1205,
+   "votes_other": 19,
+   "total_votes": 1506,
+   "pct_D": 18.7,
+   "pct_R": 80.0,
+   "modes": {
+    "total": {
+     "votes_D": 282,
+     "votes_R": 1205,
+     "votes_other": 19
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "20209": {
+   "name": "Wyandotte",
+   "raw_name": "Wyandotte",
+   "fips": "20209",
+   "is_mappable": true,
+   "votes_D": 30938,
+   "votes_R": 18867,
+   "votes_other": 797,
+   "total_votes": 50602,
+   "pct_D": 61.1,
+   "pct_R": 37.3,
+   "modes": {
+    "total": {
+     "votes_D": 30938,
+     "votes_R": 18867,
+     "votes_other": 797
+    }
+   },
+   "data_source": "Wikipedia",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  }
+ }
+}

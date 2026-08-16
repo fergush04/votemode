@@ -1,0 +1,2108 @@
+{
+ "race": "senate",
+ "race_label": "Senate",
+ "race_type": "senate",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Debbie Mucarsel-Powell",
+ "candidate_R": "Rick Scott",
+ "state": "Florida",
+ "state_abbr": "FL",
+ "unit_type": "county",
+ "avg_completeness": "C3",
+ "completeness_breakdown": {
+  "C3": 41,
+  "U": 23,
+  "C4": 3
+ },
+ "votes_D": 4603069,
+ "votes_R": 5977683,
+ "votes_other": 151863,
+ "total_votes": 10732615,
+ "pct_D": 42.9,
+ "pct_R": 55.7,
+ "unit_count": 67,
+ "state_profile": {
+  "voting_summary": "Florida splits its vote across early in-person (44% in 2024), mail (25%), and election day (22%). Polls close at 7 p.m. Eastern (8 p.m. in the Panhandle); pre-processed mail and early votes are released within minutes of the close, then election day precincts report, making Florida the fastest-counting big state, effectively complete by mid-evening. Mail must arrive by election day, with no postmark grace period. Mail ran D+18 while early and election day votes ran R+22 to R+24, so the first dump skews Democratic and the state reddens through the evening.",
+  "reporting_notes": "",
+  "tags": [
+   "Pre-processed mail",
+   "Early in-person",
+   "Fast count",
+   "Red shift overnight"
+  ],
+  "mode_split": {
+   "early_in_person": 44.2,
+   "mail": 25.0,
+   "election_day": 20.8,
+   "total": 10.0,
+   "provisional": 0.0
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "12001": {
+   "name": "Alachua",
+   "raw_name": "Alachua",
+   "fips": "12001",
+   "is_mappable": true,
+   "votes_D": 78314,
+   "votes_R": 54458,
+   "votes_other": 2436,
+   "total_votes": 135208,
+   "pct_D": 57.9,
+   "pct_R": 40.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 39174,
+     "votes_R": 31071,
+     "votes_other": 1037
+    },
+    "election_day": {
+     "votes_D": 14579,
+     "votes_R": 14274,
+     "votes_other": 927
+    },
+    "mail": {
+     "votes_D": 24561,
+     "votes_R": 9113,
+     "votes_other": 472
+    }
+   },
+   "data_source": "Alachua County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0054,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12003": {
+   "name": "Baker",
+   "raw_name": "Baker",
+   "fips": "12003",
+   "is_mappable": true,
+   "votes_D": 2161,
+   "votes_R": 12415,
+   "votes_other": 221,
+   "total_votes": 14797,
+   "pct_D": 14.6,
+   "pct_R": 83.9,
+   "modes": {
+    "total": {
+     "votes_D": 2161,
+     "votes_R": 12415,
+     "votes_other": 221
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12005": {
+   "name": "Bay",
+   "raw_name": "Bay",
+   "fips": "12005",
+   "is_mappable": true,
+   "votes_D": 22988,
+   "votes_R": 72045,
+   "votes_other": 2032,
+   "total_votes": 97065,
+   "pct_D": 23.7,
+   "pct_R": 74.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 11765,
+     "votes_R": 47734,
+     "votes_other": 1097
+    },
+    "election_day": {
+     "votes_D": 4230,
+     "votes_R": 13859,
+     "votes_other": 646
+    },
+    "mail": {
+     "votes_D": 6993,
+     "votes_R": 10452,
+     "votes_other": 289
+    }
+   },
+   "data_source": "Bay County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0039,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12007": {
+   "name": "Bradford",
+   "raw_name": "Bradford",
+   "fips": "12007",
+   "is_mappable": true,
+   "votes_D": 3005,
+   "votes_R": 10363,
+   "votes_other": 249,
+   "total_votes": 13617,
+   "pct_D": 22.1,
+   "pct_R": 76.1,
+   "modes": {
+    "total": {
+     "votes_D": 3005,
+     "votes_R": 10363,
+     "votes_other": 249
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12009": {
+   "name": "Brevard",
+   "raw_name": "Brevard",
+   "fips": "12009",
+   "is_mappable": true,
+   "votes_D": 140412,
+   "votes_R": 209204,
+   "votes_other": 8022,
+   "total_votes": 357638,
+   "pct_D": 39.3,
+   "pct_R": 58.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 58923,
+     "votes_R": 112800,
+     "votes_other": 3307
+    },
+    "election_day": {
+     "votes_D": 31554,
+     "votes_R": 56818,
+     "votes_other": 3323
+    },
+    "mail": {
+     "votes_D": 49935,
+     "votes_R": 39586,
+     "votes_other": 1392
+    }
+   },
+   "data_source": "Brevard County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0043,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12011": {
+   "name": "Broward",
+   "raw_name": "Broward",
+   "fips": "12011",
+   "is_mappable": true,
+   "votes_D": 512458,
+   "votes_R": 338969,
+   "votes_other": 0,
+   "total_votes": 851427,
+   "pct_D": 60.2,
+   "pct_R": 39.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 233538,
+     "votes_R": 185011,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 86137,
+     "votes_R": 83850,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 104,
+     "votes_R": 62,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 192679,
+     "votes_R": 70046,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Broward County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0031,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "12013": {
+   "name": "Calhoun",
+   "raw_name": "Calhoun",
+   "fips": "12013",
+   "is_mappable": true,
+   "votes_D": 976,
+   "votes_R": 5280,
+   "votes_other": 113,
+   "total_votes": 6369,
+   "pct_D": 15.3,
+   "pct_R": 82.9,
+   "modes": {
+    "total": {
+     "votes_D": 976,
+     "votes_R": 5280,
+     "votes_other": 113
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12015": {
+   "name": "Charlotte",
+   "raw_name": "Charlotte",
+   "fips": "12015",
+   "is_mappable": true,
+   "votes_D": 38154,
+   "votes_R": 82377,
+   "votes_other": 1680,
+   "total_votes": 122211,
+   "pct_D": 31.2,
+   "pct_R": 67.4,
+   "modes": {
+    "total": {
+     "votes_D": 38154,
+     "votes_R": 82377,
+     "votes_other": 1680
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12017": {
+   "name": "Citrus",
+   "raw_name": "Citrus",
+   "fips": "12017",
+   "is_mappable": true,
+   "votes_D": 27975,
+   "votes_R": 66837,
+   "votes_other": 2065,
+   "total_votes": 96877,
+   "pct_D": 28.9,
+   "pct_R": 69.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 10079,
+     "votes_R": 35002,
+     "votes_other": 821
+    },
+    "election_day": {
+     "votes_D": 5630,
+     "votes_R": 17732,
+     "votes_other": 879
+    },
+    "mail": {
+     "votes_D": 12266,
+     "votes_R": 14103,
+     "votes_other": 365
+    }
+   },
+   "data_source": "Citrus County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0031,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12019": {
+   "name": "Clay",
+   "raw_name": "Clay",
+   "fips": "12019",
+   "is_mappable": true,
+   "votes_D": 37009,
+   "votes_R": 86368,
+   "votes_other": 2398,
+   "total_votes": 125775,
+   "pct_D": 29.4,
+   "pct_R": 68.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 19221,
+     "votes_R": 53489,
+     "votes_other": 1205
+    },
+    "election_day": {
+     "votes_D": 7882,
+     "votes_R": 21154,
+     "votes_other": 861
+    },
+    "mail": {
+     "votes_D": 9906,
+     "votes_R": 11725,
+     "votes_other": 332
+    }
+   },
+   "data_source": "Clay County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0039,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12021": {
+   "name": "Collier",
+   "raw_name": "Collier",
+   "fips": "12021",
+   "is_mappable": true,
+   "votes_D": 63988,
+   "votes_R": 150015,
+   "votes_other": 1580,
+   "total_votes": 215583,
+   "pct_D": 29.7,
+   "pct_R": 69.6,
+   "modes": {
+    "total": {
+     "votes_D": 63988,
+     "votes_R": 150015,
+     "votes_other": 1580
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12023": {
+   "name": "Columbia",
+   "raw_name": "Columbia",
+   "fips": "12023",
+   "is_mappable": true,
+   "votes_D": 8283,
+   "votes_R": 24400,
+   "votes_other": 239,
+   "total_votes": 32922,
+   "pct_D": 25.2,
+   "pct_R": 74.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 4074,
+     "votes_R": 15438,
+     "votes_other": 134
+    },
+    "election_day": {
+     "votes_D": 1910,
+     "votes_R": 5550,
+     "votes_other": 68
+    },
+    "mail": {
+     "votes_D": 2299,
+     "votes_R": 3412,
+     "votes_other": 37
+    }
+   },
+   "data_source": "Columbia County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0029,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12027": {
+   "name": "DeSoto",
+   "raw_name": "DeSoto",
+   "fips": "12027",
+   "is_mappable": true,
+   "votes_D": 3376,
+   "votes_R": 8697,
+   "votes_other": 0,
+   "total_votes": 12073,
+   "pct_D": 28.0,
+   "pct_R": 72.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1514,
+     "votes_R": 4754,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 1066,
+     "votes_R": 2857,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 796,
+     "votes_R": 1086,
+     "votes_other": 0
+    }
+   },
+   "data_source": "DeSoto County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0018,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12029": {
+   "name": "Dixie",
+   "raw_name": "Dixie",
+   "fips": "12029",
+   "is_mappable": true,
+   "votes_D": 1169,
+   "votes_R": 6673,
+   "votes_other": 160,
+   "total_votes": 8002,
+   "pct_D": 14.6,
+   "pct_R": 83.4,
+   "modes": {
+    "total": {
+     "votes_D": 1169,
+     "votes_R": 6673,
+     "votes_other": 160
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12031": {
+   "name": "Duval",
+   "raw_name": "Duval",
+   "fips": "12031",
+   "is_mappable": true,
+   "votes_D": 223191,
+   "votes_R": 232168,
+   "votes_other": 0,
+   "total_votes": 455359,
+   "pct_D": 49.0,
+   "pct_R": 51.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 133571,
+     "votes_R": 143626,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 48273,
+     "votes_R": 59918,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 192,
+     "votes_R": 144,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 41155,
+     "votes_R": 28480,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Duval County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0044,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "12033": {
+   "name": "Escambia",
+   "raw_name": "Escambia",
+   "fips": "12033",
+   "is_mappable": true,
+   "votes_D": 60111,
+   "votes_R": 98502,
+   "votes_other": 3108,
+   "total_votes": 161721,
+   "pct_D": 37.2,
+   "pct_R": 60.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 26471,
+     "votes_R": 52087,
+     "votes_other": 1252
+    },
+    "election_day": {
+     "votes_D": 16432,
+     "votes_R": 29509,
+     "votes_other": 1339
+    },
+    "mail": {
+     "votes_D": 17208,
+     "votes_R": 16906,
+     "votes_other": 517
+    }
+   },
+   "data_source": "Escambia County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0046,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12035": {
+   "name": "Flagler",
+   "raw_name": "Flagler",
+   "fips": "12035",
+   "is_mappable": true,
+   "votes_D": 28051,
+   "votes_R": 49683,
+   "votes_other": 1232,
+   "total_votes": 78966,
+   "pct_D": 35.5,
+   "pct_R": 62.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 11506,
+     "votes_R": 29793,
+     "votes_other": 579
+    },
+    "election_day": {
+     "votes_D": 4492,
+     "votes_R": 9947,
+     "votes_other": 397
+    },
+    "mail": {
+     "votes_D": 12053,
+     "votes_R": 9943,
+     "votes_other": 256
+    }
+   },
+   "data_source": "Flagler County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0031,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12037": {
+   "name": "Franklin",
+   "raw_name": "Franklin",
+   "fips": "12037",
+   "is_mappable": true,
+   "votes_D": 1795,
+   "votes_R": 4814,
+   "votes_other": 115,
+   "total_votes": 6724,
+   "pct_D": 26.7,
+   "pct_R": 71.6,
+   "modes": {
+    "total": {
+     "votes_D": 1795,
+     "votes_R": 4814,
+     "votes_other": 115
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12039": {
+   "name": "Gadsden",
+   "raw_name": "Gadsden",
+   "fips": "12039",
+   "is_mappable": true,
+   "votes_D": 13192,
+   "votes_R": 8221,
+   "votes_other": 333,
+   "total_votes": 21746,
+   "pct_D": 60.7,
+   "pct_R": 37.8,
+   "modes": {
+    "total": {
+     "votes_D": 13192,
+     "votes_R": 8221,
+     "votes_other": 333
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12041": {
+   "name": "Gilchrist",
+   "raw_name": "Gilchrist",
+   "fips": "12041",
+   "is_mappable": true,
+   "votes_D": 1617,
+   "votes_R": 8740,
+   "votes_other": 207,
+   "total_votes": 10564,
+   "pct_D": 15.3,
+   "pct_R": 82.7,
+   "modes": {
+    "total": {
+     "votes_D": 1617,
+     "votes_R": 8740,
+     "votes_other": 207
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12043": {
+   "name": "Glades",
+   "raw_name": "Glades",
+   "fips": "12043",
+   "is_mappable": true,
+   "votes_D": 1161,
+   "votes_R": 3987,
+   "votes_other": 0,
+   "total_votes": 5148,
+   "pct_D": 22.6,
+   "pct_R": 77.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 262,
+     "votes_R": 1306,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 546,
+     "votes_R": 1988,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 353,
+     "votes_R": 693,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Glades County, FL",
+   "official_results": true,
+   "pct_off_official": 0.004,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12045": {
+   "name": "Gulf",
+   "raw_name": "Gulf",
+   "fips": "12045",
+   "is_mappable": true,
+   "votes_D": 1757,
+   "votes_R": 6745,
+   "votes_other": 146,
+   "total_votes": 8648,
+   "pct_D": 20.3,
+   "pct_R": 78.0,
+   "modes": {
+    "total": {
+     "votes_D": 1757,
+     "votes_R": 6745,
+     "votes_other": 146
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12047": {
+   "name": "Hamilton",
+   "raw_name": "Hamilton",
+   "fips": "12047",
+   "is_mappable": true,
+   "votes_D": 1602,
+   "votes_R": 3945,
+   "votes_other": 0,
+   "total_votes": 5547,
+   "pct_D": 28.9,
+   "pct_R": 71.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 589,
+     "votes_R": 1832,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 636,
+     "votes_R": 1451,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 377,
+     "votes_R": 662,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Hamilton County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0033,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12049": {
+   "name": "Hardee",
+   "raw_name": "Hardee",
+   "fips": "12049",
+   "is_mappable": true,
+   "votes_D": 1875,
+   "votes_R": 6006,
+   "votes_other": 0,
+   "total_votes": 7881,
+   "pct_D": 23.8,
+   "pct_R": 76.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 809,
+     "votes_R": 3471,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 713,
+     "votes_R": 2036,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 353,
+     "votes_R": 499,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Hardee County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0001,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12051": {
+   "name": "Hendry",
+   "raw_name": "Hendry",
+   "fips": "12051",
+   "is_mappable": true,
+   "votes_D": 3837,
+   "votes_R": 9215,
+   "votes_other": 0,
+   "total_votes": 13052,
+   "pct_D": 29.4,
+   "pct_R": 70.6,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1840,
+     "votes_R": 5374,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 1143,
+     "votes_R": 2684,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 854,
+     "votes_R": 1157,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Hendry County, FL",
+   "official_results": true,
+   "pct_off_official": 0.002,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12053": {
+   "name": "Hernando",
+   "raw_name": "Hernando",
+   "fips": "12053",
+   "is_mappable": true,
+   "votes_D": 36545,
+   "votes_R": 70178,
+   "votes_other": 2307,
+   "total_votes": 109030,
+   "pct_D": 33.5,
+   "pct_R": 64.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 12631,
+     "votes_R": 34446,
+     "votes_other": 899
+    },
+    "election_day": {
+     "votes_D": 8804,
+     "votes_R": 21198,
+     "votes_other": 954
+    },
+    "mail": {
+     "votes_D": 15110,
+     "votes_R": 14534,
+     "votes_other": 454
+    }
+   },
+   "data_source": "Hernando County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0033,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12055": {
+   "name": "Highlands",
+   "raw_name": "Highlands",
+   "fips": "12055",
+   "is_mappable": true,
+   "votes_D": 15688,
+   "votes_R": 34858,
+   "votes_other": 567,
+   "total_votes": 51113,
+   "pct_D": 30.7,
+   "pct_R": 68.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 6403,
+     "votes_R": 18871,
+     "votes_other": 247
+    },
+    "election_day": {
+     "votes_D": 4355,
+     "votes_R": 10796,
+     "votes_other": 243
+    },
+    "mail": {
+     "votes_D": 4930,
+     "votes_R": 5191,
+     "votes_other": 77
+    }
+   },
+   "data_source": "Highlands County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0024,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12057": {
+   "name": "Hillsborough",
+   "raw_name": "Hillsborough",
+   "fips": "12057",
+   "is_mappable": true,
+   "votes_D": 316262,
+   "votes_R": 336341,
+   "votes_other": 12718,
+   "total_votes": 665321,
+   "pct_D": 47.5,
+   "pct_R": 50.6,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 136845,
+     "votes_R": 175485,
+     "votes_other": 5212
+    },
+    "election_day": {
+     "votes_D": 60731,
+     "votes_R": 85669,
+     "votes_other": 4481
+    },
+    "mail": {
+     "votes_D": 118686,
+     "votes_R": 75187,
+     "votes_other": 3025
+    }
+   },
+   "data_source": "Hillsborough County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0043,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12059": {
+   "name": "Holmes",
+   "raw_name": "Holmes",
+   "fips": "12059",
+   "is_mappable": true,
+   "votes_D": 866,
+   "votes_R": 8063,
+   "votes_other": 0,
+   "total_votes": 8929,
+   "pct_D": 9.7,
+   "pct_R": 90.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 269,
+     "votes_R": 3560,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 324,
+     "votes_R": 3373,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 273,
+     "votes_R": 1130,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Holmes County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0018,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12061": {
+   "name": "Indian River",
+   "raw_name": "Indian River",
+   "fips": "12061",
+   "is_mappable": true,
+   "votes_D": 35299,
+   "votes_R": 61075,
+   "votes_other": 1407,
+   "total_votes": 97781,
+   "pct_D": 36.1,
+   "pct_R": 62.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 12794,
+     "votes_R": 31106,
+     "votes_other": 547
+    },
+    "election_day": {
+     "votes_D": 6856,
+     "votes_R": 14952,
+     "votes_other": 552
+    },
+    "mail": {
+     "votes_D": 15649,
+     "votes_R": 15017,
+     "votes_other": 308
+    }
+   },
+   "data_source": "Indian River County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0048,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12063": {
+   "name": "Jackson",
+   "raw_name": "Jackson",
+   "fips": "12063",
+   "is_mappable": true,
+   "votes_D": 5515,
+   "votes_R": 16033,
+   "votes_other": 415,
+   "total_votes": 21963,
+   "pct_D": 25.1,
+   "pct_R": 73.0,
+   "modes": {
+    "total": {
+     "votes_D": 5515,
+     "votes_R": 16033,
+     "votes_other": 415
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12065": {
+   "name": "Jefferson",
+   "raw_name": "Jefferson",
+   "fips": "12065",
+   "is_mappable": true,
+   "votes_D": 3230,
+   "votes_R": 5118,
+   "votes_other": 107,
+   "total_votes": 8455,
+   "pct_D": 38.2,
+   "pct_R": 60.5,
+   "modes": {
+    "total": {
+     "votes_D": 3230,
+     "votes_R": 5118,
+     "votes_other": 107
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12067": {
+   "name": "Lafayette",
+   "raw_name": "Lafayette",
+   "fips": "12067",
+   "is_mappable": true,
+   "votes_D": 454,
+   "votes_R": 3183,
+   "votes_other": 87,
+   "total_votes": 3724,
+   "pct_D": 12.2,
+   "pct_R": 85.5,
+   "modes": {
+    "total": {
+     "votes_D": 454,
+     "votes_R": 3183,
+     "votes_other": 87
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12069": {
+   "name": "Lake",
+   "raw_name": "Lake",
+   "fips": "12069",
+   "is_mappable": true,
+   "votes_D": 83276,
+   "votes_R": 136284,
+   "votes_other": 4297,
+   "total_votes": 223857,
+   "pct_D": 37.2,
+   "pct_R": 60.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 38685,
+     "votes_R": 73877,
+     "votes_other": 1877
+    },
+    "election_day": {
+     "votes_D": 21332,
+     "votes_R": 44065,
+     "votes_other": 1821
+    },
+    "mail": {
+     "votes_D": 23259,
+     "votes_R": 18342,
+     "votes_other": 599
+    }
+   },
+   "data_source": "Lake County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0088,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12071": {
+   "name": "Lee",
+   "raw_name": "Lee",
+   "fips": "12071",
+   "is_mappable": true,
+   "votes_D": 125524,
+   "votes_R": 255340,
+   "votes_other": 4447,
+   "total_votes": 385311,
+   "pct_D": 32.6,
+   "pct_R": 66.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 38212,
+     "votes_R": 117370,
+     "votes_other": 1634
+    },
+    "election_day": {
+     "votes_D": 16684,
+     "votes_R": 44254,
+     "votes_other": 1301
+    },
+    "mail": {
+     "votes_D": 70628,
+     "votes_R": 93716,
+     "votes_other": 1512
+    }
+   },
+   "data_source": "Lee County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0032,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12073": {
+   "name": "Leon",
+   "raw_name": "Leon",
+   "fips": "12073",
+   "is_mappable": true,
+   "votes_D": 88881,
+   "votes_R": 63554,
+   "votes_other": 2646,
+   "total_votes": 155081,
+   "pct_D": 57.3,
+   "pct_R": 41.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 40702,
+     "votes_R": 33302,
+     "votes_other": 1111
+    },
+    "election_day": {
+     "votes_D": 20426,
+     "votes_R": 18140,
+     "votes_other": 941
+    },
+    "mail": {
+     "votes_D": 27753,
+     "votes_R": 12112,
+     "votes_other": 594
+    }
+   },
+   "data_source": "Leon County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0059,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12075": {
+   "name": "Levy",
+   "raw_name": "Levy",
+   "fips": "12075",
+   "is_mappable": true,
+   "votes_D": 5763,
+   "votes_R": 17894,
+   "votes_other": 454,
+   "total_votes": 24111,
+   "pct_D": 23.9,
+   "pct_R": 74.2,
+   "modes": {
+    "total": {
+     "votes_D": 5763,
+     "votes_R": 17894,
+     "votes_other": 454
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12077": {
+   "name": "Liberty",
+   "raw_name": "Liberty",
+   "fips": "12077",
+   "is_mappable": true,
+   "votes_D": 539,
+   "votes_R": 2859,
+   "votes_other": 54,
+   "total_votes": 3452,
+   "pct_D": 15.6,
+   "pct_R": 82.8,
+   "modes": {
+    "total": {
+     "votes_D": 539,
+     "votes_R": 2859,
+     "votes_other": 54
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12079": {
+   "name": "Madison",
+   "raw_name": "Madison",
+   "fips": "12079",
+   "is_mappable": true,
+   "votes_D": 2966,
+   "votes_R": 5984,
+   "votes_other": 129,
+   "total_votes": 9079,
+   "pct_D": 32.7,
+   "pct_R": 65.9,
+   "modes": {
+    "total": {
+     "votes_D": 2966,
+     "votes_R": 5984,
+     "votes_other": 129
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12081": {
+   "name": "Manatee",
+   "raw_name": "Manatee",
+   "fips": "12081",
+   "is_mappable": true,
+   "votes_D": 85462,
+   "votes_R": 137928,
+   "votes_other": 3453,
+   "total_votes": 226843,
+   "pct_D": 37.7,
+   "pct_R": 60.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 30399,
+     "votes_R": 69129,
+     "votes_other": 1261
+    },
+    "election_day": {
+     "votes_D": 17921,
+     "votes_R": 37059,
+     "votes_other": 1428
+    },
+    "mail": {
+     "votes_D": 37142,
+     "votes_R": 31740,
+     "votes_other": 764
+    }
+   },
+   "data_source": "Manatee County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0042,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12083": {
+   "name": "Marion",
+   "raw_name": "Marion",
+   "fips": "12083",
+   "is_mappable": true,
+   "votes_D": 72779,
+   "votes_R": 135179,
+   "votes_other": 3457,
+   "total_votes": 211415,
+   "pct_D": 34.4,
+   "pct_R": 63.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 28688,
+     "votes_R": 70212,
+     "votes_other": 1282
+    },
+    "election_day": {
+     "votes_D": 19816,
+     "votes_R": 44837,
+     "votes_other": 1662
+    },
+    "mail": {
+     "votes_D": 24275,
+     "votes_R": 20130,
+     "votes_other": 513
+    }
+   },
+   "data_source": "Marion County, FL",
+   "official_results": true,
+   "pct_off_official": 0.003,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12085": {
+   "name": "Martin",
+   "raw_name": "Martin",
+   "fips": "12085",
+   "is_mappable": true,
+   "votes_D": 34015,
+   "votes_R": 61948,
+   "votes_other": 1351,
+   "total_votes": 97314,
+   "pct_D": 35.0,
+   "pct_R": 63.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 13722,
+     "votes_R": 35731,
+     "votes_other": 577
+    },
+    "election_day": {
+     "votes_D": 5838,
+     "votes_R": 12664,
+     "votes_other": 497
+    },
+    "mail": {
+     "votes_D": 14455,
+     "votes_R": 13553,
+     "votes_other": 277
+    }
+   },
+   "data_source": "Martin County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0051,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12086": {
+   "name": "Miami-Dade",
+   "raw_name": "Miami-Dade",
+   "fips": "12086",
+   "is_mappable": true,
+   "votes_D": 477598,
+   "votes_R": 585445,
+   "votes_other": 13069,
+   "total_votes": 1076112,
+   "pct_D": 44.4,
+   "pct_R": 54.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 220635,
+     "votes_R": 356982,
+     "votes_other": 5915
+    },
+    "election_day": {
+     "votes_D": 87571,
+     "votes_R": 114413,
+     "votes_other": 4039
+    },
+    "mail": {
+     "votes_D": 169392,
+     "votes_R": 114050,
+     "votes_other": 3115
+    }
+   },
+   "data_source": "Miami-Dade County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0028,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12087": {
+   "name": "Monroe",
+   "raw_name": "Monroe",
+   "fips": "12087",
+   "is_mappable": true,
+   "votes_D": 18227,
+   "votes_R": 25069,
+   "votes_other": 475,
+   "total_votes": 43771,
+   "pct_D": 41.6,
+   "pct_R": 57.3,
+   "modes": {
+    "total": {
+     "votes_D": 18227,
+     "votes_R": 25069,
+     "votes_other": 475
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12089": {
+   "name": "Nassau",
+   "raw_name": "Nassau",
+   "fips": "12089",
+   "is_mappable": true,
+   "votes_D": 16804,
+   "votes_R": 47668,
+   "votes_other": 845,
+   "total_votes": 65317,
+   "pct_D": 25.7,
+   "pct_R": 73.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 8506,
+     "votes_R": 30878,
+     "votes_other": 393
+    },
+    "election_day": {
+     "votes_D": 2528,
+     "votes_R": 9242,
+     "votes_other": 276
+    },
+    "mail": {
+     "votes_D": 5770,
+     "votes_R": 7548,
+     "votes_other": 176
+    }
+   },
+   "data_source": "Nassau County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0047,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12091": {
+   "name": "Okaloosa",
+   "raw_name": "Okaloosa",
+   "fips": "12091",
+   "is_mappable": true,
+   "votes_D": 28850,
+   "votes_R": 81192,
+   "votes_other": 2561,
+   "total_votes": 112603,
+   "pct_D": 25.6,
+   "pct_R": 72.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 13212,
+     "votes_R": 47639,
+     "votes_other": 1170
+    },
+    "election_day": {
+     "votes_D": 6032,
+     "votes_R": 20965,
+     "votes_other": 939
+    },
+    "mail": {
+     "votes_D": 9606,
+     "votes_R": 12588,
+     "votes_other": 452
+    }
+   },
+   "data_source": "Okaloosa County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0052,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12093": {
+   "name": "Okeechobee",
+   "raw_name": "Okeechobee",
+   "fips": "12093",
+   "is_mappable": true,
+   "votes_D": 4000,
+   "votes_R": 11543,
+   "votes_other": 256,
+   "total_votes": 15799,
+   "pct_D": 25.3,
+   "pct_R": 73.1,
+   "modes": {
+    "mail": {
+     "votes_D": 1034,
+     "votes_R": 1396,
+     "votes_other": 36
+    },
+    "early_in_person": {
+     "votes_D": 1677,
+     "votes_R": 6314,
+     "votes_other": 130
+    },
+    "election_day": {
+     "votes_D": 1287,
+     "votes_R": 3830,
+     "votes_other": 90
+    },
+    "provisional": {
+     "votes_D": 2,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Okeechobee County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0022,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "12095": {
+   "name": "Orange",
+   "raw_name": "Orange",
+   "fips": "12095",
+   "is_mappable": true,
+   "votes_D": 330386,
+   "votes_R": 256770,
+   "votes_other": 13937,
+   "total_votes": 601093,
+   "pct_D": 55.0,
+   "pct_R": 42.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 163453,
+     "votes_R": 134299,
+     "votes_other": 5882
+    },
+    "election_day": {
+     "votes_D": 68718,
+     "votes_R": 74919,
+     "votes_other": 5261
+    },
+    "mail": {
+     "votes_D": 98215,
+     "votes_R": 47552,
+     "votes_other": 2794
+    }
+   },
+   "data_source": "Orange County, FL",
+   "official_results": true,
+   "pct_off_official": 0.004,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12097": {
+   "name": "Osceola",
+   "raw_name": "Osceola",
+   "fips": "12097",
+   "is_mappable": true,
+   "votes_D": 81586,
+   "votes_R": 85085,
+   "votes_other": 3653,
+   "total_votes": 170324,
+   "pct_D": 47.9,
+   "pct_R": 50.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 38419,
+     "votes_R": 45900,
+     "votes_other": 1631
+    },
+    "election_day": {
+     "votes_D": 15183,
+     "votes_R": 21550,
+     "votes_other": 1110
+    },
+    "mail": {
+     "votes_D": 27984,
+     "votes_R": 17635,
+     "votes_other": 912
+    }
+   },
+   "data_source": "Osceola County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0028,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12099": {
+   "name": "Palm Beach",
+   "raw_name": "Palm Beach",
+   "fips": "12099",
+   "is_mappable": true,
+   "votes_D": 368640,
+   "votes_R": 356386,
+   "votes_other": 9213,
+   "total_votes": 734239,
+   "pct_D": 50.2,
+   "pct_R": 48.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 142164,
+     "votes_R": 188073,
+     "votes_other": 3912
+    },
+    "election_day": {
+     "votes_D": 71687,
+     "votes_R": 92137,
+     "votes_other": 3309
+    },
+    "mail": {
+     "votes_D": 154789,
+     "votes_R": 76176,
+     "votes_other": 1992
+    }
+   },
+   "data_source": "Palm Beach County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0037,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12101": {
+   "name": "Pasco",
+   "raw_name": "Pasco",
+   "fips": "12101",
+   "is_mappable": true,
+   "votes_D": 119344,
+   "votes_R": 186620,
+   "votes_other": 7974,
+   "total_votes": 313938,
+   "pct_D": 38.0,
+   "pct_R": 59.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 45029,
+     "votes_R": 90537,
+     "votes_other": 2915
+    },
+    "election_day": {
+     "votes_D": 31487,
+     "votes_R": 63951,
+     "votes_other": 3734
+    },
+    "mail": {
+     "votes_D": 42828,
+     "votes_R": 32132,
+     "votes_other": 1325
+    }
+   },
+   "data_source": "Pasco County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0037,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12103": {
+   "name": "Pinellas",
+   "raw_name": "Pinellas",
+   "fips": "12103",
+   "is_mappable": true,
+   "votes_D": 241729,
+   "votes_R": 260571,
+   "votes_other": 9642,
+   "total_votes": 511942,
+   "pct_D": 47.2,
+   "pct_R": 50.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 58731,
+     "votes_R": 89850,
+     "votes_other": 2677
+    },
+    "election_day": {
+     "votes_D": 47138,
+     "votes_R": 72783,
+     "votes_other": 3670
+    },
+    "mail": {
+     "votes_D": 135860,
+     "votes_R": 97938,
+     "votes_other": 3295
+    }
+   },
+   "data_source": "Pinellas County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0044,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12105": {
+   "name": "Polk",
+   "raw_name": "Polk",
+   "fips": "12105",
+   "is_mappable": true,
+   "votes_D": 135475,
+   "votes_R": 201722,
+   "votes_other": 6114,
+   "total_votes": 343311,
+   "pct_D": 39.5,
+   "pct_R": 58.8,
+   "modes": {
+    "total": {
+     "votes_D": 135475,
+     "votes_R": 201722,
+     "votes_other": 6114
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12107": {
+   "name": "Putnam",
+   "raw_name": "Putnam",
+   "fips": "12107",
+   "is_mappable": true,
+   "votes_D": 9511,
+   "votes_R": 25621,
+   "votes_other": 696,
+   "total_votes": 35828,
+   "pct_D": 26.5,
+   "pct_R": 71.5,
+   "modes": {
+    "total": {
+     "votes_D": 9511,
+     "votes_R": 25621,
+     "votes_other": 696
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12113": {
+   "name": "Santa Rosa",
+   "raw_name": "Santa Rosa",
+   "fips": "12113",
+   "is_mappable": true,
+   "votes_D": 24555,
+   "votes_R": 84815,
+   "votes_other": 2162,
+   "total_votes": 111532,
+   "pct_D": 22.0,
+   "pct_R": 76.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 12283,
+     "votes_R": 52555,
+     "votes_other": 1032
+    },
+    "election_day": {
+     "votes_D": 5451,
+     "votes_R": 22548,
+     "votes_other": 825
+    },
+    "mail": {
+     "votes_D": 6821,
+     "votes_R": 9712,
+     "votes_other": 305
+    }
+   },
+   "data_source": "Santa Rosa County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0043,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12115": {
+   "name": "Sarasota",
+   "raw_name": "Sarasota",
+   "fips": "12115",
+   "is_mappable": true,
+   "votes_D": 111763,
+   "votes_R": 160328,
+   "votes_other": 3326,
+   "total_votes": 275417,
+   "pct_D": 40.6,
+   "pct_R": 58.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 35328,
+     "votes_R": 82490,
+     "votes_other": 1350
+    },
+    "election_day": {
+     "votes_D": 17149,
+     "votes_R": 37228,
+     "votes_other": 1238
+    },
+    "mail": {
+     "votes_D": 59286,
+     "votes_R": 40610,
+     "votes_other": 738
+    }
+   },
+   "data_source": "Sarasota County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0044,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12117": {
+   "name": "Seminole",
+   "raw_name": "Seminole",
+   "fips": "12117",
+   "is_mappable": true,
+   "votes_D": 118325,
+   "votes_R": 127316,
+   "votes_other": 0,
+   "total_votes": 245641,
+   "pct_D": 48.2,
+   "pct_R": 51.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 59004,
+     "votes_R": 72332,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 22502,
+     "votes_R": 31691,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 36819,
+     "votes_R": 23293,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Seminole County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0045,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12109": {
+   "name": "St. Johns",
+   "raw_name": "St. Johns",
+   "fips": "12109",
+   "is_mappable": true,
+   "votes_D": 64516,
+   "votes_R": 128463,
+   "votes_other": 2652,
+   "total_votes": 195631,
+   "pct_D": 33.0,
+   "pct_R": 65.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 33456,
+     "votes_R": 82364,
+     "votes_other": 1247
+    },
+    "election_day": {
+     "votes_D": 11968,
+     "votes_R": 30067,
+     "votes_other": 1005
+    },
+    "mail": {
+     "votes_D": 19092,
+     "votes_R": 16032,
+     "votes_other": 400
+    }
+   },
+   "data_source": "St. Johns County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0053,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12111": {
+   "name": "St. Lucie",
+   "raw_name": "St. Lucie",
+   "fips": "12111",
+   "is_mappable": true,
+   "votes_D": 84650,
+   "votes_R": 95644,
+   "votes_other": 2422,
+   "total_votes": 182716,
+   "pct_D": 46.3,
+   "pct_R": 52.3,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 39711,
+     "votes_R": 55336,
+     "votes_other": 1068
+    },
+    "election_day": {
+     "votes_D": 15001,
+     "votes_R": 21838,
+     "votes_other": 807
+    },
+    "mail": {
+     "votes_D": 29938,
+     "votes_R": 18470,
+     "votes_other": 547
+    }
+   },
+   "data_source": "St. Lucie County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0032,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12119": {
+   "name": "Sumter",
+   "raw_name": "Sumter",
+   "fips": "12119",
+   "is_mappable": true,
+   "votes_D": 31273,
+   "votes_R": 72344,
+   "votes_other": 966,
+   "total_votes": 104583,
+   "pct_D": 29.9,
+   "pct_R": 69.2,
+   "modes": {
+    "total": {
+     "votes_D": 31273,
+     "votes_R": 72344,
+     "votes_other": 966
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12121": {
+   "name": "Suwannee",
+   "raw_name": "Suwannee",
+   "fips": "12121",
+   "is_mappable": true,
+   "votes_D": 4073,
+   "votes_R": 17123,
+   "votes_other": 461,
+   "total_votes": 21657,
+   "pct_D": 18.8,
+   "pct_R": 79.1,
+   "modes": {
+    "total": {
+     "votes_D": 4073,
+     "votes_R": 17123,
+     "votes_other": 461
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12123": {
+   "name": "Taylor",
+   "raw_name": "Taylor",
+   "fips": "12123",
+   "is_mappable": true,
+   "votes_D": 1816,
+   "votes_R": 7914,
+   "votes_other": 163,
+   "total_votes": 9893,
+   "pct_D": 18.4,
+   "pct_R": 80.0,
+   "modes": {
+    "total": {
+     "votes_D": 1816,
+     "votes_R": 7914,
+     "votes_other": 163
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12125": {
+   "name": "Union",
+   "raw_name": "Union",
+   "fips": "12125",
+   "is_mappable": true,
+   "votes_D": 1053,
+   "votes_R": 4966,
+   "votes_other": 0,
+   "total_votes": 6019,
+   "pct_D": 17.5,
+   "pct_R": 82.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 469,
+     "votes_R": 2851,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 399,
+     "votes_R": 1609,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 185,
+     "votes_R": 506,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Union County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0022,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12127": {
+   "name": "Volusia",
+   "raw_name": "Volusia",
+   "fips": "12127",
+   "is_mappable": true,
+   "votes_D": 120503,
+   "votes_R": 179997,
+   "votes_other": 6103,
+   "total_votes": 306603,
+   "pct_D": 39.3,
+   "pct_R": 58.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 47475,
+     "votes_R": 94167,
+     "votes_other": 2461
+    },
+    "election_day": {
+     "votes_D": 25212,
+     "votes_R": 45785,
+     "votes_other": 2318
+    },
+    "mail": {
+     "votes_D": 47816,
+     "votes_R": 40045,
+     "votes_other": 1324
+    }
+   },
+   "data_source": "Volusia County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0037,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12129": {
+   "name": "Wakulla",
+   "raw_name": "Wakulla",
+   "fips": "12129",
+   "is_mappable": true,
+   "votes_D": 5265,
+   "votes_R": 14013,
+   "votes_other": 372,
+   "total_votes": 19650,
+   "pct_D": 26.8,
+   "pct_R": 71.3,
+   "modes": {
+    "total": {
+     "votes_D": 5265,
+     "votes_R": 14013,
+     "votes_other": 372
+    }
+   },
+   "data_source": "FL-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "12131": {
+   "name": "Walton",
+   "raw_name": "Walton",
+   "fips": "12131",
+   "is_mappable": true,
+   "votes_D": 9618,
+   "votes_R": 38828,
+   "votes_other": 569,
+   "total_votes": 49015,
+   "pct_D": 19.6,
+   "pct_R": 79.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 4541,
+     "votes_R": 22241,
+     "votes_other": 275
+    },
+    "election_day": {
+     "votes_D": 2188,
+     "votes_R": 11443,
+     "votes_other": 212
+    },
+    "mail": {
+     "votes_D": 2889,
+     "votes_R": 5144,
+     "votes_other": 82
+    }
+   },
+   "data_source": "Walton County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0041,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "12133": {
+   "name": "Washington",
+   "raw_name": "Washington",
+   "fips": "12133",
+   "is_mappable": true,
+   "votes_D": 1988,
+   "votes_R": 10294,
+   "votes_other": 0,
+   "total_votes": 12282,
+   "pct_D": 16.2,
+   "pct_R": 83.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 842,
+     "votes_R": 5528,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 689,
+     "votes_R": 3570,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 457,
+     "votes_R": 1196,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Washington County, FL",
+   "official_results": true,
+   "pct_off_official": 0.0033,
+   "completeness": "C3",
+   "notes": ""
+  }
+ }
+}

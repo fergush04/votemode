@@ -7,6 +7,14 @@ const COLORS = {
   amber: '#9C7A1F', grey: '#8C8B82'
 };
 
+const NO_RACE_COLOR = '#666861';
+
+const RACES = {
+  president: { label: 'President', adjective: 'presidential' },
+  senate: { label: 'Senate', adjective: 'Senate' },
+  governor: { label: 'Governor', adjective: 'governor' }
+};
+
 const COMPLETENESS_COLOR = {
   C6: '#2F5C0E', C5: '#3B6D11', C4: '#5C8A2A', C3: '#7FA84D',
   C2: '#A8B97B', C1: '#C7C8A8',
@@ -52,14 +60,17 @@ const MODE_LABELS = {
 // ---- App state ----
 const state = {
   view: 'national',       // 'national' | 'state'
+  race: 'president',
+  currentContest: 'regular',
   currentStateAbbr: null,
   selectedUnitId: null,
   colorMode: 'coverage',   // 'results' | 'coverage' — opens on coverage
   numberMode: 'votes',     // 'votes' | 'percent' — modal breakdown table display
   cityLabels: null,        // data/geo/city_labels.json, loaded once on demand
   national: null,
+  nationalCache: {},      // race -> parsed national JSON
   geoStates: null,
-  stateDataCache: {},      // abbr -> parsed state JSON
+  stateDataCache: {},      // race:abbr:contest -> parsed state JSON
   geoCache: {},            // abbr -> topojson
   renderToken: 0           // bumped on every navigation; async work checks this before painting
 };
@@ -178,7 +189,7 @@ function resetZoom() {
 // Bump this whenever the data files are rebuilt. It busts visitors' HTTP cache
 // (every request carries ?v=...) while still letting browsers cache normally
 // between builds.
-const DATA_VERSION = '2026-07-03';
+const DATA_VERSION = '2026-08-15-races';
 
 async function loadJSON(path) {
   const url = path + (path.includes('?') ? '&' : '?') + 'v=' + DATA_VERSION;
@@ -188,7 +199,7 @@ async function loadJSON(path) {
 }
 
 async function init() {
-  state.national = await loadJSON('data/national.json');
+  state.national = await ensureNationalData(state.race);
   state.geoStates = await loadJSON('data/geo/us_states.json');
   setupZoom();
   renderNationalView();
@@ -199,23 +210,41 @@ async function init() {
   setupDownloads();
 }
 
-async function ensureStateData(abbr) {
+async function ensureNationalData(race) {
+  if (!state.nationalCache[race]) {
+    state.nationalCache[race] = await loadJSON(`data/races/${race}/national.json`);
+  }
+  return state.nationalCache[race];
+}
+
+function stateDataKey(abbr, contest = state.currentContest) {
+  return `${state.race}:${abbr}:${contest}`;
+}
+
+function currentStateData() {
+  if (!state.currentStateAbbr) return null;
+  return state.stateDataCache[stateDataKey(state.currentStateAbbr)] || null;
+}
+
+async function ensureStateData(abbr, contest = state.currentContest) {
   const lower = abbr.toLowerCase();
-  if (!state.stateDataCache[abbr]) {
+  const key = stateDataKey(abbr, contest);
+  if (!state.stateDataCache[key]) {
+    const suffix = contest === 'special' ? '_special' : '';
     try {
-      state.stateDataCache[abbr] = await loadJSON(`data/states/${lower}.json`);
+      state.stateDataCache[key] = await loadJSON(`data/races/${state.race}/states/${lower}${suffix}.json`);
     } catch (e) {
-      state.stateDataCache[abbr] = null; // no data file built for this state yet
+      state.stateDataCache[key] = null;
     }
   }
-  if (state.stateDataCache[abbr] && !state.geoCache[abbr]) {
+  if (state.stateDataCache[key] && !state.geoCache[abbr]) {
     try {
       state.geoCache[abbr] = await loadJSON(`data/geo/${stateGeoFile(abbr)}`);
     } catch (e) {
       state.geoCache[abbr] = null; // no geometry built for this state yet in the prototype
     }
   }
-  return state.stateDataCache[abbr];
+  return state.stateDataCache[key];
 }
 
 function stateGeoFile(abbr) {
@@ -266,7 +295,7 @@ function nationalCoverageFill(s) {
 
 // Fill for a whole state on the national map, honoring the current color mode.
 function nationalFill(s) {
-  if (!s) return '#ddd';
+  if (!s) return NO_RACE_COLOR;
   return state.colorMode === 'coverage' ? nationalCoverageFill(s) : marginColor(s.pct_D, s.pct_R);
 }
 
@@ -277,16 +306,79 @@ function unitColor(unit, mode) {
   return marginColor(unit.pct_D, unit.pct_R);
 }
 
+function unitKeyForFeature(data, featureId) {
+  return data.geometry_aliases?.[featureId] || featureId;
+}
+
+function unitForFeature(data, featureId) {
+  return data.units[unitKeyForFeature(data, featureId)];
+}
+
+function raceLabel() {
+  return RACES[state.race].label;
+}
+
+function shortCandidate(name) {
+  const parts = String(name || '').trim().split(/\s+/);
+  if (!parts.length) return 'Candidate';
+  const suffixes = new Set(['Jr.', 'Sr.', 'II', 'III', 'IV']);
+  const index = suffixes.has(parts[parts.length - 1]) ? parts.length - 2 : parts.length - 1;
+  return parts[Math.max(index, 0)];
+}
+
+function renderMapTitle(stateName = null) {
+  const el = document.getElementById('mapTitleOverlay');
+  const raceOptions = Object.entries(RACES).map(([key, race]) =>
+    `<option value="${key}" ${key === state.race ? 'selected' : ''}>2024 ${race.label}</option>`
+  ).join('');
+  const stateSummary = stateName && state.currentStateAbbr
+    ? state.national.states[state.currentStateAbbr]
+    : null;
+  const contests = stateSummary?.contests || [];
+  const contestSelect = contests.length > 1 ? `
+    <span class="map-title-separator">·</span>
+    <select class="contest-select" id="contestSelect" aria-label="Choose Senate contest">
+      ${contests.map(contest => `<option value="${contest.key}" ${contest.key === state.currentContest ? 'selected' : ''}>${contest.label}</option>`).join('')}
+    </select>` : '';
+
+  el.innerHTML = `
+    <select class="race-select" id="raceSelect" aria-label="Choose 2024 race">${raceOptions}</select>
+    ${stateName ? `<span class="map-title-separator">·</span><span>${stateName}</span>` : ''}
+    ${contestSelect}
+  `;
+  document.getElementById('raceSelect').addEventListener('change', event => setRace(event.target.value));
+  document.getElementById('contestSelect')?.addEventListener('change', event => switchContest(event.target.value));
+}
+
+async function setRace(race) {
+  if (!RACES[race] || race === state.race) return;
+  state.renderToken++;
+  hideTooltip();
+  const national = await ensureNationalData(race);
+  state.race = race;
+  state.national = national;
+  state.currentContest = 'regular';
+  renderNationalView();
+}
+
+function switchContest(contest) {
+  if (contest === state.currentContest || !state.currentStateAbbr) return;
+  state.currentContest = contest;
+  enterState(state.currentStateAbbr);
+}
+
 // ============ NATIONAL VIEW ============
 
 function renderNationalView() {
   state.renderToken++; // invalidate any in-flight enterState() call
   state.view = 'national';
   state.currentStateAbbr = null;
+  state.currentContest = 'regular';
   state.selectedUnitId = null;
   removeCoverageStrip();
 
-  document.getElementById('mapTitleOverlay').textContent = 'United States · 2024 Presidential Results';
+  renderMapTitle();
+  document.getElementById('mapHint').textContent = 'Click a state to explore · scroll to zoom';
   document.getElementById('overseasMarker').classList.remove('visible');
   document.getElementById('overseasMarker').classList.remove('active');
   updateBreadcrumb();
@@ -307,13 +399,14 @@ function renderNationalView() {
     .data(geo.features)
     .join('path')
     .attr('class', 'map-unit')
+    .classed('no-race', d => !state.national.states[STATE_NAME_TO_ABBR[d.properties.name]])
     .attr('d', path)
     .attr('fill', d => nationalFill(state.national.states[STATE_NAME_TO_ABBR[d.properties.name]]))
     .on('mousemove', (event, d) => showTooltipNational(event, d))
     .on('mouseleave', hideTooltip)
     .on('click', (event, d) => {
       const abbr = STATE_NAME_TO_ABBR[d.properties.name];
-      if (abbr) enterState(abbr);
+      if (abbr && state.national.states[abbr]) enterState(abbr);
     });
 
   renderNationalPanel();
@@ -323,12 +416,22 @@ function renderNationalView() {
 function showTooltipNational(event, d) {
   const abbr = STATE_NAME_TO_ABBR[d.properties.name];
   const s = state.national.states[abbr];
-  if (!s) return;
+  if (!s) {
+    tooltip.innerHTML = `
+      <div class="tt-name">${d.properties.name}</div>
+      <div class="tt-hint no-rule">No 2024 ${RACES[state.race].adjective} race</div>
+    `;
+    positionTooltip(event);
+    return;
+  }
+  const candidateR = shortCandidate(s.candidate_R);
+  const candidateD = shortCandidate(s.candidate_D);
+  const contestHint = s.contests?.length > 1 ? ` · ${s.contests.length} contests` : '';
   tooltip.innerHTML = `
     <div class="tt-name">${d.properties.name}</div>
-    <div class="tt-row"><span class="tt-cand" style="color:${COLORS.red}">Trump</span><span class="tt-val">${fmtNum(s.votes_R)} · ${fmtPct(s.pct_R)}%</span></div>
-    <div class="tt-row"><span class="tt-cand" style="color:${COLORS.blue}">Harris</span><span class="tt-val">${fmtNum(s.votes_D)} · ${fmtPct(s.pct_D)}%</span></div>
-    <div class="tt-hint">Avg. data quality: ${s.avg_completeness} · Click to explore counties</div>
+    <div class="tt-row"><span class="tt-cand" style="color:${COLORS.red}">${candidateR}</span><span class="tt-val">${fmtNum(s.votes_R)} · ${fmtPct(s.pct_R)}%</span></div>
+    <div class="tt-row"><span class="tt-cand" style="color:${COLORS.blue}">${candidateD}</span><span class="tt-val">${fmtNum(s.votes_D)} · ${fmtPct(s.pct_D)}%</span></div>
+    <div class="tt-hint">Avg. data quality: ${s.avg_completeness}${contestHint} · Click to explore</div>
   `;
   positionTooltip(event);
 }
@@ -377,7 +480,7 @@ async function enterState(abbr) {
     // No data file built for this state yet in the prototype
     removeCoverageStrip();
     const stateName = Object.keys(STATE_NAME_TO_ABBR).find(n => STATE_NAME_TO_ABBR[n] === abbr) || abbr;
-    document.getElementById('mapTitleOverlay').textContent = `${stateName} · Data Not Yet Built`;
+    renderMapTitle(stateName);
     svg.selectAll('*').remove();
     svg.append('text')
       .attr('x', mapArea.clientWidth / 2).attr('y', mapArea.clientHeight / 2)
@@ -398,7 +501,8 @@ async function enterState(abbr) {
     return;
   }
 
-  document.getElementById('mapTitleOverlay').textContent = `${data.state} · ${titleCaseWord(data.unit_type)} Results`;
+  renderMapTitle(data.state);
+  document.getElementById('mapHint').textContent = `Click a ${unitTypeLabel(data.unit_type, false)} to inspect · scroll to zoom`;
   updateBreadcrumb();
   updateBackButton();
   renderLegend();
@@ -504,12 +608,12 @@ async function enterState(abbr) {
     .attr('id', d => 'unit-' + d.id)
     .attr('d', path)
     .attr('fill', d => {
-      const unit = data.units[d.id];
+      const unit = unitForFeature(data, d.id);
       return unit ? unitColor(unit, state.colorMode) : '#ddd';
     })
     .on('mousemove', (event, d) => showTooltipUnit(event, d, data))
     .on('mouseleave', hideTooltip)
-    .on('click', (event, d) => selectUnit(d.id, data));
+    .on('click', (event, d) => selectUnit(unitKeyForFeature(data, d.id), data));
 
   // City labels — non-interactive overlay; counter-scaled on zoom so they keep
   // constant screen size (see setupZoom).
@@ -537,12 +641,14 @@ async function enterState(abbr) {
 }
 
 function showTooltipUnit(event, d, stateData) {
-  const unit = stateData.units[d.id];
+  const unit = unitForFeature(stateData, d.id);
   if (!unit) return;
+  const candidateR = shortCandidate(stateData.candidate_R);
+  const candidateD = shortCandidate(stateData.candidate_D);
   tooltip.innerHTML = `
     <div class="tt-name">${unit.name}</div>
-    <div class="tt-row"><span class="tt-cand" style="color:${COLORS.red}">Trump</span><span class="tt-val">${fmtNum(unit.votes_R)} · ${fmtPct(unit.pct_R)}%</span></div>
-    <div class="tt-row"><span class="tt-cand" style="color:${COLORS.blue}">Harris</span><span class="tt-val">${fmtNum(unit.votes_D)} · ${fmtPct(unit.pct_D)}%</span></div>
+    <div class="tt-row"><span class="tt-cand" style="color:${COLORS.red}">${candidateR}</span><span class="tt-val">${fmtNum(unit.votes_R)} · ${fmtPct(unit.pct_R)}%</span></div>
+    <div class="tt-row"><span class="tt-cand" style="color:${COLORS.blue}">${candidateD}</span><span class="tt-val">${fmtNum(unit.votes_D)} · ${fmtPct(unit.pct_D)}%</span></div>
     <div class="tt-hint">Click for full modal breakdown</div>
   `;
   positionTooltip(event);
@@ -550,11 +656,12 @@ function showTooltipUnit(event, d, stateData) {
 
 function selectUnit(unitId, stateData) {
   state.selectedUnitId = unitId;
-  svg.selectAll('.map-unit').classed('selected', d => d.id === unitId);
+  svg.selectAll('.map-unit').classed('selected', d => unitKeyForFeature(stateData, d.id) === unitId);
   // Raise the selected unit to the top of paint order — otherwise later-drawn
   // neighboring units paint over the shared edges of its highlight stroke.
-  const selectedEl = svg.select('#unit-' + unitId);
-  if (!selectedEl.empty()) selectedEl.raise();
+  const selectedEls = svg.selectAll('.map-unit')
+    .filter(d => unitKeyForFeature(stateData, d.id) === unitId);
+  if (!selectedEls.empty()) selectedEls.raise();
   // Keep city labels above the raised selection.
   const cityLayer = svg.select('g.city-layer');
   if (!cityLayer.empty()) cityLayer.raise();
@@ -571,7 +678,7 @@ function deselectUnit() {
   state.selectedUnitId = null;
   svg.selectAll('.map-unit').classed('selected', false);
   document.getElementById('overseasMarker')?.classList.remove('active');
-  const data = state.stateDataCache[state.currentStateAbbr];
+  const data = currentStateData();
   if (data) renderStatePanel(data);
   updateBreadcrumb();
   updateBackButton();
@@ -581,7 +688,7 @@ function setupOverseasMarker() {
   const marker = document.getElementById('overseasMarker');
   marker.addEventListener('click', () => {
     const unitId = marker.dataset.unitId;
-    const data = state.stateDataCache[state.currentStateAbbr];
+    const data = currentStateData();
     if (!unitId || !data || !data.units[unitId]) return;
     selectUnit(unitId, data);
   });
@@ -595,7 +702,7 @@ function updateBreadcrumb() {
     bc.innerHTML = `<span class="crumb current">United States</span>`;
     return;
   }
-  const data = state.stateDataCache[state.currentStateAbbr];
+  const data = currentStateData();
   const unit = (data && state.selectedUnitId) ? data.units[state.selectedUnitId] : null;
 
   if (unit) {
@@ -636,7 +743,7 @@ function updateBackButton() {
     return;
   }
   btn.classList.add('visible');
-  const data = state.stateDataCache[state.currentStateAbbr];
+  const data = currentStateData();
   if (state.selectedUnitId && data) {
     label.textContent = `Back to ${data.state}`;
   } else {
@@ -681,35 +788,48 @@ function renderNationalPanel() {
   let usD = 0, usR = 0, usOther = 0, usTotal = 0;
   Object.values(n.states).forEach(s => { usD += s.votes_D; usR += s.votes_R; usOther += s.votes_other; usTotal += s.total_votes; });
   const pctD = (100 * usD / usTotal).toFixed(1), pctR = (100 * usR / usTotal).toFixed(1);
+  const sample = Object.values(n.states)[0];
+  const candidateR = shortCandidate(sample?.candidate_R);
+  const candidateD = shortCandidate(sample?.candidate_D);
+  const isPresident = state.race === 'president';
+  const trackedVotes = n.total_votes || usTotal;
 
-  setPanelHeader('National summary', 'United States', '2024 presidential results');
+  setPanelHeader('National summary', 'United States', `2024 ${RACES[state.race].adjective} results`);
 
   document.getElementById('panelContent').innerHTML = `
-    <div class="data-section">
-      <div class="section-label">2024 national result</div>
-      <div class="candidate-row">
-        <span class="cand-swatch" style="background:${COLORS.red}"></span>
-        <span class="cand-name">Trump</span>
-        <div class="bar-track"><div class="bar-fill" style="width:${pctR}%; background:${COLORS.red}"></div></div>
-        <span class="bar-pct">${pctR}%</span>
+    ${isPresident ? `
+      <div class="data-section">
+        <div class="section-label">2024 national result</div>
+        <div class="candidate-row">
+          <span class="cand-swatch" style="background:${COLORS.red}"></span>
+          <span class="cand-name" title="${sample.candidate_R}">${candidateR}</span>
+          <div class="bar-track"><div class="bar-fill" style="width:${pctR}%; background:${COLORS.red}"></div></div>
+          <span class="bar-pct">${pctR}%</span>
+        </div>
+        <div class="candidate-row">
+          <span class="cand-swatch" style="background:${COLORS.blue}"></span>
+          <span class="cand-name" title="${sample.candidate_D}">${candidateD}</span>
+          <div class="bar-track"><div class="bar-fill" style="width:${pctD}%; background:${COLORS.blue}"></div></div>
+          <span class="bar-pct">${pctD}%</span>
+        </div>
       </div>
-      <div class="candidate-row">
-        <span class="cand-swatch" style="background:${COLORS.blue}"></span>
-        <span class="cand-name">Harris</span>
-        <div class="bar-track"><div class="bar-fill" style="width:${pctD}%; background:${COLORS.blue}"></div></div>
-        <span class="bar-pct">${pctD}%</span>
+    ` : `
+      <div class="data-section">
+        <div class="section-label">2024 ${raceLabel()} races</div>
+        <div class="race-stat"><strong>${n.contest_count}</strong><span>contests</span></div>
+        <div class="race-stat"><strong>${n.jurisdiction_count}</strong><span>states</span></div>
       </div>
-    </div>
+    `}
     <div class="data-section">
       <div class="section-label">About this project</div>
       <div class="profile-text">
-        VoteMode tracks 2024 presidential results broken down by voting method (election day, early in-person, and mail) at the county level (and town, district, or ward level where that's how a state reports). Click any state on the map to begin exploring.
+        VoteMode tracks 2024 ${RACES[state.race].adjective} results broken down by voting method at the county level—and by town, district, or ward where states report that way. Click a state with a race to begin exploring.
       </div>
     </div>
     <div class="data-section">
-      <div class="section-label">Total votes counted</div>
+      <div class="section-label">Total votes tracked</div>
       <div class="profile-text" style="font-family: var(--font-mono); font-size: 16px; color: var(--ink); font-weight: 600;">
-        ${fmtNum(usTotal)}
+        ${fmtNum(trackedVotes)}
       </div>
     </div>
   `;
@@ -717,9 +837,11 @@ function renderNationalPanel() {
 
 // ---- State-level panel (no unit selected) ----
 function renderStatePanel(data) {
-  setPanelHeader('State profile', data.state, `${data.unit_count} ${unitTypeLabel(data.unit_type, true)} · click one on the map to inspect`);
+  setPanelHeader('State profile', data.state, `2024 ${data.race_label} · ${data.unit_count} ${unitTypeLabel(data.unit_type, true)}`);
   const grade = data.avg_completeness;
   const gradeColor = coverageColor(grade);
+  const candidateR = shortCandidate(data.candidate_R);
+  const candidateD = shortCandidate(data.candidate_D);
 
   const profile = data.state_profile || {};
   const hasNarrative = profile.voting_summary && profile.voting_summary.trim().length > 0;
@@ -739,16 +861,16 @@ function renderStatePanel(data) {
       </div>
     </div>
     <div class="data-section">
-      <div class="section-label">Statewide result</div>
+      <div class="section-label">Statewide ${data.contest === 'special' ? 'special-election ' : ''}result</div>
       <div class="candidate-row">
         <span class="cand-swatch" style="background:${COLORS.red}"></span>
-        <span class="cand-name">Trump</span>
+        <span class="cand-name" title="${data.candidate_R}">${candidateR}</span>
         <div class="bar-track"><div class="bar-fill" style="width:${data.pct_R}%; background:${COLORS.red}"></div></div>
         <span class="bar-pct">${fmtPct(data.pct_R)}%</span>
       </div>
       <div class="candidate-row">
         <span class="cand-swatch" style="background:${COLORS.blue}"></span>
-        <span class="cand-name">Harris</span>
+        <span class="cand-name" title="${data.candidate_D}">${candidateD}</span>
         <div class="bar-track"><div class="bar-fill" style="width:${data.pct_D}%; background:${COLORS.blue}"></div></div>
         <span class="bar-pct">${fmtPct(data.pct_D)}%</span>
       </div>
@@ -761,7 +883,9 @@ function renderStatePanel(data) {
 // ---- Unit-level panel (county / town / district / ward selected) ----
 function renderUnitPanel(unit, stateData) {
   if (!unit) return;
-  setPanelHeader(`${unitTypeLabel(stateData.unit_type, false)} detail`, unit.name, `${stateData.state} · selected`);
+  setPanelHeader(`${unitTypeLabel(stateData.unit_type, false)} detail`, unit.name, `${stateData.race_label} · ${stateData.state}`);
+  const candidateR = shortCandidate(stateData.candidate_R);
+  const candidateD = shortCandidate(stateData.candidate_D);
 
   const showPct = state.numberMode === 'percent';
   const modeKeys = Object.keys(unit.modes || {});
@@ -790,13 +914,13 @@ function renderUnitPanel(unit, stateData) {
       <div class="section-label">Overall result</div>
       <div class="candidate-row">
         <span class="cand-swatch" style="background:${COLORS.red}"></span>
-        <span class="cand-name">Trump</span>
+        <span class="cand-name" title="${stateData.candidate_R}">${candidateR}</span>
         <div class="bar-track"><div class="bar-fill" style="width:${unit.pct_R}%; background:${COLORS.red}"></div></div>
         <span class="bar-pct">${fmtPct(unit.pct_R)}%</span>
       </div>
       <div class="candidate-row">
         <span class="cand-swatch" style="background:${COLORS.blue}"></span>
-        <span class="cand-name">Harris</span>
+        <span class="cand-name" title="${stateData.candidate_D}">${candidateD}</span>
         <div class="bar-track"><div class="bar-fill" style="width:${unit.pct_D}%; background:${COLORS.blue}"></div></div>
         <span class="bar-pct">${fmtPct(unit.pct_D)}%</span>
       </div>
@@ -813,7 +937,7 @@ function renderUnitPanel(unit, stateData) {
       </div>
       ${modeKeys.length ? `
       <table class="mode-table">
-        <thead><tr><th>Mode</th><th>Trump</th><th>Harris</th></tr></thead>
+        <thead><tr><th>Mode</th><th>${candidateR}</th><th>${candidateD}</th></tr></thead>
         <tbody>
           ${modeRows}
           <tr class="total-row"><td>Total</td><td class="td-r">${totalRDisplay}</td><td class="td-d">${totalDDisplay}</td></tr>
@@ -838,10 +962,12 @@ function renderUnitPanel(unit, stateData) {
   `;
 
   const ab = stateData.state_abbr.toLowerCase();
+  const contestSuffix = stateData.contest === 'special' ? '_special' : '';
+  const fileBase = `votemode_${ab}_2024_${stateData.race}${contestSuffix}`;
   document.getElementById('dlBtn').addEventListener('click', () => {
-    downloadFile(`votemode_${ab}_2024.csv`, stateCSV(stateData), 'text/csv');
+    downloadFile(`${fileBase}.csv`, stateCSV(stateData), 'text/csv');
     // Slight stagger so the browser treats both saves as one user action.
-    setTimeout(() => downloadFile(`votemode_${ab}_2024.json`, JSON.stringify(stateData, null, 1), 'application/json'), 350);
+    setTimeout(() => downloadFile(`${fileBase}.json`, JSON.stringify(stateData, null, 1), 'application/json'), 350);
   });
 
   setupNumberToggle();
@@ -854,7 +980,7 @@ function setupNumberToggle() {
     btn.addEventListener('click', () => {
       if (state.numberMode === btn.dataset.mode) return;
       state.numberMode = btn.dataset.mode;
-      const stateData = state.stateDataCache[state.currentStateAbbr];
+      const stateData = currentStateData();
       if (stateData && state.selectedUnitId) {
         renderUnitPanel(stateData.units[state.selectedUnitId], stateData);
       }
@@ -907,13 +1033,16 @@ function renderLegend() {
       <div class="legend-row"><span class="legend-swatch" style="background:${coverageColor('C1')}"></span>1 method reported</div>
       <div class="legend-row"><span class="legend-swatch" style="background:${coverageColor('U')}"></span>Totals only</div>
       ${state.view === 'national' ? `<div class="legend-row"><span class="legend-swatch" style="background:repeating-linear-gradient(45deg, ${coverageColor('C3')}, ${coverageColor('C3')} 3px, ${coverageColor('U')} 3px, ${coverageColor('U')} 6px)"></span>Mixed (two most common)</div>` : `<div class="legend-row"><span class="legend-swatch" style="background:${coverageColor('F')}"></span>Not yet sourced</div>`}
+      ${state.view === 'national' && state.race !== 'president' ? `<div class="legend-row"><span class="legend-swatch" style="background:${NO_RACE_COLOR}"></span>No ${raceLabel()} race</div>` : ''}
     `;
   } else {
+    const isPresident = state.race === 'president';
     el.innerHTML = `
-      <div class="legend-row"><span class="legend-swatch" style="background:${COLORS.red}"></span>Solid Trump</div>
-      <div class="legend-row"><span class="legend-swatch" style="background:${COLORS.redSoft}"></span>Lean Trump</div>
-      <div class="legend-row"><span class="legend-swatch" style="background:${COLORS.blueSoft}"></span>Lean Harris</div>
-      <div class="legend-row"><span class="legend-swatch" style="background:${COLORS.blue}"></span>Solid Harris</div>
+      <div class="legend-row"><span class="legend-swatch" style="background:${COLORS.red}"></span>${isPresident ? 'Solid Trump' : 'Strong Republican lead'}</div>
+      <div class="legend-row"><span class="legend-swatch" style="background:${COLORS.redSoft}"></span>${isPresident ? 'Lean Trump' : 'Lean Republican'}</div>
+      <div class="legend-row"><span class="legend-swatch" style="background:${COLORS.blueSoft}"></span>${isPresident ? 'Lean Harris' : 'Lean Democratic / independent'}</div>
+      <div class="legend-row"><span class="legend-swatch" style="background:${COLORS.blue}"></span>${isPresident ? 'Solid Harris' : 'Strong Democratic / independent lead'}</div>
+      ${state.view === 'national' && !isPresident ? `<div class="legend-row"><span class="legend-swatch" style="background:${NO_RACE_COLOR}"></span>No ${raceLabel()} race</div>` : ''}
     `;
   }
 }
@@ -931,10 +1060,10 @@ function setupViewToggle() {
         svg.selectAll('.map-unit').attr('fill', d =>
           nationalFill(state.national.states[STATE_NAME_TO_ABBR[d.properties.name]]));
       } else {
-        const data = state.stateDataCache[state.currentStateAbbr];
+        const data = currentStateData();
         if (data) {
           svg.selectAll('.map-unit').attr('fill', d => {
-            const unit = data.units[d.id];
+            const unit = unitForFeature(data, d.id);
             return unit ? unitColor(unit, state.colorMode) : '#ddd';
           });
         }
@@ -959,7 +1088,7 @@ function setupSearch() {
         .filter(([abbr, s]) => s.name.toLowerCase().includes(q))
         .map(([abbr, s]) => ({ label: s.name, meta: abbr, action: () => enterState(abbr) }));
     } else {
-      const data = state.stateDataCache[state.currentStateAbbr];
+      const data = currentStateData();
       if (data) {
         matches = Object.entries(data.units)
           .filter(([id, u]) => u.name.toLowerCase().includes(q))
@@ -990,7 +1119,7 @@ function setupSearch() {
 
 function updateSearchPlaceholder() {
   const box = document.getElementById('searchBox');
-  box.placeholder = state.view === 'national' ? 'Search states…' : `Search ${unitTypeLabel(state.stateDataCache[state.currentStateAbbr]?.unit_type, true)}…`;
+  box.placeholder = state.view === 'national' ? `Search ${raceLabel()} states…` : `Search ${unitTypeLabel(currentStateData()?.unit_type, true)}…`;
 }
 
 // ============ UTIL ============
@@ -1019,21 +1148,21 @@ function downloadFile(name, content, mime) {
 
 // Long-format CSV: one 'all' row per unit plus one row per reported vote method.
 function stateCSV(data) {
-  const rows = [['state','unit_id','unit','fips','mode','votes_dem','votes_rep','votes_other','votes_total','completeness','data_source','official_results']];
+  const rows = [['race','contest','state','unit_id','unit','fips','mode','candidate_D','candidate_R','votes_candidate_D','votes_candidate_R','votes_other','votes_total','completeness','data_source','official_results']];
   for (const [id, u] of Object.entries(data.units)) {
-    rows.push([data.state_abbr, id, u.name, u.fips || '', 'all', u.votes_D, u.votes_R, u.votes_other, u.total_votes, u.completeness || '', u.data_source || '', u.official_results]);
+    rows.push([data.race, data.contest, data.state_abbr, id, u.name, u.fips || '', 'all', data.candidate_D, data.candidate_R, u.votes_D, u.votes_R, u.votes_other, u.total_votes, u.completeness || '', u.data_source || '', u.official_results]);
     for (const [m, v] of Object.entries(u.modes || {})) {
       const t = (v.votes_D || 0) + (v.votes_R || 0) + (v.votes_other || 0);
-      rows.push([data.state_abbr, id, u.name, u.fips || '', m, v.votes_D, v.votes_R, v.votes_other, t, '', '', '']);
+      rows.push([data.race, data.contest, data.state_abbr, id, u.name, u.fips || '', m, data.candidate_D, data.candidate_R, v.votes_D, v.votes_R, v.votes_other, t, '', '', '']);
     }
   }
   return rows.map(r => r.map(csvEscape).join(',')).join('\n');
 }
 
 function nationalCSV() {
-  const rows = [['state','name','votes_dem','votes_rep','votes_other','votes_total','pct_dem','pct_rep','unit_count','avg_completeness']];
+  const rows = [['race','contest','state','name','candidate_D','candidate_R','votes_candidate_D','votes_candidate_R','votes_other','votes_total','pct_candidate_D','pct_candidate_R','unit_count','avg_completeness']];
   for (const [ab, s] of Object.entries(state.national.states)) {
-    rows.push([ab, s.name, s.votes_D, s.votes_R, s.votes_other, s.total_votes, s.pct_D, s.pct_R, s.unit_count, s.avg_completeness]);
+    rows.push([state.race, s.contest, ab, s.name, s.candidate_D, s.candidate_R, s.votes_D, s.votes_R, s.votes_other, s.total_votes, s.pct_D, s.pct_R, s.unit_count, s.avg_completeness]);
   }
   return rows.map(r => r.map(csvEscape).join(',')).join('\n');
 }
@@ -1041,10 +1170,14 @@ function nationalCSV() {
 function setupDownloads() {
   document.getElementById('downloadTopBtn').addEventListener('click', () => {
     if (state.view === 'state') {
-      const d = state.stateDataCache[state.currentStateAbbr];
-      if (d) { downloadFile(`votemode_${d.state_abbr.toLowerCase()}_2024.csv`, stateCSV(d), 'text/csv'); return; }
+      const d = currentStateData();
+      if (d) {
+        const contestSuffix = d.contest === 'special' ? '_special' : '';
+        downloadFile(`votemode_${d.state_abbr.toLowerCase()}_2024_${d.race}${contestSuffix}.csv`, stateCSV(d), 'text/csv');
+        return;
+      }
     }
-    downloadFile('votemode_national_2024.csv', nationalCSV(), 'text/csv');
+    downloadFile(`votemode_national_2024_${state.race}.csv`, nationalCSV(), 'text/csv');
   });
 }
 

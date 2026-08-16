@@ -1,0 +1,1745 @@
+{
+ "race": "senate",
+ "race_label": "Senate",
+ "race_type": "senate",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Adam B. Schiff",
+ "candidate_R": "Steve Garvey",
+ "state": "California",
+ "state_abbr": "CA",
+ "unit_type": "county",
+ "avg_completeness": "C2",
+ "completeness_breakdown": {
+  "C2": 27,
+  "C1": 4,
+  "C3": 11,
+  "U": 12,
+  "C4": 4
+ },
+ "votes_D": 9035716,
+ "votes_R": 6311809,
+ "votes_other": 0,
+ "total_votes": 15347525,
+ "pct_D": 58.9,
+ "pct_R": 41.1,
+ "unit_count": 58,
+ "state_profile": {
+  "voting_summary": "California mails every registered voter a ballot, and 78% of its 2024 vote came by mail, with ballots postmarked by election day accepted for a week afterward. Most in-person voting happens at vote centers open up to 11 days, reported as a single in-person total rather than split by day. Polls close at 11 p.m. Eastern; pre-processed mail is released first, in-person ballots follow overnight, and late mail is verified in batches over the following weeks. Mail ran D+27 versus R+5 for in-person, so the state drifts steadily bluer through the canvass.",
+  "reporting_notes": "",
+  "tags": [
+   "Universal mail ballots",
+   "Multi-week count",
+   "Late blue shift"
+  ],
+  "mode_split": {
+   "mail": 77.9,
+   "in_person": 13.0,
+   "election_day": 4.0,
+   "total": 3.7,
+   "late_mail": 0.8,
+   "provisional": 0.4,
+   "early_in_person": 0.1
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "06001": {
+   "name": "Alameda",
+   "raw_name": "Alameda",
+   "fips": "06001",
+   "is_mappable": true,
+   "votes_D": 489039,
+   "votes_R": 147721,
+   "votes_other": 0,
+   "total_votes": 636760,
+   "pct_D": 76.8,
+   "pct_R": 23.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 52439,
+     "votes_R": 28186,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 436600,
+     "votes_R": 119535,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Alameda County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0001,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06003": {
+   "name": "Alpine",
+   "raw_name": "Alpine",
+   "fips": "06003",
+   "is_mappable": true,
+   "votes_D": 463,
+   "votes_R": 262,
+   "votes_other": 0,
+   "total_votes": 725,
+   "pct_D": 63.9,
+   "pct_R": 36.1,
+   "modes": {
+    "mail": {
+     "votes_D": 463,
+     "votes_R": 262,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "06005": {
+   "name": "Amador",
+   "raw_name": "Amador",
+   "fips": "06005",
+   "is_mappable": true,
+   "votes_D": 7454,
+   "votes_R": 14534,
+   "votes_other": 0,
+   "total_votes": 21988,
+   "pct_D": 33.9,
+   "pct_R": 66.1,
+   "modes": {
+    "in_person": {
+     "votes_D": 1214,
+     "votes_R": 4173,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 6240,
+     "votes_R": 10361,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Amador County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0082,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06007": {
+   "name": "Butte",
+   "raw_name": "Butte",
+   "fips": "06007",
+   "is_mappable": true,
+   "votes_D": 42417,
+   "votes_R": 49192,
+   "votes_other": 0,
+   "total_votes": 91609,
+   "pct_D": 46.3,
+   "pct_R": 53.7,
+   "modes": {
+    "in_person": {
+     "votes_D": 1,
+     "votes_R": 1,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 1753,
+     "votes_R": 1890,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 40663,
+     "votes_R": 47301,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Butte County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0022,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "06009": {
+   "name": "Calaveras",
+   "raw_name": "Calaveras",
+   "fips": "06009",
+   "is_mappable": true,
+   "votes_D": 8956,
+   "votes_R": 17109,
+   "votes_other": 0,
+   "total_votes": 26065,
+   "pct_D": 34.4,
+   "pct_R": 65.6,
+   "modes": {
+    "total": {
+     "votes_D": 8956,
+     "votes_R": 17109,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "06011": {
+   "name": "Colusa",
+   "raw_name": "Colusa",
+   "fips": "06011",
+   "is_mappable": true,
+   "votes_D": 2436,
+   "votes_R": 4471,
+   "votes_other": 0,
+   "total_votes": 6907,
+   "pct_D": 35.3,
+   "pct_R": 64.7,
+   "modes": {
+    "mail": {
+     "votes_D": 2436,
+     "votes_R": 4471,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "06013": {
+   "name": "Contra Costa",
+   "raw_name": "Contra Costa",
+   "fips": "06013",
+   "is_mappable": true,
+   "votes_D": 342840,
+   "votes_R": 164900,
+   "votes_other": 0,
+   "total_votes": 507740,
+   "pct_D": 67.5,
+   "pct_R": 32.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 34642,
+     "votes_R": 30797,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 308198,
+     "votes_R": 134103,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Contra Costa County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06015": {
+   "name": "Del Norte",
+   "raw_name": "Del Norte",
+   "fips": "06015",
+   "is_mappable": true,
+   "votes_D": 4217,
+   "votes_R": 6084,
+   "votes_other": 0,
+   "total_votes": 10301,
+   "pct_D": 40.9,
+   "pct_R": 59.1,
+   "modes": {
+    "total": {
+     "votes_D": 4217,
+     "votes_R": 6084,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "06017": {
+   "name": "El Dorado",
+   "raw_name": "El Dorado",
+   "fips": "06017",
+   "is_mappable": true,
+   "votes_D": 45734,
+   "votes_R": 64663,
+   "votes_other": 0,
+   "total_votes": 110397,
+   "pct_D": 41.4,
+   "pct_R": 58.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 1868,
+     "votes_R": 4802,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 42503,
+     "votes_R": 56002,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 439,
+     "votes_R": 826,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 924,
+     "votes_R": 3033,
+     "votes_other": 0
+    }
+   },
+   "data_source": "El Dorado County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0013,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "06019": {
+   "name": "Fresno",
+   "raw_name": "Fresno",
+   "fips": "06019",
+   "is_mappable": true,
+   "votes_D": 148309,
+   "votes_R": 166482,
+   "votes_other": 0,
+   "total_votes": 314791,
+   "pct_D": 47.1,
+   "pct_R": 52.9,
+   "modes": {
+    "in_person": {
+     "votes_D": 22554,
+     "votes_R": 36863,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 125755,
+     "votes_R": 129619,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Fresno County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0003,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06021": {
+   "name": "Glenn",
+   "raw_name": "Glenn",
+   "fips": "06021",
+   "is_mappable": true,
+   "votes_D": 3122,
+   "votes_R": 7114,
+   "votes_other": 0,
+   "total_votes": 10236,
+   "pct_D": 30.5,
+   "pct_R": 69.5,
+   "modes": {
+    "total": {
+     "votes_D": 3122,
+     "votes_R": 7114,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "06023": {
+   "name": "Humboldt",
+   "raw_name": "Humboldt",
+   "fips": "06023",
+   "is_mappable": true,
+   "votes_D": 40240,
+   "votes_R": 22793,
+   "votes_other": 0,
+   "total_votes": 63033,
+   "pct_D": 63.8,
+   "pct_R": 36.2,
+   "modes": {
+    "in_person": {
+     "votes_D": 5970,
+     "votes_R": 5307,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 34270,
+     "votes_R": 17486,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Humboldt County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0013,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06025": {
+   "name": "Imperial",
+   "raw_name": "Imperial",
+   "fips": "06025",
+   "is_mappable": true,
+   "votes_D": 26441,
+   "votes_R": 26579,
+   "votes_other": 0,
+   "total_votes": 53020,
+   "pct_D": 49.9,
+   "pct_R": 50.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 179,
+     "votes_R": 260,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 7895,
+     "votes_R": 10069,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 18367,
+     "votes_R": 16250,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Imperial County, CA",
+   "official_results": true,
+   "pct_off_official": 0.008,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "06027": {
+   "name": "Inyo",
+   "raw_name": "Inyo",
+   "fips": "06027",
+   "is_mappable": true,
+   "votes_D": 4134,
+   "votes_R": 4673,
+   "votes_other": 0,
+   "total_votes": 8807,
+   "pct_D": 46.9,
+   "pct_R": 53.1,
+   "modes": {
+    "total": {
+     "votes_D": 4134,
+     "votes_R": 4673,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "06029": {
+   "name": "Kern",
+   "raw_name": "Kern",
+   "fips": "06029",
+   "is_mappable": true,
+   "votes_D": 107426,
+   "votes_R": 168256,
+   "votes_other": 0,
+   "total_votes": 275682,
+   "pct_D": 39.0,
+   "pct_R": 61.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 15415,
+     "votes_R": 31316,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 92011,
+     "votes_R": 136940,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Kern County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0003,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06031": {
+   "name": "Kings",
+   "raw_name": "Kings",
+   "fips": "06031",
+   "is_mappable": true,
+   "votes_D": 15225,
+   "votes_R": 25354,
+   "votes_other": 0,
+   "total_votes": 40579,
+   "pct_D": 37.5,
+   "pct_R": 62.5,
+   "modes": {
+    "mail": {
+     "votes_D": 13237,
+     "votes_R": 20855,
+     "votes_other": 0
+    },
+    "in_person": {
+     "votes_D": 1988,
+     "votes_R": 4499,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Kings County, CA",
+   "official_results": true,
+   "pct_off_official": 0.004,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06033": {
+   "name": "Lake",
+   "raw_name": "Lake",
+   "fips": "06033",
+   "is_mappable": true,
+   "votes_D": 12797,
+   "votes_R": 13401,
+   "votes_other": 0,
+   "total_votes": 26198,
+   "pct_D": 48.8,
+   "pct_R": 51.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 1240,
+     "votes_R": 2107,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 11557,
+     "votes_R": 11294,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Lake County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0004,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06035": {
+   "name": "Lassen",
+   "raw_name": "Lassen",
+   "fips": "06035",
+   "is_mappable": true,
+   "votes_D": 2439,
+   "votes_R": 8691,
+   "votes_other": 0,
+   "total_votes": 11130,
+   "pct_D": 21.9,
+   "pct_R": 78.1,
+   "modes": {
+    "total": {
+     "votes_D": 2439,
+     "votes_R": 8691,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "06037": {
+   "name": "Los Angeles",
+   "raw_name": "Los Angeles",
+   "fips": "06037",
+   "is_mappable": true,
+   "votes_D": 2335222,
+   "votes_R": 1220750,
+   "votes_other": 0,
+   "total_votes": 3555972,
+   "pct_D": 65.7,
+   "pct_R": 34.3,
+   "modes": {
+    "in_person": {
+     "votes_D": 525195,
+     "votes_R": 469282,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1810027,
+     "votes_R": 751468,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Los Angeles County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0003,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06039": {
+   "name": "Madera",
+   "raw_name": "Madera",
+   "fips": "06039",
+   "is_mappable": true,
+   "votes_D": 20538,
+   "votes_R": 32451,
+   "votes_other": 0,
+   "total_votes": 52989,
+   "pct_D": 38.8,
+   "pct_R": 61.2,
+   "modes": {
+    "in_person": {
+     "votes_D": 2452,
+     "votes_R": 5623,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 18086,
+     "votes_R": 26828,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Madera County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06041": {
+   "name": "Marin",
+   "raw_name": "Marin",
+   "fips": "06041",
+   "is_mappable": true,
+   "votes_D": 112812,
+   "votes_R": 28473,
+   "votes_other": 0,
+   "total_votes": 141285,
+   "pct_D": 79.8,
+   "pct_R": 20.2,
+   "modes": {
+    "in_person": {
+     "votes_D": 10763,
+     "votes_R": 4537,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 102049,
+     "votes_R": 23936,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Marin County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06043": {
+   "name": "Mariposa",
+   "raw_name": "Mariposa",
+   "fips": "06043",
+   "is_mappable": true,
+   "votes_D": 3582,
+   "votes_R": 5747,
+   "votes_other": 0,
+   "total_votes": 9329,
+   "pct_D": 38.4,
+   "pct_R": 61.6,
+   "modes": {
+    "provisional": {
+     "votes_D": 43,
+     "votes_R": 100,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 3539,
+     "votes_R": 5647,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Mariposa County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06045": {
+   "name": "Mendocino",
+   "raw_name": "Mendocino",
+   "fips": "06045",
+   "is_mappable": true,
+   "votes_D": 24106,
+   "votes_R": 14182,
+   "votes_other": 0,
+   "total_votes": 38288,
+   "pct_D": 63.0,
+   "pct_R": 37.0,
+   "modes": {
+    "mail": {
+     "votes_D": 22931,
+     "votes_R": 13083,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 1175,
+     "votes_R": 1099,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Mendocino County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0104,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06047": {
+   "name": "Merced",
+   "raw_name": "Merced",
+   "fips": "06047",
+   "is_mappable": true,
+   "votes_D": 40394,
+   "votes_R": 43320,
+   "votes_other": 0,
+   "total_votes": 83714,
+   "pct_D": 48.3,
+   "pct_R": 51.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 775,
+     "votes_R": 1835,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 3292,
+     "votes_R": 4891,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 1321,
+     "votes_R": 1080,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 35006,
+     "votes_R": 35514,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Merced County, CA",
+   "official_results": true,
+   "pct_off_official": 0.01,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "06049": {
+   "name": "Modoc",
+   "raw_name": "Modoc",
+   "fips": "06049",
+   "is_mappable": true,
+   "votes_D": 978,
+   "votes_R": 2951,
+   "votes_other": 0,
+   "total_votes": 3929,
+   "pct_D": 24.9,
+   "pct_R": 75.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 34,
+     "votes_R": 228,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 905,
+     "votes_R": 2627,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 39,
+     "votes_R": 96,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Modoc County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0045,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "06051": {
+   "name": "Mono",
+   "raw_name": "Mono",
+   "fips": "06051",
+   "is_mappable": true,
+   "votes_D": 3384,
+   "votes_R": 2503,
+   "votes_other": 0,
+   "total_votes": 5887,
+   "pct_D": 57.5,
+   "pct_R": 42.5,
+   "modes": {
+    "total": {
+     "votes_D": 3384,
+     "votes_R": 2503,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "06053": {
+   "name": "Monterey",
+   "raw_name": "Monterey",
+   "fips": "06053",
+   "is_mappable": true,
+   "votes_D": 92302,
+   "votes_R": 51913,
+   "votes_other": 0,
+   "total_votes": 144215,
+   "pct_D": 64.0,
+   "pct_R": 36.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 9026,
+     "votes_R": 7393,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 83276,
+     "votes_R": 44520,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Monterey County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0015,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06055": {
+   "name": "Napa",
+   "raw_name": "Napa",
+   "fips": "06055",
+   "is_mappable": true,
+   "votes_D": 42245,
+   "votes_R": 21986,
+   "votes_other": 0,
+   "total_votes": 64231,
+   "pct_D": 65.8,
+   "pct_R": 34.2,
+   "modes": {
+    "total": {
+     "votes_D": 42245,
+     "votes_R": 21986,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "06057": {
+   "name": "Nevada",
+   "raw_name": "Nevada",
+   "fips": "06057",
+   "is_mappable": true,
+   "votes_D": 33363,
+   "votes_R": 27987,
+   "votes_other": 0,
+   "total_votes": 61350,
+   "pct_D": 54.4,
+   "pct_R": 45.6,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 932,
+     "votes_R": 2478,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 1246,
+     "votes_R": 2052,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 454,
+     "votes_R": 542,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 30731,
+     "votes_R": 22915,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Nevada County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0011,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "06059": {
+   "name": "Orange",
+   "raw_name": "Orange",
+   "fips": "06059",
+   "is_mappable": true,
+   "votes_D": 674882,
+   "votes_R": 688967,
+   "votes_other": 0,
+   "total_votes": 1363849,
+   "pct_D": 49.5,
+   "pct_R": 50.5,
+   "modes": {
+    "in_person": {
+     "votes_D": 107352,
+     "votes_R": 201828,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 567530,
+     "votes_R": 487139,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Orange County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0068,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06061": {
+   "name": "Placer",
+   "raw_name": "Placer",
+   "fips": "06061",
+   "is_mappable": true,
+   "votes_D": 98198,
+   "votes_R": 129981,
+   "votes_other": 0,
+   "total_votes": 228179,
+   "pct_D": 43.0,
+   "pct_R": 57.0,
+   "modes": {
+    "total": {
+     "votes_D": 98198,
+     "votes_R": 129981,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "06063": {
+   "name": "Plumas",
+   "raw_name": "Plumas",
+   "fips": "06063",
+   "is_mappable": true,
+   "votes_D": 3921,
+   "votes_R": 6034,
+   "votes_other": 0,
+   "total_votes": 9955,
+   "pct_D": 39.4,
+   "pct_R": 60.6,
+   "modes": {
+    "mail": {
+     "votes_D": 3921,
+     "votes_R": 6034,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "06065": {
+   "name": "Riverside",
+   "raw_name": "Riverside",
+   "fips": "06065",
+   "is_mappable": true,
+   "votes_D": 443181,
+   "votes_R": 474241,
+   "votes_other": 0,
+   "total_votes": 917422,
+   "pct_D": 48.3,
+   "pct_R": 51.7,
+   "modes": {
+    "provisional": {
+     "votes_D": 13475,
+     "votes_R": 16902,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 386240,
+     "votes_R": 379458,
+     "votes_other": 0
+    },
+    "in_person": {
+     "votes_D": 43466,
+     "votes_R": 77881,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Riverside County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0013,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "06067": {
+   "name": "Sacramento",
+   "raw_name": "Sacramento",
+   "fips": "06067",
+   "is_mappable": true,
+   "votes_D": 375265,
+   "votes_R": 263954,
+   "votes_other": 0,
+   "total_votes": 639219,
+   "pct_D": 58.7,
+   "pct_R": 41.3,
+   "modes": {
+    "late_mail": {
+     "votes_D": 11247,
+     "votes_R": 9673,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 21190,
+     "votes_R": 27057,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 342828,
+     "votes_R": 227224,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Sacramento County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0005,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "06069": {
+   "name": "San Benito",
+   "raw_name": "San Benito",
+   "fips": "06069",
+   "is_mappable": true,
+   "votes_D": 14988,
+   "votes_R": 12029,
+   "votes_other": 0,
+   "total_votes": 27017,
+   "pct_D": 55.5,
+   "pct_R": 44.5,
+   "modes": {
+    "in_person": {
+     "votes_D": 1600,
+     "votes_R": 2220,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 13388,
+     "votes_R": 9809,
+     "votes_other": 0
+    }
+   },
+   "data_source": "San Benito County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0012,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06071": {
+   "name": "San Bernardino",
+   "raw_name": "San Bernardino",
+   "fips": "06071",
+   "is_mappable": true,
+   "votes_D": 355667,
+   "votes_R": 384091,
+   "votes_other": 0,
+   "total_votes": 739758,
+   "pct_D": 48.1,
+   "pct_R": 51.9,
+   "modes": {
+    "mail": {
+     "votes_D": 298829,
+     "votes_R": 294573,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 49582,
+     "votes_R": 79804,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 7256,
+     "votes_R": 9714,
+     "votes_other": 0
+    }
+   },
+   "data_source": "San Bernardino County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0035,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "06073": {
+   "name": "San Diego",
+   "raw_name": "San Diego",
+   "fips": "06073",
+   "is_mappable": true,
+   "votes_D": 817805,
+   "votes_R": 625129,
+   "votes_other": 0,
+   "total_votes": 1442934,
+   "pct_D": 56.7,
+   "pct_R": 43.3,
+   "modes": {
+    "mail": {
+     "votes_D": 715579,
+     "votes_R": 511292,
+     "votes_other": 0
+    },
+    "in_person": {
+     "votes_D": 102226,
+     "votes_R": 113837,
+     "votes_other": 0
+    }
+   },
+   "data_source": "San Diego County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0007,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06075": {
+   "name": "San Francisco",
+   "raw_name": "San Francisco",
+   "fips": "06075",
+   "is_mappable": true,
+   "votes_D": 310932,
+   "votes_R": 66421,
+   "votes_other": 0,
+   "total_votes": 377353,
+   "pct_D": 82.4,
+   "pct_R": 17.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 39166,
+     "votes_R": 11802,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 271766,
+     "votes_R": 54619,
+     "votes_other": 0
+    }
+   },
+   "data_source": "San Francisco County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0001,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06077": {
+   "name": "San Joaquin",
+   "raw_name": "San Joaquin",
+   "fips": "06077",
+   "is_mappable": true,
+   "votes_D": 127205,
+   "votes_R": 129064,
+   "votes_other": 0,
+   "total_votes": 256269,
+   "pct_D": 49.6,
+   "pct_R": 50.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 772,
+     "votes_R": 1020,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 18620,
+     "votes_R": 27052,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 107813,
+     "votes_R": 100992,
+     "votes_other": 0
+    }
+   },
+   "data_source": "San Joaquin County, CA",
+   "official_results": true,
+   "pct_off_official": 0.001,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "06079": {
+   "name": "San Luis Obispo",
+   "raw_name": "San Luis Obispo",
+   "fips": "06079",
+   "is_mappable": true,
+   "votes_D": 77525,
+   "votes_R": 68569,
+   "votes_other": 0,
+   "total_votes": 146094,
+   "pct_D": 53.1,
+   "pct_R": 46.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 4675,
+     "votes_R": 6426,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 72850,
+     "votes_R": 62143,
+     "votes_other": 0
+    }
+   },
+   "data_source": "San Luis Obispo County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0008,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06081": {
+   "name": "San Mateo",
+   "raw_name": "San Mateo",
+   "fips": "06081",
+   "is_mappable": true,
+   "votes_D": 237186,
+   "votes_R": 84474,
+   "votes_other": 0,
+   "total_votes": 321660,
+   "pct_D": 73.7,
+   "pct_R": 26.3,
+   "modes": {
+    "in_person": {
+     "votes_D": 21902,
+     "votes_R": 15416,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 215284,
+     "votes_R": 69058,
+     "votes_other": 0
+    }
+   },
+   "data_source": "San Mateo County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0009,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06083": {
+   "name": "Santa Barbara",
+   "raw_name": "Santa Barbara",
+   "fips": "06083",
+   "is_mappable": true,
+   "votes_D": 110597,
+   "votes_R": 70100,
+   "votes_other": 0,
+   "total_votes": 180697,
+   "pct_D": 61.2,
+   "pct_R": 38.8,
+   "modes": {
+    "mail": {
+     "votes_D": 97963,
+     "votes_R": 59026,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 12634,
+     "votes_R": 11074,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Santa Barbara County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0014,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06085": {
+   "name": "Santa Clara",
+   "raw_name": "Santa Clara",
+   "fips": "06085",
+   "is_mappable": true,
+   "votes_D": 498785,
+   "votes_R": 224597,
+   "votes_other": 0,
+   "total_votes": 723382,
+   "pct_D": 69.0,
+   "pct_R": 31.0,
+   "modes": {
+    "in_person": {
+     "votes_D": 49368,
+     "votes_R": 41567,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 449417,
+     "votes_R": 183030,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Santa Clara County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0008,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06087": {
+   "name": "Santa Cruz",
+   "raw_name": "Santa Cruz",
+   "fips": "06087",
+   "is_mappable": true,
+   "votes_D": 98631,
+   "votes_R": 30737,
+   "votes_other": 0,
+   "total_votes": 129368,
+   "pct_D": 76.2,
+   "pct_R": 23.8,
+   "modes": {
+    "in_person": {
+     "votes_D": 11944,
+     "votes_R": 6060,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 86687,
+     "votes_R": 24677,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Santa Cruz County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0077,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06089": {
+   "name": "Shasta",
+   "raw_name": "Shasta",
+   "fips": "06089",
+   "is_mappable": true,
+   "votes_D": 25996,
+   "votes_R": 61402,
+   "votes_other": 0,
+   "total_votes": 87398,
+   "pct_D": 29.7,
+   "pct_R": 70.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 2165,
+     "votes_R": 9865,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 23831,
+     "votes_R": 51537,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Shasta County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0001,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06091": {
+   "name": "Sierra",
+   "raw_name": "Sierra",
+   "fips": "06091",
+   "is_mappable": true,
+   "votes_D": 617,
+   "votes_R": 1110,
+   "votes_other": 0,
+   "total_votes": 1727,
+   "pct_D": 35.7,
+   "pct_R": 64.3,
+   "modes": {
+    "mail": {
+     "votes_D": 617,
+     "votes_R": 1110,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C1",
+   "notes": ""
+  },
+  "06093": {
+   "name": "Siskiyou",
+   "raw_name": "Siskiyou",
+   "fips": "06093",
+   "is_mappable": true,
+   "votes_D": 8087,
+   "votes_R": 12958,
+   "votes_other": 0,
+   "total_votes": 21045,
+   "pct_D": 38.4,
+   "pct_R": 61.6,
+   "modes": {
+    "total": {
+     "votes_D": 8087,
+     "votes_R": 12958,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "06095": {
+   "name": "Solano",
+   "raw_name": "Solano",
+   "fips": "06095",
+   "is_mappable": true,
+   "votes_D": 113204,
+   "votes_R": 72404,
+   "votes_other": 0,
+   "total_votes": 185608,
+   "pct_D": 61.0,
+   "pct_R": 39.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 13093,
+     "votes_R": 14261,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 4148,
+     "votes_R": 3044,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 95963,
+     "votes_R": 55099,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Solano County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0016,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "06097": {
+   "name": "Sonoma",
+   "raw_name": "Sonoma",
+   "fips": "06097",
+   "is_mappable": true,
+   "votes_D": 176477,
+   "votes_R": 68712,
+   "votes_other": 0,
+   "total_votes": 245189,
+   "pct_D": 72.0,
+   "pct_R": 28.0,
+   "modes": {
+    "late_mail": {
+     "votes_D": 68368,
+     "votes_R": 26678,
+     "votes_other": 0
+    },
+    "in_person": {
+     "votes_D": 8138,
+     "votes_R": 6156,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 99971,
+     "votes_R": 35878,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Sonoma County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0012,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "06099": {
+   "name": "Stanislaus",
+   "raw_name": "Stanislaus",
+   "fips": "06099",
+   "is_mappable": true,
+   "votes_D": 86040,
+   "votes_R": 106444,
+   "votes_other": 0,
+   "total_votes": 192484,
+   "pct_D": 44.7,
+   "pct_R": 55.3,
+   "modes": {
+    "mail": {
+     "votes_D": 77962,
+     "votes_R": 90165,
+     "votes_other": 0
+    },
+    "in_person": {
+     "votes_D": 8078,
+     "votes_R": 16279,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Stanislaus County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0012,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06101": {
+   "name": "Sutter",
+   "raw_name": "Sutter",
+   "fips": "06101",
+   "is_mappable": true,
+   "votes_D": 12984,
+   "votes_R": 25129,
+   "votes_other": 0,
+   "total_votes": 38113,
+   "pct_D": 34.1,
+   "pct_R": 65.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 780,
+     "votes_R": 2133,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 269,
+     "votes_R": 536,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 11935,
+     "votes_R": 22460,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Sutter County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0001,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "06103": {
+   "name": "Tehama",
+   "raw_name": "Tehama",
+   "fips": "06103",
+   "is_mappable": true,
+   "votes_D": 7098,
+   "votes_R": 18632,
+   "votes_other": 0,
+   "total_votes": 25730,
+   "pct_D": 27.6,
+   "pct_R": 72.4,
+   "modes": {
+    "total": {
+     "votes_D": 7098,
+     "votes_R": 18632,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "06105": {
+   "name": "Trinity",
+   "raw_name": "Trinity",
+   "fips": "06105",
+   "is_mappable": true,
+   "votes_D": 2413,
+   "votes_R": 3148,
+   "votes_other": 0,
+   "total_votes": 5561,
+   "pct_D": 43.4,
+   "pct_R": 56.6,
+   "modes": {
+    "late_mail": {
+     "votes_D": 864,
+     "votes_R": 1168,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 88,
+     "votes_R": 221,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1461,
+     "votes_R": 1759,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Trinity County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0002,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "06107": {
+   "name": "Tulare",
+   "raw_name": "Tulare",
+   "fips": "06107",
+   "is_mappable": true,
+   "votes_D": 51972,
+   "votes_R": 83439,
+   "votes_other": 0,
+   "total_votes": 135411,
+   "pct_D": 38.4,
+   "pct_R": 61.6,
+   "modes": {
+    "total": {
+     "votes_D": 51972,
+     "votes_R": 83439,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "06109": {
+   "name": "Tuolumne",
+   "raw_name": "Tuolumne",
+   "fips": "06109",
+   "is_mappable": true,
+   "votes_D": 10479,
+   "votes_R": 17372,
+   "votes_other": 0,
+   "total_votes": 27851,
+   "pct_D": 37.6,
+   "pct_R": 62.4,
+   "modes": {
+    "total": {
+     "votes_D": 10479,
+     "votes_R": 17372,
+     "votes_other": 0
+    }
+   },
+   "data_source": "CA-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "06111": {
+   "name": "Ventura",
+   "raw_name": "Ventura",
+   "fips": "06111",
+   "is_mappable": true,
+   "votes_D": 211381,
+   "votes_R": 169660,
+   "votes_other": 0,
+   "total_votes": 381041,
+   "pct_D": 55.5,
+   "pct_R": 44.5,
+   "modes": {
+    "in_person": {
+     "votes_D": 23362,
+     "votes_R": 36322,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 188019,
+     "votes_R": 133338,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Ventura County, CA",
+   "official_results": true,
+   "pct_off_official": 0.004,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "06113": {
+   "name": "Yolo",
+   "raw_name": "Yolo",
+   "fips": "06113",
+   "is_mappable": true,
+   "votes_D": 61084,
+   "votes_R": 29758,
+   "votes_other": 0,
+   "total_votes": 90842,
+   "pct_D": 67.2,
+   "pct_R": 32.8,
+   "modes": {
+    "provisional": {
+     "votes_D": 3608,
+     "votes_R": 968,
+     "votes_other": 0
+    },
+    "election_day": {
+     "votes_D": 3220,
+     "votes_R": 2765,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1490,
+     "votes_R": 1414,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 52766,
+     "votes_R": 24611,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Yolo County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0003,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "06115": {
+   "name": "Yuba",
+   "raw_name": "Yuba",
+   "fips": "06115",
+   "is_mappable": true,
+   "votes_D": 10501,
+   "votes_R": 18711,
+   "votes_other": 0,
+   "total_votes": 29212,
+   "pct_D": 35.9,
+   "pct_R": 64.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 1284,
+     "votes_R": 3476,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 9217,
+     "votes_R": 15235,
+     "votes_other": 0
+    }
+   },
+   "data_source": "Yuba County, CA",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  }
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "race": "senate",
+ "race_label": "Senate",
+ "race_type": "senate",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Mazie K. Hirono",
+ "candidate_R": "Bob McDermott",
+ "state": "Hawaii",
+ "state_abbr": "HI",
+ "unit_type": "county",
+ "avg_completeness": "C2",
+ "completeness_breakdown": {
+  "C2": 4
+ },
+ "votes_D": 324194,
+ "votes_R": 160075,
+ "votes_other": 17494,
+ "total_votes": 501763,
+ "pct_D": 64.6,
+ "pct_R": 31.9,
+ "unit_count": 4,
+ "state_profile": {
+  "voting_summary": "Hawaii is an all-mail state: 93% of its 2024 vote came by mail, with limited in-person voting at voter service centers (7%). Polls close at 12 a.m. Eastern, and because mail is processed in advance, the first release minutes after closing typically contains the large majority of the vote, with a second batch early in the morning covering election day drop-offs. In-person voting ran R+33 against D+28 for mail, so the small late-reporting in-person share nudges margins rightward without threatening the outcome.",
+  "reporting_notes": "",
+  "tags": [
+   "All-mail",
+   "Pre-processed",
+   "Two-dump reporting"
+  ],
+  "mode_split": {
+   "mail": 92.7,
+   "in_person": 7.3
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "15001": {
+   "name": "Hawaii",
+   "raw_name": "Hawaii",
+   "fips": "15001",
+   "is_mappable": true,
+   "votes_D": 54691,
+   "votes_R": 22747,
+   "votes_other": 3079,
+   "total_votes": 80517,
+   "pct_D": 67.9,
+   "pct_R": 28.3,
+   "modes": {
+    "in_person": {
+     "votes_D": 2550,
+     "votes_R": 3548,
+     "votes_other": 513
+    },
+    "mail": {
+     "votes_D": 52141,
+     "votes_R": 19199,
+     "votes_other": 2566
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "15003": {
+   "name": "Honolulu",
+   "raw_name": "Honolulu",
+   "fips": "15003",
+   "is_mappable": true,
+   "votes_D": 209780,
+   "votes_R": 111603,
+   "votes_other": 10953,
+   "total_votes": 332336,
+   "pct_D": 63.1,
+   "pct_R": 33.6,
+   "modes": {
+    "in_person": {
+     "votes_D": 7173,
+     "votes_R": 13218,
+     "votes_other": 1293
+    },
+    "mail": {
+     "votes_D": 202607,
+     "votes_R": 98385,
+     "votes_other": 9660
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "15007": {
+   "name": "Kauai",
+   "raw_name": "Kauai",
+   "fips": "15007",
+   "is_mappable": true,
+   "votes_D": 18934,
+   "votes_R": 8537,
+   "votes_other": 1024,
+   "total_votes": 28495,
+   "pct_D": 66.4,
+   "pct_R": 30.0,
+   "modes": {
+    "in_person": {
+     "votes_D": 1221,
+     "votes_R": 1752,
+     "votes_other": 213
+    },
+    "mail": {
+     "votes_D": 17713,
+     "votes_R": 6785,
+     "votes_other": 811
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "15009": {
+   "name": "Maui",
+   "raw_name": "Maui",
+   "fips": "15009",
+   "is_mappable": true,
+   "votes_D": 40789,
+   "votes_R": 17188,
+   "votes_other": 2438,
+   "total_votes": 60415,
+   "pct_D": 67.5,
+   "pct_R": 28.4,
+   "modes": {
+    "in_person": {
+     "votes_D": 2153,
+     "votes_R": 2822,
+     "votes_other": 411
+    },
+    "mail": {
+     "votes_D": 38636,
+     "votes_R": 14366,
+     "votes_other": 2027
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C2",
+   "notes": ""
+  }
+ }
+}

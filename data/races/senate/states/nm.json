@@ -1,0 +1,1319 @@
+{
+ "race": "senate",
+ "race_label": "Senate",
+ "race_type": "senate",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Martin Heinrich",
+ "candidate_R": "Nella Louise Domenici",
+ "state": "New Mexico",
+ "state_abbr": "NM",
+ "unit_type": "county",
+ "avg_completeness": "C4",
+ "completeness_breakdown": {
+  "C4": 31,
+  "C3": 2
+ },
+ "votes_D": 497244,
+ "votes_R": 405808,
+ "votes_other": 22,
+ "total_votes": 903074,
+ "pct_D": 55.1,
+ "pct_R": 44.9,
+ "unit_count": 33,
+ "state_profile": {
+  "voting_summary": "New Mexico votes mostly early: 60% of its 2024 vote came from in-person early voting, with mail at 12% and the rest on election day. Polls close at 9 p.m. Eastern; early and absentee votes are released first, then election day precincts report, with the state largely complete by early morning. Mail ran D+48 against R+5 on election day, so the mail-inclusive first batches lean bluer than the election day flow that follows.",
+  "reporting_notes": "",
+  "tags": [
+   "Early in-person dominant",
+   "No-excuse absentee",
+   "Fast count"
+  ],
+  "mode_split": {
+   "early_in_person": 60.2,
+   "election_day": 27.0,
+   "mail": 12.6,
+   "unallocated": 0.1
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "35001": {
+   "name": "Bernalillo",
+   "raw_name": "Bernalillo",
+   "fips": "35001",
+   "is_mappable": true,
+   "votes_D": 187163,
+   "votes_R": 117575,
+   "votes_other": 0,
+   "total_votes": 304738,
+   "pct_D": 61.4,
+   "pct_R": 38.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 36835,
+     "votes_R": 26031,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 35847,
+     "votes_R": 11984,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 114467,
+     "votes_R": 79394,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 14,
+     "votes_R": 166,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35003": {
+   "name": "Catron",
+   "raw_name": "Catron",
+   "fips": "35003",
+   "is_mappable": true,
+   "votes_D": 615,
+   "votes_R": 1672,
+   "votes_other": 4,
+   "total_votes": 2291,
+   "pct_D": 26.8,
+   "pct_R": 73.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 194,
+     "votes_R": 693,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 181,
+     "votes_R": 218,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 240,
+     "votes_R": 761,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 4
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35005": {
+   "name": "Chaves",
+   "raw_name": "Chaves",
+   "fips": "35005",
+   "is_mappable": true,
+   "votes_D": 6661,
+   "votes_R": 14740,
+   "votes_other": 0,
+   "total_votes": 21401,
+   "pct_D": 31.1,
+   "pct_R": 68.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 2060,
+     "votes_R": 4390,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 691,
+     "votes_R": 619,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 3903,
+     "votes_R": 9725,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 7,
+     "votes_R": 6,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35006": {
+   "name": "Cibola",
+   "raw_name": "Cibola",
+   "fips": "35006",
+   "is_mappable": true,
+   "votes_D": 4955,
+   "votes_R": 3801,
+   "votes_other": 0,
+   "total_votes": 8756,
+   "pct_D": 56.6,
+   "pct_R": 43.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 2513,
+     "votes_R": 1613,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 443,
+     "votes_R": 155,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1985,
+     "votes_R": 1999,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 14,
+     "votes_R": 34,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35007": {
+   "name": "Colfax",
+   "raw_name": "Colfax",
+   "fips": "35007",
+   "is_mappable": true,
+   "votes_D": 2706,
+   "votes_R": 3031,
+   "votes_other": 0,
+   "total_votes": 5737,
+   "pct_D": 47.2,
+   "pct_R": 52.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 1250,
+     "votes_R": 1596,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 466,
+     "votes_R": 247,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 987,
+     "votes_R": 1177,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 3,
+     "votes_R": 11,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35009": {
+   "name": "Curry",
+   "raw_name": "Curry",
+   "fips": "35009",
+   "is_mappable": true,
+   "votes_D": 4530,
+   "votes_R": 10176,
+   "votes_other": 0,
+   "total_votes": 14706,
+   "pct_D": 30.8,
+   "pct_R": 69.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 1545,
+     "votes_R": 3193,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 567,
+     "votes_R": 594,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 2397,
+     "votes_R": 6368,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 21,
+     "votes_R": 21,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35011": {
+   "name": "De Baca",
+   "raw_name": "De Baca",
+   "fips": "35011",
+   "is_mappable": true,
+   "votes_D": 268,
+   "votes_R": 585,
+   "votes_other": 0,
+   "total_votes": 853,
+   "pct_D": 31.4,
+   "pct_R": 68.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 94,
+     "votes_R": 225,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 52,
+     "votes_R": 43,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 116,
+     "votes_R": 314,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 6,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35013": {
+   "name": "Doña Ana",
+   "raw_name": "Doña Ana",
+   "fips": "35013",
+   "is_mappable": true,
+   "votes_D": 46715,
+   "votes_R": 36355,
+   "votes_other": 0,
+   "total_votes": 83070,
+   "pct_D": 56.2,
+   "pct_R": 43.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 13648,
+     "votes_R": 11572,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 7745,
+     "votes_R": 2494,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 25313,
+     "votes_R": 22209,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 9,
+     "votes_R": 80,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35015": {
+   "name": "Eddy",
+   "raw_name": "Eddy",
+   "fips": "35015",
+   "is_mappable": true,
+   "votes_D": 5979,
+   "votes_R": 16775,
+   "votes_other": 0,
+   "total_votes": 22754,
+   "pct_D": 26.3,
+   "pct_R": 73.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1985,
+     "votes_R": 5058,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 747,
+     "votes_R": 625,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 3212,
+     "votes_R": 11077,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 35,
+     "votes_R": 15,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35017": {
+   "name": "Grant",
+   "raw_name": "Grant",
+   "fips": "35017",
+   "is_mappable": true,
+   "votes_D": 7800,
+   "votes_R": 6133,
+   "votes_other": 0,
+   "total_votes": 13933,
+   "pct_D": 56.0,
+   "pct_R": 44.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 1492,
+     "votes_R": 1422,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1518,
+     "votes_R": 582,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 4782,
+     "votes_R": 4103,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 8,
+     "votes_R": 26,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35019": {
+   "name": "Guadalupe",
+   "raw_name": "Guadalupe",
+   "fips": "35019",
+   "is_mappable": true,
+   "votes_D": 1143,
+   "votes_R": 735,
+   "votes_other": 0,
+   "total_votes": 1878,
+   "pct_D": 60.9,
+   "pct_R": 39.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 459,
+     "votes_R": 318,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 216,
+     "votes_R": 85,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 468,
+     "votes_R": 332,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "35021": {
+   "name": "Harding",
+   "raw_name": "Harding",
+   "fips": "35021",
+   "is_mappable": true,
+   "votes_D": 135,
+   "votes_R": 282,
+   "votes_other": 0,
+   "total_votes": 417,
+   "pct_D": 32.4,
+   "pct_R": 67.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 63,
+     "votes_R": 113,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 32,
+     "votes_R": 68,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 40,
+     "votes_R": 101,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "35023": {
+   "name": "Hidalgo",
+   "raw_name": "Hidalgo",
+   "fips": "35023",
+   "is_mappable": true,
+   "votes_D": 785,
+   "votes_R": 980,
+   "votes_other": 0,
+   "total_votes": 1765,
+   "pct_D": 44.5,
+   "pct_R": 55.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 325,
+     "votes_R": 528,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 182,
+     "votes_R": 95,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 271,
+     "votes_R": 350,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 7,
+     "votes_R": 7,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35025": {
+   "name": "Lea",
+   "raw_name": "Lea",
+   "fips": "35025",
+   "is_mappable": true,
+   "votes_D": 4562,
+   "votes_R": 15852,
+   "votes_other": 0,
+   "total_votes": 20414,
+   "pct_D": 22.3,
+   "pct_R": 77.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1762,
+     "votes_R": 5079,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 424,
+     "votes_R": 551,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 2330,
+     "votes_R": 10184,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 46,
+     "votes_R": 38,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35027": {
+   "name": "Lincoln",
+   "raw_name": "Lincoln",
+   "fips": "35027",
+   "is_mappable": true,
+   "votes_D": 3267,
+   "votes_R": 6706,
+   "votes_other": 3,
+   "total_votes": 9976,
+   "pct_D": 32.7,
+   "pct_R": 67.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 846,
+     "votes_R": 1824,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 636,
+     "votes_R": 647,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1785,
+     "votes_R": 4235,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 3
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35028": {
+   "name": "Los Alamos",
+   "raw_name": "Los Alamos",
+   "fips": "35028",
+   "is_mappable": true,
+   "votes_D": 7761,
+   "votes_R": 4361,
+   "votes_other": 4,
+   "total_votes": 12126,
+   "pct_D": 64.0,
+   "pct_R": 36.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 1377,
+     "votes_R": 1183,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1062,
+     "votes_R": 356,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 5322,
+     "votes_R": 2822,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 4
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35029": {
+   "name": "Luna",
+   "raw_name": "Luna",
+   "fips": "35029",
+   "is_mappable": true,
+   "votes_D": 3547,
+   "votes_R": 4202,
+   "votes_other": 3,
+   "total_votes": 7752,
+   "pct_D": 45.8,
+   "pct_R": 54.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 1031,
+     "votes_R": 1194,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 558,
+     "votes_R": 290,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1958,
+     "votes_R": 2718,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 3
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35031": {
+   "name": "McKinley",
+   "raw_name": "McKinley",
+   "fips": "35031",
+   "is_mappable": true,
+   "votes_D": 17064,
+   "votes_R": 8195,
+   "votes_other": 0,
+   "total_votes": 25259,
+   "pct_D": 67.6,
+   "pct_R": 32.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 9836,
+     "votes_R": 4727,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 616,
+     "votes_R": 124,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 6568,
+     "votes_R": 3240,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 44,
+     "votes_R": 104,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35033": {
+   "name": "Mora",
+   "raw_name": "Mora",
+   "fips": "35033",
+   "is_mappable": true,
+   "votes_D": 1532,
+   "votes_R": 866,
+   "votes_other": 0,
+   "total_votes": 2398,
+   "pct_D": 63.9,
+   "pct_R": 36.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 747,
+     "votes_R": 469,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 152,
+     "votes_R": 27,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 630,
+     "votes_R": 358,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 3,
+     "votes_R": 12,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35035": {
+   "name": "Otero",
+   "raw_name": "Otero",
+   "fips": "35035",
+   "is_mappable": true,
+   "votes_D": 9226,
+   "votes_R": 14147,
+   "votes_other": 0,
+   "total_votes": 23373,
+   "pct_D": 39.5,
+   "pct_R": 60.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 2634,
+     "votes_R": 4012,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1740,
+     "votes_R": 982,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 4831,
+     "votes_R": 9128,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 21,
+     "votes_R": 25,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35037": {
+   "name": "Quay",
+   "raw_name": "Quay",
+   "fips": "35037",
+   "is_mappable": true,
+   "votes_D": 1162,
+   "votes_R": 2406,
+   "votes_other": 4,
+   "total_votes": 3572,
+   "pct_D": 32.5,
+   "pct_R": 67.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 398,
+     "votes_R": 999,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 160,
+     "votes_R": 158,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 604,
+     "votes_R": 1249,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 4
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35039": {
+   "name": "Rio Arriba",
+   "raw_name": "Rio Arriba",
+   "fips": "35039",
+   "is_mappable": true,
+   "votes_D": 10032,
+   "votes_R": 5524,
+   "votes_other": 0,
+   "total_votes": 15556,
+   "pct_D": 64.5,
+   "pct_R": 35.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 4504,
+     "votes_R": 2880,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 980,
+     "votes_R": 240,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 4527,
+     "votes_R": 2354,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 21,
+     "votes_R": 50,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35041": {
+   "name": "Roosevelt",
+   "raw_name": "Roosevelt",
+   "fips": "35041",
+   "is_mappable": true,
+   "votes_D": 1951,
+   "votes_R": 4559,
+   "votes_other": 0,
+   "total_votes": 6510,
+   "pct_D": 30.0,
+   "pct_R": 70.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 745,
+     "votes_R": 1521,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 192,
+     "votes_R": 194,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 996,
+     "votes_R": 2829,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 18,
+     "votes_R": 15,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35045": {
+   "name": "San Juan",
+   "raw_name": "San Juan",
+   "fips": "35045",
+   "is_mappable": true,
+   "votes_D": 19078,
+   "votes_R": 32417,
+   "votes_other": 0,
+   "total_votes": 51495,
+   "pct_D": 37.0,
+   "pct_R": 63.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 7523,
+     "votes_R": 9960,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1643,
+     "votes_R": 1556,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 9893,
+     "votes_R": 20862,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 19,
+     "votes_R": 39,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35047": {
+   "name": "San Miguel",
+   "raw_name": "San Miguel",
+   "fips": "35047",
+   "is_mappable": true,
+   "votes_D": 7447,
+   "votes_R": 3427,
+   "votes_other": 0,
+   "total_votes": 10874,
+   "pct_D": 68.5,
+   "pct_R": 31.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 2890,
+     "votes_R": 1646,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1119,
+     "votes_R": 247,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 3422,
+     "votes_R": 1502,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 16,
+     "votes_R": 32,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35043": {
+   "name": "Sandoval",
+   "raw_name": "Sandoval",
+   "fips": "35043",
+   "is_mappable": true,
+   "votes_D": 42473,
+   "votes_R": 35959,
+   "votes_other": 0,
+   "total_votes": 78432,
+   "pct_D": 54.2,
+   "pct_R": 45.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 8862,
+     "votes_R": 7397,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 7981,
+     "votes_R": 2959,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 25623,
+     "votes_R": 25572,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 7,
+     "votes_R": 31,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35049": {
+   "name": "Santa Fe",
+   "raw_name": "Santa Fe",
+   "fips": "35049",
+   "is_mappable": true,
+   "votes_D": 62312,
+   "votes_R": 20183,
+   "votes_other": 0,
+   "total_votes": 82495,
+   "pct_D": 75.5,
+   "pct_R": 24.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 12004,
+     "votes_R": 5862,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 11505,
+     "votes_R": 1758,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 38803,
+     "votes_R": 12456,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 0,
+     "votes_R": 107,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35051": {
+   "name": "Sierra",
+   "raw_name": "Sierra",
+   "fips": "35051",
+   "is_mappable": true,
+   "votes_D": 2553,
+   "votes_R": 3269,
+   "votes_other": 0,
+   "total_votes": 5822,
+   "pct_D": 43.9,
+   "pct_R": 56.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 736,
+     "votes_R": 1012,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 486,
+     "votes_R": 256,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1331,
+     "votes_R": 1994,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 0,
+     "votes_R": 7,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35053": {
+   "name": "Socorro",
+   "raw_name": "Socorro",
+   "fips": "35053",
+   "is_mappable": true,
+   "votes_D": 3704,
+   "votes_R": 3365,
+   "votes_other": 0,
+   "total_votes": 7069,
+   "pct_D": 52.4,
+   "pct_R": 47.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 1348,
+     "votes_R": 1367,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 544,
+     "votes_R": 257,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1803,
+     "votes_R": 1729,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 9,
+     "votes_R": 12,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35055": {
+   "name": "Taos",
+   "raw_name": "Taos",
+   "fips": "35055",
+   "is_mappable": true,
+   "votes_D": 12457,
+   "votes_R": 3845,
+   "votes_other": 0,
+   "total_votes": 16302,
+   "pct_D": 76.4,
+   "pct_R": 23.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 3074,
+     "votes_R": 1440,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 1544,
+     "votes_R": 249,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 7827,
+     "votes_R": 2115,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 12,
+     "votes_R": 41,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35057": {
+   "name": "Torrance",
+   "raw_name": "Torrance",
+   "fips": "35057",
+   "is_mappable": true,
+   "votes_D": 2454,
+   "votes_R": 4601,
+   "votes_other": 0,
+   "total_votes": 7055,
+   "pct_D": 34.8,
+   "pct_R": 65.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 824,
+     "votes_R": 1602,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 422,
+     "votes_R": 373,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1191,
+     "votes_R": 2623,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 17,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35059": {
+   "name": "Union",
+   "raw_name": "Union",
+   "fips": "35059",
+   "is_mappable": true,
+   "votes_D": 397,
+   "votes_R": 1231,
+   "votes_other": 0,
+   "total_votes": 1628,
+   "pct_D": 24.4,
+   "pct_R": 75.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 169,
+     "votes_R": 538,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 51,
+     "votes_R": 90,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 167,
+     "votes_R": 603,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 10,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "35061": {
+   "name": "Valencia",
+   "raw_name": "Valencia",
+   "fips": "35061",
+   "is_mappable": true,
+   "votes_D": 14810,
+   "votes_R": 17853,
+   "votes_other": 4,
+   "total_votes": 32667,
+   "pct_D": 45.3,
+   "pct_R": 54.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 3790,
+     "votes_R": 4758,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 3070,
+     "votes_R": 1371,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 7950,
+     "votes_R": 11724,
+     "votes_other": 0
+    },
+    "unallocated": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 4
+    }
+   },
+   "data_source": "NM-SOS",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  }
+ }
+}

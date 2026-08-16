@@ -4,9 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>VoteMode · 2024 Election Results by Voting Method</title>
-<meta name="description" content="VoteMode maps the 2024 presidential election by voting method: election day, early in-person, and mail results for every county, town, district, and ward.">
+<meta name="description" content="VoteMode maps 2024 presidential, Senate, and governor election results by voting method for counties, towns, districts, and wards.">
 <meta property="og:title" content="VoteMode · 2024 Election Results by Voting Method">
-<meta property="og:description" content="Interactive maps of the 2024 presidential election broken down by how people voted, with reporting-quality grades for every county.">
+<meta property="og:description" content="Interactive maps of 2024 presidential, Senate, and governor elections broken down by how people voted, with reporting-quality grades for every reporting unit.">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:creator" content="@VoteModeUS">
@@ -66,7 +66,7 @@ html, body {
 }
 
 button { font-family: inherit; cursor: pointer; }
-input { font-family: inherit; }
+input, select { font-family: inherit; }
 
 /* ============ APP SHELL ============ */
 .app-shell {
@@ -346,8 +346,11 @@ input { font-family: inherit; }
 .cand-name {
   font-size: 12.5px;
   color: var(--ink-secondary);
-  width: 56px;
+  width: 84px;
   flex-shrink: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .bar-track {
   flex: 1;
@@ -502,6 +505,22 @@ input { font-family: inherit; }
   line-height: 1.65;
 }
 
+.race-stat {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 7px;
+  color: var(--ink-secondary);
+  font-size: 12.5px;
+}
+.race-stat:last-child { margin-bottom: 0; }
+.race-stat strong {
+  min-width: 28px;
+  font-family: var(--font-mono);
+  font-size: 17px;
+  color: var(--ink);
+}
+
 .tag-row { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 10px; }
 .tag {
   font-size: 10.5px;
@@ -559,6 +578,7 @@ input { font-family: inherit; }
 }
 .map-unit:hover { filter: brightness(0.92); stroke-width: 1.2; }
 .map-unit.selected { stroke: var(--ink); stroke-width: 1.8; }
+.map-unit.no-race { cursor: default; }
 
 .map-title-overlay {
   position: absolute;
@@ -568,10 +588,35 @@ input { font-family: inherit; }
   font-weight: 600;
   color: var(--ink);
   background: rgba(250,250,248,0.88);
-  padding: 5px 12px;
+  padding: 4px 8px;
   border-radius: var(--radius-md);
-  pointer-events: none;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  pointer-events: auto;
 }
+.race-select, .contest-select {
+  appearance: auto;
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  font-family: var(--font-display);
+  font-size: 15px;
+  font-weight: 600;
+  padding: 1px 2px;
+  cursor: pointer;
+}
+.contest-select {
+  font-family: var(--font-body);
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--ink-secondary);
+}
+.race-select:focus-visible, .contest-select:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 2px;
+}
+.map-title-separator { color: var(--ink-tertiary); }
 
 .map-hint {
   position: absolute;
@@ -640,6 +685,7 @@ input { font-family: inherit; }
   padding-top: 6px;
   border-top: 1px solid var(--hairline);
 }
+.tt-hint.no-rule { border-top: 0; padding-top: 0; }
 
 /* ---- Legend ---- */
 .map-legend {
@@ -718,7 +764,7 @@ input { font-family: inherit; }
       <div class="panel-header">
         <div class="panel-eyebrow" id="panelEyebrow">National summary</div>
         <div class="panel-title" id="panelTitle">United States</div>
-               <div class="panel-subtitle" id="panelSubtitle">2024 presidential results</div>
+        <div class="panel-subtitle" id="panelSubtitle">2024 election results</div>
       </div>
       <div class="search-row">
         <svg class="search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
@@ -731,7 +777,7 @@ input { font-family: inherit; }
     <!-- MAP -->
     <div class="map-area" id="mapArea">
       <svg class="map-svg" id="mapSvg"></svg>
-      <div class="map-title-overlay" id="mapTitleOverlay">United States · 2024 Presidential Results</div>
+      <div class="map-title-overlay" id="mapTitleOverlay">2024 President</div>
       <div class="map-hint" id="mapHint">Click a state to explore · scroll to zoom</div>
       <button class="back-btn" id="backBtn">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>

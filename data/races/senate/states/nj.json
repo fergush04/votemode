@@ -1,0 +1,851 @@
+{
+ "race": "senate",
+ "race_label": "Senate",
+ "race_type": "senate",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Andy Kim",
+ "candidate_R": "Curtis Bashaw",
+ "state": "New Jersey",
+ "state_abbr": "NJ",
+ "unit_type": "county",
+ "avg_completeness": "C4",
+ "completeness_breakdown": {
+  "C4": 10,
+  "C5": 7,
+  "U": 3,
+  "C3": 1
+ },
+ "votes_D": 2160815,
+ "votes_R": 1772860,
+ "votes_other": 96253,
+ "total_votes": 4029928,
+ "pct_D": 53.6,
+ "pct_R": 44.0,
+ "unit_count": 21,
+ "state_profile": {
+  "voting_summary": "New Jersey offers 9 days of early in-person voting and no-excuse mail voting, with mail postmarked by election day accepted for six days. Polls close at 8 p.m. Eastern; pre-processed mail is released first, early and election day votes report through the night, and late mail plus a large provisional count stretch the canvass past a week. Mail ran D+44 against an even election day vote, so New Jersey reliably drifts bluer after election night.",
+  "reporting_notes": "",
+  "tags": [
+   "No-excuse mail",
+   "Postmark +6 days",
+   "Late blue shift"
+  ],
+  "mode_split": {
+   "election_day": 41.7,
+   "early_in_person": 22.2,
+   "mail": 17.7,
+   "total": 14.5,
+   "provisional": 2.2,
+   "in_person": 1.5,
+   "overseas": 0.2
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "34001": {
+   "name": "Atlantic",
+   "raw_name": "Atlantic",
+   "fips": "34001",
+   "is_mappable": true,
+   "votes_D": 58573,
+   "votes_R": 60688,
+   "votes_other": 2403,
+   "total_votes": 121664,
+   "pct_D": 48.1,
+   "pct_R": 49.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 15007,
+     "votes_R": 19103,
+     "votes_other": 469
+    },
+    "election_day": {
+     "votes_D": 29273,
+     "votes_R": 35030,
+     "votes_other": 1580
+    },
+    "provisional": {
+     "votes_D": 1440,
+     "votes_R": 929,
+     "votes_other": 93
+    },
+    "mail": {
+     "votes_D": 12853,
+     "votes_R": 5626,
+     "votes_other": 261
+    }
+   },
+   "data_source": "Atlantic County, NJ",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34003": {
+   "name": "Bergen",
+   "raw_name": "Bergen",
+   "fips": "34003",
+   "is_mappable": true,
+   "votes_D": 224775,
+   "votes_R": 192452,
+   "votes_other": 10607,
+   "total_votes": 427834,
+   "pct_D": 52.5,
+   "pct_R": 45.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 51764,
+     "votes_R": 50948,
+     "votes_other": 1915
+    },
+    "election_day": {
+     "votes_D": 115742,
+     "votes_R": 116473,
+     "votes_other": 7083
+    },
+    "mail": {
+     "votes_D": 52756,
+     "votes_R": 21413,
+     "votes_other": 1258
+    },
+    "provisional": {
+     "votes_D": 4513,
+     "votes_R": 3618,
+     "votes_other": 351
+    }
+   },
+   "data_source": "Bergen County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34005": {
+   "name": "Burlington",
+   "raw_name": "Burlington",
+   "fips": "34005",
+   "is_mappable": true,
+   "votes_D": 134884,
+   "votes_R": 83225,
+   "votes_other": 3722,
+   "total_votes": 221831,
+   "pct_D": 60.8,
+   "pct_R": 37.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 30091,
+     "votes_R": 22003,
+     "votes_other": 758
+    },
+    "election_day": {
+     "votes_D": 66675,
+     "votes_R": 49630,
+     "votes_other": 2347
+    },
+    "mail": {
+     "votes_D": 35841,
+     "votes_R": 10438,
+     "votes_other": 485
+    },
+    "provisional": {
+     "votes_D": 2277,
+     "votes_R": 1154,
+     "votes_other": 132
+    }
+   },
+   "data_source": "Burlington County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0031,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34007": {
+   "name": "Camden",
+   "raw_name": "Camden",
+   "fips": "34007",
+   "is_mappable": true,
+   "votes_D": 156445,
+   "votes_R": 79545,
+   "votes_other": 3418,
+   "total_votes": 239408,
+   "pct_D": 65.3,
+   "pct_R": 33.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 18801,
+     "votes_R": 16007,
+     "votes_other": 402
+    },
+    "election_day": {
+     "votes_D": 65591,
+     "votes_R": 43122,
+     "votes_other": 1860
+    },
+    "provisional": {
+     "votes_D": 5873,
+     "votes_R": 3112,
+     "votes_other": 182
+    },
+    "mail": {
+     "votes_D": 66180,
+     "votes_R": 17304,
+     "votes_other": 974
+    }
+   },
+   "data_source": "Camden County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0034,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34009": {
+   "name": "Cape May",
+   "raw_name": "Cape May",
+   "fips": "34009",
+   "is_mappable": true,
+   "votes_D": 20011,
+   "votes_R": 30889,
+   "votes_other": 613,
+   "total_votes": 51513,
+   "pct_D": 38.8,
+   "pct_R": 60.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 5179,
+     "votes_R": 9340,
+     "votes_other": 136
+    },
+    "election_day": {
+     "votes_D": 8539,
+     "votes_R": 16965,
+     "votes_other": 387
+    },
+    "mail": {
+     "votes_D": 6060,
+     "votes_R": 4257,
+     "votes_other": 77
+    },
+    "provisional": {
+     "votes_D": 233,
+     "votes_R": 327,
+     "votes_other": 13
+    }
+   },
+   "data_source": "Cape May County, NJ",
+   "official_results": false,
+   "pct_off_official": 0.002,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34011": {
+   "name": "Cumberland",
+   "raw_name": "Cumberland",
+   "fips": "34011",
+   "is_mappable": true,
+   "votes_D": 25186,
+   "votes_R": 25441,
+   "votes_other": 1583,
+   "total_votes": 52210,
+   "pct_D": 48.2,
+   "pct_R": 48.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 4688,
+     "votes_R": 6930,
+     "votes_other": 257
+    },
+    "election_day": {
+     "votes_D": 11900,
+     "votes_R": 14233,
+     "votes_other": 1055
+    },
+    "mail": {
+     "votes_D": 7996,
+     "votes_R": 3797,
+     "votes_other": 223
+    },
+    "provisional": {
+     "votes_D": 602,
+     "votes_R": 481,
+     "votes_other": 48
+    }
+   },
+   "data_source": "Cumberland County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0012,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34013": {
+   "name": "Essex",
+   "raw_name": "Essex",
+   "fips": "34013",
+   "is_mappable": true,
+   "votes_D": 216580,
+   "votes_R": 75420,
+   "votes_other": 7887,
+   "total_votes": 299887,
+   "pct_D": 72.2,
+   "pct_R": 25.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 51065,
+     "votes_R": 20435,
+     "votes_other": 1410
+    },
+    "election_day": {
+     "votes_D": 115600,
+     "votes_R": 46252,
+     "votes_other": 5260
+    },
+    "mail": {
+     "votes_D": 40713,
+     "votes_R": 6466,
+     "votes_other": 843
+    },
+    "overseas": {
+     "votes_D": 942,
+     "votes_R": 178,
+     "votes_other": 45
+    },
+    "provisional": {
+     "votes_D": 8260,
+     "votes_R": 2089,
+     "votes_other": 329
+    }
+   },
+   "data_source": "Essex County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "34015": {
+   "name": "Gloucester",
+   "raw_name": "Gloucester",
+   "fips": "34015",
+   "is_mappable": true,
+   "votes_D": 79920,
+   "votes_R": 77283,
+   "votes_other": 2007,
+   "total_votes": 159210,
+   "pct_D": 50.2,
+   "pct_R": 48.5,
+   "modes": {
+    "total": {
+     "votes_D": 79920,
+     "votes_R": 77283,
+     "votes_other": 2007
+    }
+   },
+   "data_source": "Gloucester County, NJ",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "34017": {
+   "name": "Hudson",
+   "raw_name": "Hudson",
+   "fips": "34017",
+   "is_mappable": true,
+   "votes_D": 135615,
+   "votes_R": 64050,
+   "votes_other": 8239,
+   "total_votes": 207904,
+   "pct_D": 65.2,
+   "pct_R": 30.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 44961,
+     "votes_R": 20553,
+     "votes_other": 2097
+    },
+    "election_day": {
+     "votes_D": 65074,
+     "votes_R": 36754,
+     "votes_other": 5025
+    },
+    "mail": {
+     "votes_D": 19660,
+     "votes_R": 4207,
+     "votes_other": 656
+    },
+    "overseas": {
+     "votes_D": 1390,
+     "votes_R": 209,
+     "votes_other": 83
+    },
+    "provisional": {
+     "votes_D": 4530,
+     "votes_R": 2327,
+     "votes_other": 378
+    }
+   },
+   "data_source": "Hudson County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0045,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "34019": {
+   "name": "Hunterdon",
+   "raw_name": "Hunterdon",
+   "fips": "34019",
+   "is_mappable": true,
+   "votes_D": 34983,
+   "votes_R": 40273,
+   "votes_other": 1843,
+   "total_votes": 77099,
+   "pct_D": 45.4,
+   "pct_R": 52.2,
+   "modes": {
+    "in_person": {
+     "votes_D": 22958,
+     "votes_R": 34361,
+     "votes_other": 1473
+    },
+    "provisional": {
+     "votes_D": 47,
+     "votes_R": 67,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 11978,
+     "votes_R": 5845,
+     "votes_other": 367
+    }
+   },
+   "data_source": "Hunterdon County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0043,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "34021": {
+   "name": "Mercer",
+   "raw_name": "Mercer",
+   "fips": "34021",
+   "is_mappable": true,
+   "votes_D": 105685,
+   "votes_R": 46932,
+   "votes_other": 3907,
+   "total_votes": 156524,
+   "pct_D": 67.5,
+   "pct_R": 30.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 25678,
+     "votes_R": 13600,
+     "votes_other": 676
+    },
+    "election_day": {
+     "votes_D": 41879,
+     "votes_R": 24143,
+     "votes_other": 2310
+    },
+    "overseas": {
+     "votes_D": 817,
+     "votes_R": 90,
+     "votes_other": 27
+    },
+    "provisional": {
+     "votes_D": 3211,
+     "votes_R": 1387,
+     "votes_other": 162
+    },
+    "mail": {
+     "votes_D": 34100,
+     "votes_R": 7712,
+     "votes_other": 732
+    }
+   },
+   "data_source": "Mercer County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "34023": {
+   "name": "Middlesex",
+   "raw_name": "Middlesex",
+   "fips": "34023",
+   "is_mappable": true,
+   "votes_D": 188429,
+   "votes_R": 140638,
+   "votes_other": 13541,
+   "total_votes": 342608,
+   "pct_D": 55.0,
+   "pct_R": 41.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 38420,
+     "votes_R": 41113,
+     "votes_other": 2321
+    },
+    "election_day": {
+     "votes_D": 66756,
+     "votes_R": 65402,
+     "votes_other": 7059
+    },
+    "mail": {
+     "votes_D": 74605,
+     "votes_R": 27669,
+     "votes_other": 3163
+    },
+    "provisional": {
+     "votes_D": 8648,
+     "votes_R": 6454,
+     "votes_other": 998
+    }
+   },
+   "data_source": "Middlesex County, NJ",
+   "official_results": false,
+   "pct_off_official": 0.0037,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34025": {
+   "name": "Monmouth",
+   "raw_name": "Monmouth",
+   "fips": "34025",
+   "is_mappable": true,
+   "votes_D": 151920,
+   "votes_R": 185197,
+   "votes_other": 7112,
+   "total_votes": 344229,
+   "pct_D": 44.1,
+   "pct_R": 53.8,
+   "modes": {
+    "total": {
+     "votes_D": 151920,
+     "votes_R": 185197,
+     "votes_other": 7112
+    }
+   },
+   "data_source": "Monmouth County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.004,
+   "completeness": "U",
+   "notes": ""
+  },
+  "34027": {
+   "name": "Morris",
+   "raw_name": "Morris",
+   "fips": "34027",
+   "is_mappable": true,
+   "votes_D": 127721,
+   "votes_R": 135635,
+   "votes_other": 5288,
+   "total_votes": 268644,
+   "pct_D": 47.5,
+   "pct_R": 50.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 33509,
+     "votes_R": 42324,
+     "votes_other": 1037
+    },
+    "election_day": {
+     "votes_D": 55559,
+     "votes_R": 76079,
+     "votes_other": 3326
+    },
+    "overseas": {
+     "votes_D": 991,
+     "votes_R": 128,
+     "votes_other": 37
+    },
+    "mail": {
+     "votes_D": 34845,
+     "votes_R": 14878,
+     "votes_other": 696
+    },
+    "provisional": {
+     "votes_D": 2817,
+     "votes_R": 2226,
+     "votes_other": 192
+    }
+   },
+   "data_source": "Morris County, NJ",
+   "official_results": false,
+   "pct_off_official": 0.0049,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "34029": {
+   "name": "Ocean",
+   "raw_name": "Ocean",
+   "fips": "34029",
+   "is_mappable": true,
+   "votes_D": 109610,
+   "votes_R": 197040,
+   "votes_other": 2883,
+   "total_votes": 309533,
+   "pct_D": 35.4,
+   "pct_R": 63.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 29052,
+     "votes_R": 69833,
+     "votes_other": 722
+    },
+    "election_day": {
+     "votes_D": 49426,
+     "votes_R": 99837,
+     "votes_other": 1758
+    },
+    "mail": {
+     "votes_D": 29251,
+     "votes_R": 24239,
+     "votes_other": 329
+    },
+    "overseas": {
+     "votes_D": 388,
+     "votes_R": 359,
+     "votes_other": 10
+    },
+    "provisional": {
+     "votes_D": 1493,
+     "votes_R": 2772,
+     "votes_other": 64
+    }
+   },
+   "data_source": "Ocean County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0027,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "34031": {
+   "name": "Passaic",
+   "raw_name": "Passaic",
+   "fips": "34031",
+   "is_mappable": true,
+   "votes_D": 91719,
+   "votes_R": 86654,
+   "votes_other": 7655,
+   "total_votes": 186028,
+   "pct_D": 49.3,
+   "pct_R": 46.6,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 25012,
+     "votes_R": 28210,
+     "votes_other": 1453
+    },
+    "election_day": {
+     "votes_D": 46088,
+     "votes_R": 48169,
+     "votes_other": 5056
+    },
+    "mail": {
+     "votes_D": 17173,
+     "votes_R": 7555,
+     "votes_other": 719
+    },
+    "provisional": {
+     "votes_D": 3446,
+     "votes_R": 2720,
+     "votes_other": 427
+    }
+   },
+   "data_source": "Passaic County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0029,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34033": {
+   "name": "Salem",
+   "raw_name": "Salem",
+   "fips": "34033",
+   "is_mappable": true,
+   "votes_D": 12561,
+   "votes_R": 17338,
+   "votes_other": 809,
+   "total_votes": 30708,
+   "pct_D": 40.9,
+   "pct_R": 56.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2416,
+     "votes_R": 4755,
+     "votes_other": 137
+    },
+    "election_day": {
+     "votes_D": 6848,
+     "votes_R": 10851,
+     "votes_other": 549
+    },
+    "overseas": {
+     "votes_D": 37,
+     "votes_R": 1,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 3055,
+     "votes_R": 1542,
+     "votes_other": 86
+    },
+    "provisional": {
+     "votes_D": 205,
+     "votes_R": 189,
+     "votes_other": 34
+    }
+   },
+   "data_source": "Salem County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0027,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "34035": {
+   "name": "Somerset",
+   "raw_name": "Somerset",
+   "fips": "34035",
+   "is_mappable": true,
+   "votes_D": 95344,
+   "votes_R": 71652,
+   "votes_other": 4272,
+   "total_votes": 171268,
+   "pct_D": 55.7,
+   "pct_R": 41.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 29873,
+     "votes_R": 25471,
+     "votes_other": 1035
+    },
+    "election_day": {
+     "votes_D": 33636,
+     "votes_R": 34429,
+     "votes_other": 2331
+    },
+    "provisional": {
+     "votes_D": 2062,
+     "votes_R": 1268,
+     "votes_other": 146
+    },
+    "mail": {
+     "votes_D": 29773,
+     "votes_R": 10484,
+     "votes_other": 760
+    }
+   },
+   "data_source": "Somerset County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0052,
+   "completeness": "C4",
+   "notes": ""
+  },
+  "34037": {
+   "name": "Sussex",
+   "raw_name": "Sussex",
+   "fips": "34037",
+   "is_mappable": true,
+   "votes_D": 29947,
+   "votes_R": 49724,
+   "votes_other": 2571,
+   "total_votes": 82242,
+   "pct_D": 36.4,
+   "pct_R": 60.5,
+   "modes": {
+    "total": {
+     "votes_D": 29947,
+     "votes_R": 49724,
+     "votes_other": 2571
+    }
+   },
+   "data_source": "Sussex County, NJ",
+   "official_results": false,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "34039": {
+   "name": "Union",
+   "raw_name": "Union",
+   "fips": "34039",
+   "is_mappable": true,
+   "votes_D": 138149,
+   "votes_R": 78710,
+   "votes_other": 4431,
+   "total_votes": 221290,
+   "pct_D": 62.4,
+   "pct_R": 35.6,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 39665,
+     "votes_R": 24071,
+     "votes_other": 862
+    },
+    "election_day": {
+     "votes_D": 63576,
+     "votes_R": 44068,
+     "votes_other": 2881
+    },
+    "overseas": {
+     "votes_D": 636,
+     "votes_R": 187,
+     "votes_other": 18
+    },
+    "provisional": {
+     "votes_D": 3443,
+     "votes_R": 1604,
+     "votes_other": 215
+    },
+    "mail": {
+     "votes_D": 30829,
+     "votes_R": 8780,
+     "votes_other": 455
+    }
+   },
+   "data_source": "Union County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "34041": {
+   "name": "Warren",
+   "raw_name": "Warren",
+   "fips": "34041",
+   "is_mappable": true,
+   "votes_D": 22758,
+   "votes_R": 34074,
+   "votes_other": 1462,
+   "total_votes": 58294,
+   "pct_D": 39.0,
+   "pct_R": 58.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 6441,
+     "votes_R": 11976,
+     "votes_other": 336
+    },
+    "election_day": {
+     "votes_D": 9169,
+     "votes_R": 17645,
+     "votes_other": 874
+    },
+    "provisional": {
+     "votes_D": 444,
+     "votes_R": 421,
+     "votes_other": 36
+    },
+    "mail": {
+     "votes_D": 6704,
+     "votes_R": 4032,
+     "votes_other": 216
+    }
+   },
+   "data_source": "Warren County, NJ",
+   "official_results": true,
+   "pct_off_official": 0.0034,
+   "completeness": "C4",
+   "notes": ""
+  }
+ }
+}

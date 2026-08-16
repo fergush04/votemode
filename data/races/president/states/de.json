@@ -1,0 +1,142 @@
+{
+ "race": "president",
+ "race_label": "President",
+ "race_type": "president",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Kamala D. Harris",
+ "candidate_R": "Donald J. Trump",
+ "state": "Delaware",
+ "state_abbr": "DE",
+ "unit_type": "county",
+ "avg_completeness": "C3",
+ "completeness_breakdown": {
+  "C3": 3
+ },
+ "votes_D": 289758,
+ "votes_R": 214351,
+ "votes_other": 7588,
+ "total_votes": 511697,
+ "pct_D": 56.6,
+ "pct_R": 41.9,
+ "unit_count": 3,
+ "state_profile": {
+  "voting_summary": "Delaware pairs 10 days of early in-person voting (41% of the 2024 vote) with excuse-required absentee voting (7%), its universal vote-by-mail law having been struck down by state courts in 2022. Polls close at 8 p.m. Eastern; election day and early votes report first and most results post within about two hours, with absentees folded in late evening. Absentees ran D+45 against D+14 on election day, giving the final batches a modest blue lean.",
+  "reporting_notes": "",
+  "tags": [
+   "Early in-person",
+   "Excuse-required absentee",
+   "Fast count"
+  ],
+  "mode_split": {
+   "election_day": 51.8,
+   "early_in_person": 40.7,
+   "mail": 7.5
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "10001": {
+   "name": "Kent",
+   "raw_name": "Kent",
+   "fips": "10001",
+   "is_mappable": true,
+   "votes_D": 44222,
+   "votes_R": 42458,
+   "votes_other": 1461,
+   "total_votes": 88141,
+   "pct_D": 50.2,
+   "pct_R": 48.2,
+   "modes": {
+    "mail": {
+     "votes_D": 3946,
+     "votes_R": 1632,
+     "votes_other": 77
+    },
+    "early_in_person": {
+     "votes_D": 18576,
+     "votes_R": 17218,
+     "votes_other": 394
+    },
+    "election_day": {
+     "votes_D": 21700,
+     "votes_R": 23608,
+     "votes_other": 990
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "10003": {
+   "name": "New Castle",
+   "raw_name": "New Castle",
+   "fips": "10003",
+   "is_mappable": true,
+   "votes_D": 180700,
+   "votes_R": 90868,
+   "votes_other": 4349,
+   "total_votes": 275917,
+   "pct_D": 65.5,
+   "pct_R": 32.9,
+   "modes": {
+    "mail": {
+     "votes_D": 15654,
+     "votes_R": 4265,
+     "votes_other": 217
+    },
+    "early_in_person": {
+     "votes_D": 56693,
+     "votes_R": 25048,
+     "votes_other": 705
+    },
+    "election_day": {
+     "votes_D": 108353,
+     "votes_R": 61555,
+     "votes_other": 3427
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "10005": {
+   "name": "Sussex",
+   "raw_name": "Sussex",
+   "fips": "10005",
+   "is_mappable": true,
+   "votes_D": 64836,
+   "votes_R": 81025,
+   "votes_other": 1778,
+   "total_votes": 147639,
+   "pct_D": 43.9,
+   "pct_R": 54.9,
+   "modes": {
+    "mail": {
+     "votes_D": 8105,
+     "votes_R": 4557,
+     "votes_other": 129
+    },
+    "early_in_person": {
+     "votes_D": 38520,
+     "votes_R": 50257,
+     "votes_other": 804
+    },
+    "election_day": {
+     "votes_D": 18211,
+     "votes_R": 26211,
+     "votes_other": 845
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  }
+ }
+}

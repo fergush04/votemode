@@ -1,0 +1,2572 @@
+{
+ "race": "senate",
+ "race_label": "Senate",
+ "race_type": "senate",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Elissa Slotkin",
+ "candidate_R": "Mike Rogers",
+ "state": "Michigan",
+ "state_abbr": "MI",
+ "unit_type": "county",
+ "avg_completeness": "C3",
+ "completeness_breakdown": {
+  "C2": 9,
+  "C3": 49,
+  "U": 25
+ },
+ "votes_D": 2712620,
+ "votes_R": 2693596,
+ "votes_other": 176725,
+ "total_votes": 5582941,
+ "pct_D": 48.6,
+ "pct_R": 48.2,
+ "unit_count": 83,
+ "state_profile": {
+  "voting_summary": "Michigan now offers 9 days of early voting and no-excuse mail voting, and a 2022-24 reform lets cities pre-process absentee ballots for 8 days before the election, Detroit reported over 80% of its absentee vote by late evening in 2024, ending the multi-day waits of 2020. Polls close at 9 p.m. Eastern; pre-processed absentee and early votes are released alongside election day precincts through the night, and the state is effectively complete by the following morning. Mail ran D+29 against R+14 on election day, so Democratic-leaning absentee batches land through the night rather than days later.",
+  "reporting_notes": "",
+  "tags": [
+   "No-excuse mail",
+   "Pre-processed",
+   "Early in-person",
+   "Overnight count"
+  ],
+  "mode_split": {
+   "election_day": 37.7,
+   "mail": 33.8,
+   "early_in_person": 19.9,
+   "total": 7.3,
+   "election_day_and_mail": 1.4
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "26001": {
+   "name": "Alcona",
+   "raw_name": "Alcona",
+   "fips": "26001",
+   "is_mappable": true,
+   "votes_D": 2133,
+   "votes_R": 5047,
+   "votes_other": 185,
+   "total_votes": 7365,
+   "pct_D": 29.0,
+   "pct_R": 68.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 306,
+     "votes_R": 1054,
+     "votes_other": 15
+    },
+    "election_day_and_mail": {
+     "votes_D": 1827,
+     "votes_R": 3993,
+     "votes_other": 170
+    }
+   },
+   "data_source": "Alcona County, MI",
+   "official_results": false,
+   "pct_off_official": 0.006,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "26003": {
+   "name": "Alger",
+   "raw_name": "Alger",
+   "fips": "26003",
+   "is_mappable": true,
+   "votes_D": 2047,
+   "votes_R": 3002,
+   "votes_other": 109,
+   "total_votes": 5158,
+   "pct_D": 39.7,
+   "pct_R": 58.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 229,
+     "votes_R": 509,
+     "votes_other": 13
+    },
+    "election_day_and_mail": {
+     "votes_D": 1818,
+     "votes_R": 2493,
+     "votes_other": 96
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0015,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "26005": {
+   "name": "Allegan",
+   "raw_name": "Allegan",
+   "fips": "26005",
+   "is_mappable": true,
+   "votes_D": 25193,
+   "votes_R": 44205,
+   "votes_other": 2047,
+   "total_votes": 71445,
+   "pct_D": 35.3,
+   "pct_R": 61.9,
+   "modes": {
+    "mail": {
+     "votes_D": 11120,
+     "votes_R": 10198,
+     "votes_other": 454
+    },
+    "early_in_person": {
+     "votes_D": 6633,
+     "votes_R": 17752,
+     "votes_other": 545
+    },
+    "election_day": {
+     "votes_D": 7440,
+     "votes_R": 16255,
+     "votes_other": 1048
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0017,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26007": {
+   "name": "Alpena",
+   "raw_name": "Alpena",
+   "fips": "26007",
+   "is_mappable": true,
+   "votes_D": 5827,
+   "votes_R": 10567,
+   "votes_other": 483,
+   "total_votes": 16877,
+   "pct_D": 34.5,
+   "pct_R": 62.6,
+   "modes": {
+    "total": {
+     "votes_D": 5827,
+     "votes_R": 10567,
+     "votes_other": 483
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26009": {
+   "name": "Antrim",
+   "raw_name": "Antrim",
+   "fips": "26009",
+   "is_mappable": true,
+   "votes_D": 6178,
+   "votes_R": 10136,
+   "votes_other": 418,
+   "total_votes": 16732,
+   "pct_D": 36.9,
+   "pct_R": 60.6,
+   "modes": {
+    "total": {
+     "votes_D": 6178,
+     "votes_R": 10136,
+     "votes_other": 418
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26011": {
+   "name": "Arenac",
+   "raw_name": "Arenac",
+   "fips": "26011",
+   "is_mappable": true,
+   "votes_D": 2786,
+   "votes_R": 5911,
+   "votes_other": 258,
+   "total_votes": 8955,
+   "pct_D": 31.1,
+   "pct_R": 66.0,
+   "modes": {
+    "mail": {
+     "votes_D": 165,
+     "votes_R": 179,
+     "votes_other": 6
+    },
+    "early_in_person": {
+     "votes_D": 349,
+     "votes_R": 966,
+     "votes_other": 19
+    },
+    "election_day": {
+     "votes_D": 2272,
+     "votes_R": 4766,
+     "votes_other": 233
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0005,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26013": {
+   "name": "Baraga",
+   "raw_name": "Baraga",
+   "fips": "26013",
+   "is_mappable": true,
+   "votes_D": 1468,
+   "votes_R": 2698,
+   "votes_other": 80,
+   "total_votes": 4246,
+   "pct_D": 34.6,
+   "pct_R": 63.5,
+   "modes": {
+    "mail": {
+     "votes_D": 599,
+     "votes_R": 517,
+     "votes_other": 16
+    },
+    "early_in_person": {
+     "votes_D": 240,
+     "votes_R": 880,
+     "votes_other": 10
+    },
+    "election_day": {
+     "votes_D": 629,
+     "votes_R": 1301,
+     "votes_other": 54
+    }
+   },
+   "data_source": "Baraga County, MI",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26015": {
+   "name": "Barry",
+   "raw_name": "Barry",
+   "fips": "26015",
+   "is_mappable": true,
+   "votes_D": 12311,
+   "votes_R": 24678,
+   "votes_other": 1198,
+   "total_votes": 38187,
+   "pct_D": 32.2,
+   "pct_R": 64.6,
+   "modes": {
+    "mail": {
+     "votes_D": 5247,
+     "votes_R": 4771,
+     "votes_other": 266
+    },
+    "early_in_person": {
+     "votes_D": 3151,
+     "votes_R": 9672,
+     "votes_other": 276
+    },
+    "election_day": {
+     "votes_D": 3913,
+     "votes_R": 10235,
+     "votes_other": 656
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0001,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26017": {
+   "name": "Bay",
+   "raw_name": "Bay",
+   "fips": "26017",
+   "is_mappable": true,
+   "votes_D": 26313,
+   "votes_R": 32145,
+   "votes_other": 1693,
+   "total_votes": 60151,
+   "pct_D": 43.7,
+   "pct_R": 53.4,
+   "modes": {
+    "mail": {
+     "votes_D": 12816,
+     "votes_R": 7757,
+     "votes_other": 429
+    },
+    "early_in_person": {
+     "votes_D": 3321,
+     "votes_R": 5433,
+     "votes_other": 166
+    },
+    "election_day": {
+     "votes_D": 10176,
+     "votes_R": 18955,
+     "votes_other": 1098
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0048,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26019": {
+   "name": "Benzie",
+   "raw_name": "Benzie",
+   "fips": "26019",
+   "is_mappable": true,
+   "votes_D": 5659,
+   "votes_R": 6742,
+   "votes_other": 338,
+   "total_votes": 12739,
+   "pct_D": 44.4,
+   "pct_R": 52.9,
+   "modes": {
+    "mail": {
+     "votes_D": 1522,
+     "votes_R": 960,
+     "votes_other": 50
+    },
+    "early_in_person": {
+     "votes_D": 1433,
+     "votes_R": 2666,
+     "votes_other": 82
+    },
+    "election_day": {
+     "votes_D": 2704,
+     "votes_R": 3116,
+     "votes_other": 206
+    }
+   },
+   "data_source": "Benzie County, MI",
+   "official_results": false,
+   "pct_off_official": 0.0065,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26021": {
+   "name": "Berrien",
+   "raw_name": "Berrien",
+   "fips": "26021",
+   "is_mappable": true,
+   "votes_D": 35983,
+   "votes_R": 44819,
+   "votes_other": 2501,
+   "total_votes": 83303,
+   "pct_D": 43.2,
+   "pct_R": 53.8,
+   "modes": {
+    "mail": {
+     "votes_D": 15498,
+     "votes_R": 12411,
+     "votes_other": 589
+    },
+    "early_in_person": {
+     "votes_D": 6092,
+     "votes_R": 9432,
+     "votes_other": 322
+    },
+    "election_day": {
+     "votes_D": 14393,
+     "votes_R": 22976,
+     "votes_other": 1590
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0021,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26023": {
+   "name": "Branch",
+   "raw_name": "Branch",
+   "fips": "26023",
+   "is_mappable": true,
+   "votes_D": 5922,
+   "votes_R": 14181,
+   "votes_other": 713,
+   "total_votes": 20816,
+   "pct_D": 28.4,
+   "pct_R": 68.1,
+   "modes": {
+    "mail": {
+     "votes_D": 799,
+     "votes_R": 705,
+     "votes_other": 52
+    },
+    "early_in_person": {
+     "votes_D": 1146,
+     "votes_R": 3804,
+     "votes_other": 118
+    },
+    "election_day": {
+     "votes_D": 3977,
+     "votes_R": 9672,
+     "votes_other": 543
+    }
+   },
+   "data_source": "Branch County, MI",
+   "official_results": false,
+   "pct_off_official": 0.0055,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26025": {
+   "name": "Calhoun",
+   "raw_name": "Calhoun",
+   "fips": "26025",
+   "is_mappable": true,
+   "votes_D": 28321,
+   "votes_R": 36586,
+   "votes_other": 1538,
+   "total_votes": 66445,
+   "pct_D": 42.6,
+   "pct_R": 55.1,
+   "modes": {
+    "mail": {
+     "votes_D": 10715,
+     "votes_R": 6441,
+     "votes_other": 297
+    },
+    "early_in_person": {
+     "votes_D": 4838,
+     "votes_R": 8282,
+     "votes_other": 204
+    },
+    "election_day": {
+     "votes_D": 12768,
+     "votes_R": 21863,
+     "votes_other": 1037
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0013,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26027": {
+   "name": "Cass",
+   "raw_name": "Cass",
+   "fips": "26027",
+   "is_mappable": true,
+   "votes_D": 8582,
+   "votes_R": 18124,
+   "votes_other": 740,
+   "total_votes": 27446,
+   "pct_D": 31.3,
+   "pct_R": 66.0,
+   "modes": {
+    "mail": {
+     "votes_D": 2337,
+     "votes_R": 2410,
+     "votes_other": 84
+    },
+    "early_in_person": {
+     "votes_D": 1528,
+     "votes_R": 5540,
+     "votes_other": 136
+    },
+    "election_day": {
+     "votes_D": 4717,
+     "votes_R": 10174,
+     "votes_other": 520
+    }
+   },
+   "data_source": "Cass County, MI",
+   "official_results": false,
+   "pct_off_official": 0.0042,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26029": {
+   "name": "Charlevoix",
+   "raw_name": "Charlevoix",
+   "fips": "26029",
+   "is_mappable": true,
+   "votes_D": 6979,
+   "votes_R": 9930,
+   "votes_other": 475,
+   "total_votes": 17384,
+   "pct_D": 40.1,
+   "pct_R": 57.1,
+   "modes": {
+    "total": {
+     "votes_D": 6979,
+     "votes_R": 9930,
+     "votes_other": 475
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26031": {
+   "name": "Cheboygan",
+   "raw_name": "Cheboygan",
+   "fips": "26031",
+   "is_mappable": true,
+   "votes_D": 5445,
+   "votes_R": 10259,
+   "votes_other": 460,
+   "total_votes": 16164,
+   "pct_D": 33.7,
+   "pct_R": 63.5,
+   "modes": {
+    "total": {
+     "votes_D": 5445,
+     "votes_R": 10259,
+     "votes_other": 460
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26033": {
+   "name": "Chippewa",
+   "raw_name": "Chippewa",
+   "fips": "26033",
+   "is_mappable": true,
+   "votes_D": 6689,
+   "votes_R": 10751,
+   "votes_other": 573,
+   "total_votes": 18013,
+   "pct_D": 37.1,
+   "pct_R": 59.7,
+   "modes": {
+    "total": {
+     "votes_D": 6689,
+     "votes_R": 10751,
+     "votes_other": 573
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26035": {
+   "name": "Clare",
+   "raw_name": "Clare",
+   "fips": "26035",
+   "is_mappable": true,
+   "votes_D": 5285,
+   "votes_R": 11146,
+   "votes_other": 593,
+   "total_votes": 17024,
+   "pct_D": 31.0,
+   "pct_R": 65.5,
+   "modes": {
+    "mail": {
+     "votes_D": 942,
+     "votes_R": 870,
+     "votes_other": 56
+    },
+    "early_in_person": {
+     "votes_D": 607,
+     "votes_R": 1917,
+     "votes_other": 49
+    },
+    "election_day": {
+     "votes_D": 3736,
+     "votes_R": 8359,
+     "votes_other": 488
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0013,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26037": {
+   "name": "Clinton",
+   "raw_name": "Clinton",
+   "fips": "26037",
+   "is_mappable": true,
+   "votes_D": 22600,
+   "votes_R": 25903,
+   "votes_other": 1073,
+   "total_votes": 49576,
+   "pct_D": 45.6,
+   "pct_R": 52.2,
+   "modes": {
+    "mail": {
+     "votes_D": 8836,
+     "votes_R": 4543,
+     "votes_other": 203
+    },
+    "early_in_person": {
+     "votes_D": 3440,
+     "votes_R": 5721,
+     "votes_other": 127
+    },
+    "election_day": {
+     "votes_D": 10324,
+     "votes_R": 15639,
+     "votes_other": 743
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0018,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26039": {
+   "name": "Crawford",
+   "raw_name": "Crawford",
+   "fips": "26039",
+   "is_mappable": true,
+   "votes_D": 2696,
+   "votes_R": 5360,
+   "votes_other": 275,
+   "total_votes": 8331,
+   "pct_D": 32.4,
+   "pct_R": 64.3,
+   "modes": {
+    "total": {
+     "votes_D": 2696,
+     "votes_R": 5360,
+     "votes_other": 275
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26041": {
+   "name": "Delta",
+   "raw_name": "Delta",
+   "fips": "26041",
+   "is_mappable": true,
+   "votes_D": 7316,
+   "votes_R": 13601,
+   "votes_other": 599,
+   "total_votes": 21516,
+   "pct_D": 34.0,
+   "pct_R": 63.2,
+   "modes": {
+    "mail": {
+     "votes_D": 2712,
+     "votes_R": 2411,
+     "votes_other": 112
+    },
+    "early_in_person": {
+     "votes_D": 854,
+     "votes_R": 3149,
+     "votes_other": 75
+    },
+    "election_day": {
+     "votes_D": 3750,
+     "votes_R": 8041,
+     "votes_other": 412
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0011,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26043": {
+   "name": "Dickinson",
+   "raw_name": "Dickinson",
+   "fips": "26043",
+   "is_mappable": true,
+   "votes_D": 4662,
+   "votes_R": 10076,
+   "votes_other": 391,
+   "total_votes": 15129,
+   "pct_D": 30.8,
+   "pct_R": 66.6,
+   "modes": {
+    "mail": {
+     "votes_D": 1826,
+     "votes_R": 2239,
+     "votes_other": 87
+    },
+    "early_in_person": {
+     "votes_D": 853,
+     "votes_R": 2684,
+     "votes_other": 80
+    },
+    "election_day": {
+     "votes_D": 1983,
+     "votes_R": 5153,
+     "votes_other": 224
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0021,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26045": {
+   "name": "Eaton",
+   "raw_name": "Eaton",
+   "fips": "26045",
+   "is_mappable": true,
+   "votes_D": 31453,
+   "votes_R": 31627,
+   "votes_other": 1549,
+   "total_votes": 64629,
+   "pct_D": 48.7,
+   "pct_R": 48.9,
+   "modes": {
+    "mail": {
+     "votes_D": 16894,
+     "votes_R": 8880,
+     "votes_other": 404
+    },
+    "early_in_person": {
+     "votes_D": 4523,
+     "votes_R": 6680,
+     "votes_other": 193
+    },
+    "election_day": {
+     "votes_D": 10036,
+     "votes_R": 16067,
+     "votes_other": 952
+    }
+   },
+   "data_source": "Eaton County, MI",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26047": {
+   "name": "Emmet",
+   "raw_name": "Emmet",
+   "fips": "26047",
+   "is_mappable": true,
+   "votes_D": 9778,
+   "votes_R": 12301,
+   "votes_other": 606,
+   "total_votes": 22685,
+   "pct_D": 43.1,
+   "pct_R": 54.2,
+   "modes": {
+    "mail": {
+     "votes_D": 3210,
+     "votes_R": 2498,
+     "votes_other": 104
+    },
+    "early_in_person": {
+     "votes_D": 1274,
+     "votes_R": 2682,
+     "votes_other": 58
+    },
+    "election_day": {
+     "votes_D": 5294,
+     "votes_R": 7121,
+     "votes_other": 444
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0023,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26049": {
+   "name": "Genesee",
+   "raw_name": "Genesee",
+   "fips": "26049",
+   "is_mappable": true,
+   "votes_D": 114995,
+   "votes_R": 97999,
+   "votes_other": 6465,
+   "total_votes": 219459,
+   "pct_D": 52.4,
+   "pct_R": 44.7,
+   "modes": {
+    "mail": {
+     "votes_D": 52223,
+     "votes_R": 23330,
+     "votes_other": 1597
+    },
+    "early_in_person": {
+     "votes_D": 22510,
+     "votes_R": 31697,
+     "votes_other": 1177
+    },
+    "election_day": {
+     "votes_D": 40262,
+     "votes_R": 42972,
+     "votes_other": 3691
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26051": {
+   "name": "Gladwin",
+   "raw_name": "Gladwin",
+   "fips": "26051",
+   "is_mappable": true,
+   "votes_D": 4537,
+   "votes_R": 10239,
+   "votes_other": 417,
+   "total_votes": 15193,
+   "pct_D": 29.9,
+   "pct_R": 67.4,
+   "modes": {
+    "total": {
+     "votes_D": 4537,
+     "votes_R": 10239,
+     "votes_other": 417
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26053": {
+   "name": "Gogebic",
+   "raw_name": "Gogebic",
+   "fips": "26053",
+   "is_mappable": true,
+   "votes_D": 3250,
+   "votes_R": 4536,
+   "votes_other": 285,
+   "total_votes": 8071,
+   "pct_D": 40.3,
+   "pct_R": 56.2,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 325,
+     "votes_R": 680,
+     "votes_other": 20
+    },
+    "election_day_and_mail": {
+     "votes_D": 2925,
+     "votes_R": 3856,
+     "votes_other": 265
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0024,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "26055": {
+   "name": "Grand Traverse",
+   "raw_name": "Grand Traverse",
+   "fips": "26055",
+   "is_mappable": true,
+   "votes_D": 29487,
+   "votes_R": 30865,
+   "votes_other": 1733,
+   "total_votes": 62085,
+   "pct_D": 47.5,
+   "pct_R": 49.7,
+   "modes": {
+    "mail": {
+     "votes_D": 16339,
+     "votes_R": 10582,
+     "votes_other": 554
+    },
+    "early_in_person": {
+     "votes_D": 5527,
+     "votes_R": 9519,
+     "votes_other": 336
+    },
+    "election_day": {
+     "votes_D": 7621,
+     "votes_R": 10764,
+     "votes_other": 843
+    }
+   },
+   "data_source": "Grand Traverse County, MI",
+   "official_results": true,
+   "pct_off_official": 0.0018,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26057": {
+   "name": "Gratiot",
+   "raw_name": "Gratiot",
+   "fips": "26057",
+   "is_mappable": true,
+   "votes_D": 6648,
+   "votes_R": 12281,
+   "votes_other": 606,
+   "total_votes": 19535,
+   "pct_D": 34.0,
+   "pct_R": 62.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 797,
+     "votes_R": 2146,
+     "votes_other": 72
+    },
+    "election_day_and_mail": {
+     "votes_D": 5851,
+     "votes_R": 10135,
+     "votes_other": 534
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0008,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "26059": {
+   "name": "Hillsdale",
+   "raw_name": "Hillsdale",
+   "fips": "26059",
+   "is_mappable": true,
+   "votes_D": 5924,
+   "votes_R": 17792,
+   "votes_other": 689,
+   "total_votes": 24405,
+   "pct_D": 24.3,
+   "pct_R": 72.9,
+   "modes": {
+    "mail": {
+     "votes_D": 614,
+     "votes_R": 592,
+     "votes_other": 20
+    },
+    "early_in_person": {
+     "votes_D": 745,
+     "votes_R": 3658,
+     "votes_other": 86
+    },
+    "election_day": {
+     "votes_D": 4565,
+     "votes_R": 13542,
+     "votes_other": 583
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26061": {
+   "name": "Houghton",
+   "raw_name": "Houghton",
+   "fips": "26061",
+   "is_mappable": true,
+   "votes_D": 7650,
+   "votes_R": 10993,
+   "votes_other": 483,
+   "total_votes": 19126,
+   "pct_D": 40.0,
+   "pct_R": 57.5,
+   "modes": {
+    "total": {
+     "votes_D": 7650,
+     "votes_R": 10993,
+     "votes_other": 483
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26063": {
+   "name": "Huron",
+   "raw_name": "Huron",
+   "fips": "26063",
+   "is_mappable": true,
+   "votes_D": 5541,
+   "votes_R": 12509,
+   "votes_other": 500,
+   "total_votes": 18550,
+   "pct_D": 29.9,
+   "pct_R": 67.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1110,
+     "votes_R": 3089,
+     "votes_other": 75
+    },
+    "election_day_and_mail": {
+     "votes_D": 4431,
+     "votes_R": 9420,
+     "votes_other": 425
+    }
+   },
+   "data_source": "Huron County, MI",
+   "official_results": true,
+   "pct_off_official": 0.0044,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "26065": {
+   "name": "Ingham",
+   "raw_name": "Ingham",
+   "fips": "26065",
+   "is_mappable": true,
+   "votes_D": 94679,
+   "votes_R": 48083,
+   "votes_other": 4250,
+   "total_votes": 147012,
+   "pct_D": 64.4,
+   "pct_R": 32.7,
+   "modes": {
+    "mail": {
+     "votes_D": 48846,
+     "votes_R": 13925,
+     "votes_other": 1289
+    },
+    "early_in_person": {
+     "votes_D": 18076,
+     "votes_R": 13517,
+     "votes_other": 739
+    },
+    "election_day": {
+     "votes_D": 27757,
+     "votes_R": 20641,
+     "votes_other": 2222
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0055,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26067": {
+   "name": "Ionia",
+   "raw_name": "Ionia",
+   "fips": "26067",
+   "is_mappable": true,
+   "votes_D": 11253,
+   "votes_R": 21241,
+   "votes_other": 1059,
+   "total_votes": 33553,
+   "pct_D": 33.5,
+   "pct_R": 63.3,
+   "modes": {
+    "total": {
+     "votes_D": 11253,
+     "votes_R": 21241,
+     "votes_other": 1059
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26069": {
+   "name": "Iosco",
+   "raw_name": "Iosco",
+   "fips": "26069",
+   "is_mappable": true,
+   "votes_D": 5402,
+   "votes_R": 9546,
+   "votes_other": 502,
+   "total_votes": 15450,
+   "pct_D": 35.0,
+   "pct_R": 61.8,
+   "modes": {
+    "mail": {
+     "votes_D": 986,
+     "votes_R": 913,
+     "votes_other": 58
+    },
+    "early_in_person": {
+     "votes_D": 453,
+     "votes_R": 1611,
+     "votes_other": 52
+    },
+    "election_day": {
+     "votes_D": 3963,
+     "votes_R": 7022,
+     "votes_other": 392
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0015,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26071": {
+   "name": "Iron",
+   "raw_name": "Iron",
+   "fips": "26071",
+   "is_mappable": true,
+   "votes_D": 2404,
+   "votes_R": 4328,
+   "votes_other": 172,
+   "total_votes": 6904,
+   "pct_D": 34.8,
+   "pct_R": 62.7,
+   "modes": {
+    "total": {
+     "votes_D": 2404,
+     "votes_R": 4328,
+     "votes_other": 172
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26073": {
+   "name": "Isabella",
+   "raw_name": "Isabella",
+   "fips": "26073",
+   "is_mappable": true,
+   "votes_D": 13728,
+   "votes_R": 15569,
+   "votes_other": 1013,
+   "total_votes": 30310,
+   "pct_D": 45.3,
+   "pct_R": 51.4,
+   "modes": {
+    "mail": {
+     "votes_D": 4377,
+     "votes_R": 2140,
+     "votes_other": 158
+    },
+    "early_in_person": {
+     "votes_D": 2545,
+     "votes_R": 3325,
+     "votes_other": 138
+    },
+    "election_day": {
+     "votes_D": 6806,
+     "votes_R": 10104,
+     "votes_other": 717
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0021,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26075": {
+   "name": "Jackson",
+   "raw_name": "Jackson",
+   "fips": "26075",
+   "is_mappable": true,
+   "votes_D": 32200,
+   "votes_R": 47562,
+   "votes_other": 2643,
+   "total_votes": 82405,
+   "pct_D": 39.1,
+   "pct_R": 57.7,
+   "modes": {
+    "mail": {
+     "votes_D": 15593,
+     "votes_R": 12286,
+     "votes_other": 704
+    },
+    "early_in_person": {
+     "votes_D": 4819,
+     "votes_R": 11123,
+     "votes_other": 349
+    },
+    "election_day": {
+     "votes_D": 11788,
+     "votes_R": 24153,
+     "votes_other": 1590
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26077": {
+   "name": "Kalamazoo",
+   "raw_name": "Kalamazoo",
+   "fips": "26077",
+   "is_mappable": true,
+   "votes_D": 81996,
+   "votes_R": 57478,
+   "votes_other": 4687,
+   "total_votes": 144161,
+   "pct_D": 56.9,
+   "pct_R": 39.9,
+   "modes": {
+    "mail": {
+     "votes_D": 41181,
+     "votes_R": 18751,
+     "votes_other": 1358
+    },
+    "early_in_person": {
+     "votes_D": 13779,
+     "votes_R": 11089,
+     "votes_other": 630
+    },
+    "election_day": {
+     "votes_D": 27036,
+     "votes_R": 27638,
+     "votes_other": 2699
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0028,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26079": {
+   "name": "Kalkaska",
+   "raw_name": "Kalkaska",
+   "fips": "26079",
+   "is_mappable": true,
+   "votes_D": 3150,
+   "votes_R": 7757,
+   "votes_other": 408,
+   "total_votes": 11315,
+   "pct_D": 27.8,
+   "pct_R": 68.6,
+   "modes": {
+    "mail": {
+     "votes_D": 536,
+     "votes_R": 558,
+     "votes_other": 39
+    },
+    "early_in_person": {
+     "votes_D": 840,
+     "votes_R": 3304,
+     "votes_other": 107
+    },
+    "election_day": {
+     "votes_D": 1774,
+     "votes_R": 3895,
+     "votes_other": 262
+    }
+   },
+   "data_source": "Kalkaska County, MI",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26081": {
+   "name": "Kent",
+   "raw_name": "Kent",
+   "fips": "26081",
+   "is_mappable": true,
+   "votes_D": 187509,
+   "votes_R": 170388,
+   "votes_other": 10823,
+   "total_votes": 368720,
+   "pct_D": 50.9,
+   "pct_R": 46.2,
+   "modes": {
+    "mail": {
+     "votes_D": 85347,
+     "votes_R": 51991,
+     "votes_other": 2875
+    },
+    "early_in_person": {
+     "votes_D": 40159,
+     "votes_R": 53370,
+     "votes_other": 2027
+    },
+    "election_day": {
+     "votes_D": 62003,
+     "votes_R": 65027,
+     "votes_other": 5921
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0026,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26083": {
+   "name": "Keweenaw",
+   "raw_name": "Keweenaw",
+   "fips": "26083",
+   "is_mappable": true,
+   "votes_D": 665,
+   "votes_R": 882,
+   "votes_other": 38,
+   "total_votes": 1585,
+   "pct_D": 42.0,
+   "pct_R": 55.6,
+   "modes": {
+    "total": {
+     "votes_D": 665,
+     "votes_R": 882,
+     "votes_other": 38
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26085": {
+   "name": "Lake",
+   "raw_name": "Lake",
+   "fips": "26085",
+   "is_mappable": true,
+   "votes_D": 2250,
+   "votes_R": 4257,
+   "votes_other": 278,
+   "total_votes": 6785,
+   "pct_D": 33.2,
+   "pct_R": 62.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 282,
+     "votes_R": 751,
+     "votes_other": 20
+    },
+    "election_day_and_mail": {
+     "votes_D": 1968,
+     "votes_R": 3506,
+     "votes_other": 258
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0012,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "26087": {
+   "name": "Lapeer",
+   "raw_name": "Lapeer",
+   "fips": "26087",
+   "is_mappable": true,
+   "votes_D": 16651,
+   "votes_R": 36578,
+   "votes_other": 1426,
+   "total_votes": 54655,
+   "pct_D": 30.5,
+   "pct_R": 66.9,
+   "modes": {
+    "total": {
+     "votes_D": 16651,
+     "votes_R": 36578,
+     "votes_other": 1426
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26089": {
+   "name": "Leelanau",
+   "raw_name": "Leelanau",
+   "fips": "26089",
+   "is_mappable": true,
+   "votes_D": 9164,
+   "votes_R": 8102,
+   "votes_other": 299,
+   "total_votes": 17565,
+   "pct_D": 52.2,
+   "pct_R": 46.1,
+   "modes": {
+    "mail": {
+     "votes_D": 4352,
+     "votes_R": 2795,
+     "votes_other": 88
+    },
+    "early_in_person": {
+     "votes_D": 1271,
+     "votes_R": 1909,
+     "votes_other": 33
+    },
+    "election_day": {
+     "votes_D": 3541,
+     "votes_R": 3398,
+     "votes_other": 178
+    }
+   },
+   "data_source": "Leelanau County, MI",
+   "official_results": false,
+   "pct_off_official": 0.002,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26091": {
+   "name": "Lenawee",
+   "raw_name": "Lenawee",
+   "fips": "26091",
+   "is_mappable": true,
+   "votes_D": 19772,
+   "votes_R": 32385,
+   "votes_other": 1721,
+   "total_votes": 53878,
+   "pct_D": 36.7,
+   "pct_R": 60.1,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 2130,
+     "votes_R": 4670,
+     "votes_other": 139
+    },
+    "election_day": {
+     "votes_D": 8530,
+     "votes_R": 20106,
+     "votes_other": 1190
+    },
+    "mail": {
+     "votes_D": 9112,
+     "votes_R": 7609,
+     "votes_other": 392
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0014,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26093": {
+   "name": "Livingston",
+   "raw_name": "Livingston",
+   "fips": "26093",
+   "is_mappable": true,
+   "votes_D": 50533,
+   "votes_R": 78193,
+   "votes_other": 2526,
+   "total_votes": 131252,
+   "pct_D": 38.5,
+   "pct_R": 59.6,
+   "modes": {
+    "mail": {
+     "votes_D": 28114,
+     "votes_R": 24250,
+     "votes_other": 787
+    },
+    "early_in_person": {
+     "votes_D": 10980,
+     "votes_R": 28160,
+     "votes_other": 570
+    },
+    "election_day": {
+     "votes_D": 11439,
+     "votes_R": 25783,
+     "votes_other": 1169
+    }
+   },
+   "data_source": "Livingston County, MI",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26095": {
+   "name": "Luce",
+   "raw_name": "Luce",
+   "fips": "26095",
+   "is_mappable": true,
+   "votes_D": 771,
+   "votes_R": 2096,
+   "votes_other": 79,
+   "total_votes": 2946,
+   "pct_D": 26.2,
+   "pct_R": 71.1,
+   "modes": {
+    "total": {
+     "votes_D": 771,
+     "votes_R": 2096,
+     "votes_other": 79
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26097": {
+   "name": "Mackinac",
+   "raw_name": "Mackinac",
+   "fips": "26097",
+   "is_mappable": true,
+   "votes_D": 2613,
+   "votes_R": 4326,
+   "votes_other": 165,
+   "total_votes": 7104,
+   "pct_D": 36.8,
+   "pct_R": 60.9,
+   "modes": {
+    "total": {
+     "votes_D": 2613,
+     "votes_R": 4326,
+     "votes_other": 165
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26099": {
+   "name": "Macomb",
+   "raw_name": "Macomb",
+   "fips": "26099",
+   "is_mappable": true,
+   "votes_D": 217665,
+   "votes_R": 265883,
+   "votes_other": 16242,
+   "total_votes": 499790,
+   "pct_D": 43.6,
+   "pct_R": 53.2,
+   "modes": {
+    "mail": {
+     "votes_D": 107714,
+     "votes_R": 77899,
+     "votes_other": 4487
+    },
+    "early_in_person": {
+     "votes_D": 36727,
+     "votes_R": 79606,
+     "votes_other": 2729
+    },
+    "election_day": {
+     "votes_D": 73224,
+     "votes_R": 108378,
+     "votes_other": 9026
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0086,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26101": {
+   "name": "Manistee",
+   "raw_name": "Manistee",
+   "fips": "26101",
+   "is_mappable": true,
+   "votes_D": 6177,
+   "votes_R": 8491,
+   "votes_other": 479,
+   "total_votes": 15147,
+   "pct_D": 40.8,
+   "pct_R": 56.1,
+   "modes": {
+    "mail": {
+     "votes_D": 2094,
+     "votes_R": 1444,
+     "votes_other": 85
+    },
+    "early_in_person": {
+     "votes_D": 976,
+     "votes_R": 2088,
+     "votes_other": 79
+    },
+    "election_day": {
+     "votes_D": 3107,
+     "votes_R": 4959,
+     "votes_other": 315
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0017,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26103": {
+   "name": "Marquette",
+   "raw_name": "Marquette",
+   "fips": "26103",
+   "is_mappable": true,
+   "votes_D": 20548,
+   "votes_R": 16915,
+   "votes_other": 926,
+   "total_votes": 38389,
+   "pct_D": 53.5,
+   "pct_R": 44.1,
+   "modes": {
+    "total": {
+     "votes_D": 20548,
+     "votes_R": 16915,
+     "votes_other": 926
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26105": {
+   "name": "Mason",
+   "raw_name": "Mason",
+   "fips": "26105",
+   "is_mappable": true,
+   "votes_D": 6739,
+   "votes_R": 10613,
+   "votes_other": 505,
+   "total_votes": 17857,
+   "pct_D": 37.7,
+   "pct_R": 59.4,
+   "modes": {
+    "total": {
+     "votes_D": 6739,
+     "votes_R": 10613,
+     "votes_other": 505
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26107": {
+   "name": "Mecosta",
+   "raw_name": "Mecosta",
+   "fips": "26107",
+   "is_mappable": true,
+   "votes_D": 7462,
+   "votes_R": 13950,
+   "votes_other": 780,
+   "total_votes": 22192,
+   "pct_D": 33.6,
+   "pct_R": 62.9,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 1196,
+     "votes_R": 3189,
+     "votes_other": 85
+    },
+    "election_day": {
+     "votes_D": 4173,
+     "votes_R": 8578,
+     "votes_other": 568
+    },
+    "mail": {
+     "votes_D": 2093,
+     "votes_R": 2183,
+     "votes_other": 127
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0014,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26109": {
+   "name": "Menominee",
+   "raw_name": "Menominee",
+   "fips": "26109",
+   "is_mappable": true,
+   "votes_D": 4041,
+   "votes_R": 8332,
+   "votes_other": 330,
+   "total_votes": 12703,
+   "pct_D": 31.8,
+   "pct_R": 65.6,
+   "modes": {
+    "total": {
+     "votes_D": 4041,
+     "votes_R": 8332,
+     "votes_other": 330
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26111": {
+   "name": "Midland",
+   "raw_name": "Midland",
+   "fips": "26111",
+   "is_mappable": true,
+   "votes_D": 20666,
+   "votes_R": 27605,
+   "votes_other": 1394,
+   "total_votes": 49665,
+   "pct_D": 41.6,
+   "pct_R": 55.6,
+   "modes": {
+    "mail": {
+     "votes_D": 8023,
+     "votes_R": 4762,
+     "votes_other": 237
+    },
+    "early_in_person": {
+     "votes_D": 3488,
+     "votes_R": 5978,
+     "votes_other": 165
+    },
+    "election_day": {
+     "votes_D": 9155,
+     "votes_R": 16865,
+     "votes_other": 992
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0016,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26113": {
+   "name": "Missaukee",
+   "raw_name": "Missaukee",
+   "fips": "26113",
+   "is_mappable": true,
+   "votes_D": 1934,
+   "votes_R": 6828,
+   "votes_other": 256,
+   "total_votes": 9018,
+   "pct_D": 21.4,
+   "pct_R": 75.7,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 266,
+     "votes_R": 1347,
+     "votes_other": 22
+    },
+    "election_day_and_mail": {
+     "votes_D": 1668,
+     "votes_R": 5481,
+     "votes_other": 234
+    }
+   },
+   "data_source": "Missaukee County, MI",
+   "official_results": true,
+   "pct_off_official": 0.0046,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "26115": {
+   "name": "Monroe",
+   "raw_name": "Monroe",
+   "fips": "26115",
+   "is_mappable": true,
+   "votes_D": 32412,
+   "votes_R": 54079,
+   "votes_other": 2624,
+   "total_votes": 89115,
+   "pct_D": 36.4,
+   "pct_R": 60.7,
+   "modes": {
+    "mail": {
+     "votes_D": 15014,
+     "votes_R": 12960,
+     "votes_other": 599
+    },
+    "early_in_person": {
+     "votes_D": 6312,
+     "votes_R": 17548,
+     "votes_other": 517
+    },
+    "election_day": {
+     "votes_D": 11086,
+     "votes_R": 23571,
+     "votes_other": 1508
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0015,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26117": {
+   "name": "Montcalm",
+   "raw_name": "Montcalm",
+   "fips": "26117",
+   "is_mappable": true,
+   "votes_D": 10265,
+   "votes_R": 22942,
+   "votes_other": 1113,
+   "total_votes": 34320,
+   "pct_D": 29.9,
+   "pct_R": 66.8,
+   "modes": {
+    "mail": {
+     "votes_D": 710,
+     "votes_R": 1016,
+     "votes_other": 55
+    },
+    "early_in_person": {
+     "votes_D": 1119,
+     "votes_R": 4065,
+     "votes_other": 101
+    },
+    "election_day": {
+     "votes_D": 8436,
+     "votes_R": 17861,
+     "votes_other": 957
+    }
+   },
+   "data_source": "Montcalm County, MI",
+   "official_results": false,
+   "pct_off_official": 0.0005,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26119": {
+   "name": "Montmorency",
+   "raw_name": "Montmorency",
+   "fips": "26119",
+   "is_mappable": true,
+   "votes_D": 1654,
+   "votes_R": 4455,
+   "votes_other": 167,
+   "total_votes": 6276,
+   "pct_D": 26.4,
+   "pct_R": 71.0,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 215,
+     "votes_R": 923,
+     "votes_other": 16
+    },
+    "election_day": {
+     "votes_D": 1120,
+     "votes_R": 3119,
+     "votes_other": 134
+    },
+    "mail": {
+     "votes_D": 319,
+     "votes_R": 413,
+     "votes_other": 17
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0016,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26121": {
+   "name": "Muskegon",
+   "raw_name": "Muskegon",
+   "fips": "26121",
+   "is_mappable": true,
+   "votes_D": 45182,
+   "votes_R": 45231,
+   "votes_other": 3025,
+   "total_votes": 93438,
+   "pct_D": 48.4,
+   "pct_R": 48.4,
+   "modes": {
+    "mail": {
+     "votes_D": 20550,
+     "votes_R": 11408,
+     "votes_other": 769
+    },
+    "early_in_person": {
+     "votes_D": 5650,
+     "votes_R": 8191,
+     "votes_other": 338
+    },
+    "election_day": {
+     "votes_D": 18982,
+     "votes_R": 25632,
+     "votes_other": 1918
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26123": {
+   "name": "Newaygo",
+   "raw_name": "Newaygo",
+   "fips": "26123",
+   "is_mappable": true,
+   "votes_D": 8036,
+   "votes_R": 19857,
+   "votes_other": 879,
+   "total_votes": 28772,
+   "pct_D": 27.9,
+   "pct_R": 69.0,
+   "modes": {
+    "mail": {
+     "votes_D": 345,
+     "votes_R": 405,
+     "votes_other": 14
+    },
+    "early_in_person": {
+     "votes_D": 941,
+     "votes_R": 3656,
+     "votes_other": 69
+    },
+    "election_day": {
+     "votes_D": 6750,
+     "votes_R": 15796,
+     "votes_other": 796
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0026,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26125": {
+   "name": "Oakland",
+   "raw_name": "Oakland",
+   "fips": "26125",
+   "is_mappable": true,
+   "votes_D": 418749,
+   "votes_R": 325903,
+   "votes_other": 18802,
+   "total_votes": 763454,
+   "pct_D": 54.8,
+   "pct_R": 42.7,
+   "modes": {
+    "mail": {
+     "votes_D": 228285,
+     "votes_R": 113018,
+     "votes_other": 6089
+    },
+    "early_in_person": {
+     "votes_D": 68567,
+     "votes_R": 80219,
+     "votes_other": 2767
+    },
+    "election_day": {
+     "votes_D": 121897,
+     "votes_R": 132666,
+     "votes_other": 9946
+    }
+   },
+   "data_source": "Oakland County, MI",
+   "official_results": true,
+   "pct_off_official": 0.0002,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26127": {
+   "name": "Oceana",
+   "raw_name": "Oceana",
+   "fips": "26127",
+   "is_mappable": true,
+   "votes_D": 5066,
+   "votes_R": 9168,
+   "votes_other": 419,
+   "total_votes": 14653,
+   "pct_D": 34.6,
+   "pct_R": 62.6,
+   "modes": {
+    "total": {
+     "votes_D": 5066,
+     "votes_R": 9168,
+     "votes_other": 419
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26129": {
+   "name": "Ogemaw",
+   "raw_name": "Ogemaw",
+   "fips": "26129",
+   "is_mappable": true,
+   "votes_D": 3684,
+   "votes_R": 8312,
+   "votes_other": 315,
+   "total_votes": 12311,
+   "pct_D": 29.9,
+   "pct_R": 67.5,
+   "modes": {
+    "total": {
+     "votes_D": 3684,
+     "votes_R": 8312,
+     "votes_other": 315
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26131": {
+   "name": "Ontonagon",
+   "raw_name": "Ontonagon",
+   "fips": "26131",
+   "is_mappable": true,
+   "votes_D": 1279,
+   "votes_R": 2387,
+   "votes_other": 108,
+   "total_votes": 3774,
+   "pct_D": 33.9,
+   "pct_R": 63.2,
+   "modes": {
+    "total": {
+     "votes_D": 1279,
+     "votes_R": 2387,
+     "votes_other": 108
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26133": {
+   "name": "Osceola",
+   "raw_name": "Osceola",
+   "fips": "26133",
+   "is_mappable": true,
+   "votes_D": 3281,
+   "votes_R": 9291,
+   "votes_other": 446,
+   "total_votes": 13018,
+   "pct_D": 25.2,
+   "pct_R": 71.4,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 474,
+     "votes_R": 1818,
+     "votes_other": 52
+    },
+    "election_day_and_mail": {
+     "votes_D": 2807,
+     "votes_R": 7473,
+     "votes_other": 394
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0014,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "26135": {
+   "name": "Oscoda",
+   "raw_name": "Oscoda",
+   "fips": "26135",
+   "is_mappable": true,
+   "votes_D": 1388,
+   "votes_R": 3500,
+   "votes_other": 201,
+   "total_votes": 5089,
+   "pct_D": 27.3,
+   "pct_R": 68.8,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 234,
+     "votes_R": 869,
+     "votes_other": 37
+    },
+    "election_day_and_mail": {
+     "votes_D": 1154,
+     "votes_R": 2631,
+     "votes_other": 164
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.001,
+   "completeness": "C2",
+   "notes": ""
+  },
+  "26137": {
+   "name": "Otsego",
+   "raw_name": "Otsego",
+   "fips": "26137",
+   "is_mappable": true,
+   "votes_D": 4978,
+   "votes_R": 10323,
+   "votes_other": 468,
+   "total_votes": 15769,
+   "pct_D": 31.6,
+   "pct_R": 65.5,
+   "modes": {
+    "early_in_person": {
+     "votes_D": 870,
+     "votes_R": 2742,
+     "votes_other": 64
+    },
+    "election_day": {
+     "votes_D": 2484,
+     "votes_R": 5928,
+     "votes_other": 317
+    },
+    "mail": {
+     "votes_D": 1624,
+     "votes_R": 1653,
+     "votes_other": 87
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0018,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26139": {
+   "name": "Ottawa",
+   "raw_name": "Ottawa",
+   "fips": "26139",
+   "is_mappable": true,
+   "votes_D": 67389,
+   "votes_R": 105708,
+   "votes_other": 3995,
+   "total_votes": 177092,
+   "pct_D": 38.1,
+   "pct_R": 59.7,
+   "modes": {
+    "mail": {
+     "votes_D": 34452,
+     "votes_R": 34689,
+     "votes_other": 1228
+    },
+    "early_in_person": {
+     "votes_D": 9585,
+     "votes_R": 22202,
+     "votes_other": 436
+    },
+    "election_day": {
+     "votes_D": 23352,
+     "votes_R": 48817,
+     "votes_other": 2331
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26141": {
+   "name": "Presque Isle",
+   "raw_name": "Presque Isle",
+   "fips": "26141",
+   "is_mappable": true,
+   "votes_D": 2992,
+   "votes_R": 5391,
+   "votes_other": 223,
+   "total_votes": 8606,
+   "pct_D": 34.8,
+   "pct_R": 62.6,
+   "modes": {
+    "total": {
+     "votes_D": 2992,
+     "votes_R": 5391,
+     "votes_other": 223
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26143": {
+   "name": "Roscommon",
+   "raw_name": "Roscommon",
+   "fips": "26143",
+   "is_mappable": true,
+   "votes_D": 5254,
+   "votes_R": 10115,
+   "votes_other": 472,
+   "total_votes": 15841,
+   "pct_D": 33.2,
+   "pct_R": 63.9,
+   "modes": {
+    "total": {
+     "votes_D": 5254,
+     "votes_R": 10115,
+     "votes_other": 472
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26145": {
+   "name": "Saginaw",
+   "raw_name": "Saginaw",
+   "fips": "26145",
+   "is_mappable": true,
+   "votes_D": 49668,
+   "votes_R": 49659,
+   "votes_other": 2779,
+   "total_votes": 102106,
+   "pct_D": 48.6,
+   "pct_R": 48.6,
+   "modes": {
+    "mail": {
+     "votes_D": 21683,
+     "votes_R": 12325,
+     "votes_other": 619
+    },
+    "early_in_person": {
+     "votes_D": 4328,
+     "votes_R": 4950,
+     "votes_other": 173
+    },
+    "election_day": {
+     "votes_D": 23657,
+     "votes_R": 32384,
+     "votes_other": 1987
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0016,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26151": {
+   "name": "Sanilac",
+   "raw_name": "Sanilac",
+   "fips": "26151",
+   "is_mappable": true,
+   "votes_D": 6056,
+   "votes_R": 16306,
+   "votes_other": 645,
+   "total_votes": 23007,
+   "pct_D": 26.3,
+   "pct_R": 70.9,
+   "modes": {
+    "total": {
+     "votes_D": 6056,
+     "votes_R": 16306,
+     "votes_other": 645
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26153": {
+   "name": "Schoolcraft",
+   "raw_name": "Schoolcraft",
+   "fips": "26153",
+   "is_mappable": true,
+   "votes_D": 1629,
+   "votes_R": 3032,
+   "votes_other": 133,
+   "total_votes": 4794,
+   "pct_D": 34.0,
+   "pct_R": 63.2,
+   "modes": {
+    "total": {
+     "votes_D": 1629,
+     "votes_R": 3032,
+     "votes_other": 133
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "26155": {
+   "name": "Shiawassee",
+   "raw_name": "Shiawassee",
+   "fips": "26155",
+   "is_mappable": true,
+   "votes_D": 15476,
+   "votes_R": 23505,
+   "votes_other": 1184,
+   "total_votes": 40165,
+   "pct_D": 38.5,
+   "pct_R": 58.5,
+   "modes": {
+    "mail": {
+     "votes_D": 6783,
+     "votes_R": 4700,
+     "votes_other": 267
+    },
+    "early_in_person": {
+     "votes_D": 1936,
+     "votes_R": 4909,
+     "votes_other": 149
+    },
+    "election_day": {
+     "votes_D": 6757,
+     "votes_R": 13896,
+     "votes_other": 768
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0016,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26147": {
+   "name": "St. Clair",
+   "raw_name": "St. Clair",
+   "fips": "26147",
+   "is_mappable": true,
+   "votes_D": 31509,
+   "votes_R": 59996,
+   "votes_other": 2918,
+   "total_votes": 94423,
+   "pct_D": 33.4,
+   "pct_R": 63.5,
+   "modes": {
+    "mail": {
+     "votes_D": 14948,
+     "votes_R": 14150,
+     "votes_other": 679
+    },
+    "early_in_person": {
+     "votes_D": 6294,
+     "votes_R": 20252,
+     "votes_other": 588
+    },
+    "election_day": {
+     "votes_D": 10267,
+     "votes_R": 25594,
+     "votes_other": 1651
+    }
+   },
+   "data_source": "St. Clair County, MI",
+   "official_results": false,
+   "pct_off_official": 0.0013,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26149": {
+   "name": "St. Joseph",
+   "raw_name": "St. Joseph",
+   "fips": "26149",
+   "is_mappable": true,
+   "votes_D": 9195,
+   "votes_R": 18545,
+   "votes_other": 1081,
+   "total_votes": 28821,
+   "pct_D": 31.9,
+   "pct_R": 64.3,
+   "modes": {
+    "mail": {
+     "votes_D": 2211,
+     "votes_R": 1780,
+     "votes_other": 137
+    },
+    "early_in_person": {
+     "votes_D": 1256,
+     "votes_R": 3998,
+     "votes_other": 164
+    },
+    "election_day": {
+     "votes_D": 5728,
+     "votes_R": 12767,
+     "votes_other": 780
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": true,
+   "pct_off_official": 0.0067,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26157": {
+   "name": "Tuscola",
+   "raw_name": "Tuscola",
+   "fips": "26157",
+   "is_mappable": true,
+   "votes_D": 8754,
+   "votes_R": 20503,
+   "votes_other": 883,
+   "total_votes": 30140,
+   "pct_D": 29.0,
+   "pct_R": 68.0,
+   "modes": {
+    "mail": {
+     "votes_D": 1199,
+     "votes_R": 1318,
+     "votes_other": 55
+    },
+    "early_in_person": {
+     "votes_D": 1627,
+     "votes_R": 5803,
+     "votes_other": 155
+    },
+    "election_day": {
+     "votes_D": 5928,
+     "votes_R": 13382,
+     "votes_other": 673
+    }
+   },
+   "data_source": "Tuscola County, MI",
+   "official_results": false,
+   "pct_off_official": 0.0056,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26159": {
+   "name": "Van Buren",
+   "raw_name": "Van Buren",
+   "fips": "26159",
+   "is_mappable": true,
+   "votes_D": 16788,
+   "votes_R": 22566,
+   "votes_other": 1287,
+   "total_votes": 40641,
+   "pct_D": 41.3,
+   "pct_R": 55.5,
+   "modes": {
+    "mail": {
+     "votes_D": 6679,
+     "votes_R": 4482,
+     "votes_other": 272
+    },
+    "early_in_person": {
+     "votes_D": 1919,
+     "votes_R": 4401,
+     "votes_other": 123
+    },
+    "election_day": {
+     "votes_D": 8190,
+     "votes_R": 13683,
+     "votes_other": 892
+    }
+   },
+   "data_source": "OpenElections",
+   "official_results": false,
+   "pct_off_official": 0.0013,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26161": {
+   "name": "Washtenaw",
+   "raw_name": "Washtenaw",
+   "fips": "26161",
+   "is_mappable": true,
+   "votes_D": 154214,
+   "votes_R": 58207,
+   "votes_other": 6648,
+   "total_votes": 219069,
+   "pct_D": 70.4,
+   "pct_R": 26.6,
+   "modes": {
+    "mail": {
+     "votes_D": 78576,
+     "votes_R": 19792,
+     "votes_other": 2098
+    },
+    "early_in_person": {
+     "votes_D": 35497,
+     "votes_R": 13881,
+     "votes_other": 1249
+    },
+    "election_day": {
+     "votes_D": 40141,
+     "votes_R": 24534,
+     "votes_other": 3301
+    }
+   },
+   "data_source": "Washtenaw County, MI",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26163": {
+   "name": "Wayne",
+   "raw_name": "Wayne",
+   "fips": "26163",
+   "is_mappable": true,
+   "votes_D": 532029,
+   "votes_R": 267761,
+   "votes_other": 42142,
+   "total_votes": 841932,
+   "pct_D": 63.2,
+   "pct_R": 31.8,
+   "modes": {
+    "mail": {
+     "votes_D": 249046,
+     "votes_R": 82527,
+     "votes_other": 9983
+    },
+    "early_in_person": {
+     "votes_D": 95301,
+     "votes_R": 69675,
+     "votes_other": 6330
+    },
+    "election_day": {
+     "votes_D": 187682,
+     "votes_R": 115559,
+     "votes_other": 25829
+    }
+   },
+   "data_source": "Wayne County, MI",
+   "official_results": true,
+   "pct_off_official": 0.0045,
+   "completeness": "C3",
+   "notes": ""
+  },
+  "26165": {
+   "name": "Wexford",
+   "raw_name": "Wexford",
+   "fips": "26165",
+   "is_mappable": true,
+   "votes_D": 6063,
+   "votes_R": 12457,
+   "votes_other": 694,
+   "total_votes": 19214,
+   "pct_D": 31.6,
+   "pct_R": 64.8,
+   "modes": {
+    "total": {
+     "votes_D": 6063,
+     "votes_R": 12457,
+     "votes_other": 694
+    }
+   },
+   "data_source": "MEDSL",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  }
+ }
+}

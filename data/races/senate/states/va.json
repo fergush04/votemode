@@ -1,0 +1,5894 @@
+{
+ "race": "senate",
+ "race_label": "Senate",
+ "race_type": "senate",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Timothy M. Kaine",
+ "candidate_R": "Hung Cao",
+ "state": "Virginia",
+ "state_abbr": "VA",
+ "unit_type": "county",
+ "avg_completeness": "C5",
+ "completeness_breakdown": {
+  "C5": 133
+ },
+ "votes_D": 2417115,
+ "votes_R": 2019911,
+ "votes_other": 8509,
+ "total_votes": 4445535,
+ "pct_D": 54.4,
+ "pct_R": 45.4,
+ "unit_count": 133,
+ "state_profile": {
+  "voting_summary": "Virginia offers 45 days of no-excuse early voting (41% of the 2024 vote) and no-excuse mail (10%), with mail postmarked by election day accepted for three days. Polls close at 7 p.m. Eastern; localities release early votes first, election day precincts report through the evening, and late mail plus provisionals are added over the following days. Mail ran D+47 and late-counted mail D+49 against R+6 on election day, so Virginia's margins drift steadily bluer from election night through the end of the week.",
+  "reporting_notes": "",
+  "tags": [
+   "No-excuse early voting",
+   "Postmark +3 days",
+   "Late blue shift"
+  ],
+  "mode_split": {
+   "election_day": 45.6,
+   "early_in_person": 40.8,
+   "mail": 10.0,
+   "provisional": 2.5,
+   "late_mail": 1.1
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "51001": {
+   "name": "Accomack",
+   "raw_name": "Accomack County",
+   "fips": "51001",
+   "is_mappable": true,
+   "votes_D": 7672,
+   "votes_R": 9339,
+   "votes_other": 26,
+   "total_votes": 17037,
+   "pct_D": 45.0,
+   "pct_R": 54.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 3181,
+     "votes_R": 5896,
+     "votes_other": 19
+    },
+    "early_in_person": {
+     "votes_D": 3515,
+     "votes_R": 2879,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 820,
+     "votes_R": 399,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 114,
+     "votes_R": 137,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 42,
+     "votes_R": 28,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51003": {
+   "name": "Albemarle",
+   "raw_name": "Albemarle County",
+   "fips": "51003",
+   "is_mappable": true,
+   "votes_D": 43968,
+   "votes_R": 21912,
+   "votes_other": 76,
+   "total_votes": 65956,
+   "pct_D": 66.7,
+   "pct_R": 33.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 17719,
+     "votes_R": 11947,
+     "votes_other": 43
+    },
+    "early_in_person": {
+     "votes_D": 18173,
+     "votes_R": 7935,
+     "votes_other": 20
+    },
+    "mail": {
+     "votes_D": 6295,
+     "votes_R": 1265,
+     "votes_other": 9
+    },
+    "provisional": {
+     "votes_D": 1323,
+     "votes_R": 623,
+     "votes_other": 3
+    },
+    "late_mail": {
+     "votes_D": 458,
+     "votes_R": 142,
+     "votes_other": 1
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51510": {
+   "name": "Alexandria",
+   "raw_name": "Alexandria City",
+   "fips": "51510",
+   "is_mappable": true,
+   "votes_D": 62597,
+   "votes_R": 17175,
+   "votes_other": 222,
+   "total_votes": 79994,
+   "pct_D": 78.3,
+   "pct_R": 21.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 21146,
+     "votes_R": 7481,
+     "votes_other": 112
+    },
+    "early_in_person": {
+     "votes_D": 28770,
+     "votes_R": 7207,
+     "votes_other": 66
+    },
+    "mail": {
+     "votes_D": 8809,
+     "votes_R": 1505,
+     "votes_other": 20
+    },
+    "provisional": {
+     "votes_D": 2071,
+     "votes_R": 699,
+     "votes_other": 14
+    },
+    "late_mail": {
+     "votes_D": 1801,
+     "votes_R": 283,
+     "votes_other": 10
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51005": {
+   "name": "Alleghany",
+   "raw_name": "Alleghany County",
+   "fips": "51005",
+   "is_mappable": true,
+   "votes_D": 2786,
+   "votes_R": 5358,
+   "votes_other": 13,
+   "total_votes": 8157,
+   "pct_D": 34.2,
+   "pct_R": 65.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1729,
+     "votes_R": 3691,
+     "votes_other": 11
+    },
+    "early_in_person": {
+     "votes_D": 730,
+     "votes_R": 1429,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 257,
+     "votes_R": 154,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 56,
+     "votes_R": 80,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 14,
+     "votes_R": 4,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51007": {
+   "name": "Amelia",
+   "raw_name": "Amelia County",
+   "fips": "51007",
+   "is_mappable": true,
+   "votes_D": 2314,
+   "votes_R": 5600,
+   "votes_other": 6,
+   "total_votes": 7920,
+   "pct_D": 29.2,
+   "pct_R": 70.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1038,
+     "votes_R": 2857,
+     "votes_other": 5
+    },
+    "early_in_person": {
+     "votes_D": 1001,
+     "votes_R": 2510,
+     "votes_other": 1
+    },
+    "mail": {
+     "votes_D": 222,
+     "votes_R": 155,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 42,
+     "votes_R": 69,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 11,
+     "votes_R": 9,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51009": {
+   "name": "Amherst",
+   "raw_name": "Amherst County",
+   "fips": "51009",
+   "is_mappable": true,
+   "votes_D": 5790,
+   "votes_R": 11414,
+   "votes_other": 20,
+   "total_votes": 17224,
+   "pct_D": 33.6,
+   "pct_R": 66.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 2890,
+     "votes_R": 6534,
+     "votes_other": 12
+    },
+    "early_in_person": {
+     "votes_D": 2077,
+     "votes_R": 4292,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 736,
+     "votes_R": 448,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 65,
+     "votes_R": 130,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 22,
+     "votes_R": 10,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51011": {
+   "name": "Appomattox",
+   "raw_name": "Appomattox County",
+   "fips": "51011",
+   "is_mappable": true,
+   "votes_D": 2562,
+   "votes_R": 6923,
+   "votes_other": 10,
+   "total_votes": 9495,
+   "pct_D": 27.0,
+   "pct_R": 72.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 1248,
+     "votes_R": 3779,
+     "votes_other": 7
+    },
+    "early_in_person": {
+     "votes_D": 1046,
+     "votes_R": 2883,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 231,
+     "votes_R": 166,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 31,
+     "votes_R": 92,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 6,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51013": {
+   "name": "Arlington",
+   "raw_name": "Arlington County",
+   "fips": "51013",
+   "is_mappable": true,
+   "votes_D": 100725,
+   "votes_R": 27269,
+   "votes_other": 365,
+   "total_votes": 128359,
+   "pct_D": 78.5,
+   "pct_R": 21.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 33648,
+     "votes_R": 12592,
+     "votes_other": 201
+    },
+    "early_in_person": {
+     "votes_D": 46548,
+     "votes_R": 10796,
+     "votes_other": 88
+    },
+    "mail": {
+     "votes_D": 15222,
+     "votes_R": 2207,
+     "votes_other": 41
+    },
+    "provisional": {
+     "votes_D": 3219,
+     "votes_R": 1267,
+     "votes_other": 29
+    },
+    "late_mail": {
+     "votes_D": 2088,
+     "votes_R": 407,
+     "votes_other": 6
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51015": {
+   "name": "Augusta",
+   "raw_name": "Augusta County",
+   "fips": "51015",
+   "is_mappable": true,
+   "votes_D": 12517,
+   "votes_R": 31605,
+   "votes_other": 61,
+   "total_votes": 44183,
+   "pct_D": 28.3,
+   "pct_R": 71.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 5622,
+     "votes_R": 17915,
+     "votes_other": 38
+    },
+    "early_in_person": {
+     "votes_D": 5090,
+     "votes_R": 12013,
+     "votes_other": 17
+    },
+    "mail": {
+     "votes_D": 1511,
+     "votes_R": 1057,
+     "votes_other": 4
+    },
+    "provisional": {
+     "votes_D": 233,
+     "votes_R": 569,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 61,
+     "votes_R": 51,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51017": {
+   "name": "Bath",
+   "raw_name": "Bath County",
+   "fips": "51017",
+   "is_mappable": true,
+   "votes_D": 684,
+   "votes_R": 1881,
+   "votes_other": 1,
+   "total_votes": 2566,
+   "pct_D": 26.7,
+   "pct_R": 73.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 400,
+     "votes_R": 1333,
+     "votes_other": 1
+    },
+    "early_in_person": {
+     "votes_D": 216,
+     "votes_R": 433,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 53,
+     "votes_R": 74,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 13,
+     "votes_R": 38,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 2,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51019": {
+   "name": "Bedford",
+   "raw_name": "Bedford County",
+   "fips": "51019",
+   "is_mappable": true,
+   "votes_D": 13068,
+   "votes_R": 37536,
+   "votes_other": 52,
+   "total_votes": 50656,
+   "pct_D": 25.8,
+   "pct_R": 74.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 5598,
+     "votes_R": 20316,
+     "votes_other": 35
+    },
+    "early_in_person": {
+     "votes_D": 5210,
+     "votes_R": 15033,
+     "votes_other": 14
+    },
+    "mail": {
+     "votes_D": 2007,
+     "votes_R": 1465,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 180,
+     "votes_R": 654,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 73,
+     "votes_R": 68,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51021": {
+   "name": "Bland",
+   "raw_name": "Bland County",
+   "fips": "51021",
+   "is_mappable": true,
+   "votes_D": 709,
+   "votes_R": 2707,
+   "votes_other": 2,
+   "total_votes": 3418,
+   "pct_D": 20.7,
+   "pct_R": 79.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 368,
+     "votes_R": 1671,
+     "votes_other": 1
+    },
+    "early_in_person": {
+     "votes_D": 240,
+     "votes_R": 947,
+     "votes_other": 1
+    },
+    "mail": {
+     "votes_D": 92,
+     "votes_R": 70,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 8,
+     "votes_R": 17,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 1,
+     "votes_R": 2,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51023": {
+   "name": "Botetourt",
+   "raw_name": "Botetourt County",
+   "fips": "51023",
+   "is_mappable": true,
+   "votes_D": 6608,
+   "votes_R": 14950,
+   "votes_other": 24,
+   "total_votes": 21582,
+   "pct_D": 30.6,
+   "pct_R": 69.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 2784,
+     "votes_R": 7937,
+     "votes_other": 11
+    },
+    "early_in_person": {
+     "votes_D": 2912,
+     "votes_R": 6239,
+     "votes_other": 8
+    },
+    "mail": {
+     "votes_D": 808,
+     "votes_R": 581,
+     "votes_other": 5
+    },
+    "provisional": {
+     "votes_D": 84,
+     "votes_R": 176,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 20,
+     "votes_R": 17,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51520": {
+   "name": "Bristol",
+   "raw_name": "Bristol City",
+   "fips": "51520",
+   "is_mappable": true,
+   "votes_D": 2629,
+   "votes_R": 4699,
+   "votes_other": 4,
+   "total_votes": 7332,
+   "pct_D": 35.9,
+   "pct_R": 64.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 1073,
+     "votes_R": 2261,
+     "votes_other": 1
+    },
+    "early_in_person": {
+     "votes_D": 1098,
+     "votes_R": 2120,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 390,
+     "votes_R": 216,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 51,
+     "votes_R": 85,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 17,
+     "votes_R": 17,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51025": {
+   "name": "Brunswick",
+   "raw_name": "Brunswick County",
+   "fips": "51025",
+   "is_mappable": true,
+   "votes_D": 4324,
+   "votes_R": 3372,
+   "votes_other": 6,
+   "total_votes": 7702,
+   "pct_D": 56.1,
+   "pct_R": 43.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 2064,
+     "votes_R": 2027,
+     "votes_other": 3
+    },
+    "early_in_person": {
+     "votes_D": 1770,
+     "votes_R": 1139,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 424,
+     "votes_R": 161,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 63,
+     "votes_R": 43,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 3,
+     "votes_R": 2,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51027": {
+   "name": "Buchanan",
+   "raw_name": "Buchanan County",
+   "fips": "51027",
+   "is_mappable": true,
+   "votes_D": 2331,
+   "votes_R": 6686,
+   "votes_other": 16,
+   "total_votes": 9033,
+   "pct_D": 25.8,
+   "pct_R": 74.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 1510,
+     "votes_R": 4702,
+     "votes_other": 11
+    },
+    "early_in_person": {
+     "votes_D": 562,
+     "votes_R": 1646,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 210,
+     "votes_R": 218,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 45,
+     "votes_R": 116,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 4,
+     "votes_R": 4,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51029": {
+   "name": "Buckingham",
+   "raw_name": "Buckingham County",
+   "fips": "51029",
+   "is_mappable": true,
+   "votes_D": 3242,
+   "votes_R": 4581,
+   "votes_other": 9,
+   "total_votes": 7832,
+   "pct_D": 41.4,
+   "pct_R": 58.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 1446,
+     "votes_R": 2679,
+     "votes_other": 6
+    },
+    "early_in_person": {
+     "votes_D": 1389,
+     "votes_R": 1709,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 369,
+     "votes_R": 132,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 27,
+     "votes_R": 52,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 11,
+     "votes_R": 9,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51530": {
+   "name": "Buena Vista",
+   "raw_name": "Buena Vista City",
+   "fips": "51530",
+   "is_mappable": true,
+   "votes_D": 935,
+   "votes_R": 1881,
+   "votes_other": 3,
+   "total_votes": 2819,
+   "pct_D": 33.2,
+   "pct_R": 66.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 316,
+     "votes_R": 798,
+     "votes_other": 3
+    },
+    "early_in_person": {
+     "votes_D": 449,
+     "votes_R": 921,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 122,
+     "votes_R": 81,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 46,
+     "votes_R": 78,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 2,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51031": {
+   "name": "Campbell",
+   "raw_name": "Campbell County",
+   "fips": "51031",
+   "is_mappable": true,
+   "votes_D": 8526,
+   "votes_R": 22449,
+   "votes_other": 39,
+   "total_votes": 31014,
+   "pct_D": 27.5,
+   "pct_R": 72.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 4100,
+     "votes_R": 12224,
+     "votes_other": 31
+    },
+    "early_in_person": {
+     "votes_D": 3139,
+     "votes_R": 8828,
+     "votes_other": 7
+    },
+    "mail": {
+     "votes_D": 1064,
+     "votes_R": 834,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 169,
+     "votes_R": 520,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 54,
+     "votes_R": 43,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51033": {
+   "name": "Caroline",
+   "raw_name": "Caroline County",
+   "fips": "51033",
+   "is_mappable": true,
+   "votes_D": 8249,
+   "votes_R": 9218,
+   "votes_other": 18,
+   "total_votes": 17485,
+   "pct_D": 47.2,
+   "pct_R": 52.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 4132,
+     "votes_R": 5496,
+     "votes_other": 13
+    },
+    "early_in_person": {
+     "votes_D": 2953,
+     "votes_R": 3154,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 954,
+     "votes_R": 351,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 161,
+     "votes_R": 195,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 49,
+     "votes_R": 22,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51035": {
+   "name": "Carroll",
+   "raw_name": "Carroll County",
+   "fips": "51035",
+   "is_mappable": true,
+   "votes_D": 3637,
+   "votes_R": 12318,
+   "votes_other": 14,
+   "total_votes": 15969,
+   "pct_D": 22.8,
+   "pct_R": 77.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 1799,
+     "votes_R": 7633,
+     "votes_other": 8
+    },
+    "early_in_person": {
+     "votes_D": 1250,
+     "votes_R": 3984,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 514,
+     "votes_R": 481,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 65,
+     "votes_R": 213,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 9,
+     "votes_R": 7,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51036": {
+   "name": "Charles City",
+   "raw_name": "Charles City County",
+   "fips": "51036",
+   "is_mappable": true,
+   "votes_D": 2397,
+   "votes_R": 1802,
+   "votes_other": 4,
+   "total_votes": 4203,
+   "pct_D": 57.0,
+   "pct_R": 42.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 801,
+     "votes_R": 908,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 1232,
+     "votes_R": 779,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 309,
+     "votes_R": 82,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 41,
+     "votes_R": 23,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 14,
+     "votes_R": 10,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51037": {
+   "name": "Charlotte",
+   "raw_name": "Charlotte County",
+   "fips": "51037",
+   "is_mappable": true,
+   "votes_D": 2148,
+   "votes_R": 3815,
+   "votes_other": 3,
+   "total_votes": 5966,
+   "pct_D": 36.0,
+   "pct_R": 63.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 1028,
+     "votes_R": 2364,
+     "votes_other": 3
+    },
+    "early_in_person": {
+     "votes_D": 877,
+     "votes_R": 1295,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 191,
+     "votes_R": 108,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 45,
+     "votes_R": 46,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 7,
+     "votes_R": 2,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51540": {
+   "name": "Charlottesville",
+   "raw_name": "Charlottesville City",
+   "fips": "51540",
+   "is_mappable": true,
+   "votes_D": 19439,
+   "votes_R": 3650,
+   "votes_other": 58,
+   "total_votes": 23147,
+   "pct_D": 84.0,
+   "pct_R": 15.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 7083,
+     "votes_R": 1795,
+     "votes_other": 27
+    },
+    "early_in_person": {
+     "votes_D": 8421,
+     "votes_R": 1123,
+     "votes_other": 15
+    },
+    "mail": {
+     "votes_D": 2546,
+     "votes_R": 242,
+     "votes_other": 8
+    },
+    "provisional": {
+     "votes_D": 1300,
+     "votes_R": 475,
+     "votes_other": 8
+    },
+    "late_mail": {
+     "votes_D": 89,
+     "votes_R": 15,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51550": {
+   "name": "Chesapeake",
+   "raw_name": "Chesapeake City",
+   "fips": "51550",
+   "is_mappable": true,
+   "votes_D": 67224,
+   "votes_R": 59657,
+   "votes_other": 149,
+   "total_votes": 127030,
+   "pct_D": 52.9,
+   "pct_R": 47.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 25820,
+     "votes_R": 26912,
+     "votes_other": 86
+    },
+    "early_in_person": {
+     "votes_D": 30443,
+     "votes_R": 27664,
+     "votes_other": 37
+    },
+    "mail": {
+     "votes_D": 8750,
+     "votes_R": 3623,
+     "votes_other": 15
+    },
+    "provisional": {
+     "votes_D": 1456,
+     "votes_R": 1118,
+     "votes_other": 7
+    },
+    "late_mail": {
+     "votes_D": 755,
+     "votes_R": 340,
+     "votes_other": 4
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51041": {
+   "name": "Chesterfield",
+   "raw_name": "Chesterfield County",
+   "fips": "51041",
+   "is_mappable": true,
+   "votes_D": 115364,
+   "votes_R": 93336,
+   "votes_other": 279,
+   "total_votes": 208979,
+   "pct_D": 55.2,
+   "pct_R": 44.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 41283,
+     "votes_R": 39129,
+     "votes_other": 149
+    },
+    "early_in_person": {
+     "votes_D": 54473,
+     "votes_R": 46224,
+     "votes_other": 86
+    },
+    "mail": {
+     "votes_D": 14927,
+     "votes_R": 5950,
+     "votes_other": 28
+    },
+    "provisional": {
+     "votes_D": 2808,
+     "votes_R": 1276,
+     "votes_other": 11
+    },
+    "late_mail": {
+     "votes_D": 1873,
+     "votes_R": 757,
+     "votes_other": 5
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51043": {
+   "name": "Clarke",
+   "raw_name": "Clarke County",
+   "fips": "51043",
+   "is_mappable": true,
+   "votes_D": 4182,
+   "votes_R": 5487,
+   "votes_other": 8,
+   "total_votes": 9677,
+   "pct_D": 43.2,
+   "pct_R": 56.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1575,
+     "votes_R": 2589,
+     "votes_other": 3
+    },
+    "early_in_person": {
+     "votes_D": 2021,
+     "votes_R": 2524,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 501,
+     "votes_R": 261,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 64,
+     "votes_R": 100,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 21,
+     "votes_R": 13,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51570": {
+   "name": "Colonial Heights",
+   "raw_name": "Colonial Heights City",
+   "fips": "51570",
+   "is_mappable": true,
+   "votes_D": 3259,
+   "votes_R": 5456,
+   "votes_other": 5,
+   "total_votes": 8720,
+   "pct_D": 37.4,
+   "pct_R": 62.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 1464,
+     "votes_R": 2200,
+     "votes_other": 2
+    },
+    "early_in_person": {
+     "votes_D": 1359,
+     "votes_R": 2869,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 322,
+     "votes_R": 291,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 103,
+     "votes_R": 87,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 11,
+     "votes_R": 9,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51580": {
+   "name": "Covington",
+   "raw_name": "Covington City",
+   "fips": "51580",
+   "is_mappable": true,
+   "votes_D": 1025,
+   "votes_R": 1418,
+   "votes_other": 0,
+   "total_votes": 2443,
+   "pct_D": 42.0,
+   "pct_R": 58.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 632,
+     "votes_R": 953,
+     "votes_other": 0
+    },
+    "early_in_person": {
+     "votes_D": 304,
+     "votes_R": 384,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 67,
+     "votes_R": 43,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 21,
+     "votes_R": 38,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 1,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51045": {
+   "name": "Craig",
+   "raw_name": "Craig County",
+   "fips": "51045",
+   "is_mappable": true,
+   "votes_D": 671,
+   "votes_R": 2415,
+   "votes_other": 2,
+   "total_votes": 3088,
+   "pct_D": 21.7,
+   "pct_R": 78.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 363,
+     "votes_R": 1421,
+     "votes_other": 2
+    },
+    "early_in_person": {
+     "votes_D": 239,
+     "votes_R": 894,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 58,
+     "votes_R": 60,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 6,
+     "votes_R": 35,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 5,
+     "votes_R": 5,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51047": {
+   "name": "Culpeper",
+   "raw_name": "Culpeper County",
+   "fips": "51047",
+   "is_mappable": true,
+   "votes_D": 11211,
+   "votes_R": 17105,
+   "votes_other": 24,
+   "total_votes": 28340,
+   "pct_D": 39.6,
+   "pct_R": 60.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 4399,
+     "votes_R": 8654,
+     "votes_other": 15
+    },
+    "early_in_person": {
+     "votes_D": 4873,
+     "votes_R": 7355,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 1739,
+     "votes_R": 844,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 162,
+     "votes_R": 222,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 38,
+     "votes_R": 30,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51049": {
+   "name": "Cumberland",
+   "raw_name": "Cumberland County",
+   "fips": "51049",
+   "is_mappable": true,
+   "votes_D": 2164,
+   "votes_R": 3256,
+   "votes_other": 5,
+   "total_votes": 5425,
+   "pct_D": 39.9,
+   "pct_R": 60.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 1102,
+     "votes_R": 1909,
+     "votes_other": 4
+    },
+    "early_in_person": {
+     "votes_D": 867,
+     "votes_R": 1206,
+     "votes_other": 1
+    },
+    "mail": {
+     "votes_D": 158,
+     "votes_R": 91,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 36,
+     "votes_R": 50,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 1,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51590": {
+   "name": "Danville",
+   "raw_name": "Danville City",
+   "fips": "51590",
+   "is_mappable": true,
+   "votes_D": 10986,
+   "votes_R": 6335,
+   "votes_other": 33,
+   "total_votes": 17354,
+   "pct_D": 63.3,
+   "pct_R": 36.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 5328,
+     "votes_R": 3037,
+     "votes_other": 16
+    },
+    "early_in_person": {
+     "votes_D": 4195,
+     "votes_R": 2755,
+     "votes_other": 7
+    },
+    "mail": {
+     "votes_D": 1262,
+     "votes_R": 455,
+     "votes_other": 7
+    },
+    "provisional": {
+     "votes_D": 175,
+     "votes_R": 81,
+     "votes_other": 3
+    },
+    "late_mail": {
+     "votes_D": 26,
+     "votes_R": 7,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51051": {
+   "name": "Dickenson",
+   "raw_name": "Dickenson County",
+   "fips": "51051",
+   "is_mappable": true,
+   "votes_D": 1929,
+   "votes_R": 4884,
+   "votes_other": 17,
+   "total_votes": 6830,
+   "pct_D": 28.2,
+   "pct_R": 71.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 981,
+     "votes_R": 2802,
+     "votes_other": 12
+    },
+    "early_in_person": {
+     "votes_D": 707,
+     "votes_R": 1792,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 211,
+     "votes_R": 172,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 26,
+     "votes_R": 116,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 4,
+     "votes_R": 2,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51053": {
+   "name": "Dinwiddie",
+   "raw_name": "Dinwiddie County",
+   "fips": "51053",
+   "is_mappable": true,
+   "votes_D": 6335,
+   "votes_R": 9163,
+   "votes_other": 18,
+   "total_votes": 15516,
+   "pct_D": 40.8,
+   "pct_R": 59.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 2796,
+     "votes_R": 5082,
+     "votes_other": 10
+    },
+    "early_in_person": {
+     "votes_D": 2677,
+     "votes_R": 3566,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 726,
+     "votes_R": 353,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 125,
+     "votes_R": 151,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 11,
+     "votes_R": 11,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51595": {
+   "name": "Emporia",
+   "raw_name": "Emporia City",
+   "fips": "51595",
+   "is_mappable": true,
+   "votes_D": 1415,
+   "votes_R": 673,
+   "votes_other": 2,
+   "total_votes": 2090,
+   "pct_D": 67.7,
+   "pct_R": 32.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 871,
+     "votes_R": 424,
+     "votes_other": 2
+    },
+    "early_in_person": {
+     "votes_D": 386,
+     "votes_R": 210,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 138,
+     "votes_R": 33,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 19,
+     "votes_R": 6,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 1,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51057": {
+   "name": "Essex",
+   "raw_name": "Essex County",
+   "fips": "51057",
+   "is_mappable": true,
+   "votes_D": 2858,
+   "votes_R": 3072,
+   "votes_other": 8,
+   "total_votes": 5938,
+   "pct_D": 48.1,
+   "pct_R": 51.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1272,
+     "votes_R": 1415,
+     "votes_other": 6
+    },
+    "early_in_person": {
+     "votes_D": 1345,
+     "votes_R": 1523,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 212,
+     "votes_R": 112,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 24,
+     "votes_R": 20,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 5,
+     "votes_R": 2,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51600": {
+   "name": "Fairfax City",
+   "raw_name": "Fairfax City",
+   "fips": "51600",
+   "is_mappable": true,
+   "votes_D": 8882,
+   "votes_R": 4407,
+   "votes_other": 53,
+   "total_votes": 13342,
+   "pct_D": 66.6,
+   "pct_R": 33.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 2854,
+     "votes_R": 1798,
+     "votes_other": 27
+    },
+    "early_in_person": {
+     "votes_D": 4400,
+     "votes_R": 2193,
+     "votes_other": 15
+    },
+    "mail": {
+     "votes_D": 1347,
+     "votes_R": 298,
+     "votes_other": 8
+    },
+    "provisional": {
+     "votes_D": 228,
+     "votes_R": 93,
+     "votes_other": 3
+    },
+    "late_mail": {
+     "votes_D": 53,
+     "votes_R": 25,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51059": {
+   "name": "Fairfax",
+   "raw_name": "Fairfax County",
+   "fips": "51059",
+   "is_mappable": true,
+   "votes_D": 393906,
+   "votes_R": 186266,
+   "votes_other": 1932,
+   "total_votes": 582104,
+   "pct_D": 67.7,
+   "pct_R": 32.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 151086,
+     "votes_R": 85994,
+     "votes_other": 1192
+    },
+    "early_in_person": {
+     "votes_D": 159688,
+     "votes_R": 76822,
+     "votes_other": 407
+    },
+    "mail": {
+     "votes_D": 61911,
+     "votes_R": 15210,
+     "votes_other": 181
+    },
+    "provisional": {
+     "votes_D": 9409,
+     "votes_R": 5163,
+     "votes_other": 95
+    },
+    "late_mail": {
+     "votes_D": 11812,
+     "votes_R": 3077,
+     "votes_other": 57
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51610": {
+   "name": "Falls Church",
+   "raw_name": "Falls Church City",
+   "fips": "51610",
+   "is_mappable": true,
+   "votes_D": 7163,
+   "votes_R": 1791,
+   "votes_other": 20,
+   "total_votes": 8974,
+   "pct_D": 79.8,
+   "pct_R": 20.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 1683,
+     "votes_R": 660,
+     "votes_other": 11
+    },
+    "early_in_person": {
+     "votes_D": 4060,
+     "votes_R": 899,
+     "votes_other": 7
+    },
+    "mail": {
+     "votes_D": 1252,
+     "votes_R": 183,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 122,
+     "votes_R": 45,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 46,
+     "votes_R": 4,
+     "votes_other": 1
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51061": {
+   "name": "Fauquier",
+   "raw_name": "Fauquier County",
+   "fips": "51061",
+   "is_mappable": true,
+   "votes_D": 17441,
+   "votes_R": 26971,
+   "votes_other": 51,
+   "total_votes": 44463,
+   "pct_D": 39.2,
+   "pct_R": 60.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 6134,
+     "votes_R": 11655,
+     "votes_other": 28
+    },
+    "early_in_person": {
+     "votes_D": 8428,
+     "votes_R": 13367,
+     "votes_other": 15
+    },
+    "mail": {
+     "votes_D": 2488,
+     "votes_R": 1345,
+     "votes_other": 6
+    },
+    "provisional": {
+     "votes_D": 249,
+     "votes_R": 486,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 142,
+     "votes_R": 118,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51063": {
+   "name": "Floyd",
+   "raw_name": "Floyd County",
+   "fips": "51063",
+   "is_mappable": true,
+   "votes_D": 3302,
+   "votes_R": 6251,
+   "votes_other": 12,
+   "total_votes": 9565,
+   "pct_D": 34.5,
+   "pct_R": 65.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 1150,
+     "votes_R": 3364,
+     "votes_other": 8
+    },
+    "early_in_person": {
+     "votes_D": 1699,
+     "votes_R": 2607,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 401,
+     "votes_R": 201,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 39,
+     "votes_R": 77,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 13,
+     "votes_R": 2,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51065": {
+   "name": "Fluvanna",
+   "raw_name": "Fluvanna County",
+   "fips": "51065",
+   "is_mappable": true,
+   "votes_D": 7992,
+   "votes_R": 8581,
+   "votes_other": 24,
+   "total_votes": 16597,
+   "pct_D": 48.2,
+   "pct_R": 51.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 2289,
+     "votes_R": 3580,
+     "votes_other": 13
+    },
+    "early_in_person": {
+     "votes_D": 4345,
+     "votes_R": 4506,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 1210,
+     "votes_R": 367,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 127,
+     "votes_R": 114,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 21,
+     "votes_R": 14,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51620": {
+   "name": "Franklin City",
+   "raw_name": "Franklin City",
+   "fips": "51620",
+   "is_mappable": true,
+   "votes_D": 2367,
+   "votes_R": 1359,
+   "votes_other": 6,
+   "total_votes": 3732,
+   "pct_D": 63.4,
+   "pct_R": 36.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 1194,
+     "votes_R": 673,
+     "votes_other": 2
+    },
+    "early_in_person": {
+     "votes_D": 873,
+     "votes_R": 577,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 251,
+     "votes_R": 80,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 43,
+     "votes_R": 27,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 6,
+     "votes_R": 2,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51067": {
+   "name": "Franklin",
+   "raw_name": "Franklin County",
+   "fips": "51067",
+   "is_mappable": true,
+   "votes_D": 9114,
+   "votes_R": 21569,
+   "votes_other": 37,
+   "total_votes": 30720,
+   "pct_D": 29.7,
+   "pct_R": 70.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 4371,
+     "votes_R": 13276,
+     "votes_other": 26
+    },
+    "early_in_person": {
+     "votes_D": 3402,
+     "votes_R": 7075,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 1233,
+     "votes_R": 940,
+     "votes_other": 5
+    },
+    "provisional": {
+     "votes_D": 90,
+     "votes_R": 253,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 18,
+     "votes_R": 25,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51069": {
+   "name": "Frederick",
+   "raw_name": "Frederick County",
+   "fips": "51069",
+   "is_mappable": true,
+   "votes_D": 19769,
+   "votes_R": 31659,
+   "votes_other": 62,
+   "total_votes": 51490,
+   "pct_D": 38.4,
+   "pct_R": 61.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 8341,
+     "votes_R": 15976,
+     "votes_other": 37
+    },
+    "early_in_person": {
+     "votes_D": 8560,
+     "votes_R": 13809,
+     "votes_other": 16
+    },
+    "mail": {
+     "votes_D": 2327,
+     "votes_R": 1279,
+     "votes_other": 6
+    },
+    "provisional": {
+     "votes_D": 367,
+     "votes_R": 522,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 174,
+     "votes_R": 73,
+     "votes_other": 1
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51630": {
+   "name": "Fredericksburg",
+   "raw_name": "Fredericksburg City",
+   "fips": "51630",
+   "is_mappable": true,
+   "votes_D": 8858,
+   "votes_R": 4346,
+   "votes_other": 32,
+   "total_votes": 13236,
+   "pct_D": 66.9,
+   "pct_R": 32.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 3665,
+     "votes_R": 1973,
+     "votes_other": 15
+    },
+    "early_in_person": {
+     "votes_D": 3424,
+     "votes_R": 1876,
+     "votes_other": 10
+    },
+    "mail": {
+     "votes_D": 1395,
+     "votes_R": 332,
+     "votes_other": 5
+    },
+    "provisional": {
+     "votes_D": 337,
+     "votes_R": 147,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 37,
+     "votes_R": 18,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51640": {
+   "name": "Galax",
+   "raw_name": "Galax City",
+   "fips": "51640",
+   "is_mappable": true,
+   "votes_D": 893,
+   "votes_R": 1788,
+   "votes_other": 5,
+   "total_votes": 2686,
+   "pct_D": 33.2,
+   "pct_R": 66.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 333,
+     "votes_R": 897,
+     "votes_other": 1
+    },
+    "early_in_person": {
+     "votes_D": 422,
+     "votes_R": 784,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 108,
+     "votes_R": 72,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 30,
+     "votes_R": 33,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 0,
+     "votes_R": 2,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51071": {
+   "name": "Giles",
+   "raw_name": "Giles County",
+   "fips": "51071",
+   "is_mappable": true,
+   "votes_D": 2593,
+   "votes_R": 6435,
+   "votes_other": 13,
+   "total_votes": 9041,
+   "pct_D": 28.7,
+   "pct_R": 71.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 1219,
+     "votes_R": 3530,
+     "votes_other": 7
+    },
+    "early_in_person": {
+     "votes_D": 1108,
+     "votes_R": 2630,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 222,
+     "votes_R": 172,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 41,
+     "votes_R": 98,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 3,
+     "votes_R": 5,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51073": {
+   "name": "Gloucester",
+   "raw_name": "Gloucester County",
+   "fips": "51073",
+   "is_mappable": true,
+   "votes_D": 7522,
+   "votes_R": 15391,
+   "votes_other": 21,
+   "total_votes": 22934,
+   "pct_D": 32.8,
+   "pct_R": 67.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 3339,
+     "votes_R": 8538,
+     "votes_other": 14
+    },
+    "early_in_person": {
+     "votes_D": 3190,
+     "votes_R": 6062,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 880,
+     "votes_R": 593,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 92,
+     "votes_R": 181,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 21,
+     "votes_R": 17,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51075": {
+   "name": "Goochland",
+   "raw_name": "Goochland County",
+   "fips": "51075",
+   "is_mappable": true,
+   "votes_D": 7956,
+   "votes_R": 11655,
+   "votes_other": 14,
+   "total_votes": 19625,
+   "pct_D": 40.5,
+   "pct_R": 59.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 2724,
+     "votes_R": 5009,
+     "votes_other": 5
+    },
+    "early_in_person": {
+     "votes_D": 4052,
+     "votes_R": 5797,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 1061,
+     "votes_R": 706,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 91,
+     "votes_R": 118,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 28,
+     "votes_R": 25,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51077": {
+   "name": "Grayson",
+   "raw_name": "Grayson County",
+   "fips": "51077",
+   "is_mappable": true,
+   "votes_D": 1888,
+   "votes_R": 6045,
+   "votes_other": 11,
+   "total_votes": 7944,
+   "pct_D": 23.8,
+   "pct_R": 76.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 950,
+     "votes_R": 3751,
+     "votes_other": 1
+    },
+    "early_in_person": {
+     "votes_D": 684,
+     "votes_R": 1993,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 221,
+     "votes_R": 226,
+     "votes_other": 5
+    },
+    "provisional": {
+     "votes_D": 32,
+     "votes_R": 73,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 1,
+     "votes_R": 2,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51079": {
+   "name": "Greene",
+   "raw_name": "Greene County",
+   "fips": "51079",
+   "is_mappable": true,
+   "votes_D": 4731,
+   "votes_R": 7193,
+   "votes_other": 16,
+   "total_votes": 11940,
+   "pct_D": 39.6,
+   "pct_R": 60.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 1573,
+     "votes_R": 3102,
+     "votes_other": 10
+    },
+    "early_in_person": {
+     "votes_D": 2312,
+     "votes_R": 3672,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 733,
+     "votes_R": 259,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 92,
+     "votes_R": 153,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 21,
+     "votes_R": 7,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51081": {
+   "name": "Greensville",
+   "raw_name": "Greensville County",
+   "fips": "51081",
+   "is_mappable": true,
+   "votes_D": 2416,
+   "votes_R": 1770,
+   "votes_other": 9,
+   "total_votes": 4195,
+   "pct_D": 57.6,
+   "pct_R": 42.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 1380,
+     "votes_R": 1067,
+     "votes_other": 6
+    },
+    "early_in_person": {
+     "votes_D": 713,
+     "votes_R": 616,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 290,
+     "votes_R": 71,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 33,
+     "votes_R": 16,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51083": {
+   "name": "Halifax",
+   "raw_name": "Halifax County",
+   "fips": "51083",
+   "is_mappable": true,
+   "votes_D": 7397,
+   "votes_R": 10218,
+   "votes_other": 40,
+   "total_votes": 17655,
+   "pct_D": 41.9,
+   "pct_R": 57.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 3380,
+     "votes_R": 5647,
+     "votes_other": 23
+    },
+    "early_in_person": {
+     "votes_D": 3166,
+     "votes_R": 4121,
+     "votes_other": 13
+    },
+    "mail": {
+     "votes_D": 713,
+     "votes_R": 321,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 117,
+     "votes_R": 118,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 21,
+     "votes_R": 11,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51650": {
+   "name": "Hampton",
+   "raw_name": "Hampton City",
+   "fips": "51650",
+   "is_mappable": true,
+   "votes_D": 44201,
+   "votes_R": 17611,
+   "votes_other": 83,
+   "total_votes": 61895,
+   "pct_D": 71.4,
+   "pct_R": 28.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 19607,
+     "votes_R": 9715,
+     "votes_other": 49
+    },
+    "early_in_person": {
+     "votes_D": 17334,
+     "votes_R": 6194,
+     "votes_other": 13
+    },
+    "mail": {
+     "votes_D": 5016,
+     "votes_R": 1097,
+     "votes_other": 7
+    },
+    "provisional": {
+     "votes_D": 1900,
+     "votes_R": 544,
+     "votes_other": 13
+    },
+    "late_mail": {
+     "votes_D": 344,
+     "votes_R": 61,
+     "votes_other": 1
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51085": {
+   "name": "Hanover",
+   "raw_name": "Hanover County",
+   "fips": "51085",
+   "is_mappable": true,
+   "votes_D": 27207,
+   "votes_R": 44715,
+   "votes_other": 65,
+   "total_votes": 71987,
+   "pct_D": 37.8,
+   "pct_R": 62.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 11923,
+     "votes_R": 23004,
+     "votes_other": 43
+    },
+    "early_in_person": {
+     "votes_D": 11075,
+     "votes_R": 18841,
+     "votes_other": 14
+    },
+    "mail": {
+     "votes_D": 3642,
+     "votes_R": 2194,
+     "votes_other": 5
+    },
+    "provisional": {
+     "votes_D": 348,
+     "votes_R": 514,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 219,
+     "votes_R": 162,
+     "votes_other": 3
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51660": {
+   "name": "Harrisonburg",
+   "raw_name": "Harrisonburg City",
+   "fips": "51660",
+   "is_mappable": true,
+   "votes_D": 10922,
+   "votes_R": 5946,
+   "votes_other": 31,
+   "total_votes": 16899,
+   "pct_D": 64.6,
+   "pct_R": 35.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 4076,
+     "votes_R": 2596,
+     "votes_other": 8
+    },
+    "early_in_person": {
+     "votes_D": 4669,
+     "votes_R": 2252,
+     "votes_other": 12
+    },
+    "mail": {
+     "votes_D": 890,
+     "votes_R": 202,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 1257,
+     "votes_R": 890,
+     "votes_other": 9
+    },
+    "late_mail": {
+     "votes_D": 30,
+     "votes_R": 6,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51087": {
+   "name": "Henrico",
+   "raw_name": "Henrico County",
+   "fips": "51087",
+   "is_mappable": true,
+   "votes_D": 116336,
+   "votes_R": 61160,
+   "votes_other": 242,
+   "total_votes": 177738,
+   "pct_D": 65.5,
+   "pct_R": 34.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 54770,
+     "votes_R": 34334,
+     "votes_other": 151
+    },
+    "early_in_person": {
+     "votes_D": 42980,
+     "votes_R": 20632,
+     "votes_other": 50
+    },
+    "mail": {
+     "votes_D": 15236,
+     "votes_R": 4822,
+     "votes_other": 35
+    },
+    "provisional": {
+     "votes_D": 2282,
+     "votes_R": 1053,
+     "votes_other": 3
+    },
+    "late_mail": {
+     "votes_D": 1068,
+     "votes_R": 319,
+     "votes_other": 3
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51089": {
+   "name": "Henry",
+   "raw_name": "Henry County",
+   "fips": "51089",
+   "is_mappable": true,
+   "votes_D": 9583,
+   "votes_R": 15426,
+   "votes_other": 43,
+   "total_votes": 25052,
+   "pct_D": 38.3,
+   "pct_R": 61.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 4359,
+     "votes_R": 8344,
+     "votes_other": 23
+    },
+    "early_in_person": {
+     "votes_D": 4086,
+     "votes_R": 6314,
+     "votes_other": 17
+    },
+    "mail": {
+     "votes_D": 947,
+     "votes_R": 580,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 171,
+     "votes_R": 180,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 20,
+     "votes_R": 8,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51091": {
+   "name": "Highland",
+   "raw_name": "Highland County",
+   "fips": "51091",
+   "is_mappable": true,
+   "votes_D": 497,
+   "votes_R": 1012,
+   "votes_other": 1,
+   "total_votes": 1510,
+   "pct_D": 32.9,
+   "pct_R": 67.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 265,
+     "votes_R": 716,
+     "votes_other": 1
+    },
+    "early_in_person": {
+     "votes_D": 179,
+     "votes_R": 259,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 52,
+     "votes_R": 27,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 1,
+     "votes_R": 10,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51670": {
+   "name": "Hopewell",
+   "raw_name": "Hopewell City",
+   "fips": "51670",
+   "is_mappable": true,
+   "votes_D": 5173,
+   "votes_R": 3438,
+   "votes_other": 16,
+   "total_votes": 8627,
+   "pct_D": 60.0,
+   "pct_R": 39.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 2543,
+     "votes_R": 1774,
+     "votes_other": 9
+    },
+    "early_in_person": {
+     "votes_D": 1977,
+     "votes_R": 1422,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 502,
+     "votes_R": 167,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 141,
+     "votes_R": 71,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 10,
+     "votes_R": 4,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51093": {
+   "name": "Isle of Wight",
+   "raw_name": "Isle Of Wight County",
+   "fips": "51093",
+   "is_mappable": true,
+   "votes_D": 10292,
+   "votes_R": 14163,
+   "votes_other": 20,
+   "total_votes": 24475,
+   "pct_D": 42.1,
+   "pct_R": 57.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 4515,
+     "votes_R": 7449,
+     "votes_other": 10
+    },
+    "early_in_person": {
+     "votes_D": 4082,
+     "votes_R": 5682,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 1440,
+     "votes_R": 786,
+     "votes_other": 4
+    },
+    "provisional": {
+     "votes_D": 212,
+     "votes_R": 212,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 43,
+     "votes_R": 34,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51095": {
+   "name": "James City",
+   "raw_name": "James City County",
+   "fips": "51095",
+   "is_mappable": true,
+   "votes_D": 26991,
+   "votes_R": 24033,
+   "votes_other": 68,
+   "total_votes": 51092,
+   "pct_D": 52.8,
+   "pct_R": 47.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 7899,
+     "votes_R": 8685,
+     "votes_other": 33
+    },
+    "early_in_person": {
+     "votes_D": 14475,
+     "votes_R": 13254,
+     "votes_other": 20
+    },
+    "mail": {
+     "votes_D": 4089,
+     "votes_R": 1672,
+     "votes_other": 12
+    },
+    "provisional": {
+     "votes_D": 445,
+     "votes_R": 382,
+     "votes_other": 3
+    },
+    "late_mail": {
+     "votes_D": 83,
+     "votes_R": 40,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51097": {
+   "name": "King and Queen",
+   "raw_name": "King & Queen County",
+   "fips": "51097",
+   "is_mappable": true,
+   "votes_D": 1628,
+   "votes_R": 2513,
+   "votes_other": 2,
+   "total_votes": 4143,
+   "pct_D": 39.3,
+   "pct_R": 60.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 917,
+     "votes_R": 1665,
+     "votes_other": 1
+    },
+    "early_in_person": {
+     "votes_D": 506,
+     "votes_R": 702,
+     "votes_other": 1
+    },
+    "mail": {
+     "votes_D": 179,
+     "votes_R": 108,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 19,
+     "votes_R": 35,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 7,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51099": {
+   "name": "King George",
+   "raw_name": "King George County",
+   "fips": "51099",
+   "is_mappable": true,
+   "votes_D": 5843,
+   "votes_R": 9459,
+   "votes_other": 16,
+   "total_votes": 15318,
+   "pct_D": 38.1,
+   "pct_R": 61.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 2156,
+     "votes_R": 4083,
+     "votes_other": 10
+    },
+    "early_in_person": {
+     "votes_D": 2765,
+     "votes_R": 4814,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 811,
+     "votes_R": 386,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 93,
+     "votes_R": 155,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 18,
+     "votes_R": 21,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51101": {
+   "name": "King William",
+   "raw_name": "King William County",
+   "fips": "51101",
+   "is_mappable": true,
+   "votes_D": 3659,
+   "votes_R": 7678,
+   "votes_other": 10,
+   "total_votes": 11347,
+   "pct_D": 32.2,
+   "pct_R": 67.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1893,
+     "votes_R": 4771,
+     "votes_other": 9
+    },
+    "early_in_person": {
+     "votes_D": 1332,
+     "votes_R": 2585,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 363,
+     "votes_R": 220,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 58,
+     "votes_R": 99,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 13,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51103": {
+   "name": "Lancaster",
+   "raw_name": "Lancaster County",
+   "fips": "51103",
+   "is_mappable": true,
+   "votes_D": 3364,
+   "votes_R": 3888,
+   "votes_other": 6,
+   "total_votes": 7258,
+   "pct_D": 46.3,
+   "pct_R": 53.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 1437,
+     "votes_R": 1896,
+     "votes_other": 4
+    },
+    "early_in_person": {
+     "votes_D": 1523,
+     "votes_R": 1765,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 362,
+     "votes_R": 183,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 36,
+     "votes_R": 38,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 6,
+     "votes_R": 6,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51105": {
+   "name": "Lee",
+   "raw_name": "Lee County",
+   "fips": "51105",
+   "is_mappable": true,
+   "votes_D": 2306,
+   "votes_R": 7452,
+   "votes_other": 20,
+   "total_votes": 9778,
+   "pct_D": 23.6,
+   "pct_R": 76.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 1488,
+     "votes_R": 5107,
+     "votes_other": 14
+    },
+    "early_in_person": {
+     "votes_D": 592,
+     "votes_R": 1992,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 170,
+     "votes_R": 206,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 53,
+     "votes_R": 142,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 3,
+     "votes_R": 5,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51678": {
+   "name": "Lexington",
+   "raw_name": "Lexington City",
+   "fips": "51678",
+   "is_mappable": true,
+   "votes_D": 1817,
+   "votes_R": 1031,
+   "votes_other": 4,
+   "total_votes": 2852,
+   "pct_D": 63.7,
+   "pct_R": 36.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 453,
+     "votes_R": 396,
+     "votes_other": 3
+    },
+    "early_in_person": {
+     "votes_D": 984,
+     "votes_R": 446,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 265,
+     "votes_R": 64,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 107,
+     "votes_R": 124,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 8,
+     "votes_R": 1,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51107": {
+   "name": "Loudoun",
+   "raw_name": "Loudoun County",
+   "fips": "51107",
+   "is_mappable": true,
+   "votes_D": 133436,
+   "votes_R": 93441,
+   "votes_other": 860,
+   "total_votes": 227737,
+   "pct_D": 58.6,
+   "pct_R": 41.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 55552,
+     "votes_R": 44812,
+     "votes_other": 543
+    },
+    "early_in_person": {
+     "votes_D": 52476,
+     "votes_R": 38147,
+     "votes_other": 187
+    },
+    "mail": {
+     "votes_D": 20736,
+     "votes_R": 7615,
+     "votes_other": 78
+    },
+    "provisional": {
+     "votes_D": 2559,
+     "votes_R": 2126,
+     "votes_other": 42
+    },
+    "late_mail": {
+     "votes_D": 2113,
+     "votes_R": 741,
+     "votes_other": 10
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51109": {
+   "name": "Louisa",
+   "raw_name": "Louisa County",
+   "fips": "51109",
+   "is_mappable": true,
+   "votes_D": 9124,
+   "votes_R": 14726,
+   "votes_other": 22,
+   "total_votes": 23872,
+   "pct_D": 38.2,
+   "pct_R": 61.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 3645,
+     "votes_R": 7828,
+     "votes_other": 13
+    },
+    "early_in_person": {
+     "votes_D": 3940,
+     "votes_R": 6001,
+     "votes_other": 7
+    },
+    "mail": {
+     "votes_D": 1371,
+     "votes_R": 624,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 154,
+     "votes_R": 263,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 14,
+     "votes_R": 10,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51111": {
+   "name": "Lunenburg",
+   "raw_name": "Lunenburg County",
+   "fips": "51111",
+   "is_mappable": true,
+   "votes_D": 2344,
+   "votes_R": 3324,
+   "votes_other": 4,
+   "total_votes": 5672,
+   "pct_D": 41.3,
+   "pct_R": 58.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 1113,
+     "votes_R": 1891,
+     "votes_other": 1
+    },
+    "early_in_person": {
+     "votes_D": 901,
+     "votes_R": 1272,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 269,
+     "votes_R": 101,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 37,
+     "votes_R": 46,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 24,
+     "votes_R": 14,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51680": {
+   "name": "Lynchburg",
+   "raw_name": "Lynchburg City",
+   "fips": "51680",
+   "is_mappable": true,
+   "votes_D": 17020,
+   "votes_R": 19478,
+   "votes_other": 75,
+   "total_votes": 36573,
+   "pct_D": 46.5,
+   "pct_R": 53.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 7529,
+     "votes_R": 10763,
+     "votes_other": 52
+    },
+    "early_in_person": {
+     "votes_D": 6454,
+     "votes_R": 5998,
+     "votes_other": 16
+    },
+    "mail": {
+     "votes_D": 2348,
+     "votes_R": 910,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 475,
+     "votes_R": 1686,
+     "votes_other": 4
+    },
+    "late_mail": {
+     "votes_D": 214,
+     "votes_R": 121,
+     "votes_other": 1
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51113": {
+   "name": "Madison",
+   "raw_name": "Madison County",
+   "fips": "51113",
+   "is_mappable": true,
+   "votes_D": 2839,
+   "votes_R": 5546,
+   "votes_other": 3,
+   "total_votes": 8388,
+   "pct_D": 33.8,
+   "pct_R": 66.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 1136,
+     "votes_R": 3054,
+     "votes_other": 1
+    },
+    "early_in_person": {
+     "votes_D": 1363,
+     "votes_R": 2247,
+     "votes_other": 1
+    },
+    "mail": {
+     "votes_D": 277,
+     "votes_R": 153,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 33,
+     "votes_R": 80,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 30,
+     "votes_R": 12,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51683": {
+   "name": "Manassas",
+   "raw_name": "Manassas City",
+   "fips": "51683",
+   "is_mappable": true,
+   "votes_D": 9375,
+   "votes_R": 6438,
+   "votes_other": 36,
+   "total_votes": 15849,
+   "pct_D": 59.2,
+   "pct_R": 40.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 3752,
+     "votes_R": 2893,
+     "votes_other": 17
+    },
+    "early_in_person": {
+     "votes_D": 3936,
+     "votes_R": 2976,
+     "votes_other": 12
+    },
+    "mail": {
+     "votes_D": 1329,
+     "votes_R": 383,
+     "votes_other": 6
+    },
+    "provisional": {
+     "votes_D": 268,
+     "votes_R": 153,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 90,
+     "votes_R": 33,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51685": {
+   "name": "Manassas Park",
+   "raw_name": "Manassas Park City",
+   "fips": "51685",
+   "is_mappable": true,
+   "votes_D": 3713,
+   "votes_R": 2112,
+   "votes_other": 28,
+   "total_votes": 5853,
+   "pct_D": 63.4,
+   "pct_R": 36.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 1303,
+     "votes_R": 859,
+     "votes_other": 10
+    },
+    "early_in_person": {
+     "votes_D": 1753,
+     "votes_R": 1025,
+     "votes_other": 11
+    },
+    "mail": {
+     "votes_D": 444,
+     "votes_R": 131,
+     "votes_other": 5
+    },
+    "provisional": {
+     "votes_D": 168,
+     "votes_R": 90,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 45,
+     "votes_R": 7,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51690": {
+   "name": "Martinsville",
+   "raw_name": "Martinsville City",
+   "fips": "51690",
+   "is_mappable": true,
+   "votes_D": 3515,
+   "votes_R": 1942,
+   "votes_other": 9,
+   "total_votes": 5466,
+   "pct_D": 64.3,
+   "pct_R": 35.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 1766,
+     "votes_R": 915,
+     "votes_other": 2
+    },
+    "early_in_person": {
+     "votes_D": 1290,
+     "votes_R": 855,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 402,
+     "votes_R": 142,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 54,
+     "votes_R": 30,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 3,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51115": {
+   "name": "Mathews",
+   "raw_name": "Mathews County",
+   "fips": "51115",
+   "is_mappable": true,
+   "votes_D": 1872,
+   "votes_R": 4015,
+   "votes_other": 9,
+   "total_votes": 5896,
+   "pct_D": 31.8,
+   "pct_R": 68.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 442,
+     "votes_R": 1336,
+     "votes_other": 2
+    },
+    "early_in_person": {
+     "votes_D": 1227,
+     "votes_R": 2511,
+     "votes_other": 7
+    },
+    "mail": {
+     "votes_D": 186,
+     "votes_R": 128,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 15,
+     "votes_R": 40,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 2,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51117": {
+   "name": "Mecklenburg",
+   "raw_name": "Mecklenburg County",
+   "fips": "51117",
+   "is_mappable": true,
+   "votes_D": 6699,
+   "votes_R": 9170,
+   "votes_other": 23,
+   "total_votes": 15892,
+   "pct_D": 42.2,
+   "pct_R": 57.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 3345,
+     "votes_R": 5052,
+     "votes_other": 14
+    },
+    "early_in_person": {
+     "votes_D": 2462,
+     "votes_R": 3576,
+     "votes_other": 7
+    },
+    "mail": {
+     "votes_D": 778,
+     "votes_R": 405,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 105,
+     "votes_R": 129,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 9,
+     "votes_R": 8,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51119": {
+   "name": "Middlesex",
+   "raw_name": "Middlesex County",
+   "fips": "51119",
+   "is_mappable": true,
+   "votes_D": 2570,
+   "votes_R": 4265,
+   "votes_other": 3,
+   "total_votes": 6838,
+   "pct_D": 37.6,
+   "pct_R": 62.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 1075,
+     "votes_R": 2365,
+     "votes_other": 2
+    },
+    "early_in_person": {
+     "votes_D": 1175,
+     "votes_R": 1678,
+     "votes_other": 1
+    },
+    "mail": {
+     "votes_D": 272,
+     "votes_R": 162,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 47,
+     "votes_R": 57,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 1,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51121": {
+   "name": "Montgomery",
+   "raw_name": "Montgomery County",
+   "fips": "51121",
+   "is_mappable": true,
+   "votes_D": 25037,
+   "votes_R": 21575,
+   "votes_other": 107,
+   "total_votes": 46719,
+   "pct_D": 53.6,
+   "pct_R": 46.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 8771,
+     "votes_R": 10404,
+     "votes_other": 48
+    },
+    "early_in_person": {
+     "votes_D": 10459,
+     "votes_R": 8792,
+     "votes_other": 18
+    },
+    "mail": {
+     "votes_D": 3313,
+     "votes_R": 914,
+     "votes_other": 8
+    },
+    "provisional": {
+     "votes_D": 2387,
+     "votes_R": 1435,
+     "votes_other": 31
+    },
+    "late_mail": {
+     "votes_D": 107,
+     "votes_R": 30,
+     "votes_other": 2
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51125": {
+   "name": "Nelson",
+   "raw_name": "Nelson County",
+   "fips": "51125",
+   "is_mappable": true,
+   "votes_D": 4520,
+   "votes_R": 4849,
+   "votes_other": 16,
+   "total_votes": 9385,
+   "pct_D": 48.2,
+   "pct_R": 51.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1963,
+     "votes_R": 2944,
+     "votes_other": 6
+    },
+    "early_in_person": {
+     "votes_D": 1967,
+     "votes_R": 1605,
+     "votes_other": 8
+    },
+    "mail": {
+     "votes_D": 518,
+     "votes_R": 203,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 55,
+     "votes_R": 84,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 17,
+     "votes_R": 13,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51127": {
+   "name": "New Kent",
+   "raw_name": "New Kent County",
+   "fips": "51127",
+   "is_mappable": true,
+   "votes_D": 5700,
+   "votes_R": 10695,
+   "votes_other": 10,
+   "total_votes": 16405,
+   "pct_D": 34.7,
+   "pct_R": 65.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 2491,
+     "votes_R": 6052,
+     "votes_other": 5
+    },
+    "early_in_person": {
+     "votes_D": 2416,
+     "votes_R": 4079,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 703,
+     "votes_R": 409,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 81,
+     "votes_R": 151,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 9,
+     "votes_R": 4,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51700": {
+   "name": "Newport News",
+   "raw_name": "Newport News City",
+   "fips": "51700",
+   "is_mappable": true,
+   "votes_D": 49499,
+   "votes_R": 25323,
+   "votes_other": 91,
+   "total_votes": 74913,
+   "pct_D": 66.1,
+   "pct_R": 33.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 24399,
+     "votes_R": 14365,
+     "votes_other": 54
+    },
+    "early_in_person": {
+     "votes_D": 17197,
+     "votes_R": 8634,
+     "votes_other": 22
+    },
+    "mail": {
+     "votes_D": 6112,
+     "votes_R": 1522,
+     "votes_other": 8
+    },
+    "provisional": {
+     "votes_D": 1495,
+     "votes_R": 722,
+     "votes_other": 7
+    },
+    "late_mail": {
+     "votes_D": 296,
+     "votes_R": 80,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51710": {
+   "name": "Norfolk",
+   "raw_name": "Norfolk City",
+   "fips": "51710",
+   "is_mappable": true,
+   "votes_D": 61334,
+   "votes_R": 23657,
+   "votes_other": 140,
+   "total_votes": 85131,
+   "pct_D": 72.0,
+   "pct_R": 27.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 28376,
+     "votes_R": 12216,
+     "votes_other": 83
+    },
+    "early_in_person": {
+     "votes_D": 20928,
+     "votes_R": 8231,
+     "votes_other": 29
+    },
+    "mail": {
+     "votes_D": 8159,
+     "votes_R": 1872,
+     "votes_other": 13
+    },
+    "provisional": {
+     "votes_D": 2805,
+     "votes_R": 1044,
+     "votes_other": 14
+    },
+    "late_mail": {
+     "votes_D": 1066,
+     "votes_R": 294,
+     "votes_other": 1
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51131": {
+   "name": "Northampton",
+   "raw_name": "Northampton County",
+   "fips": "51131",
+   "is_mappable": true,
+   "votes_D": 3687,
+   "votes_R": 3047,
+   "votes_other": 8,
+   "total_votes": 6742,
+   "pct_D": 54.7,
+   "pct_R": 45.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 1377,
+     "votes_R": 1421,
+     "votes_other": 4
+    },
+    "early_in_person": {
+     "votes_D": 1721,
+     "votes_R": 1373,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 527,
+     "votes_R": 208,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 48,
+     "votes_R": 40,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 14,
+     "votes_R": 5,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51133": {
+   "name": "Northumberland",
+   "raw_name": "Northumberland County",
+   "fips": "51133",
+   "is_mappable": true,
+   "votes_D": 3253,
+   "votes_R": 4912,
+   "votes_other": 7,
+   "total_votes": 8172,
+   "pct_D": 39.8,
+   "pct_R": 60.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 1138,
+     "votes_R": 2158,
+     "votes_other": 2
+    },
+    "early_in_person": {
+     "votes_D": 1733,
+     "votes_R": 2496,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 341,
+     "votes_R": 205,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 38,
+     "votes_R": 49,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 3,
+     "votes_R": 4,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51720": {
+   "name": "Norton",
+   "raw_name": "Norton City",
+   "fips": "51720",
+   "is_mappable": true,
+   "votes_D": 606,
+   "votes_R": 973,
+   "votes_other": 2,
+   "total_votes": 1581,
+   "pct_D": 38.3,
+   "pct_R": 61.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 256,
+     "votes_R": 421,
+     "votes_other": 1
+    },
+    "early_in_person": {
+     "votes_D": 259,
+     "votes_R": 509,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 72,
+     "votes_R": 27,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 18,
+     "votes_R": 16,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 1,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51135": {
+   "name": "Nottoway",
+   "raw_name": "Nottoway County",
+   "fips": "51135",
+   "is_mappable": true,
+   "votes_D": 2800,
+   "votes_R": 4000,
+   "votes_other": 10,
+   "total_votes": 6810,
+   "pct_D": 41.1,
+   "pct_R": 58.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1307,
+     "votes_R": 2032,
+     "votes_other": 5
+    },
+    "early_in_person": {
+     "votes_D": 1243,
+     "votes_R": 1780,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 185,
+     "votes_R": 126,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 55,
+     "votes_R": 62,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 10,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51137": {
+   "name": "Orange",
+   "raw_name": "Orange County",
+   "fips": "51137",
+   "is_mappable": true,
+   "votes_D": 8725,
+   "votes_R": 13289,
+   "votes_other": 43,
+   "total_votes": 22057,
+   "pct_D": 39.6,
+   "pct_R": 60.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 4104,
+     "votes_R": 7711,
+     "votes_other": 28
+    },
+    "early_in_person": {
+     "votes_D": 3134,
+     "votes_R": 4716,
+     "votes_other": 9
+    },
+    "mail": {
+     "votes_D": 1293,
+     "votes_R": 626,
+     "votes_other": 4
+    },
+    "provisional": {
+     "votes_D": 145,
+     "votes_R": 215,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 49,
+     "votes_R": 21,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51139": {
+   "name": "Page",
+   "raw_name": "Page County",
+   "fips": "51139",
+   "is_mappable": true,
+   "votes_D": 3618,
+   "votes_R": 9354,
+   "votes_other": 21,
+   "total_votes": 12993,
+   "pct_D": 27.8,
+   "pct_R": 72.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 1638,
+     "votes_R": 5831,
+     "votes_other": 13
+    },
+    "early_in_person": {
+     "votes_D": 1465,
+     "votes_R": 3047,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 460,
+     "votes_R": 329,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 49,
+     "votes_R": 143,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 6,
+     "votes_R": 4,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51141": {
+   "name": "Patrick",
+   "raw_name": "Patrick County",
+   "fips": "51141",
+   "is_mappable": true,
+   "votes_D": 2391,
+   "votes_R": 7005,
+   "votes_other": 9,
+   "total_votes": 9405,
+   "pct_D": 25.4,
+   "pct_R": 74.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 1214,
+     "votes_R": 4286,
+     "votes_other": 3
+    },
+    "early_in_person": {
+     "votes_D": 830,
+     "votes_R": 2393,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 309,
+     "votes_R": 218,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 35,
+     "votes_R": 104,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 3,
+     "votes_R": 4,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51730": {
+   "name": "Petersburg",
+   "raw_name": "Petersburg City",
+   "fips": "51730",
+   "is_mappable": true,
+   "votes_D": 11254,
+   "votes_R": 1583,
+   "votes_other": 22,
+   "total_votes": 12859,
+   "pct_D": 87.5,
+   "pct_R": 12.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 4794,
+     "votes_R": 767,
+     "votes_other": 11
+    },
+    "early_in_person": {
+     "votes_D": 4455,
+     "votes_R": 629,
+     "votes_other": 8
+    },
+    "mail": {
+     "votes_D": 1620,
+     "votes_R": 122,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 346,
+     "votes_R": 58,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 39,
+     "votes_R": 7,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51143": {
+   "name": "Pittsylvania",
+   "raw_name": "Pittsylvania County",
+   "fips": "51143",
+   "is_mappable": true,
+   "votes_D": 10523,
+   "votes_R": 22725,
+   "votes_other": 42,
+   "total_votes": 33290,
+   "pct_D": 31.6,
+   "pct_R": 68.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 5966,
+     "votes_R": 13759,
+     "votes_other": 23
+    },
+    "early_in_person": {
+     "votes_D": 3256,
+     "votes_R": 7801,
+     "votes_other": 10
+    },
+    "mail": {
+     "votes_D": 1066,
+     "votes_R": 855,
+     "votes_other": 7
+    },
+    "provisional": {
+     "votes_D": 177,
+     "votes_R": 271,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 58,
+     "votes_R": 39,
+     "votes_other": 1
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51735": {
+   "name": "Poquoson",
+   "raw_name": "Poquoson City",
+   "fips": "51735",
+   "is_mappable": true,
+   "votes_D": 2273,
+   "votes_R": 5729,
+   "votes_other": 10,
+   "total_votes": 8012,
+   "pct_D": 28.4,
+   "pct_R": 71.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 745,
+     "votes_R": 2442,
+     "votes_other": 3
+    },
+    "early_in_person": {
+     "votes_D": 1220,
+     "votes_R": 2937,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 245,
+     "votes_R": 234,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 47,
+     "votes_R": 102,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 16,
+     "votes_R": 14,
+     "votes_other": 1
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51740": {
+   "name": "Portsmouth",
+   "raw_name": "Portsmouth City",
+   "fips": "51740",
+   "is_mappable": true,
+   "votes_D": 28791,
+   "votes_R": 11581,
+   "votes_other": 30,
+   "total_votes": 40402,
+   "pct_D": 71.3,
+   "pct_R": 28.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 15926,
+     "votes_R": 7723,
+     "votes_other": 19
+    },
+    "early_in_person": {
+     "votes_D": 8255,
+     "votes_R": 2795,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 3765,
+     "votes_R": 749,
+     "votes_other": 5
+    },
+    "provisional": {
+     "votes_D": 764,
+     "votes_R": 293,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 81,
+     "votes_R": 21,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51145": {
+   "name": "Powhatan",
+   "raw_name": "Powhatan County",
+   "fips": "51145",
+   "is_mappable": true,
+   "votes_D": 5949,
+   "votes_R": 14844,
+   "votes_other": 16,
+   "total_votes": 20809,
+   "pct_D": 28.6,
+   "pct_R": 71.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 2440,
+     "votes_R": 7079,
+     "votes_other": 8
+    },
+    "early_in_person": {
+     "votes_D": 2704,
+     "votes_R": 7057,
+     "votes_other": 7
+    },
+    "mail": {
+     "votes_D": 660,
+     "votes_R": 477,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 63,
+     "votes_R": 156,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 82,
+     "votes_R": 75,
+     "votes_other": 1
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51147": {
+   "name": "Prince Edward",
+   "raw_name": "Prince Edward County",
+   "fips": "51147",
+   "is_mappable": true,
+   "votes_D": 4617,
+   "votes_R": 4567,
+   "votes_other": 14,
+   "total_votes": 9198,
+   "pct_D": 50.2,
+   "pct_R": 49.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 2419,
+     "votes_R": 2620,
+     "votes_other": 8
+    },
+    "early_in_person": {
+     "votes_D": 1534,
+     "votes_R": 1577,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 513,
+     "votes_R": 214,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 137,
+     "votes_R": 153,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 14,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51149": {
+   "name": "Prince George",
+   "raw_name": "Prince George County",
+   "fips": "51149",
+   "is_mappable": true,
+   "votes_D": 7048,
+   "votes_R": 10010,
+   "votes_other": 13,
+   "total_votes": 17071,
+   "pct_D": 41.3,
+   "pct_R": 58.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 2983,
+     "votes_R": 5006,
+     "votes_other": 4
+    },
+    "early_in_person": {
+     "votes_D": 3089,
+     "votes_R": 4309,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 724,
+     "votes_R": 501,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 217,
+     "votes_R": 172,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 35,
+     "votes_R": 22,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51153": {
+   "name": "Prince William",
+   "raw_name": "Prince William County",
+   "fips": "51153",
+   "is_mappable": true,
+   "votes_D": 137060,
+   "votes_R": 87310,
+   "votes_other": 711,
+   "total_votes": 225081,
+   "pct_D": 60.9,
+   "pct_R": 38.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 53441,
+     "votes_R": 37793,
+     "votes_other": 438
+    },
+    "early_in_person": {
+     "votes_D": 57377,
+     "votes_R": 39141,
+     "votes_other": 132
+    },
+    "mail": {
+     "votes_D": 19102,
+     "votes_R": 6644,
+     "votes_other": 73
+    },
+    "provisional": {
+     "votes_D": 4049,
+     "votes_R": 2586,
+     "votes_other": 38
+    },
+    "late_mail": {
+     "votes_D": 3091,
+     "votes_R": 1146,
+     "votes_other": 30
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51155": {
+   "name": "Pulaski",
+   "raw_name": "Pulaski County",
+   "fips": "51155",
+   "is_mappable": true,
+   "votes_D": 5655,
+   "votes_R": 11743,
+   "votes_other": 16,
+   "total_votes": 17414,
+   "pct_D": 32.5,
+   "pct_R": 67.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 2390,
+     "votes_R": 6470,
+     "votes_other": 9
+    },
+    "early_in_person": {
+     "votes_D": 2280,
+     "votes_R": 4602,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 868,
+     "votes_R": 481,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 104,
+     "votes_R": 182,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 13,
+     "votes_R": 8,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51750": {
+   "name": "Radford",
+   "raw_name": "Radford City",
+   "fips": "51750",
+   "is_mappable": true,
+   "votes_D": 3423,
+   "votes_R": 3051,
+   "votes_other": 16,
+   "total_votes": 6490,
+   "pct_D": 52.7,
+   "pct_R": 47.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 1473,
+     "votes_R": 1421,
+     "votes_other": 8
+    },
+    "early_in_person": {
+     "votes_D": 1339,
+     "votes_R": 1320,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 321,
+     "votes_R": 113,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 278,
+     "votes_R": 191,
+     "votes_other": 3
+    },
+    "late_mail": {
+     "votes_D": 12,
+     "votes_R": 6,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51157": {
+   "name": "Rappahannock",
+   "raw_name": "Rappahannock County",
+   "fips": "51157",
+   "is_mappable": true,
+   "votes_D": 2053,
+   "votes_R": 2947,
+   "votes_other": 16,
+   "total_votes": 5016,
+   "pct_D": 40.9,
+   "pct_R": 58.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 824,
+     "votes_R": 1738,
+     "votes_other": 11
+    },
+    "early_in_person": {
+     "votes_D": 863,
+     "votes_R": 1036,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 344,
+     "votes_R": 134,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 16,
+     "votes_R": 34,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 6,
+     "votes_R": 5,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51760": {
+   "name": "Richmond City",
+   "raw_name": "Richmond City",
+   "fips": "51760",
+   "is_mappable": true,
+   "votes_D": 89672,
+   "votes_R": 17400,
+   "votes_other": 242,
+   "total_votes": 107314,
+   "pct_D": 83.6,
+   "pct_R": 16.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 46053,
+     "votes_R": 10389,
+     "votes_other": 155
+    },
+    "early_in_person": {
+     "votes_D": 30415,
+     "votes_R": 5091,
+     "votes_other": 45
+    },
+    "mail": {
+     "votes_D": 7326,
+     "votes_R": 848,
+     "votes_other": 22
+    },
+    "provisional": {
+     "votes_D": 4081,
+     "votes_R": 814,
+     "votes_other": 14
+    },
+    "late_mail": {
+     "votes_D": 1797,
+     "votes_R": 258,
+     "votes_other": 6
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51159": {
+   "name": "Richmond",
+   "raw_name": "Richmond County",
+   "fips": "51159",
+   "is_mappable": true,
+   "votes_D": 1562,
+   "votes_R": 2550,
+   "votes_other": 1,
+   "total_votes": 4113,
+   "pct_D": 38.0,
+   "pct_R": 62.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 728,
+     "votes_R": 1356,
+     "votes_other": 1
+    },
+    "early_in_person": {
+     "votes_D": 739,
+     "votes_R": 1089,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 72,
+     "votes_R": 71,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 23,
+     "votes_R": 34,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 0,
+     "votes_R": 0,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51770": {
+   "name": "Roanoke City",
+   "raw_name": "Roanoke City",
+   "fips": "51770",
+   "is_mappable": true,
+   "votes_D": 26676,
+   "votes_R": 15082,
+   "votes_other": 82,
+   "total_votes": 41840,
+   "pct_D": 63.8,
+   "pct_R": 36.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 10962,
+     "votes_R": 7790,
+     "votes_other": 45
+    },
+    "early_in_person": {
+     "votes_D": 11603,
+     "votes_R": 5884,
+     "votes_other": 27
+    },
+    "mail": {
+     "votes_D": 3367,
+     "votes_R": 1027,
+     "votes_other": 6
+    },
+    "provisional": {
+     "votes_D": 607,
+     "votes_R": 352,
+     "votes_other": 4
+    },
+    "late_mail": {
+     "votes_D": 137,
+     "votes_R": 29,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51161": {
+   "name": "Roanoke",
+   "raw_name": "Roanoke County",
+   "fips": "51161",
+   "is_mappable": true,
+   "votes_D": 22978,
+   "votes_R": 33609,
+   "votes_other": 70,
+   "total_votes": 56657,
+   "pct_D": 40.6,
+   "pct_R": 59.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 8721,
+     "votes_R": 16115,
+     "votes_other": 45
+    },
+    "early_in_person": {
+     "votes_D": 10383,
+     "votes_R": 15173,
+     "votes_other": 17
+    },
+    "mail": {
+     "votes_D": 3372,
+     "votes_R": 1736,
+     "votes_other": 6
+    },
+    "provisional": {
+     "votes_D": 387,
+     "votes_R": 532,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 115,
+     "votes_R": 53,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51163": {
+   "name": "Rockbridge",
+   "raw_name": "Rockbridge County",
+   "fips": "51163",
+   "is_mappable": true,
+   "votes_D": 4526,
+   "votes_R": 8199,
+   "votes_other": 13,
+   "total_votes": 12738,
+   "pct_D": 35.5,
+   "pct_R": 64.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 1803,
+     "votes_R": 5190,
+     "votes_other": 9
+    },
+    "early_in_person": {
+     "votes_D": 2137,
+     "votes_R": 2639,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 498,
+     "votes_R": 227,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 73,
+     "votes_R": 133,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 15,
+     "votes_R": 10,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51165": {
+   "name": "Rockingham",
+   "raw_name": "Rockingham County",
+   "fips": "51165",
+   "is_mappable": true,
+   "votes_D": 16180,
+   "votes_R": 32081,
+   "votes_other": 81,
+   "total_votes": 48342,
+   "pct_D": 33.5,
+   "pct_R": 66.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 7156,
+     "votes_R": 20454,
+     "votes_other": 56
+    },
+    "early_in_person": {
+     "votes_D": 5116,
+     "votes_R": 9066,
+     "votes_other": 11
+    },
+    "mail": {
+     "votes_D": 1686,
+     "votes_R": 919,
+     "votes_other": 4
+    },
+    "provisional": {
+     "votes_D": 414,
+     "votes_R": 622,
+     "votes_other": 5
+    },
+    "late_mail": {
+     "votes_D": 1808,
+     "votes_R": 1020,
+     "votes_other": 5
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51167": {
+   "name": "Russell",
+   "raw_name": "Russell County",
+   "fips": "51167",
+   "is_mappable": true,
+   "votes_D": 3326,
+   "votes_R": 9885,
+   "votes_other": 18,
+   "total_votes": 13229,
+   "pct_D": 25.1,
+   "pct_R": 74.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1812,
+     "votes_R": 6014,
+     "votes_other": 12
+    },
+    "early_in_person": {
+     "votes_D": 1051,
+     "votes_R": 3486,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 405,
+     "votes_R": 254,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 52,
+     "votes_R": 122,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 6,
+     "votes_R": 9,
+     "votes_other": 1
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51775": {
+   "name": "Salem",
+   "raw_name": "Salem City",
+   "fips": "51775",
+   "is_mappable": true,
+   "votes_D": 5653,
+   "votes_R": 7352,
+   "votes_other": 17,
+   "total_votes": 13022,
+   "pct_D": 43.4,
+   "pct_R": 56.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 1769,
+     "votes_R": 2930,
+     "votes_other": 9
+    },
+    "early_in_person": {
+     "votes_D": 2989,
+     "votes_R": 3906,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 762,
+     "votes_R": 372,
+     "votes_other": 4
+    },
+    "provisional": {
+     "votes_D": 109,
+     "votes_R": 135,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 24,
+     "votes_R": 9,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51169": {
+   "name": "Scott",
+   "raw_name": "Scott County",
+   "fips": "51169",
+   "is_mappable": true,
+   "votes_D": 2431,
+   "votes_R": 8359,
+   "votes_other": 20,
+   "total_votes": 10810,
+   "pct_D": 22.5,
+   "pct_R": 77.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 1272,
+     "votes_R": 4554,
+     "votes_other": 11
+    },
+    "early_in_person": {
+     "votes_D": 906,
+     "votes_R": 3451,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 213,
+     "votes_R": 217,
+     "votes_other": 4
+    },
+    "provisional": {
+     "votes_D": 39,
+     "votes_R": 136,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 1,
+     "votes_R": 1,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51171": {
+   "name": "Shenandoah",
+   "raw_name": "Shenandoah County",
+   "fips": "51171",
+   "is_mappable": true,
+   "votes_D": 7968,
+   "votes_R": 16097,
+   "votes_other": 36,
+   "total_votes": 24101,
+   "pct_D": 33.1,
+   "pct_R": 66.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 3682,
+     "votes_R": 9339,
+     "votes_other": 24
+    },
+    "early_in_person": {
+     "votes_D": 3250,
+     "votes_R": 6002,
+     "votes_other": 7
+    },
+    "mail": {
+     "votes_D": 884,
+     "votes_R": 477,
+     "votes_other": 5
+    },
+    "provisional": {
+     "votes_D": 119,
+     "votes_R": 248,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 33,
+     "votes_R": 31,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51173": {
+   "name": "Smyth",
+   "raw_name": "Smyth County",
+   "fips": "51173",
+   "is_mappable": true,
+   "votes_D": 3885,
+   "votes_R": 10339,
+   "votes_other": 20,
+   "total_votes": 14244,
+   "pct_D": 27.3,
+   "pct_R": 72.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 2377,
+     "votes_R": 7254,
+     "votes_other": 14
+    },
+    "early_in_person": {
+     "votes_D": 1053,
+     "votes_R": 2537,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 374,
+     "votes_R": 350,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 54,
+     "votes_R": 178,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 27,
+     "votes_R": 20,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51175": {
+   "name": "Southampton",
+   "raw_name": "Southampton County",
+   "fips": "51175",
+   "is_mappable": true,
+   "votes_D": 3914,
+   "votes_R": 5801,
+   "votes_other": 10,
+   "total_votes": 9725,
+   "pct_D": 40.2,
+   "pct_R": 59.7,
+   "modes": {
+    "election_day": {
+     "votes_D": 1930,
+     "votes_R": 3322,
+     "votes_other": 5
+    },
+    "early_in_person": {
+     "votes_D": 1476,
+     "votes_R": 2204,
+     "votes_other": 4
+    },
+    "mail": {
+     "votes_D": 442,
+     "votes_R": 209,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 54,
+     "votes_R": 63,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 12,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51177": {
+   "name": "Spotsylvania",
+   "raw_name": "Spotsylvania County",
+   "fips": "51177",
+   "is_mappable": true,
+   "votes_D": 37339,
+   "votes_R": 41199,
+   "votes_other": 106,
+   "total_votes": 78644,
+   "pct_D": 47.5,
+   "pct_R": 52.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 14696,
+     "votes_R": 20418,
+     "votes_other": 57
+    },
+    "early_in_person": {
+     "votes_D": 15731,
+     "votes_R": 17593,
+     "votes_other": 25
+    },
+    "mail": {
+     "votes_D": 5868,
+     "votes_R": 2361,
+     "votes_other": 21
+    },
+    "provisional": {
+     "votes_D": 886,
+     "votes_R": 742,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 158,
+     "votes_R": 85,
+     "votes_other": 1
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51179": {
+   "name": "Stafford",
+   "raw_name": "Stafford County",
+   "fips": "51179",
+   "is_mappable": true,
+   "votes_D": 42603,
+   "votes_R": 39764,
+   "votes_other": 140,
+   "total_votes": 82507,
+   "pct_D": 51.6,
+   "pct_R": 48.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 19554,
+     "votes_R": 21901,
+     "votes_other": 88
+    },
+    "early_in_person": {
+     "votes_D": 15485,
+     "votes_R": 14182,
+     "votes_other": 27
+    },
+    "mail": {
+     "votes_D": 5877,
+     "votes_R": 2526,
+     "votes_other": 18
+    },
+    "provisional": {
+     "votes_D": 1142,
+     "votes_R": 906,
+     "votes_other": 7
+    },
+    "late_mail": {
+     "votes_D": 545,
+     "votes_R": 249,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51790": {
+   "name": "Staunton",
+   "raw_name": "Staunton City",
+   "fips": "51790",
+   "is_mappable": true,
+   "votes_D": 7820,
+   "votes_R": 5552,
+   "votes_other": 24,
+   "total_votes": 13396,
+   "pct_D": 58.4,
+   "pct_R": 41.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 2881,
+     "votes_R": 3023,
+     "votes_other": 12
+    },
+    "early_in_person": {
+     "votes_D": 3653,
+     "votes_R": 2078,
+     "votes_other": 9
+    },
+    "mail": {
+     "votes_D": 974,
+     "votes_R": 304,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 230,
+     "votes_R": 131,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 82,
+     "votes_R": 16,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51800": {
+   "name": "Suffolk",
+   "raw_name": "Suffolk City",
+   "fips": "51800",
+   "is_mappable": true,
+   "votes_D": 31587,
+   "votes_R": 21255,
+   "votes_other": 81,
+   "total_votes": 52923,
+   "pct_D": 59.7,
+   "pct_R": 40.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 14317,
+     "votes_R": 11800,
+     "votes_other": 47
+    },
+    "early_in_person": {
+     "votes_D": 12525,
+     "votes_R": 7432,
+     "votes_other": 20
+    },
+    "mail": {
+     "votes_D": 3772,
+     "votes_R": 1407,
+     "votes_other": 9
+    },
+    "provisional": {
+     "votes_D": 682,
+     "votes_R": 474,
+     "votes_other": 3
+    },
+    "late_mail": {
+     "votes_D": 291,
+     "votes_R": 142,
+     "votes_other": 2
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51181": {
+   "name": "Surry",
+   "raw_name": "Surry County",
+   "fips": "51181",
+   "is_mappable": true,
+   "votes_D": 2232,
+   "votes_R": 2100,
+   "votes_other": 9,
+   "total_votes": 4341,
+   "pct_D": 51.4,
+   "pct_R": 48.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 985,
+     "votes_R": 1177,
+     "votes_other": 7
+    },
+    "early_in_person": {
+     "votes_D": 920,
+     "votes_R": 779,
+     "votes_other": 1
+    },
+    "mail": {
+     "votes_D": 298,
+     "votes_R": 116,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 26,
+     "votes_R": 27,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 3,
+     "votes_R": 1,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51183": {
+   "name": "Sussex",
+   "raw_name": "Sussex County",
+   "fips": "51183",
+   "is_mappable": true,
+   "votes_D": 2605,
+   "votes_R": 2226,
+   "votes_other": 5,
+   "total_votes": 4836,
+   "pct_D": 53.9,
+   "pct_R": 46.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 1611,
+     "votes_R": 1418,
+     "votes_other": 3
+    },
+    "early_in_person": {
+     "votes_D": 714,
+     "votes_R": 697,
+     "votes_other": 0
+    },
+    "mail": {
+     "votes_D": 224,
+     "votes_R": 76,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 49,
+     "votes_R": 34,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 7,
+     "votes_R": 1,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51185": {
+   "name": "Tazewell",
+   "raw_name": "Tazewell County",
+   "fips": "51185",
+   "is_mappable": true,
+   "votes_D": 4952,
+   "votes_R": 14096,
+   "votes_other": 31,
+   "total_votes": 19079,
+   "pct_D": 26.0,
+   "pct_R": 73.9,
+   "modes": {
+    "election_day": {
+     "votes_D": 2334,
+     "votes_R": 7244,
+     "votes_other": 14
+    },
+    "early_in_person": {
+     "votes_D": 1901,
+     "votes_R": 6091,
+     "votes_other": 13
+    },
+    "mail": {
+     "votes_D": 598,
+     "votes_R": 489,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 109,
+     "votes_R": 260,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 10,
+     "votes_R": 12,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51810": {
+   "name": "Virginia Beach",
+   "raw_name": "Virginia Beach City",
+   "fips": "51810",
+   "is_mappable": true,
+   "votes_D": 118920,
+   "votes_R": 106476,
+   "votes_other": 238,
+   "total_votes": 225634,
+   "pct_D": 52.7,
+   "pct_R": 47.2,
+   "modes": {
+    "election_day": {
+     "votes_D": 49477,
+     "votes_R": 50013,
+     "votes_other": 149
+    },
+    "early_in_person": {
+     "votes_D": 44468,
+     "votes_R": 44282,
+     "votes_other": 56
+    },
+    "mail": {
+     "votes_D": 19181,
+     "votes_R": 8532,
+     "votes_other": 14
+    },
+    "provisional": {
+     "votes_D": 2355,
+     "votes_R": 2309,
+     "votes_other": 10
+    },
+    "late_mail": {
+     "votes_D": 3439,
+     "votes_R": 1340,
+     "votes_other": 9
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51187": {
+   "name": "Warren",
+   "raw_name": "Warren County",
+   "fips": "51187",
+   "is_mappable": true,
+   "votes_D": 7529,
+   "votes_R": 14771,
+   "votes_other": 42,
+   "total_votes": 22342,
+   "pct_D": 33.7,
+   "pct_R": 66.1,
+   "modes": {
+    "election_day": {
+     "votes_D": 2842,
+     "votes_R": 7246,
+     "votes_other": 21
+    },
+    "early_in_person": {
+     "votes_D": 3485,
+     "votes_R": 6595,
+     "votes_other": 14
+    },
+    "mail": {
+     "votes_D": 1023,
+     "votes_R": 604,
+     "votes_other": 4
+    },
+    "provisional": {
+     "votes_D": 145,
+     "votes_R": 298,
+     "votes_other": 3
+    },
+    "late_mail": {
+     "votes_D": 34,
+     "votes_R": 28,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51191": {
+   "name": "Washington",
+   "raw_name": "Washington County",
+   "fips": "51191",
+   "is_mappable": true,
+   "votes_D": 8259,
+   "votes_R": 20851,
+   "votes_other": 57,
+   "total_votes": 29167,
+   "pct_D": 28.3,
+   "pct_R": 71.5,
+   "modes": {
+    "election_day": {
+     "votes_D": 3265,
+     "votes_R": 10704,
+     "votes_other": 27
+    },
+    "early_in_person": {
+     "votes_D": 3672,
+     "votes_R": 9122,
+     "votes_other": 19
+    },
+    "mail": {
+     "votes_D": 1157,
+     "votes_R": 645,
+     "votes_other": 7
+    },
+    "provisional": {
+     "votes_D": 141,
+     "votes_R": 362,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 24,
+     "votes_R": 18,
+     "votes_other": 2
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51820": {
+   "name": "Waynesboro",
+   "raw_name": "Waynesboro City",
+   "fips": "51820",
+   "is_mappable": true,
+   "votes_D": 5521,
+   "votes_R": 5598,
+   "votes_other": 16,
+   "total_votes": 11135,
+   "pct_D": 49.6,
+   "pct_R": 50.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 2116,
+     "votes_R": 2679,
+     "votes_other": 8
+    },
+    "early_in_person": {
+     "votes_D": 2508,
+     "votes_R": 2529,
+     "votes_other": 6
+    },
+    "mail": {
+     "votes_D": 759,
+     "votes_R": 279,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 122,
+     "votes_R": 107,
+     "votes_other": 2
+    },
+    "late_mail": {
+     "votes_D": 16,
+     "votes_R": 4,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51193": {
+   "name": "Westmoreland",
+   "raw_name": "Westmoreland County",
+   "fips": "51193",
+   "is_mappable": true,
+   "votes_D": 4774,
+   "votes_R": 5615,
+   "votes_other": 12,
+   "total_votes": 10401,
+   "pct_D": 45.9,
+   "pct_R": 54.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 2278,
+     "votes_R": 3094,
+     "votes_other": 9
+    },
+    "early_in_person": {
+     "votes_D": 1868,
+     "votes_R": 2187,
+     "votes_other": 3
+    },
+    "mail": {
+     "votes_D": 522,
+     "votes_R": 240,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 81,
+     "votes_R": 86,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 25,
+     "votes_R": 8,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51830": {
+   "name": "Williamsburg",
+   "raw_name": "Williamsburg City",
+   "fips": "51830",
+   "is_mappable": true,
+   "votes_D": 5635,
+   "votes_R": 2151,
+   "votes_other": 10,
+   "total_votes": 7796,
+   "pct_D": 72.3,
+   "pct_R": 27.6,
+   "modes": {
+    "election_day": {
+     "votes_D": 1863,
+     "votes_R": 687,
+     "votes_other": 4
+    },
+    "early_in_person": {
+     "votes_D": 2720,
+     "votes_R": 1159,
+     "votes_other": 5
+    },
+    "mail": {
+     "votes_D": 684,
+     "votes_R": 172,
+     "votes_other": 0
+    },
+    "provisional": {
+     "votes_D": 355,
+     "votes_R": 128,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 13,
+     "votes_R": 5,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51840": {
+   "name": "Winchester",
+   "raw_name": "Winchester City",
+   "fips": "51840",
+   "is_mappable": true,
+   "votes_D": 6804,
+   "votes_R": 4905,
+   "votes_other": 23,
+   "total_votes": 11732,
+   "pct_D": 58.0,
+   "pct_R": 41.8,
+   "modes": {
+    "election_day": {
+     "votes_D": 2634,
+     "votes_R": 2148,
+     "votes_other": 11
+    },
+    "early_in_person": {
+     "votes_D": 3235,
+     "votes_R": 2395,
+     "votes_other": 10
+    },
+    "mail": {
+     "votes_D": 748,
+     "votes_R": 257,
+     "votes_other": 1
+    },
+    "provisional": {
+     "votes_D": 175,
+     "votes_R": 94,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 12,
+     "votes_R": 11,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51195": {
+   "name": "Wise",
+   "raw_name": "Wise County",
+   "fips": "51195",
+   "is_mappable": true,
+   "votes_D": 4494,
+   "votes_R": 11802,
+   "votes_other": 20,
+   "total_votes": 16316,
+   "pct_D": 27.5,
+   "pct_R": 72.3,
+   "modes": {
+    "election_day": {
+     "votes_D": 2147,
+     "votes_R": 6044,
+     "votes_other": 6
+    },
+    "early_in_person": {
+     "votes_D": 1718,
+     "votes_R": 5135,
+     "votes_other": 10
+    },
+    "mail": {
+     "votes_D": 514,
+     "votes_R": 405,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 106,
+     "votes_R": 211,
+     "votes_other": 1
+    },
+    "late_mail": {
+     "votes_D": 9,
+     "votes_R": 7,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51197": {
+   "name": "Wythe",
+   "raw_name": "Wythe County",
+   "fips": "51197",
+   "is_mappable": true,
+   "votes_D": 3732,
+   "votes_R": 11268,
+   "votes_other": 20,
+   "total_votes": 15020,
+   "pct_D": 24.8,
+   "pct_R": 75.0,
+   "modes": {
+    "election_day": {
+     "votes_D": 1833,
+     "votes_R": 7035,
+     "votes_other": 15
+    },
+    "early_in_person": {
+     "votes_D": 1417,
+     "votes_R": 3663,
+     "votes_other": 2
+    },
+    "mail": {
+     "votes_D": 398,
+     "votes_R": 364,
+     "votes_other": 3
+    },
+    "provisional": {
+     "votes_D": 75,
+     "votes_R": 203,
+     "votes_other": 0
+    },
+    "late_mail": {
+     "votes_D": 9,
+     "votes_R": 3,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  },
+  "51199": {
+   "name": "York",
+   "raw_name": "York County",
+   "fips": "51199",
+   "is_mappable": true,
+   "votes_D": 18726,
+   "votes_R": 20685,
+   "votes_other": 36,
+   "total_votes": 39447,
+   "pct_D": 47.5,
+   "pct_R": 52.4,
+   "modes": {
+    "election_day": {
+     "votes_D": 5902,
+     "votes_R": 7784,
+     "votes_other": 19
+    },
+    "early_in_person": {
+     "votes_D": 9741,
+     "votes_R": 11244,
+     "votes_other": 12
+    },
+    "mail": {
+     "votes_D": 2516,
+     "votes_R": 1118,
+     "votes_other": 2
+    },
+    "provisional": {
+     "votes_D": 428,
+     "votes_R": 468,
+     "votes_other": 3
+    },
+    "late_mail": {
+     "votes_D": 139,
+     "votes_R": 71,
+     "votes_other": 0
+    }
+   },
+   "data_source": "VA-DOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "C5",
+   "notes": ""
+  }
+ }
+}

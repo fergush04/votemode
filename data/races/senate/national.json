@@ -1,0 +1,1109 @@
+{
+ "race": "senate",
+ "race_label": "Senate",
+ "year": 2024,
+ "contest_count": 35,
+ "jurisdiction_count": 33,
+ "total_votes": 129252152,
+ "states": {
+  "AZ": {
+   "name": "Arizona",
+   "unit_type": "county",
+   "votes_D": 1676312,
+   "votes_R": 1595733,
+   "votes_other": 82360,
+   "total_votes": 3354405,
+   "pct_D": 50.0,
+   "pct_R": 47.6,
+   "avg_completeness": "C3",
+   "unit_count": 15,
+   "completeness_breakdown": {
+    "C3": 12,
+    "C4": 3
+   },
+   "candidate_D": "Ruben Gallego",
+   "candidate_R": "Kari Lake",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "C4"
+    ]
+   }
+  },
+  "CA": {
+   "name": "California",
+   "unit_type": "county",
+   "votes_D": 9035716,
+   "votes_R": 6311809,
+   "votes_other": 0,
+   "total_votes": 15347525,
+   "pct_D": 58.9,
+   "pct_R": 41.1,
+   "avg_completeness": "C2",
+   "unit_count": 58,
+   "completeness_breakdown": {
+    "C2": 27,
+    "C1": 4,
+    "C3": 11,
+    "U": 12,
+    "C4": 4
+   },
+   "candidate_D": "Adam B. Schiff",
+   "candidate_R": "Steve Garvey",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    },
+    {
+     "key": "special",
+     "label": "Special"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C2",
+     "U"
+    ]
+   }
+  },
+  "CT": {
+   "name": "Connecticut",
+   "unit_type": "town",
+   "votes_D": 1000695,
+   "votes_R": 678256,
+   "votes_other": 29308,
+   "total_votes": 1708259,
+   "pct_D": 58.6,
+   "pct_R": 39.7,
+   "avg_completeness": "C4",
+   "unit_count": 169,
+   "completeness_breakdown": {
+    "C4": 164,
+    "C3": 5
+   },
+   "candidate_D": "Christopher S. Murphy",
+   "candidate_R": "Matthew M. Corey",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C4",
+     "C3"
+    ]
+   }
+  },
+  "DE": {
+   "name": "Delaware",
+   "unit_type": "county",
+   "votes_D": 283298,
+   "votes_R": 197753,
+   "votes_other": 19555,
+   "total_votes": 500606,
+   "pct_D": 56.6,
+   "pct_R": 39.5,
+   "avg_completeness": "C3",
+   "unit_count": 3,
+   "completeness_breakdown": {
+    "C3": 3
+   },
+   "candidate_D": "Lisa Blunt Rochester",
+   "candidate_R": "Eric Hansen",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C3"
+   }
+  },
+  "FL": {
+   "name": "Florida",
+   "unit_type": "county",
+   "votes_D": 4603069,
+   "votes_R": 5977683,
+   "votes_other": 151863,
+   "total_votes": 10732615,
+   "pct_D": 42.9,
+   "pct_R": 55.7,
+   "avg_completeness": "C3",
+   "unit_count": 67,
+   "completeness_breakdown": {
+    "C3": 41,
+    "U": 23,
+    "C4": 3
+   },
+   "candidate_D": "Debbie Mucarsel-Powell",
+   "candidate_R": "Rick Scott",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "U"
+    ]
+   }
+  },
+  "HI": {
+   "name": "Hawaii",
+   "unit_type": "county",
+   "votes_D": 324194,
+   "votes_R": 160075,
+   "votes_other": 17494,
+   "total_votes": 501763,
+   "pct_D": 64.6,
+   "pct_R": 31.9,
+   "avg_completeness": "C2",
+   "unit_count": 4,
+   "completeness_breakdown": {
+    "C2": 4
+   },
+   "candidate_D": "Mazie K. Hirono",
+   "candidate_R": "Bob McDermott",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C2"
+   }
+  },
+  "IN": {
+   "name": "Indiana",
+   "unit_type": "county",
+   "votes_D": 1097058,
+   "votes_R": 1659402,
+   "votes_other": 73947,
+   "total_votes": 2830407,
+   "pct_D": 38.8,
+   "pct_R": 58.6,
+   "avg_completeness": "C3",
+   "unit_count": 92,
+   "completeness_breakdown": {
+    "C3": 63,
+    "U": 24,
+    "C2": 3,
+    "C4": 1,
+    "C5": 1
+   },
+   "candidate_D": "Valerie McCray",
+   "candidate_R": "Jim Banks",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "U"
+    ]
+   }
+  },
+  "MA": {
+   "name": "Massachusetts",
+   "unit_type": "town",
+   "votes_D": 2041668,
+   "votes_R": 1365440,
+   "votes_other": 6221,
+   "total_votes": 3413329,
+   "pct_D": 59.8,
+   "pct_R": 40.0,
+   "avg_completeness": "U",
+   "unit_count": 351,
+   "completeness_breakdown": {
+    "U": 351
+   },
+   "candidate_D": "Elizabeth Ann Warren",
+   "candidate_R": "John Deaton",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "MD": {
+   "name": "Maryland",
+   "unit_type": "county",
+   "votes_D": 1650912,
+   "votes_R": 1294344,
+   "votes_other": 76122,
+   "total_votes": 3021378,
+   "pct_D": 54.6,
+   "pct_R": 42.8,
+   "avg_completeness": "C5",
+   "unit_count": 24,
+   "completeness_breakdown": {
+    "C5": 24
+   },
+   "candidate_D": "Angela Alsobrooks",
+   "candidate_R": "Larry Hogan",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C5"
+   }
+  },
+  "ME": {
+   "name": "Maine",
+   "unit_type": "town",
+   "votes_D": 424490,
+   "votes_R": 283638,
+   "votes_other": 106510,
+   "total_votes": 814638,
+   "pct_D": 52.1,
+   "pct_R": 34.8,
+   "avg_completeness": "U",
+   "unit_count": 511,
+   "completeness_breakdown": {
+    "U": 511
+   },
+   "candidate_D": "Angus S. King Jr.",
+   "candidate_R": "Demi Kouzounas",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "MI": {
+   "name": "Michigan",
+   "unit_type": "county",
+   "votes_D": 2712620,
+   "votes_R": 2693596,
+   "votes_other": 176725,
+   "total_votes": 5582941,
+   "pct_D": 48.6,
+   "pct_R": 48.2,
+   "avg_completeness": "C3",
+   "unit_count": 83,
+   "completeness_breakdown": {
+    "C2": 9,
+    "C3": 49,
+    "U": 25
+   },
+   "candidate_D": "Elissa Slotkin",
+   "candidate_R": "Mike Rogers",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "U"
+    ]
+   }
+  },
+  "MN": {
+   "name": "Minnesota",
+   "unit_type": "county",
+   "votes_D": 1792441,
+   "votes_R": 1291712,
+   "votes_other": 105170,
+   "total_votes": 3189323,
+   "pct_D": 56.2,
+   "pct_R": 40.5,
+   "avg_completeness": "U",
+   "unit_count": 87,
+   "completeness_breakdown": {
+    "U": 87
+   },
+   "candidate_D": "Amy Klobuchar",
+   "candidate_R": "Royce White",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "MO": {
+   "name": "Missouri",
+   "unit_type": "county",
+   "votes_D": 1243728,
+   "votes_R": 1651907,
+   "votes_other": 76924,
+   "total_votes": 2972559,
+   "pct_D": 41.8,
+   "pct_R": 55.6,
+   "avg_completeness": "U",
+   "unit_count": 115,
+   "completeness_breakdown": {
+    "U": 115
+   },
+   "candidate_D": "Lucas Kunce",
+   "candidate_R": "Josh Hawley",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "MS": {
+   "name": "Mississippi",
+   "unit_type": "county",
+   "votes_D": 451980,
+   "votes_R": 763420,
+   "votes_other": 0,
+   "total_votes": 1215400,
+   "pct_D": 37.2,
+   "pct_R": 62.8,
+   "avg_completeness": "U",
+   "unit_count": 82,
+   "completeness_breakdown": {
+    "U": 78,
+    "C4": 3,
+    "C3": 1
+   },
+   "candidate_D": "Ty Pinkins",
+   "candidate_R": "Roger F. Wicker",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C4"
+    ]
+   }
+  },
+  "MT": {
+   "name": "Montana",
+   "unit_type": "county",
+   "votes_D": 276248,
+   "votes_R": 319603,
+   "votes_other": 11272,
+   "total_votes": 607123,
+   "pct_D": 45.5,
+   "pct_R": 52.6,
+   "avg_completeness": "U",
+   "unit_count": 56,
+   "completeness_breakdown": {
+    "U": 54,
+    "C3": 1,
+    "C2": 1
+   },
+   "candidate_D": "Jon Tester",
+   "candidate_R": "Tim Sheehy",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C3"
+    ]
+   }
+  },
+  "ND": {
+   "name": "North Dakota",
+   "unit_type": "county",
+   "votes_D": 121602,
+   "votes_R": 241569,
+   "votes_other": 1156,
+   "total_votes": 364327,
+   "pct_D": 33.4,
+   "pct_R": 66.3,
+   "avg_completeness": "U",
+   "unit_count": 53,
+   "completeness_breakdown": {
+    "U": 53
+   },
+   "candidate_D": "Katrina Christiansen",
+   "candidate_R": "Kevin Cramer",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "NE": {
+   "name": "Nebraska",
+   "unit_type": "county",
+   "votes_D": 436206,
+   "votes_R": 498694,
+   "votes_other": 1270,
+   "total_votes": 936170,
+   "pct_D": 46.6,
+   "pct_R": 53.3,
+   "avg_completeness": "U",
+   "unit_count": 93,
+   "completeness_breakdown": {
+    "C3": 21,
+    "C2": 35,
+    "U": 37
+   },
+   "candidate_D": "Dan Osborn",
+   "candidate_R": "Deb Fischer",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    },
+    {
+     "key": "special",
+     "label": "Special"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C2"
+    ]
+   }
+  },
+  "NJ": {
+   "name": "New Jersey",
+   "unit_type": "county",
+   "votes_D": 2160815,
+   "votes_R": 1772860,
+   "votes_other": 96253,
+   "total_votes": 4029928,
+   "pct_D": 53.6,
+   "pct_R": 44.0,
+   "avg_completeness": "C4",
+   "unit_count": 21,
+   "completeness_breakdown": {
+    "C4": 10,
+    "C5": 7,
+    "U": 3,
+    "C3": 1
+   },
+   "candidate_D": "Andy Kim",
+   "candidate_R": "Curtis Bashaw",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C4",
+     "C5"
+    ]
+   }
+  },
+  "NM": {
+   "name": "New Mexico",
+   "unit_type": "county",
+   "votes_D": 497244,
+   "votes_R": 405808,
+   "votes_other": 22,
+   "total_votes": 903074,
+   "pct_D": 55.1,
+   "pct_R": 44.9,
+   "avg_completeness": "C4",
+   "unit_count": 33,
+   "completeness_breakdown": {
+    "C4": 31,
+    "C3": 2
+   },
+   "candidate_D": "Martin Heinrich",
+   "candidate_R": "Nella Louise Domenici",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C4",
+     "C3"
+    ]
+   }
+  },
+  "NV": {
+   "name": "Nevada",
+   "unit_type": "county",
+   "votes_D": 700568,
+   "votes_R": 676301,
+   "votes_other": 86470,
+   "total_votes": 1463339,
+   "pct_D": 47.9,
+   "pct_R": 46.2,
+   "avg_completeness": "C3",
+   "unit_count": 17,
+   "completeness_breakdown": {
+    "C3": 10,
+    "U": 6,
+    "C4": 1
+   },
+   "candidate_D": "Jacky S. Rosen",
+   "candidate_R": "Sam Brown",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "U"
+    ]
+   }
+  },
+  "NY": {
+   "name": "New York",
+   "unit_type": "county",
+   "votes_D": 4705191,
+   "votes_R": 3240798,
+   "votes_other": 52751,
+   "total_votes": 7998740,
+   "pct_D": 58.8,
+   "pct_R": 40.5,
+   "avg_completeness": "U",
+   "unit_count": 62,
+   "completeness_breakdown": {
+    "C3": 11,
+    "C4": 10,
+    "U": 37,
+    "C5": 1,
+    "C2": 3
+   },
+   "candidate_D": "Kirsten E. Gillibrand",
+   "candidate_R": "Michael D. Sapraicone",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C3"
+    ]
+   }
+  },
+  "OH": {
+   "name": "Ohio",
+   "unit_type": "county",
+   "votes_D": 2650802,
+   "votes_R": 2856945,
+   "votes_other": 57284,
+   "total_votes": 5565031,
+   "pct_D": 47.6,
+   "pct_R": 51.3,
+   "avg_completeness": "U",
+   "unit_count": 88,
+   "completeness_breakdown": {
+    "U": 33,
+    "C3": 20,
+    "C5": 4,
+    "C4": 30,
+    "C2": 1
+   },
+   "candidate_D": "Sherrod Brown",
+   "candidate_R": "Bernie Moreno",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C4"
+    ]
+   }
+  },
+  "PA": {
+   "name": "Pennsylvania",
+   "unit_type": "county",
+   "votes_D": 3384180,
+   "votes_R": 3399295,
+   "votes_other": 179662,
+   "total_votes": 6963137,
+   "pct_D": 48.6,
+   "pct_R": 48.8,
+   "avg_completeness": "C3",
+   "unit_count": 67,
+   "completeness_breakdown": {
+    "C3": 67
+   },
+   "candidate_D": "Robert P. Casey Jr.",
+   "candidate_R": "Dave McCormick",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C3"
+   }
+  },
+  "RI": {
+   "name": "Rhode Island",
+   "unit_type": "town",
+   "votes_D": 294665,
+   "votes_R": 196039,
+   "votes_other": 1244,
+   "total_votes": 491948,
+   "pct_D": 59.9,
+   "pct_R": 39.8,
+   "avg_completeness": "C3",
+   "unit_count": 40,
+   "completeness_breakdown": {
+    "C3": 39,
+    "C1": 1
+   },
+   "candidate_D": "Sheldon Whitehouse",
+   "candidate_R": "Patricia Morgan",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "C1"
+    ]
+   }
+  },
+  "TN": {
+   "name": "Tennessee",
+   "unit_type": "county",
+   "votes_D": 1026924,
+   "votes_R": 1918182,
+   "votes_other": 54394,
+   "total_votes": 2999500,
+   "pct_D": 34.2,
+   "pct_R": 64.0,
+   "avg_completeness": "U",
+   "unit_count": 95,
+   "completeness_breakdown": {
+    "C3": 37,
+    "U": 55,
+    "C4": 2,
+    "C2": 1
+   },
+   "candidate_D": "Gloria Johnson",
+   "candidate_R": "Marsha Blackburn",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C3"
+    ]
+   }
+  },
+  "TX": {
+   "name": "Texas",
+   "unit_type": "county",
+   "votes_D": 5028935,
+   "votes_R": 5989227,
+   "votes_other": 267454,
+   "total_votes": 11285616,
+   "pct_D": 44.6,
+   "pct_R": 53.1,
+   "avg_completeness": "C3",
+   "unit_count": 254,
+   "completeness_breakdown": {
+    "C3": 212,
+    "C4": 11,
+    "C2": 27,
+    "C5": 4
+   },
+   "candidate_D": "Colin Allred",
+   "candidate_R": "Ted Cruz",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "C2"
+    ]
+   }
+  },
+  "UT": {
+   "name": "Utah",
+   "unit_type": "county",
+   "votes_D": 464368,
+   "votes_R": 914298,
+   "votes_other": 84263,
+   "total_votes": 1462929,
+   "pct_D": 31.7,
+   "pct_R": 62.5,
+   "avg_completeness": "U",
+   "unit_count": 29,
+   "completeness_breakdown": {
+    "U": 29
+   },
+   "candidate_D": "Caroline Gleich",
+   "candidate_R": "John Curtis",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "VA": {
+   "name": "Virginia",
+   "unit_type": "county",
+   "votes_D": 2417115,
+   "votes_R": 2019911,
+   "votes_other": 8509,
+   "total_votes": 4445535,
+   "pct_D": 54.4,
+   "pct_R": 45.4,
+   "avg_completeness": "C5",
+   "unit_count": 133,
+   "completeness_breakdown": {
+    "C5": 133
+   },
+   "candidate_D": "Timothy M. Kaine",
+   "candidate_R": "Hung Cao",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C5"
+   }
+  },
+  "VT": {
+   "name": "Vermont",
+   "unit_type": "town",
+   "votes_D": 229429,
+   "votes_R": 116512,
+   "votes_other": 17312,
+   "total_votes": 363253,
+   "pct_D": 63.2,
+   "pct_R": 32.1,
+   "avg_completeness": "U",
+   "unit_count": 247,
+   "completeness_breakdown": {
+    "U": 247
+   },
+   "candidate_D": "Bernie Sanders",
+   "candidate_R": "Gerald Malloy",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "WA": {
+   "name": "Washington",
+   "unit_type": "county",
+   "votes_D": 2251055,
+   "votes_R": 1547135,
+   "votes_other": 10619,
+   "total_votes": 3808809,
+   "pct_D": 59.1,
+   "pct_R": 40.6,
+   "avg_completeness": "U",
+   "unit_count": 39,
+   "completeness_breakdown": {
+    "U": 39
+   },
+   "candidate_D": "Maria Cantwell",
+   "candidate_R": "Raul Garcia",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "WI": {
+   "name": "Wisconsin",
+   "unit_type": "county",
+   "votes_D": 1672777,
+   "votes_R": 1643996,
+   "votes_other": 74014,
+   "total_votes": 3390787,
+   "pct_D": 49.3,
+   "pct_R": 48.5,
+   "avg_completeness": "U",
+   "unit_count": 72,
+   "completeness_breakdown": {
+    "U": 72
+   },
+   "candidate_D": "Tammy Baldwin",
+   "candidate_R": "Eric Hovde",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "WV": {
+   "name": "West Virginia",
+   "unit_type": "county",
+   "votes_D": 207548,
+   "votes_R": 514079,
+   "votes_other": 26214,
+   "total_votes": 747841,
+   "pct_D": 27.8,
+   "pct_R": 68.7,
+   "avg_completeness": "U",
+   "unit_count": 55,
+   "completeness_breakdown": {
+    "U": 52,
+    "C4": 3
+   },
+   "candidate_D": "Glenn Elliott",
+   "candidate_R": "Jim Justice",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C4"
+    ]
+   }
+  },
+  "WY": {
+   "name": "Wyoming",
+   "unit_type": "county",
+   "votes_D": 63727,
+   "votes_R": 198418,
+   "votes_other": 2017,
+   "total_votes": 264162,
+   "pct_D": 24.1,
+   "pct_R": 75.1,
+   "avg_completeness": "U",
+   "unit_count": 23,
+   "completeness_breakdown": {
+    "C3": 3,
+    "U": 18,
+    "C2": 2
+   },
+   "candidate_D": "Scott D. Morrow",
+   "candidate_R": "John Barrasso",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "senate",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C3"
+    ]
+   }
+  }
+ }
+}

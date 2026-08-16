@@ -1,0 +1,229 @@
+{
+ "race": "president",
+ "race_label": "President",
+ "race_type": "president",
+ "contest": "regular",
+ "contest_label": "Regular",
+ "candidate_D": "Kamala D. Harris",
+ "candidate_R": "Donald J. Trump",
+ "state": "District of Columbia",
+ "state_abbr": "DC",
+ "unit_type": "ward",
+ "avg_completeness": "U",
+ "completeness_breakdown": {
+  "U": 8
+ },
+ "votes_D": 294185,
+ "votes_R": 21076,
+ "votes_other": 10608,
+ "total_votes": 325869,
+ "pct_D": 90.3,
+ "pct_R": 6.5,
+ "unit_count": 8,
+ "state_profile": {
+  "voting_summary": "The District mails every registered voter a ballot and reports results as combined totals without a method breakdown. Polls close at 8 p.m. Eastern; election-night reporting covers in-person votes and mail on hand first, while ballots postmarked by election day are accepted up to 7 days late, so totals grow for more than a week. With a 90-7 Democratic result, the movement is in the ward-level margins rather than the outcome.",
+  "reporting_notes": "",
+  "tags": [
+   "Universal mail ballots",
+   "Week-long trickle"
+  ],
+  "mode_split": {
+   "total": 100.0
+  }
+ },
+ "geometry_aliases": {},
+ "units": {
+  "ward_1": {
+   "name": "Ward 1",
+   "raw_name": "Ward 1",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 36882,
+   "votes_R": 2056,
+   "votes_other": 1525,
+   "total_votes": 40463,
+   "pct_D": 91.1,
+   "pct_R": 5.1,
+   "modes": {
+    "total": {
+     "votes_D": 36882,
+     "votes_R": 2056,
+     "votes_other": 1525
+    }
+   },
+   "data_source": "DC-BOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ward_2": {
+   "name": "Ward 2",
+   "raw_name": "Ward 2",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 33571,
+   "votes_R": 2982,
+   "votes_other": 1406,
+   "total_votes": 37959,
+   "pct_D": 88.4,
+   "pct_R": 7.9,
+   "modes": {
+    "total": {
+     "votes_D": 33571,
+     "votes_R": 2982,
+     "votes_other": 1406
+    }
+   },
+   "data_source": "DC-BOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ward_3": {
+   "name": "Ward 3",
+   "raw_name": "Ward 3",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 39521,
+   "votes_R": 3544,
+   "votes_other": 1519,
+   "total_votes": 44584,
+   "pct_D": 88.6,
+   "pct_R": 7.9,
+   "modes": {
+    "total": {
+     "votes_D": 39521,
+     "votes_R": 3544,
+     "votes_other": 1519
+    }
+   },
+   "data_source": "DC-BOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ward_4": {
+   "name": "Ward 4",
+   "raw_name": "Ward 4",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 38628,
+   "votes_R": 2511,
+   "votes_other": 1264,
+   "total_votes": 42403,
+   "pct_D": 91.1,
+   "pct_R": 5.9,
+   "modes": {
+    "total": {
+     "votes_D": 38628,
+     "votes_R": 2511,
+     "votes_other": 1264
+    }
+   },
+   "data_source": "DC-BOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ward_5": {
+   "name": "Ward 5",
+   "raw_name": "Ward 5",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 41413,
+   "votes_R": 2309,
+   "votes_other": 1392,
+   "total_votes": 45114,
+   "pct_D": 91.8,
+   "pct_R": 5.1,
+   "modes": {
+    "total": {
+     "votes_D": 41413,
+     "votes_R": 2309,
+     "votes_other": 1392
+    }
+   },
+   "data_source": "DC-BOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ward_6": {
+   "name": "Ward 6",
+   "raw_name": "Ward 6",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 43262,
+   "votes_R": 3638,
+   "votes_other": 1778,
+   "total_votes": 48678,
+   "pct_D": 88.9,
+   "pct_R": 7.5,
+   "modes": {
+    "total": {
+     "votes_D": 43262,
+     "votes_R": 3638,
+     "votes_other": 1778
+    }
+   },
+   "data_source": "DC-BOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ward_7": {
+   "name": "Ward 7",
+   "raw_name": "Ward 7",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 33972,
+   "votes_R": 2092,
+   "votes_other": 973,
+   "total_votes": 37037,
+   "pct_D": 91.7,
+   "pct_R": 5.6,
+   "modes": {
+    "total": {
+     "votes_D": 33972,
+     "votes_R": 2092,
+     "votes_other": 973
+    }
+   },
+   "data_source": "DC-BOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  },
+  "ward_8": {
+   "name": "Ward 8",
+   "raw_name": "Ward 8",
+   "fips": null,
+   "is_mappable": true,
+   "votes_D": 26936,
+   "votes_R": 1944,
+   "votes_other": 751,
+   "total_votes": 29631,
+   "pct_D": 90.9,
+   "pct_R": 6.6,
+   "modes": {
+    "total": {
+     "votes_D": 26936,
+     "votes_R": 1944,
+     "votes_other": 751
+    }
+   },
+   "data_source": "DC-BOE",
+   "official_results": true,
+   "pct_off_official": 0.0,
+   "completeness": "U",
+   "notes": ""
+  }
+ }
+}

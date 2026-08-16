@@ -1,0 +1,356 @@
+{
+ "race": "governor",
+ "race_label": "Governor",
+ "year": 2024,
+ "contest_count": 11,
+ "jurisdiction_count": 11,
+ "total_votes": 20143619,
+ "states": {
+  "DE": {
+   "name": "Delaware",
+   "unit_type": "county",
+   "votes_D": 279585,
+   "votes_R": 219050,
+   "votes_other": 0,
+   "total_votes": 498635,
+   "pct_D": 56.1,
+   "pct_R": 43.9,
+   "avg_completeness": "C3",
+   "unit_count": 3,
+   "completeness_breakdown": {
+    "C3": 3
+   },
+   "candidate_D": "Matt Meyer",
+   "candidate_R": "Mike Ramone",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "governor",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C3"
+   }
+  },
+  "IN": {
+   "name": "Indiana",
+   "unit_type": "county",
+   "votes_D": 1183735,
+   "votes_R": 1566072,
+   "votes_other": 130215,
+   "total_votes": 2880022,
+   "pct_D": 41.1,
+   "pct_R": 54.4,
+   "avg_completeness": "C3",
+   "unit_count": 92,
+   "completeness_breakdown": {
+    "C3": 63,
+    "U": 25,
+    "C2": 2,
+    "C4": 1,
+    "C5": 1
+   },
+   "candidate_D": "Jennifer G. McCormick",
+   "candidate_R": "Mike Braun",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "governor",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "U"
+    ]
+   }
+  },
+  "MO": {
+   "name": "Missouri",
+   "unit_type": "county",
+   "votes_D": 1146173,
+   "votes_R": 1750802,
+   "votes_other": 63291,
+   "total_votes": 2960266,
+   "pct_D": 38.7,
+   "pct_R": 59.1,
+   "avg_completeness": "U",
+   "unit_count": 115,
+   "completeness_breakdown": {
+    "U": 115
+   },
+   "candidate_D": "Crystal Quade",
+   "candidate_R": "Mike Kehoe",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "governor",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "MT": {
+   "name": "Montana",
+   "unit_type": "county",
+   "votes_D": 232600,
+   "votes_R": 354474,
+   "votes_other": 15188,
+   "total_votes": 602262,
+   "pct_D": 38.6,
+   "pct_R": 58.9,
+   "avg_completeness": "U",
+   "unit_count": 56,
+   "completeness_breakdown": {
+    "U": 54,
+    "C3": 1,
+    "C2": 1
+   },
+   "candidate_D": "Ryan Busse",
+   "candidate_R": "Greg Gianforte",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "governor",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C3"
+    ]
+   }
+  },
+  "NC": {
+   "name": "North Carolina",
+   "unit_type": "county",
+   "votes_D": 3069496,
+   "votes_R": 2241309,
+   "votes_other": 280742,
+   "total_votes": 5591547,
+   "pct_D": 54.9,
+   "pct_R": 40.1,
+   "avg_completeness": "C4",
+   "unit_count": 100,
+   "completeness_breakdown": {
+    "C4": 100
+   },
+   "candidate_D": "Josh Stein",
+   "candidate_R": "Mark Robinson",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "governor",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C4"
+   }
+  },
+  "ND": {
+   "name": "North Dakota",
+   "unit_type": "county",
+   "votes_D": 94043,
+   "votes_R": 247056,
+   "votes_other": 20852,
+   "total_votes": 361951,
+   "pct_D": 26.0,
+   "pct_R": 68.3,
+   "avg_completeness": "U",
+   "unit_count": 53,
+   "completeness_breakdown": {
+    "U": 53
+   },
+   "candidate_D": "Merrill Piepkorn",
+   "candidate_R": "Kelly Armstrong",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "governor",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "NH": {
+   "name": "New Hampshire",
+   "unit_type": "town",
+   "votes_D": 360149,
+   "votes_R": 436122,
+   "votes_other": 17226,
+   "total_votes": 813497,
+   "pct_D": 44.3,
+   "pct_R": 53.6,
+   "avg_completeness": "U",
+   "unit_count": 243,
+   "completeness_breakdown": {
+    "U": 243
+   },
+   "candidate_D": "Joyce Craig",
+   "candidate_R": "Kelly Ayotte",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "governor",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "UT": {
+   "name": "Utah",
+   "unit_type": "county",
+   "votes_D": 420403,
+   "votes_R": 781114,
+   "votes_other": 275410,
+   "total_votes": 1476927,
+   "pct_D": 28.5,
+   "pct_R": 52.9,
+   "avg_completeness": "U",
+   "unit_count": 29,
+   "completeness_breakdown": {
+    "U": 29
+   },
+   "candidate_D": "Brian King",
+   "candidate_R": "Spencer Cox",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "governor",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "VT": {
+   "name": "Vermont",
+   "unit_type": "town",
+   "votes_D": 79217,
+   "votes_R": 266439,
+   "votes_other": 17185,
+   "total_votes": 362841,
+   "pct_D": 21.8,
+   "pct_R": 73.4,
+   "avg_completeness": "U",
+   "unit_count": 247,
+   "completeness_breakdown": {
+    "U": 247
+   },
+   "candidate_D": "Esther Charlestin",
+   "candidate_R": "Phil Scott",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "governor",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "WA": {
+   "name": "Washington",
+   "unit_type": "county",
+   "votes_D": 2140948,
+   "votes_R": 1705535,
+   "votes_other": 8189,
+   "total_votes": 3854672,
+   "pct_D": 55.5,
+   "pct_R": 44.2,
+   "avg_completeness": "U",
+   "unit_count": 39,
+   "completeness_breakdown": {
+    "U": 39
+   },
+   "candidate_D": "Bob Ferguson",
+   "candidate_R": "Dave Reichert",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "governor",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "WV": {
+   "name": "West Virginia",
+   "unit_type": "county",
+   "votes_D": 233976,
+   "votes_R": 459300,
+   "votes_other": 47723,
+   "total_votes": 740999,
+   "pct_D": 31.6,
+   "pct_R": 62.0,
+   "avg_completeness": "U",
+   "unit_count": 55,
+   "completeness_breakdown": {
+    "U": 52,
+    "C4": 3
+   },
+   "candidate_D": "Steve Williams",
+   "candidate_R": "Patrick Morrisey",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "governor",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C4"
+    ]
+   }
+  }
+ }
+}

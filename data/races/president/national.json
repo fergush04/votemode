@@ -1,0 +1,1665 @@
+{
+ "race": "president",
+ "race_label": "President",
+ "year": 2024,
+ "contest_count": 51,
+ "jurisdiction_count": 51,
+ "total_votes": 155233969,
+ "states": {
+  "AK": {
+   "name": "Alaska",
+   "unit_type": "district",
+   "votes_D": 140026,
+   "votes_R": 184458,
+   "votes_other": 13693,
+   "total_votes": 338177,
+   "pct_D": 41.4,
+   "pct_R": 54.5,
+   "avg_completeness": "C4",
+   "unit_count": 41,
+   "completeness_breakdown": {
+    "C4": 40,
+    "C1": 1
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C4"
+   }
+  },
+  "AL": {
+   "name": "Alabama",
+   "unit_type": "county",
+   "votes_D": 772412,
+   "votes_R": 1462616,
+   "votes_other": 30062,
+   "total_votes": 2265090,
+   "pct_D": 34.1,
+   "pct_R": 64.6,
+   "avg_completeness": "C3",
+   "unit_count": 67,
+   "completeness_breakdown": {
+    "C3": 67
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C3"
+   }
+  },
+  "AR": {
+   "name": "Arkansas",
+   "unit_type": "county",
+   "votes_D": 396824,
+   "votes_R": 759132,
+   "votes_other": 26525,
+   "total_votes": 1182481,
+   "pct_D": 33.6,
+   "pct_R": 64.2,
+   "avg_completeness": "C3",
+   "unit_count": 75,
+   "completeness_breakdown": {
+    "C3": 70,
+    "C4": 5
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "C4"
+    ]
+   }
+  },
+  "AZ": {
+   "name": "Arizona",
+   "unit_type": "county",
+   "votes_D": 1582840,
+   "votes_R": 1770209,
+   "votes_other": 47952,
+   "total_votes": 3401001,
+   "pct_D": 46.5,
+   "pct_R": 52.0,
+   "avg_completeness": "C3",
+   "unit_count": 15,
+   "completeness_breakdown": {
+    "C3": 12,
+    "C4": 3
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "C4"
+    ]
+   }
+  },
+  "CA": {
+   "name": "California",
+   "unit_type": "county",
+   "votes_D": 9275613,
+   "votes_R": 6080936,
+   "votes_other": 502663,
+   "total_votes": 15859212,
+   "pct_D": 58.5,
+   "pct_R": 38.3,
+   "avg_completeness": "C2",
+   "unit_count": 58,
+   "completeness_breakdown": {
+    "C2": 27,
+    "C1": 4,
+    "C3": 11,
+    "U": 12,
+    "C4": 4
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C2",
+     "U"
+    ]
+   }
+  },
+  "CO": {
+   "name": "Colorado",
+   "unit_type": "county",
+   "votes_D": 1728159,
+   "votes_R": 1377441,
+   "votes_other": 87133,
+   "total_votes": 3192733,
+   "pct_D": 54.1,
+   "pct_R": 43.1,
+   "avg_completeness": "U",
+   "unit_count": 64,
+   "completeness_breakdown": {
+    "U": 64
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "CT": {
+   "name": "Connecticut",
+   "unit_type": "town",
+   "votes_D": 992053,
+   "votes_R": 736918,
+   "votes_other": 30039,
+   "total_votes": 1759010,
+   "pct_D": 56.4,
+   "pct_R": 41.9,
+   "avg_completeness": "C3",
+   "unit_count": 169,
+   "completeness_breakdown": {
+    "C3": 169
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C3"
+   }
+  },
+  "DC": {
+   "name": "District of Columbia",
+   "unit_type": "ward",
+   "votes_D": 294185,
+   "votes_R": 21076,
+   "votes_other": 10608,
+   "total_votes": 325869,
+   "pct_D": 90.3,
+   "pct_R": 6.5,
+   "avg_completeness": "U",
+   "unit_count": 8,
+   "completeness_breakdown": {
+    "U": 8
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "DE": {
+   "name": "Delaware",
+   "unit_type": "county",
+   "votes_D": 289758,
+   "votes_R": 214351,
+   "votes_other": 7588,
+   "total_votes": 511697,
+   "pct_D": 56.6,
+   "pct_R": 41.9,
+   "avg_completeness": "C3",
+   "unit_count": 3,
+   "completeness_breakdown": {
+    "C3": 3
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C3"
+   }
+  },
+  "FL": {
+   "name": "Florida",
+   "unit_type": "county",
+   "votes_D": 4683026,
+   "votes_R": 6110103,
+   "votes_other": 88170,
+   "total_votes": 10881299,
+   "pct_D": 43.0,
+   "pct_R": 56.2,
+   "avg_completeness": "C3",
+   "unit_count": 67,
+   "completeness_breakdown": {
+    "C3": 41,
+    "U": 23,
+    "C4": 3
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "U"
+    ]
+   }
+  },
+  "GA": {
+   "name": "Georgia",
+   "unit_type": "county",
+   "votes_D": 2548017,
+   "votes_R": 2663117,
+   "votes_other": 38932,
+   "total_votes": 5250066,
+   "pct_D": 48.5,
+   "pct_R": 50.7,
+   "avg_completeness": "C4",
+   "unit_count": 159,
+   "completeness_breakdown": {
+    "C3": 28,
+    "C4": 131
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C4",
+     "C3"
+    ]
+   }
+  },
+  "HI": {
+   "name": "Hawaii",
+   "unit_type": "county",
+   "votes_D": 313044,
+   "votes_R": 193661,
+   "votes_other": 9996,
+   "total_votes": 516701,
+   "pct_D": 60.6,
+   "pct_R": 37.5,
+   "avg_completeness": "C2",
+   "unit_count": 4,
+   "completeness_breakdown": {
+    "C2": 4
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C2"
+   }
+  },
+  "IA": {
+   "name": "Iowa",
+   "unit_type": "county",
+   "votes_D": 707278,
+   "votes_R": 927019,
+   "votes_other": 29209,
+   "total_votes": 1663506,
+   "pct_D": 42.5,
+   "pct_R": 55.7,
+   "avg_completeness": "C2",
+   "unit_count": 99,
+   "completeness_breakdown": {
+    "C2": 99
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C2"
+   }
+  },
+  "ID": {
+   "name": "Idaho",
+   "unit_type": "county",
+   "votes_D": 274972,
+   "votes_R": 605246,
+   "votes_other": 25053,
+   "total_votes": 905271,
+   "pct_D": 30.4,
+   "pct_R": 66.9,
+   "avg_completeness": "U",
+   "unit_count": 44,
+   "completeness_breakdown": {
+    "C3": 4,
+    "U": 30,
+    "C2": 10
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C2"
+    ]
+   }
+  },
+  "IL": {
+   "name": "Illinois",
+   "unit_type": "county",
+   "votes_D": 3062830,
+   "votes_R": 2449026,
+   "votes_other": 147314,
+   "total_votes": 5659170,
+   "pct_D": 54.1,
+   "pct_R": 43.3,
+   "avg_completeness": "U",
+   "unit_count": 102,
+   "completeness_breakdown": {
+    "C3": 18,
+    "U": 71,
+    "C4": 11,
+    "C2": 2
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C3"
+    ]
+   }
+  },
+  "IN": {
+   "name": "Indiana",
+   "unit_type": "county",
+   "votes_D": 1163668,
+   "votes_R": 1720330,
+   "votes_other": 59849,
+   "total_votes": 2943847,
+   "pct_D": 39.5,
+   "pct_R": 58.4,
+   "avg_completeness": "C3",
+   "unit_count": 92,
+   "completeness_breakdown": {
+    "C3": 63,
+    "U": 24,
+    "C2": 3,
+    "C4": 1,
+    "C5": 1
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "U"
+    ]
+   }
+  },
+  "KS": {
+   "name": "Kansas",
+   "unit_type": "county",
+   "votes_D": 544853,
+   "votes_R": 758802,
+   "votes_other": 23936,
+   "total_votes": 1327591,
+   "pct_D": 41.0,
+   "pct_R": 57.2,
+   "avg_completeness": "U",
+   "unit_count": 105,
+   "completeness_breakdown": {
+    "U": 105
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "KY": {
+   "name": "Kentucky",
+   "unit_type": "county",
+   "votes_D": 704042,
+   "votes_R": 1337491,
+   "votes_other": 35209,
+   "total_votes": 2076742,
+   "pct_D": 33.9,
+   "pct_R": 64.4,
+   "avg_completeness": "C3",
+   "unit_count": 120,
+   "completeness_breakdown": {
+    "C3": 112,
+    "C2": 7,
+    "C4": 1
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "C2"
+    ]
+   }
+  },
+  "LA": {
+   "name": "Louisiana",
+   "unit_type": "county",
+   "votes_D": 766870,
+   "votes_R": 1208505,
+   "votes_other": 31600,
+   "total_votes": 2006975,
+   "pct_D": 38.2,
+   "pct_R": 60.2,
+   "avg_completeness": "C2",
+   "unit_count": 64,
+   "completeness_breakdown": {
+    "C2": 64
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C2"
+   }
+  },
+  "MA": {
+   "name": "Massachusetts",
+   "unit_type": "town",
+   "votes_D": 2126518,
+   "votes_R": 1251303,
+   "votes_other": 95847,
+   "total_votes": 3473668,
+   "pct_D": 61.2,
+   "pct_R": 36.0,
+   "avg_completeness": "U",
+   "unit_count": 351,
+   "completeness_breakdown": {
+    "U": 351
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "MD": {
+   "name": "Maryland",
+   "unit_type": "county",
+   "votes_D": 1902577,
+   "votes_R": 1035550,
+   "votes_other": 100207,
+   "total_votes": 3038334,
+   "pct_D": 62.6,
+   "pct_R": 34.1,
+   "avg_completeness": "C5",
+   "unit_count": 24,
+   "completeness_breakdown": {
+    "C5": 24
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C5"
+   }
+  },
+  "ME": {
+   "name": "Maine",
+   "unit_type": "town",
+   "votes_D": 435652,
+   "votes_R": 377977,
+   "votes_other": 17746,
+   "total_votes": 831375,
+   "pct_D": 52.4,
+   "pct_R": 45.5,
+   "avg_completeness": "U",
+   "unit_count": 513,
+   "completeness_breakdown": {
+    "U": 512,
+    "C1": 1
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "MI": {
+   "name": "Michigan",
+   "unit_type": "county",
+   "votes_D": 2736465,
+   "votes_R": 2816530,
+   "votes_other": 126346,
+   "total_votes": 5679341,
+   "pct_D": 48.2,
+   "pct_R": 49.6,
+   "avg_completeness": "C3",
+   "unit_count": 83,
+   "completeness_breakdown": {
+    "C2": 9,
+    "C3": 49,
+    "U": 25
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "U"
+    ]
+   }
+  },
+  "MN": {
+   "name": "Minnesota",
+   "unit_type": "county",
+   "votes_D": 1656979,
+   "votes_R": 1519032,
+   "votes_other": 77909,
+   "total_votes": 3253920,
+   "pct_D": 50.9,
+   "pct_R": 46.7,
+   "avg_completeness": "U",
+   "unit_count": 87,
+   "completeness_breakdown": {
+    "U": 87
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "MO": {
+   "name": "Missouri",
+   "unit_type": "county",
+   "votes_D": 1200599,
+   "votes_R": 1751986,
+   "votes_other": 51382,
+   "total_votes": 3003967,
+   "pct_D": 40.0,
+   "pct_R": 58.3,
+   "avg_completeness": "U",
+   "unit_count": 115,
+   "completeness_breakdown": {
+    "U": 115
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "MS": {
+   "name": "Mississippi",
+   "unit_type": "county",
+   "votes_D": 466668,
+   "votes_R": 747744,
+   "votes_other": 13596,
+   "total_votes": 1228008,
+   "pct_D": 38.0,
+   "pct_R": 60.9,
+   "avg_completeness": "U",
+   "unit_count": 82,
+   "completeness_breakdown": {
+    "U": 78,
+    "C4": 3,
+    "C3": 1
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C4"
+    ]
+   }
+  },
+  "MT": {
+   "name": "Montana",
+   "unit_type": "county",
+   "votes_D": 231903,
+   "votes_R": 352061,
+   "votes_other": 19005,
+   "total_votes": 602969,
+   "pct_D": 38.5,
+   "pct_R": 58.4,
+   "avg_completeness": "U",
+   "unit_count": 56,
+   "completeness_breakdown": {
+    "U": 54,
+    "C3": 1,
+    "C2": 1
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C2"
+    ]
+   }
+  },
+  "NC": {
+   "name": "North Carolina",
+   "unit_type": "county",
+   "votes_D": 2715375,
+   "votes_R": 2898423,
+   "votes_other": 85343,
+   "total_votes": 5699141,
+   "pct_D": 47.6,
+   "pct_R": 50.9,
+   "avg_completeness": "C4",
+   "unit_count": 100,
+   "completeness_breakdown": {
+    "C4": 100
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C4"
+   }
+  },
+  "ND": {
+   "name": "North Dakota",
+   "unit_type": "county",
+   "votes_D": 112327,
+   "votes_R": 246505,
+   "votes_other": 9323,
+   "total_votes": 368155,
+   "pct_D": 30.5,
+   "pct_R": 67.0,
+   "avg_completeness": "U",
+   "unit_count": 53,
+   "completeness_breakdown": {
+    "U": 53
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "NE": {
+   "name": "Nebraska",
+   "unit_type": "county",
+   "votes_D": 369805,
+   "votes_R": 564281,
+   "votes_other": 17359,
+   "total_votes": 951445,
+   "pct_D": 38.9,
+   "pct_R": 59.3,
+   "avg_completeness": "U",
+   "unit_count": 93,
+   "completeness_breakdown": {
+    "C3": 21,
+    "C2": 35,
+    "U": 37
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C3"
+    ]
+   }
+  },
+  "NH": {
+   "name": "New Hampshire",
+   "unit_type": "town",
+   "votes_D": 418488,
+   "votes_R": 395523,
+   "votes_other": 12178,
+   "total_votes": 826189,
+   "pct_D": 50.7,
+   "pct_R": 47.9,
+   "avg_completeness": "U",
+   "unit_count": 243,
+   "completeness_breakdown": {
+    "U": 243
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "NJ": {
+   "name": "New Jersey",
+   "unit_type": "county",
+   "votes_D": 2220060,
+   "votes_R": 1967614,
+   "votes_other": 82387,
+   "total_votes": 4270061,
+   "pct_D": 52.0,
+   "pct_R": 46.1,
+   "avg_completeness": "C4",
+   "unit_count": 21,
+   "completeness_breakdown": {
+    "C4": 10,
+    "C5": 7,
+    "U": 3,
+    "C3": 1
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C4",
+     "U"
+    ]
+   }
+  },
+  "NM": {
+   "name": "New Mexico",
+   "unit_type": "county",
+   "votes_D": 478729,
+   "votes_R": 423246,
+   "votes_other": 10158,
+   "total_votes": 912133,
+   "pct_D": 52.5,
+   "pct_R": 46.4,
+   "avg_completeness": "C4",
+   "unit_count": 33,
+   "completeness_breakdown": {
+    "C4": 32,
+    "C3": 1
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C4"
+   }
+  },
+  "NV": {
+   "name": "Nevada",
+   "unit_type": "county",
+   "votes_D": 704661,
+   "votes_R": 750349,
+   "votes_other": 28402,
+   "total_votes": 1483412,
+   "pct_D": 47.5,
+   "pct_R": 50.6,
+   "avg_completeness": "C3",
+   "unit_count": 17,
+   "completeness_breakdown": {
+    "C3": 10,
+    "U": 6,
+    "C4": 1
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "U"
+    ]
+   }
+  },
+  "NY": {
+   "name": "New York",
+   "unit_type": "county",
+   "votes_D": 4613974,
+   "votes_R": 3575310,
+   "votes_other": 100386,
+   "total_votes": 8289670,
+   "pct_D": 55.7,
+   "pct_R": 43.1,
+   "avg_completeness": "U",
+   "unit_count": 62,
+   "completeness_breakdown": {
+    "C3": 11,
+    "C4": 10,
+    "U": 37,
+    "C5": 1,
+    "C2": 3
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C3"
+    ]
+   }
+  },
+  "OH": {
+   "name": "Ohio",
+   "unit_type": "county",
+   "votes_D": 2533572,
+   "votes_R": 3179605,
+   "votes_other": 14583,
+   "total_votes": 5727760,
+   "pct_D": 44.2,
+   "pct_R": 55.5,
+   "avg_completeness": "U",
+   "unit_count": 88,
+   "completeness_breakdown": {
+    "U": 33,
+    "C3": 20,
+    "C5": 4,
+    "C4": 30,
+    "C2": 1
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C4"
+    ]
+   }
+  },
+  "OK": {
+   "name": "Oklahoma",
+   "unit_type": "county",
+   "votes_D": 499599,
+   "votes_R": 1036213,
+   "votes_other": 30361,
+   "total_votes": 1566173,
+   "pct_D": 31.9,
+   "pct_R": 66.2,
+   "avg_completeness": "C3",
+   "unit_count": 77,
+   "completeness_breakdown": {
+    "C3": 77
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C3"
+   }
+  },
+  "OR": {
+   "name": "Oregon",
+   "unit_type": "county",
+   "votes_D": 1240600,
+   "votes_R": 919480,
+   "votes_other": 84413,
+   "total_votes": 2244493,
+   "pct_D": 55.3,
+   "pct_R": 41.0,
+   "avg_completeness": "U",
+   "unit_count": 36,
+   "completeness_breakdown": {
+    "U": 36
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "PA": {
+   "name": "Pennsylvania",
+   "unit_type": "county",
+   "votes_D": 3423042,
+   "votes_R": 3543308,
+   "votes_other": 67856,
+   "total_votes": 7034206,
+   "pct_D": 48.7,
+   "pct_R": 50.4,
+   "avg_completeness": "C3",
+   "unit_count": 67,
+   "completeness_breakdown": {
+    "C3": 67
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C3"
+   }
+  },
+  "RI": {
+   "name": "Rhode Island",
+   "unit_type": "town",
+   "votes_D": 285156,
+   "votes_R": 214406,
+   "votes_other": 13824,
+   "total_votes": 513386,
+   "pct_D": 55.5,
+   "pct_R": 41.8,
+   "avg_completeness": "C3",
+   "unit_count": 40,
+   "completeness_breakdown": {
+    "C3": 39,
+    "C1": 1
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C3"
+   }
+  },
+  "SC": {
+   "name": "South Carolina",
+   "unit_type": "county",
+   "votes_D": 1028452,
+   "votes_R": 1483747,
+   "votes_other": 35941,
+   "total_votes": 2548140,
+   "pct_D": 40.4,
+   "pct_R": 58.2,
+   "avg_completeness": "C4",
+   "unit_count": 46,
+   "completeness_breakdown": {
+    "C4": 44,
+    "C3": 2
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C4",
+     "C3"
+    ]
+   }
+  },
+  "SD": {
+   "name": "South Dakota",
+   "unit_type": "county",
+   "votes_D": 146859,
+   "votes_R": 272081,
+   "votes_other": 9982,
+   "total_votes": 428922,
+   "pct_D": 34.2,
+   "pct_R": 63.4,
+   "avg_completeness": "U",
+   "unit_count": 66,
+   "completeness_breakdown": {
+    "U": 65,
+    "C2": 1
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C2"
+    ]
+   }
+  },
+  "TN": {
+   "name": "Tennessee",
+   "unit_type": "county",
+   "votes_D": 1055690,
+   "votes_R": 1966243,
+   "votes_other": 47067,
+   "total_votes": 3069000,
+   "pct_D": 34.4,
+   "pct_R": 64.1,
+   "avg_completeness": "U",
+   "unit_count": 95,
+   "completeness_breakdown": {
+    "C3": 37,
+    "U": 55,
+    "C4": 2,
+    "C2": 1
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C3"
+    ]
+   }
+  },
+  "TX": {
+   "name": "Texas",
+   "unit_type": "county",
+   "votes_D": 4833054,
+   "votes_R": 6391760,
+   "votes_other": 162609,
+   "total_votes": 11387423,
+   "pct_D": 42.4,
+   "pct_R": 56.1,
+   "avg_completeness": "C3",
+   "unit_count": 254,
+   "completeness_breakdown": {
+    "C3": 212,
+    "C4": 11,
+    "C2": 27,
+    "C5": 4
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "C3",
+     "C2"
+    ]
+   }
+  },
+  "UT": {
+   "name": "Utah",
+   "unit_type": "county",
+   "votes_D": 562382,
+   "votes_R": 883417,
+   "votes_other": 42093,
+   "total_votes": 1487892,
+   "pct_D": 37.8,
+   "pct_R": 59.4,
+   "avg_completeness": "U",
+   "unit_count": 29,
+   "completeness_breakdown": {
+    "U": 29
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "VA": {
+   "name": "Virginia",
+   "unit_type": "county",
+   "votes_D": 2335395,
+   "votes_R": 2075085,
+   "votes_other": 95461,
+   "total_votes": 4505941,
+   "pct_D": 51.8,
+   "pct_R": 46.1,
+   "avg_completeness": "C5",
+   "unit_count": 133,
+   "completeness_breakdown": {
+    "C5": 133
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "C5"
+   }
+  },
+  "VT": {
+   "name": "Vermont",
+   "unit_type": "town",
+   "votes_D": 235791,
+   "votes_R": 119395,
+   "votes_other": 14236,
+   "total_votes": 369422,
+   "pct_D": 63.8,
+   "pct_R": 32.3,
+   "avg_completeness": "U",
+   "unit_count": 247,
+   "completeness_breakdown": {
+    "U": 247
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "WA": {
+   "name": "Washington",
+   "unit_type": "county",
+   "votes_D": 2243401,
+   "votes_R": 1528208,
+   "votes_other": 147325,
+   "total_votes": 3918934,
+   "pct_D": 57.2,
+   "pct_R": 39.0,
+   "avg_completeness": "U",
+   "unit_count": 39,
+   "completeness_breakdown": {
+    "U": 39
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "WI": {
+   "name": "Wisconsin",
+   "unit_type": "county",
+   "votes_D": 1668229,
+   "votes_R": 1697626,
+   "votes_other": 57063,
+   "total_votes": 3422918,
+   "pct_D": 48.7,
+   "pct_R": 49.6,
+   "avg_completeness": "U",
+   "unit_count": 72,
+   "completeness_breakdown": {
+    "U": 72
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "solid",
+    "g": "U"
+   }
+  },
+  "WV": {
+   "name": "West Virginia",
+   "unit_type": "county",
+   "votes_D": 214309,
+   "votes_R": 533556,
+   "votes_other": 14329,
+   "total_votes": 762194,
+   "pct_D": 28.1,
+   "pct_R": 70.0,
+   "avg_completeness": "U",
+   "unit_count": 55,
+   "completeness_breakdown": {
+    "U": 52,
+    "C4": 3
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C4"
+    ]
+   }
+  },
+  "WY": {
+   "name": "Wyoming",
+   "unit_type": "county",
+   "votes_D": 69527,
+   "votes_R": 192633,
+   "votes_other": 6779,
+   "total_votes": 268939,
+   "pct_D": 25.9,
+   "pct_R": 71.6,
+   "avg_completeness": "U",
+   "unit_count": 23,
+   "completeness_breakdown": {
+    "C3": 3,
+    "U": 18,
+    "C2": 2
+   },
+   "candidate_D": "Kamala D. Harris",
+   "candidate_R": "Donald J. Trump",
+   "contest": "regular",
+   "contest_label": "Regular",
+   "race_type": "president",
+   "contests": [
+    {
+     "key": "regular",
+     "label": "Regular"
+    }
+   ],
+   "cov": {
+    "mode": "stripe",
+    "g": [
+     "U",
+     "C3"
+    ]
+   }
+  }
+ }
+}
