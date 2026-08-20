@@ -341,7 +341,6 @@ function renderMapTitle(stateName = null) {
 
   el.innerHTML = `
     <select class="race-select" id="raceSelect" aria-label="Choose 2024 race">${raceOptions}</select>
-    ${stateName ? `<span class="map-title-separator">·</span><span>${stateName}</span>` : ''}
     ${contestSelect}
   `;
   document.getElementById('raceSelect').addEventListener('change', event => setRace(event.target.value));
