@@ -207,7 +207,6 @@ async function init() {
   setupViewToggle();
   setupBackButton();
   setupOverseasMarker();
-  setupDownloads();
 }
 
 async function ensureNationalData(race) {
@@ -352,13 +351,21 @@ function renderMapTitle(stateName = null) {
 
 async function setRace(race) {
   if (!RACES[race] || race === state.race) return;
+  const previousView = state.view;
+  const previousStateAbbr = state.currentStateAbbr;
+  const previousUnitId = state.selectedUnitId;
   state.renderToken++;
   hideTooltip();
   const national = await ensureNationalData(race);
   state.race = race;
   state.national = national;
   state.currentContest = 'regular';
-  renderNationalView();
+
+  if (previousView === 'state' && previousStateAbbr) {
+    await enterState(previousStateAbbr, previousUnitId);
+  } else {
+    renderNationalView();
+  }
 }
 
 function switchContest(contest) {
@@ -467,7 +474,7 @@ function hideTooltip() { tooltip.classList.remove('visible'); }
 
 // ============ STATE VIEW ============
 
-async function enterState(abbr) {
+async function enterState(abbr, unitToRestore = null) {
   const myToken = ++state.renderToken; // this navigation "owns" this token
   const data = await ensureStateData(abbr);
   if (myToken !== state.renderToken) return; // a newer navigation started while we were fetching; abandon this one
@@ -637,6 +644,9 @@ async function enterState(abbr) {
     g.append('text').attr('class', 'city-text').attr('x', 6).attr('y', 4.5).text(d => d.name);
   }
 
+  if (unitToRestore && data.units[unitToRestore]) {
+    selectUnit(unitToRestore, data);
+  }
   updateSearchPlaceholder();
 }
 
@@ -1165,20 +1175,6 @@ function nationalCSV() {
     rows.push([state.race, s.contest, ab, s.name, s.candidate_D, s.candidate_R, s.votes_D, s.votes_R, s.votes_other, s.total_votes, s.pct_D, s.pct_R, s.unit_count, s.avg_completeness]);
   }
   return rows.map(r => r.map(csvEscape).join(',')).join('\n');
-}
-
-function setupDownloads() {
-  document.getElementById('downloadTopBtn').addEventListener('click', () => {
-    if (state.view === 'state') {
-      const d = currentStateData();
-      if (d) {
-        const contestSuffix = d.contest === 'special' ? '_special' : '';
-        downloadFile(`votemode_${d.state_abbr.toLowerCase()}_2024_${d.race}${contestSuffix}.csv`, stateCSV(d), 'text/csv');
-        return;
-      }
-    }
-    downloadFile(`votemode_national_2024_${state.race}.csv`, nationalCSV(), 'text/csv');
-  });
 }
 
 // Always display percentages with exactly one decimal place (47 -> "47.0")
