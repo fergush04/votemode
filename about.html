@@ -82,14 +82,14 @@ ul.tight li { font-size: 14.5px; color: var(--ink-secondary); margin-bottom: 7px
     <tr><th>Category</th><th>What it covers</th></tr>
     <tr><td>Election day</td><td>Ballots cast in person at a polling place or vote center on election day.</td></tr>
     <tr><td>Early in-person</td><td>Ballots cast in person before election day at early-voting sites or vote centers.</td></tr>
-    <tr><td>In-person</td><td>In-person ballots where the source doesn't distinguish election day from early (e.g., Hawaii's voter service centers).</td></tr>
-    <tr><td>Mail / absentee</td><td>Ballots returned by mail or drop box and received by the state's deadline.</td></tr>
-    <tr><td>Late mail</td><td>Mail arriving after election day under a postmark grace period, where reported separately (e.g., Maryland, Virginia).</td></tr>
-    <tr><td>Pre-election day</td><td>All ballots cast before election day where early in-person and mail can't be separated (e.g., Arizona's "early ballots," Iowa's absentee).</td></tr>
-    <tr><td>Late pre-election day</td><td>Pre-election-day ballots processed after election day: Arizona's "late earlies."</td></tr>
+    <tr><td>In-person</td><td>In-person ballots where the source doesn't distinguish election day from early voting.</td></tr>
+    <tr><td>Mail</td><td>Mail or absentee ballots returned by mail, drop box, or another permitted method and received by the state's deadline.</td></tr>
+    <tr><td>Election day and mail</td><td>Election-day and mail ballots reported together when the source doesn't separate the two methods.</td></tr>
+    <tr><td>Late mail</td><td>Mail arriving after election day under a postmark grace period, where reported separately.</td></tr>
+    <tr><td>Pre-election day</td><td>All ballots cast before election day where early in-person and mail can't be separated.</td></tr>
+    <tr><td>Late pre-election day</td><td>Pre-election-day ballots processed after election day.</td></tr>
     <tr><td>Provisional</td><td>Ballots held for eligibility review and counted after verification.</td></tr>
-    <tr><td>Affidavit</td><td>New York's name for provisional ballots.</td></tr>
-    <tr><td>Overseas</td><td>Military and overseas (UOCAVA) ballots reported statewide rather than by locality, shown as a pill at the bottom of the map (Alaska, Maine, Rhode Island).</td></tr>
+    <tr><td>Overseas</td><td>Military and overseas (UOCAVA) ballots reported statewide rather than by locality, shown as a pill at the bottom of the map.</td></tr>
     <tr><td>Unallocated</td><td>Votes a source reported without assigning a method. Kept as their own row, never redistributed.</td></tr>
     <tr><td>Total</td><td>Used when a unit publishes only a combined total, with no method split at all.</td></tr>
   </table>
@@ -104,7 +104,7 @@ ul.tight li { font-size: 14.5px; color: var(--ink-secondary); margin-bottom: 7px
     <tr><th>Grade</th><th>Meaning</th></tr>
     <tr><td><span class="grade g-c6">C6</span> – <span class="grade g-c1">C1</span></td>
         <td>The number of distinct vote methods the source breaks out. A <span class="grade g-c5">C5</span> county reports five separate methods (say, election day, early, mail, late mail, provisional); a <span class="grade g-c1">C1</span> county reports just one.</td></tr>
-    <tr><td><span class="grade g-u">U</span></td><td>Totals only: the unit publishes a single combined number with no method split. Entire states fall here (e.g., Colorado, Wisconsin, Massachusetts) because their official results carry no breakdown.</td></tr>
+    <tr><td><span class="grade g-u">U</span></td><td>Totals only: the unit publishes a single combined number with no method split. Entire states can fall here when their official results carry no breakdown.</td></tr>
     <tr><td><span class="grade g-f">F</span></td><td>Not yet sourced. Reserved for units with no usable data; none currently on the map.</td></tr>
   </table>
   <p>
@@ -133,7 +133,7 @@ ul.tight li { font-size: 14.5px; color: var(--ink-secondary); margin-bottom: 7px
     <li>A breakdown must reconcile with the certified county total to within about 1%; larger deviations are recorded in the unit's source note, never corrected.</li>
     <li>A source under-counting the certified total by more than 5% is rejected and flagged for re-sourcing.</li>
     <li>A county whose breakdown leaves the majority of votes unallocated is treated as totals-only (<span class="grade g-u">U</span>) rather than presented as a meaningful split.</li>
-    <li>Merged reporting units are shown as their sources report them, e.g., Maine's Albion/Unity Twp, rather than split by estimate.</li>
+    <li>Merged reporting units are shown as their sources report them rather than split by estimate.</li>
   </ul>
 
   <h2>Sources &amp; credits</h2>
@@ -143,15 +143,6 @@ ul.tight li { font-size: 14.5px; color: var(--ink-secondary); margin-bottom: 7px
     <tr><td>Boundaries</td><td>U.S. Census Bureau cartographic boundary files (1:500k, 2023) for counties and New England towns; Maine GeoLibrary (METWP24) for Maine townships; Vermont Center for Geographic Information; Census TIGERweb for New Hampshire's grants and purchases.</td></tr>
     <tr><td>City labels</td><td>GeoNames gazetteer.</td></tr>
   </table>
-
-  <h2>Known gaps &amp; quirks</h2>
-  <ul class="tight">
-    <li><strong>Kalawao County, HI</strong> (18 votes) is blank: its result is reported merged into Maui in the source data and no official method split exists.</li>
-    <li><strong>Vermont's unincorporated gores and grants</strong> (Buels Gore, Averill, and seven others) are grey; they have no voters.</li>
-    <li><strong>Statewide ballots</strong> that belong to no geography (Alaska's federal overseas district, Maine's UOCAVA ballots, Rhode Island's federal-only ballots) appear as a clickable pill below the map.</li>
-    <li><strong>California</strong> offers early voting in most counties, but counties report it inside their mail and election day columns, so it can't be separated (see California's state profile).</li>
-    <li><strong>Rhode Island's "limited" ballots</strong> (presidential-only ballots from late registrants) are folded into their municipalities, matching how every other town reports them.</li>
-  </ul>
 
   <h2>Contact</h2>
   <div class="contact-card">

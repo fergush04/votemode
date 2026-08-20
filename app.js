@@ -44,14 +44,13 @@ const FLOATING_UNITS = {
 const MODE_LABELS = {
   election_day: 'Election day',
   early_in_person: 'Early in-person',
-  mail: 'Mail / absentee',
+  mail: 'Mail',
   pre_election_day: 'Pre-election day',
   late_pre_election_day: 'Late pre-election day',
   late_mail: 'Late mail',
   election_day_and_mail: 'Election day and mail',
   provisional: 'Provisional',
   overseas: 'Overseas',
-  affidavit: 'Affidavit',
   in_person: 'In-person',
   unallocated: 'Unallocated',
   total: 'Total'
